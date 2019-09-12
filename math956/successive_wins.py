@@ -13,13 +13,14 @@ class SuccessiveWins:
         self._dad_win_prob = dad_win_prob
         self._champ_win_prob = champ_win_prob
 
+    def _three_games_win_probability(self):
+        return random.random(), random.random(), random.random()
+
     def wins_cfc_series(self):
         """
         The outcome of playing the champion-father-champion series
         """
-        g1 = random.random()
-        g2 = random.random()
-        g3 = random.random()
+        g1, g2, g3 = self._three_games_win_probability()
 
         return (g1 > self._champ_win_prob and g2 > self._dad_win_prob) or \
                (g2 > self._dad_win_prob and g3 > self._champ_win_prob)
@@ -28,9 +29,7 @@ class SuccessiveWins:
         """
         The outcome of playing the father-champion-father series
         """
-        g1 = random.random()
-        g2 = random.random()
-        g3 = random.random()
+        g1, g2, g3 = self._three_games_win_probability()
 
         return (g1 > self._dad_win_prob and g2 > self._champ_win_prob) or \
                (g2 > self._champ_win_prob and g3 > self._dad_win_prob)
