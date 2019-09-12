@@ -14,6 +14,9 @@ class SuccessiveWins:
         self._champ_win_prob = champ_win_prob
 
     def wins_cfc_series(self):
+        """
+        The outcome of playing the champion-father-champion series
+        """
         g1 = random.random()
         g2 = random.random()
         g3 = random.random()
@@ -22,6 +25,9 @@ class SuccessiveWins:
                (g2 > self._dad_win_prob and g3 > self._champ_win_prob)
 
     def wins_fcf_series(self):
+        """
+        The outcome of playing the father-champion-father series
+        """
         g1 = random.random()
         g2 = random.random()
         g3 = random.random()
@@ -37,12 +43,12 @@ def win_simulations(trials: int, win_series: Callable) -> float:
     :param win_series: the series to win
     :return: win probabilty
     """
-    count = 0
+    wins = 0
     for _ in range(trials):
         if win_series():
-            count += 1
+            wins += 1
 
-    return count/trials
+    return wins/trials
 
 def is_valid_probabity(prob):
     return 0.0 <= prob < 1.0
