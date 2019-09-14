@@ -2,7 +2,7 @@ from typing import Callable
 import argparse
 import random
 
-def jury_correct(pr_twojurors):
+def jury_correct(pr_twojurors: float) -> bool:
     pr_flippant_juror = 0.5
 
     correct_decision = 0
@@ -23,7 +23,7 @@ def jury_correct(pr_twojurors):
     return correct_decision > 1  # did majority make a correct decision?
 
 
-def correct_decision_simulations(trials, pr_twojurors):
+def correct_decision_simulations(trials: float, pr_twojurors: float) -> float:
     correct = 0
     for _ in range(trials):
         if jury_correct(pr_twojurors):

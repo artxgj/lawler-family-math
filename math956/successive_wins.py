@@ -16,7 +16,7 @@ class SuccessiveWins:
     def _three_games_win_probability(self):
         return random.random(), random.random(), random.random()
 
-    def wins_cfc_series(self):
+    def wins_cfc_series(self) -> bool:
         """
         The outcome of playing the champion-father-champion series
         """
@@ -25,7 +25,7 @@ class SuccessiveWins:
         return (g1 > self._champ_win_prob and g2 > self._dad_win_prob) or \
                (g2 > self._dad_win_prob and g3 > self._champ_win_prob)
 
-    def wins_fcf_series(self):
+    def wins_fcf_series(self) -> bool:
         """
         The outcome of playing the father-champion-father series
         """
