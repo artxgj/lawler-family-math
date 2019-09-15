@@ -1,1 +1,1 @@
-Code to aid and supplement my study and review of math topics.
+Code to aid and supplement my study and review of math topics. I started this repo after seeing a few short Mathematica programs from the videos on [Mike's Math Page](https://mikesmathpage.wordpress.com).
