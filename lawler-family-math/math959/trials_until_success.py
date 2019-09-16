@@ -15,14 +15,14 @@ class FairDie:
     def roll(self):
         return math.ceil(random.random() * self._sides)
 
-class LuckyDieRoll:
-    def __init__(self, die, win_outcome):
+class DieRollTrial:
+    def __init__(self, die, success_outcome):
         self._die = die
-        self._win_outcome = win_outcome
+        self._success_outcome = success_outcome
 
-    def is_win(self):
+    def is_success(self):
         x = self._die.roll()
-        return self._die.roll() == self._win_outcome
+        return self._die.roll() == self._success_outcome
 
 
 def simulations(tests, pred):
@@ -51,6 +51,6 @@ if __name__ == '__main__':
         raise ValueError("Successful number %d is not valid for %d-sided die" % (args.number, args.sides))
 
     fairdie = FairDie(args.sides)
-    diegame = LuckyDieRoll(fairdie, args.number)
-    res = simulations(args.tests, diegame.is_win)
+    diegame = DieRollTrial(fairdie, args.number)
+    res = simulations(args.tests, diegame.is_success)
     print(f"{res} trials until first success for {args.sides}-sided die [{args.tests} tests].")
