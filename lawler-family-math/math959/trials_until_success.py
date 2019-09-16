@@ -21,7 +21,6 @@ class DieRollTrial:
         self._success_outcome = success_outcome
 
     def is_success(self):
-        x = self._die.roll()
         return self._die.roll() == self._success_outcome
 
 
