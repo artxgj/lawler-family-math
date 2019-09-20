@@ -12,7 +12,7 @@ def chars_to_file(f: IO[str] , s) -> None:
     for c in s:
         f.write(f'{c}\n')
 
-def chars_title_poem(csv_poems_filepath, hanzi_filepath):
+def chars_title_poem(csv_poems_filepath: str, hanzi_filepath: str) -> None:
     with open(csv_poems_filepath, 'r') as csv_in:
         reader = csv.DictReader(csv_in)
         with open(hanzi_filepath, 'w') as hanzi_out:
