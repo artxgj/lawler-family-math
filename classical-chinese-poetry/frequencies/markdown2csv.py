@@ -4,7 +4,7 @@ import argparse
 _MD_NEW_POEM = '---'
 _MD_POEM_TITLE = '###'
 _MD_POEM_poet = '**'
-_poet_SPLIT = '*'
+_POET_SPLIT = '*'
 _TITLE_SPLIT = '#'
 _POEM_LINE_SEP = '+'
 
@@ -42,15 +42,8 @@ class Poem:
     def __repr__(self):
         return f"{self.title},{self.poet},{self.poem}"
 
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-p', '--poems-md', help='The poems file written in markdown.', type=argparse.FileType('r'), required=True)
-    parser.add_argument('-c', '--csv-poems', help='The output csv file', type=argparse.FileType('w'), required=True)
-    args = parser.parse_args()
 
-    poems_md= args.poems_md
-    poems_csv = args.csv_poems
-
+def markdown_to_csv(poems_md, poems_csv):
     tangpoem = None
     poem_line = False
 
@@ -71,7 +64,7 @@ def main():
         elif line.startswith(_MD_POEM_TITLE):
             tangpoem.title = ''.join(line.split(_TITLE_SPLIT)).strip()
         elif line.startswith(_MD_POEM_poet):
-            tangpoem.poet = ''.join(line.split(_poet_SPLIT)).strip()
+            tangpoem.poet = ''.join(line.split(_POET_SPLIT)).strip()
             poem_line=True
         elif line != '' and poem_line:
             tangpoem.add_line(line)
@@ -83,6 +76,16 @@ def main():
 
     poems_md.close()
     poems_csv.close()
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', '--poems-md', help='The poems file written in markdown.', type=argparse.FileType('r'), required=True)
+    parser.add_argument('-c', '--csv-poems', help='The output csv file', type=argparse.FileType('w'), required=True)
+    args = parser.parse_args()
+
+    markdown_to_csv(args.poems_md, args.csv_poems)
+
 
 
 if __name__ == '__main__':
