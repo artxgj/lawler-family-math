@@ -48,7 +48,7 @@ def markdown_to_csv(poems_md, poems_csv):
     poem_line = False
 
     fieldnames = [_ATTR_TITLE, _ATTR_POET, _ATTR_POEM]
-    writer = csv.DictWriter(poems_csv, fieldnames)
+    writer = csv.DictWriter(poems_csv, fieldnames, lineterminator='\n')
     writer.writeheader()
     for line in poems_md:
         line = line.strip()
