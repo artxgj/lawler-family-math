@@ -9,7 +9,7 @@
 
 
 
-| Unicode Character | CodePoint |
+| Unicode Character | Code Point |
 |:-----------------:|:------:|
 | **C** | U+0043 |
 | **L** | U+004C |
