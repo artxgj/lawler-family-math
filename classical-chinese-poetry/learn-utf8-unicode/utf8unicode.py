@@ -28,11 +28,8 @@ class Utf8:
         if self._codepoints:
             return self._codepoints
 
-        new_sequence = True
-
         iarr = []
         word = 0
-
         sequence_octets_left = 0
 
         for b in self._bytes:
