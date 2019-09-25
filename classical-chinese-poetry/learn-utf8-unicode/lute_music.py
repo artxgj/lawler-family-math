@@ -1,5 +1,4 @@
-from utf8unicode import Unicode, utf8_unicode_set
-
+from utf8unicode import codepoints_set
 if __name__ == '__main__':
     poem="""
 ### 彈琴   Lute Playing
@@ -14,7 +13,7 @@ if __name__ == '__main__':
 """
 
     print(poem)
-    poem_unicode_set = sorted(utf8_unicode_set(poem, {'\n', ' ', '#', '*', '>'}))
+    poem_unicode_set = sorted(codepoints_set(poem, {'\n', ' ', '#', '*', '>'}))
 
     print("| Unicode Character | UTF-16 |")
     print("|:-----------------:|:------:|")
