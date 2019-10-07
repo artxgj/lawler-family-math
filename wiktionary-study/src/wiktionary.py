@@ -1,6 +1,6 @@
 import requests
 
-__all__ = ['WiktionaryAPI', 'WiktionaryRawEntry']
+__all__ = ['WiktionaryAPI', 'WiktionaryRevision']
 
 
 class WiktionaryAPI:
