@@ -1,5 +1,6 @@
 ## Wiki-markup output of sample code's extraction of house_family ##
-```
+
+```wiki
 ==Chinese==
 
 ===Glyph origin===
