@@ -1,5 +1,6 @@
-*Output of sample code's extraction of love*
+## Wiki-markup output of sample code's extraction of love ##
 
+```wiki
 ==Chinese==
 {{zh-forms|s=爱|alt=㤅,𢙴,𢛭,𢜤,𤔠,𤔤,𢟪,𢖻}}
 
@@ -89,3 +90,4 @@ From {{inh|zh|sit-pro|*ŋ-(w)aːj||to copulate; to love; to be gentle}} (STEDT).
 {{zh-cat|Beginning}}
 
 ----
+```
