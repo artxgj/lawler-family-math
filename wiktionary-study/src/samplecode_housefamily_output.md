@@ -1,5 +1,5 @@
-*Output of sample code's extraction of house_family*
-
+## Wiki-markup output of sample code's extraction of house_family ##
+```
 ==Chinese==
 
 ===Glyph origin===
@@ -118,3 +118,4 @@ Cognate with {{cog|bo|མཁར||castle; house}} ({{zh-ref|Schuessler, 2007}}).
 {{zh-cat|Beginning|Family|Collectives}}
 
 ----
+```
