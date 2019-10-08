@@ -1,4 +1,6 @@
 import requests
+import mwparserfromhell
+
 
 __all__ = ['WiktionaryAPI', 'WiktionaryRevision']
 
@@ -19,7 +21,6 @@ class WiktionaryAPI:
             raise ValueError(respjson['error'])
 
         return respjson
-
 
 
 class WiktionaryRevision:
@@ -141,7 +142,31 @@ class WiktionaryRevision:
         self._contentmodel = val
 
 
+def section_chinese(wikicode : 'mwparserfromhell.wikicode.Wikicode'):
+    sections = wikicode.get_sections(matches="Chinese")
+
+    if len(sections) == 0:
+        raise ValueError("wikicode doesn't have a Chinese section")
+
+    return sections[0]
+
+
+def wikicode(wiktionary_entry_text) -> 'mwparserfromhell.wikicode.Wikicode':
+    return mwparserfromhell.parse(wiktionary_entry_text)
+
+
 if __name__ == '__main__':
+    #
+    # sample code
+    #
     wikt = WiktionaryAPI()
-    rawentry = WiktionaryRevision.jsoncreate(wikt.query_revision('愛'))
-    print(rawentry.content)
+    love = WiktionaryRevision.jsoncreate(wikt.query_revision('愛'))
+
+    wc_content = wikicode(love.content)
+    section = section_chinese(wc_content)
+    print(section)
+    print("\n---------\n")
+
+    house_family = WiktionaryRevision.jsoncreate(wikt.query_revision('家'))
+    section = section_chinese(wikicode(house_family.content))
+    print(section)
