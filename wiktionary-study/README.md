@@ -34,14 +34,25 @@ Explaining programming to a 6-year-old:
 #### Templates
 * [Wiktionary Category:TemplateData](https://en.wiktionary.org/wiki/Category:TemplateData_documentation)
 * [Wiktionary Category: Han Script Templates](https://en.wiktionary.org/wiki/Category:Han_script_templates)
+* [Category:Chinese dialectal synonyms data modules](https://en.wiktionary.org/w/index.php?title=Category:Chinese_dialectal_synonyms_data_modules&pageuntil=zh%2Fdata%2Fdial-syn%2F奶酪#mw-pages)
 * [Template:zh-pron](https://en.wiktionary.org/wiki/Template:zh-pron)
 * [Template:zh-pron/documentation](https://en.wiktionary.org/wiki/Template:zh-pron/documentation)
 * [Template:zh-dial](https://en.wiktionary.org/wiki/Template:zh-dial)
 * [Template:zh-dial/documentation](https://en.wiktionary.org/wiki/Template:zh-dial/documentation)
+* [Template:zh-forms](https://en.wiktionary.org/wiki/Template:zh-forms)
+* [Template:zh-forms/documentation](https://en.wiktionary.org/wiki/Template:zh-forms/documentation)
+* [Template:zh-der](https://en.wiktionary.org/wiki/Template:zh-der)
+* [Template:zh-der/documentation](https://en.wiktionary.org/wiki/Template:zh-der/documentation)
+* [Template:zh-hanzi](https://en.wiktionary.org/wiki/Template:zh-hanzi)
+* [Template:zh-hanzi/documentation](https://en.wiktionary.org/wiki/Template:zh-hanzi/documentation)
+* [Template:zh-x](https://en.wiktionary.org/wiki/Template:zh-x)
+* [Template:zh-x/documentation](https://en.wiktionary.org/wiki/Template:zh-x/documentation)
+* [Template:Minnan-pronunc](https://en.wiktionary.org/wiki/Template:nan-pronunc)
 
 #### Modules
 * [Minnan Pronunciation Module](https://en.wiktionary.org/wiki/Module:nan-pron)
+* [Module:zh/data/dial](https://en.wiktionary.org/wiki/Module:zh/data/dial)
 * [Module:zh/data/dial-syn](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn)
-* [Minnan Data Module 000](https://en.wiktionary.org/wiki/Module:zh/data/nan-pron/000)
+* [Minnan Pronunciation Data Module TOC](https://en.wiktionary.org/wiki/Module:zh/data/nan-pron)
 * [Wiktionary Category: Chinese Data Modules](https://en.wiktionary.org/wiki/Category:Chinese_data_modules)
-
+* [Chinese dialectal synonyms](https://en.wiktionary.org/w/index.php?title=Category:Chinese_dialectal_synonyms_data_modules&pageuntil=zh%2Fdata%2Fdial-syn%2F奶酪#mw-pages)
