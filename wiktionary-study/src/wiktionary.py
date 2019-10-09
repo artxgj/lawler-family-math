@@ -170,3 +170,8 @@ if __name__ == '__main__':
     house_family = WiktionaryRevision.jsoncreate(wikt.query_revision('家'))
     section = section_chinese(wikicode(house_family.content))
     print(section)
+
+    behind =  WiktionaryRevision.jsoncreate(wikt.query_revision('後面'))
+    section = section_chinese(wikicode(behind.content))
+    print(section)
+

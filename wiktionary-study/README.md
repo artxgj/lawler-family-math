@@ -19,8 +19,6 @@ Explaining programming to a 6-year-old:
 
 6. You fix the idea.
 ```
-###
-
 
 
 ### References ###
@@ -30,8 +28,18 @@ Explaining programming to a 6-year-old:
 * [MediaWiki Documentation](https://doc.wikimedia.org)  
 * [API Revisions](https://www.mediawiki.org/wiki/API:Revisions)  
 * [MediaWiki Technical Manual](https://www.mediawiki.org/wiki/Manual:Contents) 
+
+#### Templates
 * [Wiktionary Category:TemplateData](https://en.wiktionary.org/wiki/Category:TemplateData_documentation)
-* [Wiktionary Category: Chinese Data Modules](https://en.wiktionary.org/wiki/Category:Chinese_data_modules)
 * [Wiktionary Category: Han Script Templates](https://en.wiktionary.org/wiki/Category:Han_script_templates)
-* [Wiktionary Module: Translation from Traditional Chinese to Simplfied](https://en.wiktionary.org/wiki/Module:zh/data/ts)
+* [Template:zh-pron](https://en.wiktionary.org/wiki/Template:zh-pron)
+* [Template:zh-pron/documentation](https://en.wiktionary.org/wiki/Template:zh-pron/documentation)
+* [Template:zh-dial](https://en.wiktionary.org/wiki/Template:zh-dial)
+* [Template:zh-dial/documentation](https://en.wiktionary.org/wiki/Template:zh-dial/documentation)
+
+#### Modules
+* [Minnan Pronunciation Module](https://en.wiktionary.org/wiki/Module:nan-pron)
+* [Module:zh/data/dial-syn](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn)
+* [Minnan Data Module 000](https://en.wiktionary.org/wiki/Module:zh/data/nan-pron/000)
+* [Wiktionary Category: Chinese Data Modules](https://en.wiktionary.org/wiki/Category:Chinese_data_modules)
 
