@@ -1,4 +1,4 @@
-from wiktionary import WiktionaryHtmlCrawler, querystring_todict, WIKTIONARY_INDEX_URL
+from wiktionary import WiktionaryHtmlCrawler, WiktionaryActionAPI, querystring_todict, WIKTIONARY_INDEX_URL
 import urllib.parse
 
 
@@ -44,3 +44,16 @@ class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
             query_params = querystring_todict(qs_params)
 
         return results
+
+
+# https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=json&page=Module:zh/data/dial-syn
+class ZhDialectalSynonym:
+    def __init__(self):
+        self._crawler = WiktionaryActionAPI()
+
+    def find(self, module_zh_dialsyn):
+        params = {'prop': 'wikitext', 'format': 'json', 'page': module_zh_dialsyn}
+        return self._crawler.parse(params)
+
+
+
