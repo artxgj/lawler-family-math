@@ -5,15 +5,14 @@ import mwparserfromhell
 import requests
 
 
-
 __all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', 'WiktionaryTitles', 'WiktionaryRevision', 'querystring_todict']
 
 """
 https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
 """
 
-_wiktionary_index_url = "https://en.wiktionary.org/w/index.php"
-_wiktionary_api_url = "https://en.wiktionary.org/w/api.php"
+WIKTIONARY_INDEX_URL = "https://en.wiktionary.org/w/index.php"
+WIKTIONARY_API_URL = "https://en.wiktionary.org/w/api.php"
 
 
 def querystring_todict(qs_params):
@@ -83,7 +82,7 @@ class WiktionaryHtmlCrawler:
 
 class WiktionaryAPICrawler:
     def __init__(self, url=None):
-        url = url or _wiktionary_api_url
+        url = url or WIKTIONARY_API_URL
         self._requests = RequestsWrapper(url)
 
     def _handle_response(self, response):

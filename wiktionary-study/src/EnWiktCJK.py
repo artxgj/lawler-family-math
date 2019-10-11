@@ -1,9 +1,9 @@
-from wiktionary import WiktionaryHtmlCrawler, querystring_todict
+from wiktionary import WiktionaryHtmlCrawler, querystring_todict, WIKTIONARY_INDEX_URL
 import urllib.parse
 
 
 class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
-    def __init__(self, url="https://en.wiktionary.org/w/index.php"):
+    def __init__(self, url=WIKTIONARY_INDEX_URL):
         super().__init__(url)
         self._next = None
 
