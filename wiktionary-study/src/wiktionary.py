@@ -1,26 +1,139 @@
-import requests
+from bs4 import BeautifulSoup
+
+import copy
 import mwparserfromhell
+import requests
 
 
-__all__ = ['WiktionaryAPI', 'WiktionaryRevision']
+
+__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', 'WiktionaryTitles', 'WiktionaryRevision', 'querystring_todict']
+
+"""
+https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
+"""
+
+_wiktionary_index_url = "https://en.wiktionary.org/w/index.php"
+_wiktionary_api_url = "https://en.wiktionary.org/w/api.php"
 
 
-class WiktionaryAPI:
-    def __init__(self):
-        self._url = "https://en.wiktionary.org/w/api.php"
+def querystring_todict(qs_params):
+    query_params = {}
+    for qp in qs_params.split('&'):
+        k, v = qp.split('=')
+        query_params[k] = v
 
-    def query_revision(self, titles):
-        params = {"action": "query", "prop": "revisions", "titles": titles, "rvprop": "content|ids", "rvslots": "main",
-                  "rvlimit": 1, "format": "json", "formatversion": 2}
+    return query_params
 
-        resp = requests.post(self._url, params)
-        resp.raise_for_status()
 
-        respjson = resp.json()
+class RequestsWrapper:
+    def __init__(self, url):
+        self.url = url
+        self._params = {}
+
+    @property
+    def url(self):
+        return self._url
+
+    @url.setter
+    def url(self, url):
+        self._url = url
+
+    @property
+    def params(self):
+        return self._params
+
+    def post(self, params):
+        if params is not None and not isinstance(params, dict):
+            raise TypeError("params argument has to be a dictionary")
+
+        if params:
+            self._params = params
+
+        req = requests.post(self._url, self._params)
+        req.raise_for_status()
+        return req
+
+    def get(self, params):
+        if params is not None and not isinstance(params, dict):
+            raise TypeError("params argument has to be a dictionary")
+
+        if params:
+            self.params = params
+
+        req = requests.post(self._url, self._params)
+        req.raise_for_status()
+        return req
+
+
+class WiktionaryHtmlCrawler:
+    def __init__(self, url):
+        self._requests = RequestsWrapper(url)
+
+    def _soup_response(self, response: 'requests_response') -> 'BeautifulSoup':
+        return BeautifulSoup(response.text, 'lxml')
+
+    def post(self, params):
+        resp = self._requests.post(params)
+        return self._soup_response(resp)
+
+    def get(self, params):
+        resp = self._requests.get(params)
+        return self._soup_response(resp)
+
+
+class WiktionaryAPICrawler:
+    def __init__(self, url=None):
+        url = url or _wiktionary_api_url
+        self._requests = RequestsWrapper(url)
+
+    def _handle_response(self, response):
+        response.raise_for_status()
+        respjson = response.json()
+
         if 'error' in respjson:
             raise ValueError(respjson['error'])
 
         return respjson
+
+    def post(self, params):
+        resp = self._requests.post(params)
+        return self._handle_response(resp)
+
+    def get(self, params):
+        resp = self._requests.get(params)
+        return self._handle_response(resp)
+
+
+class WiktionaryActionAPI(WiktionaryAPICrawler):
+    """
+    https://www.mediawiki.org/wiki/API:Main_page
+    """
+
+    def query(self, params):
+        new_params = copy.deepcopy(params)
+        new_params['action'] = 'query'
+        return self.post(new_params)
+
+    def parse(self, params):
+        new_params = copy.deepcopy(params)
+        new_params['action'] = 'parse'
+        return self.post(new_params)
+
+
+class WiktionaryTitles:
+    def __init__(self):
+        self._crawler = WiktionaryActionAPI()
+
+    def find(self, titles):
+        params = {"prop": "revisions",
+                  "titles": titles,
+                  "rvprop": "content|ids",
+                  "rvslots": "main",
+                  "rvlimit": 1,
+                  "format": "json",
+                  "formatversion": 2}
+
+        return self._crawler.query(params)
 
 
 class WiktionaryRevision:
@@ -155,23 +268,25 @@ def wikicode(wiktionary_entry_text) -> 'mwparserfromhell.wikicode.Wikicode':
     return mwparserfromhell.parse(wiktionary_entry_text)
 
 
+
+
 if __name__ == '__main__':
     #
     # sample code
     #
-    wikt = WiktionaryAPI()
-    love = WiktionaryRevision.jsoncreate(wikt.query_revision('愛'))
+    wikt_title = WiktionaryTitles()
+    love = WiktionaryRevision.jsoncreate(wikt_title.find('愛'))
 
     wc_content = wikicode(love.content)
     section = section_chinese(wc_content)
     print(section)
     print("\n---------\n")
 
-    house_family = WiktionaryRevision.jsoncreate(wikt.query_revision('家'))
+    house_family = WiktionaryRevision.jsoncreate(wikt_title.find('家'))
     section = section_chinese(wikicode(house_family.content))
     print(section)
 
-    behind =  WiktionaryRevision.jsoncreate(wikt.query_revision('後面'))
+    behind = WiktionaryRevision.jsoncreate(wikt_title.find('後面'))
     section = section_chinese(wikicode(behind.content))
     print(section)
 
