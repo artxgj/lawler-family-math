@@ -139,6 +139,10 @@ class WiktionaryRevision:
         """
 
         page = queryres['query']['pages'][0]
+
+        if 'missing' in page and page['missing']:
+            raise Exception(f"{page['title']} does not exist in Wiktionary.")
+
         page_revision = page['revisions'][0]
         revision = {'pageid': page['pageid'],
                     'ns': page['ns'],
