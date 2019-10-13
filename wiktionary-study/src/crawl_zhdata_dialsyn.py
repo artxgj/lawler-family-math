@@ -7,7 +7,8 @@ def chinese_module_dialectal_synonyms(outfilepath):
 
     params = {'title': 'Special:PrefixIndex',
               'prefix': 'Module:zh/data/dial-syn',
-              'namespace': 0,'stripprefix': 1}
+              'namespace': 0,
+              'stripprefix': 1}
 
     dialsyn_datamodules = crawler.extract_all_indices(params)
 

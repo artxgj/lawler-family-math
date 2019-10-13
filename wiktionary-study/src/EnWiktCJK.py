@@ -1,10 +1,10 @@
-from wiktionary import WiktionaryHtmlCrawler, WiktionaryActionAPI, querystring_todict, WIKTIONARY_INDEX_URL
+from wiktionary import WiktionaryHtmlCrawler, WiktionaryAPICrawler, querystring_todict
 import urllib.parse
 
 
-class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
-    def __init__(self, url=WIKTIONARY_INDEX_URL):
-        super().__init__(url)
+class ZhDataDialSynIndexCrawler:
+    def __init__(self):
+        self._crawler = WiktionaryHtmlCrawler()
         self._next = None
 
     def _extract_dialsyn(self, soup):
@@ -16,7 +16,7 @@ class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
             return []
 
     def extract_index(self, params):
-        soup = self.post(params)
+        soup = self._crawler.post(params)
         return self._extract_dialsyn(soup)
 
     def extract_all_indices(self, params, maxindices=10):
@@ -27,7 +27,7 @@ class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
         query_params = params
         visits = 0
         while True:
-            soup = self.post(query_params)
+            soup = self._crawler.post(query_params)
             results.extend(self._extract_dialsyn(soup))
             visits += 1
 
@@ -49,11 +49,13 @@ class ZhDataDialSynIndexCrawler(WiktionaryHtmlCrawler):
 # https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=json&page=Module:zh/data/dial-syn
 class ZhDialectalSynonym:
     def __init__(self):
-        self._crawler = WiktionaryActionAPI()
+        self._crawler = WiktionaryAPICrawler()
 
     def find(self, module_zh_dialsyn):
-        params = {'prop': 'wikitext', 'format': 'json', 'page': module_zh_dialsyn}
-        return self._crawler.parse(params)
-
+        params = {'action': 'parse',
+                  'prop': 'wikitext',
+                  'format': 'json',
+                  'page': module_zh_dialsyn}
+        return self._crawler.post(params)
 
 

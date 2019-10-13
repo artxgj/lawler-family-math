@@ -35,6 +35,7 @@ Explaining programming to a 6-year-old:
 * [Wiktionary Category:TemplateData](https://en.wiktionary.org/wiki/Category:TemplateData_documentation)
 * [Wiktionary Category: Han Script Templates](https://en.wiktionary.org/wiki/Category:Han_script_templates)
 * [Category:Chinese dialectal synonyms data modules](https://en.wiktionary.org/w/index.php?title=Category:Chinese_dialectal_synonyms_data_modules&pageuntil=zh%2Fdata%2Fdial-syn%2F奶酪#mw-pages)
+* [Template:Lang-zh](https://en.wikipedia.org/wiki/Template:Lang-zh)
 * [Template:zh-pron](https://en.wiktionary.org/wiki/Template:zh-pron)
 * [Template:zh-pron/documentation](https://en.wiktionary.org/wiki/Template:zh-pron/documentation)
 * [Template:zh-dial](https://en.wiktionary.org/wiki/Template:zh-dial)
@@ -51,8 +52,15 @@ Explaining programming to a 6-year-old:
 
 #### Modules
 * [Minnan Pronunciation Module](https://en.wiktionary.org/wiki/Module:nan-pron)
+* [Module:Zh](https://en.wikipedia.org/wiki/Module:Zh)
 * [Module:zh/data/dial](https://en.wiktionary.org/wiki/Module:zh/data/dial)
 * [Module:zh/data/dial-syn](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn)
 * [Minnan Pronunciation Data Module TOC](https://en.wiktionary.org/wiki/Module:zh/data/nan-pron)
 * [Wiktionary Category: Chinese Data Modules](https://en.wiktionary.org/wiki/Category:Chinese_data_modules)
 * [Chinese dialectal synonyms](https://en.wiktionary.org/w/index.php?title=Category:Chinese_dialectal_synonyms_data_modules&pageuntil=zh%2Fdata%2Fdial-syn%2F奶酪#mw-pages)
+* [Module:Bopo-convert](https://en.wiktionary.org/wiki/Module:Bopo-convert)
+* [Module:cmn-pron](https://en.wiktionary.org/wiki/Module:cmn-pron)
+
+#### Categories ####
+
+* [Category:Zhuyin script characters](https://en.wiktionary.org/wiki/Category:Zhuyin_script_characters)

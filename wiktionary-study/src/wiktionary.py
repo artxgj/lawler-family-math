@@ -1,11 +1,10 @@
 from bs4 import BeautifulSoup
-
 import copy
 import mwparserfromhell
 import requests
 
 
-__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', 'WiktionaryTitles', 'WiktionaryRevision', 'querystring_todict']
+__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', 'WicktionaryRevisionEntrySearch', 'WiktionaryRevision', 'querystring_todict']
 
 """
 https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
@@ -65,8 +64,9 @@ class RequestsWrapper:
 
 
 class WiktionaryHtmlCrawler:
-    def __init__(self, url):
-        self._requests = RequestsWrapper(url)
+    def __init__(self, endpoint=None):
+        self._endpoint = endpoint or WIKTIONARY_INDEX_URL
+        self._requests = RequestsWrapper(self._endpoint)
 
     def _soup_response(self, response: 'requests_response') -> 'BeautifulSoup':
         return BeautifulSoup(response.text, 'lxml')
@@ -119,22 +119,6 @@ class WiktionaryActionAPI(WiktionaryAPICrawler):
         return self.post(new_params)
 
 
-class WiktionaryTitles:
-    def __init__(self):
-        self._crawler = WiktionaryActionAPI()
-
-    def find(self, titles):
-        params = {"prop": "revisions",
-                  "titles": titles,
-                  "rvprop": "content|ids",
-                  "rvslots": "main",
-                  "rvlimit": 1,
-                  "format": "json",
-                  "formatversion": 2}
-
-        return self._crawler.query(params)
-
-
 class WiktionaryRevision:
     def __init__(self, revision):
         self.ns = revision['ns']
@@ -144,14 +128,14 @@ class WiktionaryRevision:
         self.revid = revision['revid']
         self.content = revision['content']
         self.contentmodel = revision['contentmodel']
-        self.contentformat  = revision['contentformat']
+        self.contentformat = revision['contentformat']
 
     @classmethod
     def jsoncreate(cls, queryres: dict):
         """
-        
-        :param query_result: 
-        :return: 
+
+        :param query_result:
+        :return:
         """
 
         page = queryres['query']['pages'][0]
@@ -254,6 +238,61 @@ class WiktionaryRevision:
         self._contentmodel = val
 
 
+class IWicktionarySearch:
+    def find(self, entry):
+        NotImplemented
+
+
+class WicktionaryRevisionEntrySearch:
+    def __init__(self):
+        self._crawler = WiktionaryAPICrawler()
+
+    def find(self, entry: str) -> 'WiktionaryRevision':
+        """
+            https://www.mediawiki.org/wiki/API:Main_page
+        """
+
+        params = {"action": "query",
+                  "prop": "revisions",
+                  "titles": entry,
+                  "rvprop": "content|ids",
+                  "rvslots": "main",
+                  "rvlimit": 1,
+                  "format": "json",
+                  "formatversion": 2}
+
+        results = self._crawler.post(params)
+        return WiktionaryRevision.jsoncreate(results)
+
+
+class WiktionaryRenderedTitle:
+    def __init__(self):
+        self._crawler = WiktionaryHtmlCrawler()
+
+    def find(self, title):
+        params = {
+            'title': title,
+            'action': 'render'
+        }
+
+        resp = self._crawler.post(params)
+        return resp.text
+
+
+class WiktionaryRawTitle:
+    def __init__(self):
+        self._crawler = WiktionaryHtmlCrawler()
+
+    def find(self, title):
+        params = {
+            'title': title,
+            'action': 'raw'
+        }
+
+        resp = self._crawler.post(params)
+        return resp.text
+
+
 def section_chinese(wikicode : 'mwparserfromhell.wikicode.Wikicode'):
     sections = wikicode.get_sections(matches="Chinese")
 
@@ -267,25 +306,27 @@ def wikicode(wiktionary_entry_text) -> 'mwparserfromhell.wikicode.Wikicode':
     return mwparserfromhell.parse(wiktionary_entry_text)
 
 
-
-
 if __name__ == '__main__':
     #
     # sample code
     #
-    wikt_title = WiktionaryTitles()
-    love = WiktionaryRevision.jsoncreate(wikt_title.find('愛'))
-
+    wikt_title = WicktionaryRevisionEntrySearch()
+    love = wikt_title.find('愛')
     wc_content = wikicode(love.content)
     section = section_chinese(wc_content)
     print(section)
     print("\n---------\n")
 
-    house_family = WiktionaryRevision.jsoncreate(wikt_title.find('家'))
+    house_family = wikt_title.find('家')
     section = section_chinese(wikicode(house_family.content))
     print(section)
 
-    behind = WiktionaryRevision.jsoncreate(wikt_title.find('後面'))
+    print("\n\n~~~~ kj1 ~~~~\n")
+    behind = wikt_title.find('冠')
     section = section_chinese(wikicode(behind.content))
     print(section)
+
+    print("\n\n~~~~ kj2 ~~~~\n")
+    kj = WiktionaryRawTitle()
+    print(kj.find('冠'))
 
