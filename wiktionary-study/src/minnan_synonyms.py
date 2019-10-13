@@ -38,7 +38,6 @@ def find_minnan_synonyms(infile, outfile):
                 else:
                     xiamen = ''
 
-
                 if kquanzhou in synonyms:
                     quanzhou = synonyms[kquanzhou]
                 else:

@@ -5,6 +5,14 @@ import mwparserfromhell
 class MinnanPronunciation:
     def __init__(self, word, wikitext):
         self._wikitext = wikitext
+        self._word = word
+        self._mandarin = set()
+        self._qz = set()
+        self._xm = set()
+        self._ph = set()
+        self._poj = set()
+        self._note = set()
+
         wikicode = mwparserfromhell.parse(wikitext)
         sections = wikicode.get_sections(matches="Chinese")
 
@@ -13,14 +21,6 @@ class MinnanPronunciation:
 
         chinese = sections[0]
         prons = chinese.get_sections(matches='Pronunciation')
-
-        self._mandarin = set()
-        self._qz = set()
-        self._xm = set()
-        self._ph = set()
-        self._poj = set()
-        self._vernacular = None
-        self._literary = None
 
         for i, pron in enumerate(prons):
             zhpron = pron.filter_templates(matches='zh-pron')
@@ -40,19 +40,20 @@ class MinnanPronunciation:
                 elif k == 'mn':
                     self._mn(v)
                 elif k == 'mn_note':
-                    self._vernacular, self._literary = self._mn_note(v)
+                    self._note.add(v)
 
     def _mn(self, pojs):
         """
+        https://en.wiktionary.org/wiki/Template:zh-pron
+
         |mn=ke/ka
         |mn=xm,zz,ta,kh,tp,tn,yl,lk,sx,hc,pn:ka/qz,jj,ph:kāi/zz,kh,tc:ka/km,mg:kai
 
         |mn=xm,qz,lk:kha/zz,tp,kh,tn,sx,yl,hc,tc:khia/xm,zz,twv:khia
 
-
-
         |mn=koàn
         |mn=qz,twv,xm,zz:koàn/tw:koan
+
         """
         for poj in pojs.split('/'):
             geo_sounds = poj.split(':')
@@ -71,22 +72,8 @@ class MinnanPronunciation:
                 if 'ph' in geos:
                     self._ph.add(sound)
 
-        self._poj = self.xiamen & self.quanzhou
-
-    def _mn_note(self, notes):
-        """
-        Process |mn_note=ke - vernacular; ka - literary
-
-        :param notes:
-        :return:
-        """
-
-        notedict = {}
-        for note in notes.split(';'):
-            poj, pojtype = note.split('-')
-            notedict[pojtype.strip()] = poj.strip()
-
-        return notedict['vernacular'], notedict['literary']
+                if 'ml' in geos:
+                    self._poj.add(sound)
 
     @property
     def word(self):
@@ -109,12 +96,8 @@ class MinnanPronunciation:
         return self._ph
 
     @property
-    def vernacular(self):
-        return self._vernacular
-
-    @property
-    def literary(self):
-        return self._literary
+    def note(self):
+        return self._note
 
     @property
     def mandarin(self):
@@ -123,14 +106,18 @@ class MinnanPronunciation:
 
 if __name__ == '__main__':
 
-    wikt_title = WicktionaryRevisionEntrySearch()
-    bahay = wikt_title.find('家')
+    wiktsearch = WicktionaryRevisionEntrySearch()
+    words = ['易', '家', '霍亂', '乞食']
 
-    mn = MinnanPronunciation('家', bahay.content)
-    print(mn.xiamen)
-    print(mn.vernacular)
-    print(mn.literary)
-    print(mn.quanzhou)
-    print(mn.mandarin)
-    print(mn.ph)
-    print(mn.poj)
+    for word in words:
+        wiktentry = wiktsearch.find(word)
+        mn = MinnanPronunciation(word, wiktentry.content)
+        print(word)
+        print(f"m: {mn.mandarin}")
+        print(f"xm: {mn.xiamen}")
+        print(f"qz: {mn.quanzhou}")
+        print(f"ph: {mn.ph}")
+        print(f"poj: {mn.poj}")
+        print(f"note: {mn.note}")
+        print("===\n")
+
