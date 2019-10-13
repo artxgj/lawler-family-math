@@ -566,6 +566,7 @@ Module:zh/data/dial-syn/胸罩
 Module:zh/data/dial-syn/脖子
 Module:zh/data/dial-syn/腎
 Module:zh/data/dial-syn/腳
+Module:zh/data/dial-syn/腳背
 Module:zh/data/dial-syn/腹瀉
 Module:zh/data/dial-syn/膀胱
 Module:zh/data/dial-syn/膝蓋
@@ -752,6 +753,7 @@ Module:zh/data/dial-syn/雙耳旁
 Module:zh/data/dial-syn/雙胞胎
 Module:zh/data/dial-syn/雞
 Module:zh/data/dial-syn/雞毛撣子
+Module:zh/data/dial-syn/雞皮疙瘩
 Module:zh/data/dial-syn/雞蛋
 Module:zh/data/dial-syn/難道
 Module:zh/data/dial-syn/雨衣

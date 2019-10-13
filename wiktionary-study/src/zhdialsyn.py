@@ -27,7 +27,7 @@ class ZhDataDialSynIndexCrawler:
             return []
 
     def extract_index(self, params=None):
-        lparams = params or self._params()
+        lparams = params or self._crawler_params()
         soup = self._crawler.post(lparams)
         return self._extract_dialsyn(soup)
 
@@ -36,7 +36,7 @@ class ZhDataDialSynIndexCrawler:
             raise ValueError('maxindices must be at least 1')
 
         results = []
-        query_params = params or self._params()
+        query_params = params or self._crawler_params()
 
         visits = 0
         while True:

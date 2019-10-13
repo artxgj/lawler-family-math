@@ -1,4 +1,4 @@
-from EnWiktCJK import ZhDialectalSynonym
+from zhdialsyn import ZhDialectalSynonym
 
 import argparse
 import json

@@ -1,16 +1,10 @@
-from EnWiktCJK import ZhDataDialSynIndexCrawler
+from zhdialsyn import ZhDataDialSynIndexCrawler
 import argparse
 
 
 def chinese_module_dialectal_synonyms(outfilepath):
     crawler = ZhDataDialSynIndexCrawler()
-
-    params = {'title': 'Special:PrefixIndex',
-              'prefix': 'Module:zh/data/dial-syn',
-              'namespace': 0,
-              'stripprefix': 1}
-
-    dialsyn_datamodules = crawler.extract_all_indices(params)
+    dialsyn_datamodules = crawler.extract_all_indices()
 
     with open(outfilepath, "w") as f:
         for dialsyn in dialsyn_datamodules:
