@@ -9,7 +9,7 @@ kquanzhou = "Quanzhou"
 kxiamen = "Xiamen"
 
 
-def find_minnan_synonyms(infile, outfile):
+def filter_minnan_synonyms(infile, outfile):
     with open(infile, "r") as json_file:
         data = json.load(json_file)
         with io.open(outfile, "w", encoding='utf-8') as csvfile:
@@ -55,4 +55,4 @@ def find_minnan_synonyms(infile, outfile):
 
 
 if __name__ == '__main__':
-    find_minnan_synonyms('../data/wikt-dial-syns.json', '../data/minnan-synonyms.csv')
+    filter_minnan_synonyms('../data/wikt-dial-syns.json', '../data/minnan-synonyms.csv')

@@ -1,25 +1,7 @@
+from minnanwikt import list_minnan_synonyms
 import argparse
 import csv
 import io
-
-
-def hokkien_synonyms(cellwords: str):
-    """
-    Cases of Hokkien synonym-strings
-        荷蘭西水:dated
-        內公:non-face-to-face
-        闊喙婆:humorous
-        雪文
-        摩托車, 摩托, 摩托駛甲, 噗噗車
-        查某, 查某人, 婦人人, 諸娘:dated, 諸娘人:dated
-    """
-    synlist = []
-    words = cellwords.split(',')
-    for word_note in words:
-        wn = word_note.split(':')
-        synlist.append(wn[0].strip())
-
-    return synlist
 
 
 def synonyms_searchlist(synonyms: str, searchlist: str):
@@ -29,15 +11,15 @@ def synonyms_searchlist(synonyms: str, searchlist: str):
         for row in rdr:
             phwords = row['Philippines']
             if len(phwords) > 0:
-                synset.update(hokkien_synonyms(phwords))
+                synset.update(list_minnan_synonyms(phwords))
 
             xmwords = row['Xiamen']
             if len(xmwords) > 0:
-                synset.update(hokkien_synonyms(xmwords))
+                synset.update(list_minnan_synonyms(xmwords))
 
             qzwords = row['Quanzhou']
             if len(qzwords) > 0:
-                synset.update(hokkien_synonyms(qzwords))
+                synset.update(list_minnan_synonyms(qzwords))
 
     with io.open(searchlist, 'w', encoding='utf-8') as wrtr:
         for syn in synset:

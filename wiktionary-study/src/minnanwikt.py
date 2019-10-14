@@ -1,5 +1,57 @@
 from wiktionary import WicktionaryRevisionEntrySearch
+
+import csv
+import io
+
 import mwparserfromhell
+
+
+def list_minnan_synonyms(wikt_minnan_synonyms: str):
+    """
+    Cases of Minnan synonym-strings
+        荷蘭西水:dated
+        內公:non-face-to-face
+        闊喙婆:humorous
+        雪文
+        摩托車, 摩托, 摩托駛甲, 噗噗車
+        查某, 查某人, 婦人人, 諸娘:dated, 諸娘人:dated
+    """
+    synlist = []
+    words = wikt_minnan_synonyms.split(',')
+
+    for word_note in words:
+        wn = word_note.split(':')
+        synlist.append(wn[0].strip())
+
+    return synlist
+
+
+class POJ:
+    def __init__(self):
+        self._poj = {}
+
+    @classmethod
+    def load_file(cls, csvfile):
+        poj = cls()
+
+        with io.open(csvfile, 'r', encoding='utf-8') as pojs:
+            rdr = csv.DictReader(pojs)
+            for row in rdr:
+                poj._poj[row['word']] = {
+                    'xm': row['xm'],
+                    'qz': row['qz'],
+                    'poj': row['poj'],
+                    'ph': row['ph'],
+                    'note': row['note']
+                }
+
+        return poj
+
+    def lookup(self, word):
+        if word in self._poj:
+            return self._poj[word]
+        else:
+            return None
 
 
 class MinnanPronunciation:
