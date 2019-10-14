@@ -78,13 +78,19 @@ class MinnanPronunciation:
             zhpron = pron.filter_templates(matches='zh-pron')
             topolects = zhpron[0].params
             for param in topolects:
+                """
                 if param.count('=') > 1:
                     # hakka can have something like this: 'h=pfs=kâ;gd=ga1\n'
                     continue
+                """
 
-                k, v = param.split('=')
-                k = k.strip()
-                v = v.strip()
+                sep = param.find('=')
+
+                if sep == -1:
+                    continue
+
+                k = param[:sep].strip()
+                v = param[sep+1:].strip()
 
                 if k == 'm':
                     self._mandarin.add(v)
@@ -158,7 +164,7 @@ class MinnanPronunciation:
 if __name__ == '__main__':
 
     wiktsearch = WicktionaryRevisionEntrySearch()
-    words = ['馬擎仔',  '易',] #'家', '霍亂', '乞食']
+    words = ['馬擎仔',  '一起', '易', '家', '霍亂', '乞食']
 
     for word in words:
         wiktentry = wiktsearch.find(word)
