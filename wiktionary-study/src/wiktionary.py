@@ -103,22 +103,6 @@ class WiktionaryAPICrawler:
         return self._handle_response(resp)
 
 
-class WiktionaryActionAPI(WiktionaryAPICrawler):
-    """
-    https://www.mediawiki.org/wiki/API:Main_page
-    """
-
-    def query(self, params):
-        new_params = copy.deepcopy(params)
-        new_params['action'] = 'query'
-        return self.post(new_params)
-
-    def parse(self, params):
-        new_params = copy.deepcopy(params)
-        new_params['action'] = 'parse'
-        return self.post(new_params)
-
-
 class WiktionaryRevision:
     def __init__(self, revision):
         self.ns = revision['ns']
@@ -243,11 +227,14 @@ class WiktionaryRevision:
 
 
 class IWicktionarySearch:
+    """
+      like a "Java Interface Type"
+    """
     def find(self, entry):
         NotImplemented
 
 
-class WicktionaryRevisionEntrySearch:
+class WicktionaryRevisionEntrySearch(IWicktionarySearch):
     def __init__(self):
         self._crawler = WiktionaryAPICrawler()
 
@@ -269,7 +256,7 @@ class WicktionaryRevisionEntrySearch:
         return WiktionaryRevision.jsoncreate(results)
 
 
-class WiktionaryRenderedTitle:
+class WiktionaryRenderedTitle(IWicktionarySearch):
     def __init__(self):
         self._crawler = WiktionaryHtmlCrawler()
 
@@ -283,7 +270,7 @@ class WiktionaryRenderedTitle:
         return resp.text
 
 
-class WiktionaryRawTitle:
+class WiktionaryRawTitle(IWicktionarySearch):
     def __init__(self):
         self._crawler = WiktionaryHtmlCrawler()
 

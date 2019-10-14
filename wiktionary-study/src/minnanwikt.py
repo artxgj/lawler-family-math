@@ -25,7 +25,6 @@ class MinnanPronunciation:
         for i, pron in enumerate(prons):
             zhpron = pron.filter_templates(matches='zh-pron')
             topolects = zhpron[0].params
-
             for param in topolects:
                 if param.count('=') > 1:
                     # hakka can have something like this: 'h=pfs=kâ;gd=ga1\n'
@@ -107,7 +106,7 @@ class MinnanPronunciation:
 if __name__ == '__main__':
 
     wiktsearch = WicktionaryRevisionEntrySearch()
-    words = ['易', '家', '霍亂', '乞食']
+    words = ['馬擎仔',  '易',] #'家', '霍亂', '乞食']
 
     for word in words:
         wiktentry = wiktsearch.find(word)
@@ -120,4 +119,6 @@ if __name__ == '__main__':
         print(f"poj: {mn.poj}")
         print(f"note: {mn.note}")
         print("===\n")
+
+        print(wiktentry.content)
 
