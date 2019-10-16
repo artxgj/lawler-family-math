@@ -43,5 +43,5 @@ if __name__ == '__main__':
     parser.add_argument("-e", "--errlog", help="error log file", required=True)
     args = parser.parse_args()
 
-    hokkien_poj(args    .search_list, args.poj_csv, args.errlog)
+    hokkien_poj(args.search_list, args.poj_csv, args.errlog)
 
