@@ -59,12 +59,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
     banlam_synonyms_pojs(args.syn_csv, args.pronunciations_json, args.combined_csv)
 
-    """
-    banlam_synonyms_pojs('../data/minnan-synonyms.csv',
-                         '../data/chinese-words-pronunciation.20191017.json',
-                         '../data/kjcrush.csv')
-    """
-
 
 
 
