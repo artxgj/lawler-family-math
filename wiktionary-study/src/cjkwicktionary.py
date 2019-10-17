@@ -1,5 +1,10 @@
-import mwparserfromhell
 from typing import List
+from collections import namedtuple
+
+import io
+import json
+import mwparserfromhell
+
 
 
 class WiktEntryCJKV:
@@ -139,26 +144,27 @@ class WiktMinnanPronunciation(iWiktZhTopolectPronunciation):
         if len(zhprons) == 0:
             raise ValueError('WiktEntry does not have a Chinese pronunciation template.')
 
-        notes = []
+        notes = set()
         pojs = {}
 
         for zhpron in zhprons:
             if zhpron.has('mn'):
                 pojranks = self._ranked_pojs(zhpron.get('mn').value)
 
-                for k in pojranks.keys():
+                for key in pojranks.keys():
+                    k = key.strip(' \n')
                     if k not in pojs:
                         pojs[k] = pojranks[k]
                     else:
                         pojs[k] += pojranks[k]
 
             if zhpron.has('mn_note'):
-                notes.append(str(zhpron.get('mn_note').value))
+                notes.add(str(zhpron.get('mn_note').value).strip(' \n'))
 
         ord_pojs = sorted(pojs, key=pojs.get, reverse=True)
 
         if include_note:
-            return ord_pojs, notes
+            return ord_pojs, list(notes)
 
         return ord_pojs, None
 
@@ -212,6 +218,37 @@ class WiktMandarinPronunciation(iWiktZhTopolectPronunciation):
                     i += 1
 
         return list(pinyins.keys())
+
+
+ChineseRomanization = namedtuple('ChineseRomanization', ['pinyin', 'poj', 'notespoj'])
+
+
+class PojPinyin:
+    def __init__(self):
+        self._pojpinyin = None
+
+    @classmethod
+    def loadfile(cls, jsonfilepath):
+        dictionary = cls()
+
+        with io.open(jsonfilepath, 'r', encoding='utf-8') as jsf:
+            dictionary._pojpinyin = json.load(jsf)
+
+        return dictionary
+
+    def lookup(self, 詞):
+        try:
+            pron = self._pojpinyin[詞]
+
+            if pron is not None:
+                return ChineseRomanization(pron['mandarin'],
+                                           pron['minnan']['pojs'],
+                                           pron['minnan']['notes'])
+            else:
+                return None
+
+        except KeyError as e:
+            return None
 
 
 if __name__ == '__main__':
