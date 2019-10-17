@@ -1,4 +1,4 @@
-|Mandarin|pinyin|meaning|Hokkien_synonyms|
+|Mandarin|pinyin|meaning|Hokkien/Minnan Synonyms|
 |--------|------|-------|----------------|
 |一起|一qǐ|together|相佮 (saⁿ-kap,sa-kap,sio-kap)<br/>做伙 (chòe-hér,chòe-hé,chò-hóe,chère-hér,chòe-hóe)<br/>做陣 (chòe-tīn,chòe-chūn,chò-chūn,chò-tīn)<br/>做一下 (chòe-chi̍t-ē,chòe-chē,chò-chi̍t-ē,chòe--chi̍t-ē)<br/>鬥陣 (tàu-tīn)<br/>平平 (pîⁿ-pîⁿ,pêⁿ-pêⁿ)<br/>和齊 (hô-chôe)<br/>同齊 (tâng-chôe,tâng-chê)|
 |一點|一diǎn,yīdiǎn|a little|淡薄 (tǎm-po̍h,tām-po̍h,tǎm-po̍k,tām-po̍k)<br/>一點仔 (chi̍t-tiám-仔)<br/>淡薄仔 (tām-po̍h-仔)|
