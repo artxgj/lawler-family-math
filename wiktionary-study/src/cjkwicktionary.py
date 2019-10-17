@@ -6,12 +6,11 @@ import json
 import mwparserfromhell
 
 
-
 class WiktEntryCJKV:
     def __init__(self):
         self._parser = mwparserfromhell
 
-    def _language_section(self, wiktentrytext: str, language:str) -> str:
+    def _language_section(self, wiktentrytext: str, language: str) -> str:
         wikicode = self._parser.parse(wiktentrytext)
         section = wikicode.get_sections(matches=language)
 
@@ -20,7 +19,6 @@ class WiktEntryCJKV:
 
         return str(section[0])
 
-    @staticmethod
     def chinese(self, wiktentrytext: str) -> str:
         return self._language_section(wiktentrytext, 'Chinese')
 
@@ -35,7 +33,7 @@ class WiktEntryCJKV:
 
 
 class iWiktZhTopolectPronunciation:
-    # This is not pythonic, but this serves as Interface
+    # This is not pythonic but it serves as my Java-like Interface
     @property
     def pronunciation(self):
         NotImplemented
