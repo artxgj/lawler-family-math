@@ -1,5 +1,5 @@
 from meltingpot import LocaleRank, hokkien_word_weights
-from minnanwikt import POJ, list_minnan_synonyms
+from minnanwikt import list_minnan_synonyms
 from cjkwicktionary import PojPinyin
 import argparse
 import csv
