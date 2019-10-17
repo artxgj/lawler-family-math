@@ -53,6 +53,7 @@ class WiktMinnanPronunciation(iWiktZhTopolectPronunciation):
         """
         https://en.wiktionary.org/wiki/Template:zh-pron
 
+        Real examples:
         |mn=ke/ka
         |mn=xm,zz,ta,kh,tp,tn,yl,lk,sx,hc,pn:ka/qz,jj,ph:kāi/zz,kh,tc:ka/km,mg:kai
 
@@ -93,21 +94,54 @@ class WiktMinnanPronunciation(iWiktZhTopolectPronunciation):
     def pronunciation(self, wiktentry: str, include_note: bool=True) -> List[str]:
         """
         Returns an ordered list of strings
-        :param wiktentry:
-        :return:
+
+        https://en.wiktionary.org/wiki/Template:zh-pron/documentation
+
+        mn=x/y/z
+        Min Nan (Hokkien) POJ (with the addition of the Quanzhou and Zhangzhou dialect vowels ee, er, and ir and use of a caron for tone mark 6 and a double acute accent for tone mark 9, adopted from Tâi-lô)
+        # can be used to disable tone sandhi between syllables.
+        Labels followed by a colon can be placed before a pronunciation to specify information about the pronunciation. Multiple abbreviations are separated with commas ,.
+        Label	Information
+        xm	Xiamen
+        qz	Quanzhou
+        zz	Zhangzhou
+        kh	Kaohsiung
+        tp	Taipei
+        tn	Tainan
+        tc	Taichung
+        hc	Hsinchu
+        yl	Yilan
+        lk	Lukang
+        sx	Sanxia
+        km	Kinmen
+        mg	Magong
+        sg	Singapore
+        pn	Penang
+        ph	Philippines
+        xmd	dated in Xiamen
+        qzd	dated in Quanzhou
+        ml	Mainland China (Xiamen, Quanzhou, Zhangzhou)
+        tw	mainstream Taiwan
+        twk	mainstream Taiwan (Kaohsiung)
+        twt	mainstream Taiwan (Taipei)
+        twv, twd, twr	variant/dated/rare in Taiwan
+        twvk, twdk, twrk	variant/dated/rare in Taiwan (Kaohsiung)
+        twvt, twdt, twrt	variant/dated/rare in Taiwan (Taipei)
+
         """
 
         if not isinstance(wiktentry, str):
-            raise TypeError('wiktentry has to be a string.')
+            raise TypeError('Wiktentry has to be a string.')
 
         wikicode = mwparserfromhell.parse(wiktentry)
         zhprons = wikicode.filter_templates(matches='zh-pron')
 
         if len(zhprons) == 0:
-            raise ValueError('WiktEntry is not a Chinese word entry')
+            raise ValueError('WiktEntry does not have a Chinese pronunciation template.')
 
         notes = []
         pojs = {}
+
         for zhpron in zhprons:
             if zhpron.has('mn'):
                 pojranks = self._ranked_pojs(zhpron.get('mn').value)
@@ -119,19 +153,65 @@ class WiktMinnanPronunciation(iWiktZhTopolectPronunciation):
                         pojs[k] += pojranks[k]
 
             if zhpron.has('mn_note'):
-                notes.append(zhpron.get('mn_note').value)
+                notes.append(str(zhpron.get('mn_note').value))
 
         ord_pojs = sorted(pojs, key=pojs.get, reverse=True)
 
         if include_note:
-            ord_pojs.extend(notes)
+            return ord_pojs, notes
 
-        return ord_pojs
+        return ord_pojs, None
 
 
 class WiktMandarinPronunciation(iWiktZhTopolectPronunciation):
-    def pronunciation(self):
-        pass
+    def pronunciation(self, wiktentry):
+        """
+        https://en.wiktionary.org/wiki/Template:zh-pron/documentation
+
+        m=x,y,z,A=a,B=b,C=c
+        Mandarin Pinyin. To show tone sandhi for 一 and 不, use 一 or 不 instead of pinyin. Chinese characters are used
+        instead of pinyin for characters that have different pronunciations due to regional variation, e.g. 危, 血. #
+        can be used to block sequential tone 3 + 3 sandhis (e.g. in 紙老虎, 一把好手).
+
+        Additional "parameters" (A, B, C, etc.) for |m=:
+
+        |xn=	replace label for the xth pronunciation
+        |xna=, |xnb=, |xnc=, |xnd=	replace the first/second/third/fourth part of the label for the xth pronunciation (see 娶 for an example)
+        |xpy=	change the displayed pinyin for the xth pronunciation (x is omitted for the first pronunciation)
+        |xcap=y	capitalize pinyin for the xth pronunciation (x is omitted for the first pronunciation)
+        |xtl=y	toneless variant on the last syllable for the xth pronunciation (x is omitted for the first pronunciation)
+        |xtl2=y, |xtl3=y	toneless variant on the second/third last syllable for the xth pronunciation (x is omitted for the first pronunciation)
+        |xa=y, |xaudio=y	pronunciation file for the xth pronunciation (x is omitted for the first pronunciation)
+        |xer=	syllable(s) (separated by ;) to have erhua for the xth pronunciation (if equals y, erhua on last syllable)
+        |xertl=y	erhua and toneless variant on the last syllable for the xth pronunciation
+        |xertl2=y, |xertl3=y	erhua and toneless variant on the second/third last syllable for the xth pronunciation
+        |xera=y, |xeraudio=y	pronunciation file for the xth erhua pronunciation
+
+
+        """
+        if not isinstance(wiktentry, str):
+            raise TypeError('Wiktentry has to be a string.')
+
+        wikicode = mwparserfromhell.parse(wiktentry)
+        zhprons = wikicode.filter_templates(matches='zh-pron')
+
+        if len(zhprons) == 0:
+            raise ValueError('WiktEntry does not have a Chinese pronunciation template.')
+
+        pinyins = {}
+
+        for zhpron in zhprons:
+            if zhpron.has('m'):
+                mandarin = zhpron.get('m').value.split(',')
+
+                i = 0
+                while i < len(mandarin):
+                    if mandarin[i].find('=') > -1:
+                        break
+                    pinyins[mandarin[i].strip(' \n')] = None
+                    i += 1
+
+        return list(pinyins.keys())
 
 
 if __name__ == '__main__':
