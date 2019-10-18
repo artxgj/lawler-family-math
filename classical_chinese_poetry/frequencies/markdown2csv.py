@@ -12,6 +12,7 @@ _ATTR_POET = 'poet'
 _ATTR_POEM = 'poem'
 _ATTR_TITLE = 'title'
 
+
 class Poem:
     def __init__(self):
         self._lines = []
@@ -85,7 +86,6 @@ def main():
     args = parser.parse_args()
 
     markdown_to_csv(args.poems_md, args.csv_poems)
-
 
 
 if __name__ == '__main__':
