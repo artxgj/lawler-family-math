@@ -1,6 +1,6 @@
 import csv
 import argparse
-from ngrams import cjk_ngrams
+from ngrams import ngrams
 
 
 def poem_ngrams(csv_poems_filepath: str, output_filepath: str, ngram_size: int) -> None:
@@ -9,8 +9,9 @@ def poem_ngrams(csv_poems_filepath: str, output_filepath: str, ngram_size: int) 
         with open(output_filepath, 'w') as outf:
             for row in reader:
                 for line in row['poem'].split('+'):
-                    for ngram in cjk_ngrams(line, ngram_size):
-                        outf.write(f'{ngram}\n')
+                    for ngram in ngrams(line, ngram_size):
+                        out = ''.join(list(ngram))
+                        outf.write(f"{out}\n")
 
 
 def main():

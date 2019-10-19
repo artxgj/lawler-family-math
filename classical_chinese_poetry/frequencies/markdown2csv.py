@@ -66,11 +66,11 @@ def markdown_to_csv(poems_md, poems_csv):
             tangpoem.title = ''.join(line.split(_TITLE_SPLIT)).strip()
         elif line.startswith(_MD_POEM_poet):
             tangpoem.poet = ''.join(line.split(_POET_SPLIT)).strip()
-            poem_line=True
+            poem_line = True
         elif line != '' and poem_line:
             tangpoem.add_line(line)
 
-    if poem_line :
+    if poem_line:
         writer.writerow({_ATTR_TITLE: tangpoem.title,
         _ATTR_POET: tangpoem.poet,
         _ATTR_POEM: tangpoem.poem})
