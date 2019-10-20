@@ -1,4 +1,4 @@
-from wiktionary import WiktionaryHtmlCrawler, WiktionaryAPICrawler, querystring_todict
+from p3lib.wiktionary import WiktionaryHtmlCrawler, WiktionaryAPICrawler, querystring_todict
 import urllib.parse
 
 

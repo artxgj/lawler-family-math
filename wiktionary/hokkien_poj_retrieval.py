@@ -1,5 +1,5 @@
 from minnanwikt import MinnanPronunciation
-from wiktionary import WicktionaryRevisionEntrySearch
+from p3lib.wiktionary import WicktionaryRevisionEntrySearch
 import argparse
 import csv
 import io

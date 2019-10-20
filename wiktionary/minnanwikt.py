@@ -1,4 +1,4 @@
-from wiktionary import WicktionaryRevisionEntrySearch
+from p3lib.wiktionary import WicktionaryRevisionEntrySearch
 
 import csv
 import io
