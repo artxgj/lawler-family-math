@@ -1,6 +1,6 @@
 import csv
 import argparse
-from ngrams import ngrams
+from p3lib.ngrams import ngrams
 
 
 def poem_ngrams(csv_poems_filepath: str, output_filepath: str, ngram_size: int) -> None:

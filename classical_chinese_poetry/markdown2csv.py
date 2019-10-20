@@ -1,12 +1,16 @@
-import csv
 import argparse
+import csv
+import io
+
+from typing import IO
+
 
 _MD_NEW_POEM = '---'
 _MD_POEM_TITLE = '###'
 _MD_POEM_poet = '**'
 _POET_SPLIT = '*'
 _TITLE_SPLIT = '#'
-_POEM_LINE_SEP = '+'
+_POEM_LINE_SEP = '\n'
 
 _ATTR_POET = 'poet'
 _ATTR_POEM = 'poem'
@@ -44,21 +48,22 @@ class Poem:
         return f"{self.title},{self.poet},{self.poem}"
 
 
-def markdown_to_csv(poems_md, poems_csv):
+def markdown_to_csv(istream_md: IO[str], ostream_csv: IO[str]) -> None:
     tangpoem = None
     poem_line = False
 
     fieldnames = [_ATTR_TITLE, _ATTR_POET, _ATTR_POEM]
-    writer = csv.DictWriter(poems_csv, fieldnames, lineterminator='\n')
+    writer = csv.DictWriter(ostream_csv, fieldnames, lineterminator='\n', quoting=csv.QUOTE_ALL)
     writer.writeheader()
-    for line in poems_md:
+
+    for line in istream_md:
         line = line.strip()
 
         if line.startswith(_MD_NEW_POEM):
             if tangpoem:
                 writer.writerow({_ATTR_TITLE: tangpoem.title,
-                _ATTR_POET: tangpoem.poet,
-                _ATTR_POEM: tangpoem.poem})
+                                 _ATTR_POET: tangpoem.poet,
+                                 _ATTR_POEM: tangpoem.poem})
 
             tangpoem = Poem()
             poem_line = False
@@ -72,20 +77,30 @@ def markdown_to_csv(poems_md, poems_csv):
 
     if poem_line:
         writer.writerow({_ATTR_TITLE: tangpoem.title,
-        _ATTR_POET: tangpoem.poet,
-        _ATTR_POEM: tangpoem.poem})
+                         _ATTR_POET: tangpoem.poet,
+                         _ATTR_POEM: tangpoem.poem})
 
-    poems_md.close()
-    poems_csv.close()
+
+def dump_to_memory(istream: IO[str]) -> None:
+    ostream = io.StringIO()
+    markdown_to_csv(istream, ostream)
+    print(ostream.getvalue())
+
+
+def dump_to_file(istream: IO[str], outfilepath: str) -> None:
+    with io.open(outfilepath, 'w', encoding='utf-8') as ostream:
+        markdown_to_csv(istream, ostream)
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-p', '--poems-md', help='The poems file written in markdown.', type=argparse.FileType('r'), required=True)
-    parser.add_argument('-c', '--csv-poems', help='The output csv file', type=argparse.FileType('w'), required=True)
+    parser.add_argument('-p', '--poems-md', help='The poems file written in markdown.', required=True)
+    parser.add_argument('-c', '--csv-poems', help='The output csv file', required=True)
     args = parser.parse_args()
 
-    markdown_to_csv(args.poems_md, args.csv_poems)
+    with io.open(args.poems_md, 'r', encoding='utf-8') as istream:
+        # dump_to_memory(istream)
+        dump_to_file(istream, args.csv_poems)
 
 
 if __name__ == '__main__':
