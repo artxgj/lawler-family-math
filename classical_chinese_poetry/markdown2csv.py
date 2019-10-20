@@ -3,6 +3,7 @@ import csv
 import io
 
 from typing import IO
+from poems_common import attr_poem, attr_poet, attr_title, verse_delim, poem_fieldnames
 
 
 _MD_NEW_POEM = '---'
@@ -10,11 +11,6 @@ _MD_POEM_TITLE = '###'
 _MD_POEM_poet = '**'
 _POET_SPLIT = '*'
 _TITLE_SPLIT = '#'
-_POEM_LINE_SEP = '\n'
-
-_ATTR_POET = 'poet'
-_ATTR_POEM = 'poem'
-_ATTR_TITLE = 'title'
 
 
 class Poem:
@@ -42,7 +38,7 @@ class Poem:
 
     @property
     def poem(self):
-        return _POEM_LINE_SEP.join(self._lines)
+        return verse_delim.join(self._lines)
 
     def __repr__(self):
         return f"{self.title},{self.poet},{self.poem}"
@@ -52,8 +48,7 @@ def markdown_to_csv(istream_md: IO[str], ostream_csv: IO[str]) -> None:
     tangpoem = None
     poem_line = False
 
-    fieldnames = [_ATTR_TITLE, _ATTR_POET, _ATTR_POEM]
-    writer = csv.DictWriter(ostream_csv, fieldnames, lineterminator='\n', quoting=csv.QUOTE_ALL)
+    writer = csv.DictWriter(ostream_csv, poem_fieldnames, lineterminator='\n', quoting=csv.QUOTE_ALL)
     writer.writeheader()
 
     for line in istream_md:
@@ -61,9 +56,9 @@ def markdown_to_csv(istream_md: IO[str], ostream_csv: IO[str]) -> None:
 
         if line.startswith(_MD_NEW_POEM):
             if tangpoem:
-                writer.writerow({_ATTR_TITLE: tangpoem.title,
-                                 _ATTR_POET: tangpoem.poet,
-                                 _ATTR_POEM: tangpoem.poem})
+                writer.writerow({attr_title: tangpoem.title,
+                                 attr_poet: tangpoem.poet,
+                                 attr_poem: tangpoem.poem})
 
             tangpoem = Poem()
             poem_line = False
@@ -76,9 +71,9 @@ def markdown_to_csv(istream_md: IO[str], ostream_csv: IO[str]) -> None:
             tangpoem.add_line(line)
 
     if poem_line:
-        writer.writerow({_ATTR_TITLE: tangpoem.title,
-                         _ATTR_POET: tangpoem.poet,
-                         _ATTR_POEM: tangpoem.poem})
+        writer.writerow({attr_title: tangpoem.title,
+                         attr_poet: tangpoem.poet,
+                         attr_poem: tangpoem.poem})
 
 
 def dump_to_memory(istream: IO[str]) -> None:
