@@ -1,12 +1,11 @@
-## Philippine Hokkien/Minnan Synonyms of Mandarin Words
+## Philippine Hokkien and Minnan Synonyms of Mandarin Words
 
 [Wiktionary](https://en.wiktionary.org/wiki/咱人話) has a list of dialectal synonyms of Chinese words in Mandarin 普通話. I think it is more precise to call them [topolectal](https://en.wiktionary.org/wiki/topolect) synonyms. 
-The words on this page were programmatically-generated from Wiktionary's synonyms data. These synoynyms belong to the 
-Philippine Hokkien **咱人話**/Minnan **閩南** subset. The romanized characters next to the Hokkien synonyms on this page are 
+The words on this page were programmatically-generated from Wiktionary's synonyms data. These synoynyms belong to the subset of Philippine Hokkien **咱人話** and Minnan **閩南** (Quanzhou and Xiamen) variants. The romanized characters next to the Hokkien synonyms on this page are 
 called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).  
 
 ### References ###
-#### How Hokkien/Minnan language sounds like in Xiamen and Quanzhou
+#### How Minnan language sounds like in Xiamen and Quanzhou
 * [Xiamen TV Food Show; the host speaks Minnan](https://www.youtube.com/watch?v=ypnPgDR7J2c)
 * [Xiamen TV Show: Quanzhou's West Street](https://www.youtube.com/watch?v=4qqQXphXNew)  
   * This episode made references to Philippine-Chinese. 
