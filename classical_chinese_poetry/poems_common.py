@@ -20,7 +20,7 @@ def lines_from_poems_csv(poems_csv_path: str) -> Generator[dict, None, None]:
 
 def poems_verse_ngrams(poems: Generator[dict, None, None], ngram_size: int) -> Generator[Tuple[str, ...], None, None]:
     for poem in poems:
-        for verse in poem[attr_poet].split(verse_delim):
+        for verse in poem[attr_poem].split(verse_delim):
             for ngram in ngrams(verse, ngram_size):
                 yield ngram
 
