@@ -1,3 +1,24 @@
+## Philippine Hokkien/Minnan Synonyms of Mandarin Words
+
+[Wiktionary](https://en.wiktionary.org/wiki/咱人話) has a list of dialectal synonyms of Mandarin 普通話. It is more precise to call them topolectal synonyms. 
+The topolectal synonyms on this page were generated from Wiktionary's synonyms and belong to the 
+Philippine Hokkien **咱人話**/Minnan **閩南** subset. The romanized characters next to the Hokkien words on this page are 
+called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).  
+
+### References ###
+#### How Hokkien/Minnan sounds like in Xiamen and Quanzhou
+* [Xiamen TV Food Show; the host speaks Minnan](https://www.youtube.com/watch?v=ypnPgDR7J2c)
+* [Xiamen TV Show: Quanzhou's West Street](https://www.youtube.com/watch?v=4qqQXphXNew)  
+  * This episode mentions the contributions of Philippine Chinese. 
+
+#### Wikipedia sources
+* [Philippine Hokkien](https://en.wikipedia.org/wiki/Philippine_Hokkien)
+* [Hokkien](https://en.wikipedia.org/wiki/Hokkien)
+* [Souther Min](https://en.wikipedia.org/wiki/Southern_Min)
+
+
+### Hokkien Topolectal Synonyms
+
 |Mandarin|pinyin|meaning|Hokkien/Minnan Synonyms|
 |--------|------|-------|----------------|
 |[一起](https://en.wiktionary.org/wiki/一起)|一qǐ|together|相佮 (saⁿ-kap,sa-kap,sio-kap)<br/>做伙 (chòe-hér,chòe-hé,chò-hóe,chère-hér,chòe-hóe)<br/>做陣 (chòe-tīn,chòe-chūn,chò-chūn,chò-tīn)<br/>做一下 (chòe-chi̍t-ē,chòe-chē,chò-chi̍t-ē,chòe--chi̍t-ē)<br/>鬥陣 (tàu-tīn)<br/>平平 (pîⁿ-pîⁿ,pêⁿ-pêⁿ)<br/>和齊 (hô-chôe)<br/>同齊 (tâng-chôe,tâng-chê)|
