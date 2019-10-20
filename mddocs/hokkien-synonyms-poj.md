@@ -1,7 +1,7 @@
 ## Philippine Hokkien/Minnan Synonyms of Mandarin Words
 
-[Wiktionary](https://en.wiktionary.org/wiki/咱人話) has a list of dialectal synonyms of Mandarin 普通話. It is more precise to call them topolectal synonyms. 
-The words on this page were generated from Wiktionary's synonyms. The synoynyms belong to the 
+[Wiktionary](https://en.wiktionary.org/wiki/咱人話) has a list of dialectal synonyms of Chinese words in Mandarin 普通話. I think it is more precise to call them [topolectal](https://en.wiktionary.org/wiki/topolect) synonyms. 
+The words on this page were programmatically-generated from Wiktionary's synonyms data. These synoynyms belong to the 
 Philippine Hokkien **咱人話**/Minnan **閩南** subset. The romanized characters next to the Hokkien synonyms on this page are 
 called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).  
 
