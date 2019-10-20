@@ -2,20 +2,7 @@ import argparse
 import csv
 import io
 
-from p3lib.ngrams import ngrams
 from poems_common import lines_from_poems_csv, poems_verse_ngrams
-
-"""
-def poem_ngrams(csv_poems_filepath: str, output_filepath: str, ngram_size: int) -> None:
-    with open(csv_poems_filepath, 'r') as csv_in:
-        reader = csv.DictReader(csv_in)
-        with open(output_filepath, 'w') as outf:
-            for row in reader:
-                for line in row['poem'].split('+'):
-                    for ngram in ngrams(line, ngram_size):
-                        out = ''.join(list(ngram))
-                        outf.write(f"{out}\n")
-"""
 
 
 def ngram_frequency(poems_csv_path: str, ngram_size: int) -> dict:
