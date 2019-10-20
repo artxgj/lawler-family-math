@@ -2,7 +2,7 @@
 
 ### 咱人話 / 閩南話
 
-A programming project to learn about Wiktionary and leveraged its wonderful data
+A programming project to learn about Wiktionary and leverage its wonderful data
 
 ### API References ###
 * [MediaWiki API Tutorial](https://www.mediawiki.org/wiki/API:Tutorial#How_to_use_it)  
