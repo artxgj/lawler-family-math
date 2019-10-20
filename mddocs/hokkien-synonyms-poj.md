@@ -9,7 +9,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 #### How Hokkien/Minnan sounds like in Xiamen and Quanzhou
 * [Xiamen TV Food Show; the host speaks Minnan](https://www.youtube.com/watch?v=ypnPgDR7J2c)
 * [Xiamen TV Show: Quanzhou's West Street](https://www.youtube.com/watch?v=4qqQXphXNew)  
-  * This episode mentions the contributions of Philippine Chinese. 
+  * This episode made references to Philippine-Chinese. 
 
 #### Wikipedia sources
 * [Philippine Hokkien](https://en.wikipedia.org/wiki/Philippine_Hokkien)
