@@ -41,7 +41,6 @@ def main():
     parser.add_argument("sexagen_filepath", help="The sexagenary output filepath")
     args = parser.parse_args()
 
-    # /Users/arthurkho/github/p3/data/tmp/sexagenary-cycle-1984.md
     with io.open(args.sexagen_filepath, 'w', encoding='utf-8') as ostream:
         genmd_chinese_calender(ostream)
 
