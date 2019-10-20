@@ -14,7 +14,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 #### Wikipedia sources
 * [Philippine Hokkien](https://en.wikipedia.org/wiki/Philippine_Hokkien)
 * [Hokkien](https://en.wikipedia.org/wiki/Hokkien)
-* [Souther Min](https://en.wikipedia.org/wiki/Southern_Min)
+* [Southern Min](https://en.wikipedia.org/wiki/Southern_Min)
 
 
 ### Hokkien Topolectal Synonyms
