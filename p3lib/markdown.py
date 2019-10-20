@@ -37,6 +37,18 @@ class Markdown:
         return "___"
 
     @staticmethod
+    def bold(s: str) -> str:
+        return f"**{s}**"
+
+    @staticmethod
+    def italic(s: str) -> str:
+        return f"_{s}_"
+
+    @staticmethod
+    def ul(s: str) -> str:
+        return f"- {s}"
+
+    @staticmethod
     def line(s: str) -> str:
         return f"{s}  "
 
