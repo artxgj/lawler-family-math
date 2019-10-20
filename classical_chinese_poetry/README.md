@@ -1,1 +1,9 @@
-Keeping track of Tang Dynasty poems that I had read. I have inchoate plans to use these poems as data for some programming exercises that could involve doing some math as well.
+## Writing simple programs using Tang Dynasty poems as data. 
+
+### References
+
+* [East Asia Student](https://eastasiastudent.net/tags/poetry/)
+* [From Meter to Meaning](https://frommetertomeaning.wordpress.com)
+* [Poetry Hack: 250 Tang Quatrains in New English Translations](http://poetryhack.blogspot.com/2014/05/200ish-tang-quatrains.html)
+* [讀古詩詞網 Study Ancient Chinese Poetry Words](https://fanti.dugushici.com)
+* [How to Read A Chinese Poem: A Bilingual Anthology of Tang Poetry](https://www.abebooks.com/products/isbn/9781419670138?cm_sp=bdp-_-ISBN13-_-PLP)

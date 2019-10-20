@@ -7,7 +7,7 @@ from typing import IO
 
 def poetry_words_set(poems_csv: str, ostream: IO[str]) -> None:
     詞 = set()
-    with io.open(poems_csv, 'r') as istream:
+    with io.open(poems_csv, 'r', encoding='utf-8') as istream:
         reader = csv.DictReader(istream)
         for row in reader:
             詞.update(set(row['poet'].strip()))
