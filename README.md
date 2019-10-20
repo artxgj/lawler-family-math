@@ -1,1 +1,6 @@
-Code to aid and supplement my study and review of math topics. I started this repo after seeing a few short Mathematica programs from the videos on [Mike's Math Page](https://mikesmathpage.wordpress.com).
+## Poetry, Probability and Programming (P3)
+
+- Using Programming to learn Classical Chinese Poetry and Basic Probability. 
+
+
+P3 can also be thought of as my repo for exploring and learning more about Python 3. 😀
