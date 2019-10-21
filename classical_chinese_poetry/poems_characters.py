@@ -1,20 +1,19 @@
 import argparse
-import csv
 import io
 
+from p3lib.csvhelper import dictlines_from_csv
+from poems_common import verse_delim
 from typing import IO
 
 
 def poetry_words_set(poems_csv: str, ostream: IO[str]) -> None:
     詞 = set()
-    with io.open(poems_csv, 'r', encoding='utf-8') as istream:
-        reader = csv.DictReader(istream)
-        for row in reader:
-            詞.update(set(row['poet'].strip()))
-            詞.update(set(row['title'].strip()))
+    for row in dictlines_from_csv(poems_csv):
+        詞.update(set(row['poet'].strip()))
+        詞.update(set(row['title'].strip()))
 
-            for verse in row['poem'].split('\n'):
-                詞.update(set(verse.strip()))
+        for verse in row['poem'].split(verse_delim):
+            詞.update(set(verse.strip()))
 
     for word in 詞:
         ostream.write(f'{word}\n')
@@ -37,7 +36,7 @@ def main():
     parser.add_argument('-c', '--csv-poems', help='The poems csv file', required=True)
     args = parser.parse_args()
 
-    # dump_to_memory(args.csv_poems)
+    #dump_to_memory(args.csv_poems)
     dump_to_file(args.csv_poems, args.hanzi)
 
 
