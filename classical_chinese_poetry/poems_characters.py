@@ -2,17 +2,17 @@ import argparse
 import io
 
 from p3lib.csvhelper import dictlines_from_csv
-from poems_common import verse_delim
+from poems_common import verse_delim, attr_title, attr_poet, attr_poem
 from typing import IO
 
 
 def poetry_words_set(poems_csv: str, ostream: IO[str]) -> None:
     詞 = set()
     for row in dictlines_from_csv(poems_csv):
-        詞.update(set(row['poet'].strip()))
-        詞.update(set(row['title'].strip()))
+        詞.update(set(row[attr_poet].strip()))
+        詞.update(set(row[attr_title].strip()))
 
-        for verse in row['poem'].split(verse_delim):
+        for verse in row[attr_poem].split(verse_delim):
             詞.update(set(verse.strip()))
 
     for word in 詞:
