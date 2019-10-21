@@ -4,6 +4,7 @@ from collections import deque
 __all__ = ['ngrams']
 
 
+
 def ngrams(grams: Sequence[str], n: int = 1) -> Generator[Tuple[str, ...], None, None]:
     if not isinstance(grams, Sequence):
         raise TypeError('grams is not of type Sequence[str]')
