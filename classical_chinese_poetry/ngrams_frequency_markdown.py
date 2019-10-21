@@ -24,8 +24,7 @@ def markdown_report(ngram_size: int, num_poems: int,
 
     frequency_data_rows = '\n'.join([Markdown.table_row([''.join(ngram), str(count)]) for ngram, count in rawfreqdata])
 
-    ngram_report = f"""== Tang Poems: {gram_name}s Frequency Table   
-
+    ngram_report = f"""## Tang Poems: {gram_name}s Frequency Table   
 _Computed using the verses from {num_poems} Tang poems_
 
 | {gram_name} | Frequency |

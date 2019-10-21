@@ -1,4 +1,7 @@
-== Tang Poems: Trigrams Frequency Table   
+= A
+
+Tang Poems: Trigrams Frequency Table 
+ 
 
 _Computed using the verses from 73 Tang poems_
 
