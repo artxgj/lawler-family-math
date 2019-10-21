@@ -2,13 +2,14 @@ import argparse
 import csv
 import io
 
-from poems_common import lines_from_poems_csv, poems_verse_ngrams
+from poems_common import poems_verse_ngrams
+from p3lib.csvhelper import dictlines_from_csv
 
 
 def ngram_frequency(poems_csv_path: str, ngram_size: int) -> dict:
     frequency = {}
 
-    poems = lines_from_poems_csv(poems_csv_path)
+    poems = dictlines_from_csv(poems_csv_path)
 
     for ngram in poems_verse_ngrams(poems, ngram_size):
         key = ''.join(ngram)
