@@ -19,17 +19,17 @@ class WiktEntryCJKV:
 
         return str(section[0])
 
-    def chinese(self, wiktentrytext: str) -> str:
-        return self._language_section(wiktentrytext, 'Chinese')
+        def chinese(self, wiktentrytext: str) -> str:
+            return self._language_section(wiktentrytext, 'Chinese')
 
-    def japanese(self, wiktentrytext: str) -> str:
-        return self._language_section(wiktentrytext, 'Japanese')
+        def japanese(self, wiktentrytext: str) -> str:
+            return self._language_section(wiktentrytext, 'Japanese')
 
-    def korean(self, wiktentrytext: str) -> str:
-        return self._language_section(wiktentrytext, 'Korean')
+        def korean(self, wiktentrytext: str) -> str:
+            return self._language_section(wiktentrytext, 'Korean')
 
-    def vietnamese(self, wiktentrytext: str) -> str:
-        return self._language_section(wiktentrytext, 'Vietnamese')
+        def vietnamese(self, wiktentrytext: str) -> str:
+            return self._language_section(wiktentrytext, 'Vietnamese')
 
 
 class iWiktZhTopolectPronunciation:
@@ -101,9 +101,11 @@ class WiktMinnanPronunciation(iWiktZhTopolectPronunciation):
         https://en.wiktionary.org/wiki/Template:zh-pron/documentation
 
         mn=x/y/z
-        Min Nan (Hokkien) POJ (with the addition of the Quanzhou and Zhangzhou dialect vowels ee, er, and ir and use of a caron for tone mark 6 and a double acute accent for tone mark 9, adopted from Tâi-lô)
+        Min Nan (Hokkien) POJ (with the addition of the Quanzhou and Zhangzhou dialect vowels ee, er, and ir and use of
+        a caron for tone mark 6 and a double acute accent for tone mark 9, adopted from Tâi-lô)
         # can be used to disable tone sandhi between syllables.
-        Labels followed by a colon can be placed before a pronunciation to specify information about the pronunciation. Multiple abbreviations are separated with commas ,.
+        Labels followed by a colon can be placed before a pronunciation to specify information about the pronunciation.
+        Multiple abbreviations are separated with commas ,.
         Label	Information
         xm	Xiamen
         qz	Quanzhou

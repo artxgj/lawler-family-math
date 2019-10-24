@@ -1,6 +1,4 @@
 from bs4 import BeautifulSoup
-import copy
-import mwparserfromhell
 import requests
 
 
@@ -230,6 +228,9 @@ class IWicktionarySearch:
     """
       like a "Java Interface Type"
     """
+    def __init__(self):
+        NotImplemented
+
     def find(self, entry):
         NotImplemented
 
@@ -282,42 +283,3 @@ class WiktionaryRawTitle(IWicktionarySearch):
 
         resp = self._crawler.post(params)
         return resp.text
-
-
-def section_chinese(wikicode : 'mwparserfromhell.wikicode.Wikicode'):
-    sections = wikicode.get_sections(matches="Chinese")
-
-    if len(sections) == 0:
-        raise ValueError("wikicode doesn't have a Chinese section")
-
-    return sections[0]
-
-
-def wikicode(wiktionary_entry_text) -> 'mwparserfromhell.wikicode.Wikicode':
-    return mwparserfromhell.parse(wiktionary_entry_text)
-
-
-if __name__ == '__main__':
-    #
-    # sample code
-    #
-    wikt_title = WicktionaryRevisionEntrySearch()
-    love = wikt_title.find('愛')
-    wc_content = wikicode(love.content)
-    section = section_chinese(wc_content)
-    print(section)
-    print("\n---------\n")
-
-    house_family = wikt_title.find('家')
-    section = section_chinese(wikicode(house_family.content))
-    print(section)
-
-    print("\n\n~~~~ kj1 ~~~~\n")
-    behind = wikt_title.find('冠')
-    section = section_chinese(wikicode(behind.content))
-    print(section)
-
-    print("\n\n~~~~ kj2 ~~~~\n")
-    kj = WiktionaryRawTitle()
-    print(kj.find('冠'))
-

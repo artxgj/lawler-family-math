@@ -17,6 +17,7 @@ A programming project to learn about Wiktionary and leverage its wonderful data
 
 #### Chinese-related ###
 * [Wiktionary:About Chinese](https://en.wiktionary.org/wiki/Wiktionary:About_Chinese)
+* [Wiktionary:About_Han_script](https://en.wiktionary.org/wiki/Wiktionary:About_Han_script)
 * [Template:Han char/documentation](https://en.wiktionary.org/wiki/Template:Han_char/documentation)
 
 ##### Templates
@@ -39,6 +40,7 @@ A programming project to learn about Wiktionary and leverage its wonderful data
 
 ##### Modules
 * [Minnan Pronunciation Module](https://en.wiktionary.org/wiki/Module:nan-pron)
+* [Module:zh-pron](https://en.wiktionary.org/wiki/Module:zh-pron)
 * [Module:Zh](https://en.wikipedia.org/wiki/Module:Zh)
 * [Module:zh/data/dial](https://en.wiktionary.org/wiki/Module:zh/data/dial)
 * [Module:zh/data/dial-syn](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn)
