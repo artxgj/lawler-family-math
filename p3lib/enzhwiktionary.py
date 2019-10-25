@@ -1,5 +1,6 @@
 from abc import ABC, abstractmethod
-from typing import Sequence, Any, Optional
+from dataclasses import dataclass
+from typing import Sequence, Optional
 import re
 
 """
@@ -41,25 +42,37 @@ _SupportedTopolects = {"m", "m-s", "c", "c-t", "g", "h", "j",
                        "mb", "md", "mn", "mn-t", "w", "x"}
 
 
-class TopolectPronunciation(ABC):
-    @abstractmethod
-    def dialect(self, dial: str = None) -> Sequence[str]:
-        pass
-
-    @abstractmethod
-    def notes(self):
-        pass
+@dataclass
+class RawTopolectPronunciation:
+    info: str
+    note: str = None
 
 
-class IEnWiktChinesePronunciation(ABC):
+class EnWiktChinesePronunciation(ABC):
     """
     https://en.wiktionary.org/wiki/Template:zh-pron#Empty_template
     """
     pattern_note = re.compile('[a-z]+_note$')
 
+    def __init__(self, wiktentry: str):
+        if not isinstance(wiktentry, str):
+            raise TypeError('wiktentry has to be a string.')
+        self._topolects = {}
+        self.parse_topolects(wiktentry)
+
     @abstractmethod
-    def topolect(self, 方言: str) -> TopolectPronunciation:
+    def parse_topolects(self, something) -> None:
+        """
+            The implementation will use its mediawiki parser to parse the pronunciations of each topolect
+            and save the parsed topolects and notes to self._topolect_values and self._topolect_notes
+        """
         pass
+
+    def topolect(self, 方言: str) -> Optional[Sequence[RawTopolectPronunciation]]:
+        try:
+            return self._topolects[方言]
+        except KeyError as e:
+            raise Exception(f"Pronunciation for {方言} is not available." )
 
     @classmethod
     def is_note(cls, lang_note) -> bool:
@@ -79,7 +92,7 @@ class IEnWiktChinesePronunciation(ABC):
             return None
 
 
-class Minnan(TopolectPronunciation):
+class Minnan:
     """
     https://en.wiktionary.org/wiki/Module:nan-pron
 
@@ -144,8 +157,8 @@ class Minnan(TopolectPronunciation):
         "twz": "Taiwan-Z",
     }
 
-    def __init__(self, pojs: Sequence[str], notes: Sequence[str] = None):
-        super().__init__(pojs, notes)
+    def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
+        pass
 
     def dialect(self, dial: str) -> Sequence[str]:
         pass
@@ -154,8 +167,8 @@ class Minnan(TopolectPronunciation):
         pass
 
 
-class Mandarin(TopolectPronunciation):
-    def __init__(self, pron: Sequence[str], notes: Sequence[str] = None):
+class Mandarin:
+    def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
         pass
 
     def dialect(self, dial: str) -> Sequence[str]:
