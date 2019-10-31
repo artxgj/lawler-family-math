@@ -1,3 +1,4 @@
+from typing import List
 from p3lib.wiktionary import WiktionaryHtmlCrawler, WiktionaryAPICrawler, querystring_todict
 import urllib.parse
 
@@ -26,12 +27,12 @@ class ZhDataDialSynIndexCrawler:
         else:
             return []
 
-    def extract_index(self, params=None):
+    def extract_index(self, params: dict = None) -> List[str]:
         lparams = params or self._crawler_params()
         soup = self._crawler.post(lparams)
         return self._extract_dialsyn(soup)
 
-    def extract_all_indices(self, params=None, maxindices=10):
+    def extract_all_indices(self, params: dict = None, maxindices: int = 10) -> List[str]:
         if maxindices <= 0:
             raise ValueError('maxindices must be at least 1')
 
@@ -63,7 +64,7 @@ class ZhDialectalSynonym:
     def __init__(self):
         self._crawler = WiktionaryAPICrawler()
 
-    def find(self, module_zh_dialsyn: str) -> 'wikitext':
+    def find(self, module_zh_dialsyn: str) -> dict:
 
         """
 
