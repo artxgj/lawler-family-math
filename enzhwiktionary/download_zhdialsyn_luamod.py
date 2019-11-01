@@ -1,24 +1,9 @@
 from zhdialsyn import ZhDialectalSynonym
 
 import argparse
-import json
-import re
-
-# see sample input at the bottom of the file
-regex_dialsyn = re.compile(r'^\s+\["(.+)"]\s+=\s*[{"](.*)["}],*$')
 
 
-def lua2dict(lua_export):
-    dialsyn_dict = {}
-    for line in lua_export['parse']['wikitext']['*'].split('\n'):
-        kvpair = re.match(regex_dialsyn, line)
-        if kvpair:
-            dialsyn_dict[kvpair.group(1).strip()] = kvpair.group(2).strip().replace('"', '')
-
-    return dialsyn_dict
-
-
-def extract_dialectal_synonyms(infilepath, outfolder):
+def download_dialectal_synonyms(infilepath, outfolder):
     dsapi = ZhDialectalSynonym()
     with open(infilepath, 'r') as infile:
         for line in infile:
@@ -36,4 +21,4 @@ if __name__ == '__main__':
     parser.add_argument("-o", "--output-folder", help="dialectal synonyms output filepath", required=True)
     args = parser.parse_args()
 
-    extract_dialectal_synonyms(args.infilepath, args.output_folder)
+    download_dialectal_synonyms(args.infilepath, args.output_folder)
