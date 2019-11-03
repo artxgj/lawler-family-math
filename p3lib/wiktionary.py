@@ -1,8 +1,12 @@
 from bs4 import BeautifulSoup
+from enum import IntEnum, unique
+from typing import Generator
 import requests
+import urllib.parse
 
 
-__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', 'WicktionaryRevisionEntrySearch', 'WiktionaryRevision', 'querystring_todict']
+__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', "WiktionarySpecialPrefixIndexTool", "WicktionaryRevisionEntrySearch",
+           "WiktionaryRevision", 'querystring_todict']
 
 """
 https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
@@ -10,6 +14,20 @@ https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&pag
 
 WIKTIONARY_INDEX_URL = "https://en.wiktionary.org/w/index.php"
 WIKTIONARY_API_URL = "https://en.wiktionary.org/w/api.php"
+
+
+@unique
+class Namespace(IntEnum):
+    """
+    Reference: https://en.wiktionary.org/wiki/Wiktionary:Namespace
+
+    Below is a list of namespaces that are of interest
+    """
+    main = 0,
+    file = 6,
+    template = 10,
+    category = 14,
+    module = 828
 
 
 def querystring_todict(qs_params):
@@ -66,7 +84,7 @@ class WiktionaryHtmlCrawler:
         self._endpoint = endpoint or WIKTIONARY_INDEX_URL
         self._requests = RequestsWrapper(self._endpoint)
 
-    def _soup_response(self, response: 'requests_response') -> 'BeautifulSoup':
+    def _soup_response(self, response: 'requests_response') -> BeautifulSoup:
         return BeautifulSoup(response.text, 'lxml')
 
     def post(self, params):
@@ -231,7 +249,7 @@ class IWicktionarySearch:
     def __init__(self):
         NotImplemented
 
-    def find(self, entry):
+    def find(self, params: dict):
         NotImplemented
 
 
@@ -283,3 +301,34 @@ class WiktionaryRawTitle(IWicktionarySearch):
 
         resp = self._crawler.post(params)
         return resp.text
+
+
+class WiktionarySpecialPrefixIndexTool(WiktionaryHtmlCrawler):
+    def _query(self, params: dict, max_pages: int) -> Generator:
+        page = 0
+        while params and page < max_pages:
+            soup = super().post(params)
+            results = soup.find('ul', attrs={"class": "mw-prefixindex-list"})
+
+            nextpage = soup.find("div", attrs={'class': 'mw-prefixindex-nav'})
+
+            if results:
+                yield (a['title'] for a in results.find_all('a'))
+
+            if nextpage:
+                a = nextpage.find('a')
+                qs_params = urllib.parse.unquote(a['href']).split('?')[1]
+                params = querystring_todict(qs_params)
+            else:
+                params = {}
+
+            page += 1
+
+    def query(self, prefix: str, ns: Namespace, max_pages: int = 1):
+        params = {'prefix': 'zh/data/dial-syn',
+                  'namespace': ns.value,
+                  'title': 'Special:PrefixIndex'}
+
+        for gexp in self._query(params, max_pages):
+            for item in gexp:
+                yield item
