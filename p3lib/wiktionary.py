@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 from enum import IntEnum, unique
-from typing import Generator
+from typing import Generator, Iterator
 import requests
 import urllib.parse
 
@@ -303,8 +303,8 @@ class WiktionaryRawTitle(IWicktionarySearch):
         return resp.text
 
 
-class WiktionarySpecialPrefixIndexTool(WiktionaryHtmlCrawler):
-    def _query(self, params: dict, max_pages: int) -> Generator:
+class WiktionarySpecialPrefixIndex(WiktionaryHtmlCrawler):
+    def _query(self, params: dict, max_pages: int) -> Iterator[Generator]:
         page = 0
         while params and page < max_pages:
             soup = super().post(params)
