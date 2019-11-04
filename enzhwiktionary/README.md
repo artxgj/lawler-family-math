@@ -1,0 +1,1 @@
+Programs and classes that deal with en.wiktionary.org's Chinese words, modules, etc.
