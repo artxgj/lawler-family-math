@@ -1,18 +1,15 @@
-from zhdialsyn import ZhDialectalSynonym
-
+from zhmodules import ZhModuleDataPage
 import argparse
 
 
 def download_dialectal_synonyms(infilepath, outfolder):
-    dsapi = ZhDialectalSynonym()
+    dsapi = ZhModuleDataPage()
     with open(infilepath, 'r') as infile:
         for line in infile:
-            module_zh = line.strip()
-            word = module_zh[module_zh.rfind('/') + 1:]
-            print(f"retrieving {word}")
-            res = dsapi.find(module_zh)
+            word = line.strip()
+            res = dsapi.get_synonym_data(word)
             with open(f"{outfolder}/{word}", 'w', encoding='utf-8') as outf:
-                outf.write(res['parse']['wikitext']['*'])
+                outf.write(res)
 
 
 if __name__ == '__main__':

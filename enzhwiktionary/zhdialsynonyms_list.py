@@ -1,19 +1,19 @@
-from zhdialsyn import ZhDataDialSynIndexCrawler
+from zhmodules import ZhModuleDataIndex
 import argparse
+import io
 
 
-def chinese_module_dialectal_synonyms(outfilepath):
-    crawler = ZhDataDialSynIndexCrawler()
-    dialsyn_datamodules = crawler.extract_all_indices()
+def filestream_zhsynonyms_list(outfilepath):
+    mdi = ZhModuleDataIndex()
+    with io.open(outfilepath, "w", encoding='utf-8') as ostream:
+        mdi.list_synonyms(ostream)
 
-    with open(outfilepath, "w") as f:
-        for dialsyn in dialsyn_datamodules:
-            past_rightslash = dialsyn.rfind('/') + 1
 
-            if past_rightslash < len(dialsyn) and ord(dialsyn[past_rightslash]) < 0x80:
-                continue    # ignore ascii
-
-            f.write(f"{dialsyn}\n")
+def memstream_zhsynonyms_list():
+    mdi = ZhModuleDataIndex()
+    s = io.StringIO()
+    mdi.list_synonyms(s)
+    print(s.getvalue())
 
 
 if __name__ == '__main__':
@@ -21,7 +21,8 @@ if __name__ == '__main__':
     parser.add_argument("-o", "--outfilepath", help="dialectal synonym output filepath", type=str, required=True)
     args = parser.parse_args()
 
-    chinese_module_dialectal_synonyms(args.outfilepath)
+    filestream_zhsynonyms_list(args.outfilepath)
+    # memstream_zhsynonyms_list()
 
 
 
