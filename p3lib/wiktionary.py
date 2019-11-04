@@ -5,12 +5,9 @@ import requests
 import urllib.parse
 
 
-__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', "WiktionarySpecialPrefixIndexTool", "WicktionaryRevisionEntrySearch",
+__all__ = ['WiktionaryAPICrawler', 'WiktionaryHtmlCrawler', "WiktionarySpecialPrefixIndex", "WicktionaryRevisionEntrySearch",
            "WiktionaryRevision", 'querystring_todict']
 
-"""
-https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
-"""
 
 WIKTIONARY_INDEX_URL = "https://en.wiktionary.org/w/index.php"
 WIKTIONARY_API_URL = "https://en.wiktionary.org/w/api.php"
@@ -303,11 +300,17 @@ class WiktionaryRawTitle(IWicktionarySearch):
         return resp.text
 
 
-class WiktionarySpecialPrefixIndex(WiktionaryHtmlCrawler):
+class WiktionarySpecialPrefixIndex:
+    """
+    Reference: https://en.wiktionary.org/w/index.php?title=Special:PrefixIndex
+    """
+    def __init__(self):
+        self._wikt = WiktionaryHtmlCrawler()
+
     def _query(self, params: dict, max_pages: int) -> Iterator[Generator]:
         page = 0
         while params and page < max_pages:
-            soup = super().post(params)
+            soup = self._wikt.post(params)
             results = soup.find('ul', attrs={"class": "mw-prefixindex-list"})
 
             nextpage = soup.find("div", attrs={'class': 'mw-prefixindex-nav'})
@@ -332,3 +335,23 @@ class WiktionarySpecialPrefixIndex(WiktionaryHtmlCrawler):
         for gexp in self._query(params, max_pages):
             for item in gexp:
                 yield item
+
+
+class WiktionaryModuleDataPage:
+    """
+    Reference example:
+    https://en.wiktionary.org/w/api.php?action=parse&prop=wikitext&format=jsonfm&page=Module:zh/data/dial-syn/地震
+    """
+
+    def __init__(self):
+        self._wikt = WiktionaryAPICrawler()
+
+    def get_contents(self, page: str) -> str:
+        params = {'action': 'parse',
+                  'prop': 'wikitext',
+                  'format': 'json',
+                  'page': page}
+
+        res = self._wikt.post(params)
+        return res['parse']['wikitext']['*']
+
