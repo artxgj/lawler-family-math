@@ -325,7 +325,7 @@ class WiktionarySpecialPrefixIndexTool(WiktionaryHtmlCrawler):
             page += 1
 
     def query(self, prefix: str, ns: Namespace, max_pages: int = 1):
-        params = {'prefix': 'zh/data/dial-syn',
+        params = {'prefix': prefix,
                   'namespace': ns.value,
                   'title': 'Special:PrefixIndex'}
 
