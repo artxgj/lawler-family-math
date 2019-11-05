@@ -8,9 +8,9 @@ import re
 regex_dialsyn = re.compile(r'^\s+\["(.+)"]\s+=\s*[{"](.*)["}],*$')
 
 
-def lua2dict(lua_export):
+def lua2dict(lua_export: str):
     dialsyn_dict = {}
-    for line in lua_export.split():
+    for line in lua_export.split('\n'):
         kvpair = re.match(regex_dialsyn, line)
         if kvpair:
             dialsyn_dict[kvpair.group(1).strip()] = kvpair.group(2).strip().replace('"', '')

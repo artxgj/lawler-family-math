@@ -77,7 +77,7 @@ class RequestsWrapper:
 
 
 class WiktionaryHtmlCrawler:
-    def __init__(self, endpoint=None):
+    def __init__(self, endpoint: str = None):
         self._endpoint = endpoint or WIKTIONARY_INDEX_URL
         self._requests = RequestsWrapper(self._endpoint)
 
@@ -94,7 +94,7 @@ class WiktionaryHtmlCrawler:
 
 
 class WiktionaryAPICrawler:
-    def __init__(self, url=None):
+    def __init__(self, url: str = None):
         url = url or WIKTIONARY_API_URL
         self._requests = RequestsWrapper(url)
 
@@ -276,7 +276,7 @@ class WiktionaryRenderedTitle(IWicktionarySearch):
     def __init__(self):
         self._crawler = WiktionaryHtmlCrawler()
 
-    def find(self, title):
+    def find(self, title: str) -> str:
         params = {
             'title': title,
             'action': 'render'
