@@ -1,5 +1,6 @@
 from typing import IO, Optional
 from p3lib.wiktionary import WiktionaryModuleDataPage, WiktionarySpecialPrefixIndex, Namespace
+from io import StringIO
 from luaparser import ast, astnodes
 
 
@@ -37,15 +38,32 @@ class ZhModuleDataIndex:
             yield outstr
 
 
-class ZhModuleDataPage:
+class ZhModuleDataResource:
+    def get_synonym_data(self, word: str) -> str:
+        pass
+
+
+class ZhModuleDataPage(ZhModuleDataResource):
     prefix_dialectal_syn = "Module:zh/data/dial-syn/"
 
     def __init__(self):
         self._mdp = WiktionaryModuleDataPage()
 
-    def get_synonym_data(self, word: str):
+    def get_synonym_data(self, word: str) -> str:
         page = f"{self.prefix_dialectal_syn}{word}"
         return self._mdp.get_contents(page)
+
+
+class ZhModuleDataFile(ZhModuleDataResource):
+    def __init__(self, dirpath: str):
+        self._dirpath = dirpath
+
+    def get_synonym_data(self, word: str) -> str:
+        s = StringIO()
+        with open(f"{self._dirpath}/{word}", "r", encoding='utf-8') as f:
+            s.writelines(f.readlines())
+
+        return s.getvalue()
 
 
 class ZhSynonymsLuaModule:
