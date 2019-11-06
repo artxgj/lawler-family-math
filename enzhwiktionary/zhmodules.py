@@ -44,7 +44,9 @@ class ZhModuleDataResource:
 
 
 class ZhModuleDataPage(ZhModuleDataResource):
+    Module_name = "Module:zh/data/"
     prefix_dialectal_syn = "Module:zh/data/dial-syn/"
+    prefix_nan_pron = "Module:zh/data/nan-pron/"
 
     def __init__(self):
         self._mdp = WiktionaryModuleDataPage()
@@ -52,6 +54,13 @@ class ZhModuleDataPage(ZhModuleDataResource):
     def get_synonym_data(self, word: str) -> str:
         page = f"{self.prefix_dialectal_syn}{word}"
         return self._mdp.get_contents(page)
+
+    def get_pronunciation_data(self, pron_page: str) -> str:
+        """
+        refactor later, now that it's obvious get_pronunciation_data is
+        essentially the same as get_synonym_data
+        """
+        return self._mdp.get_contents(pron_page)
 
 
 class ZhModuleDataFile(ZhModuleDataResource):
