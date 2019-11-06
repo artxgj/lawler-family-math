@@ -84,11 +84,31 @@ class ZhSynonymsLuaModule:
 
     @classmethod
     def rhs_field_to_str(field):
-        print(field)
         return f"{field.key}  = {field.value}"
 
     @classmethod
     def find_synonyms_table(cls, astree: ast.Node) -> Optional[ast.Table]:
+        """
+        This method converts a lua table of dialectal synonyms to a python dictionary
+
+        astree is an abstract tree that represents a dialectal synoynyms resource written in Lua.
+        The following is an example of the dialectal synonyms for 麵包:
+
+            local export = {}
+
+            export.list = {
+                ["meaning"]		= "bread",
+                ["note"]		= "",
+                ["Singapore-MN"]	= { "loti" },
+                ["Philippine-MN"]	= { "饅頭", "麵包" }
+
+            }
+
+            return export
+
+
+        For the entire list of synoynms for 麵包, see https://en.wiktionary.org/wiki/Module:zh/data/dial-syn/麵包
+        """
         for node in ast.walk(astree):
             if isinstance(node, ast.Assign) and not isinstance(node, ast.LocalAssign):
                 for offset, target in enumerate(node.targets):
@@ -99,9 +119,11 @@ class ZhSynonymsLuaModule:
 
         return None
 
-    def extract_pydict(self, lua_synonym_mod: str) -> dict:
+    def extract_pydict(self, lua_synonym_mod: str) -> Optional[dict]:
+        """
+        See above's find_synonyms_table regarding the string contents of lua_synonym_mod
+        """
         tree = ast.parse(lua_synonym_mod)
-
         synluatbl = self.find_synonyms_table(tree)
 
         if synluatbl:
