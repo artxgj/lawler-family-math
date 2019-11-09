@@ -308,6 +308,12 @@ class WiktionarySpecialPrefixIndex:
         self._wikt = WiktionaryHtmlCrawler()
 
     def _query(self, params: dict, max_pages: int) -> Iterator[Generator]:
+        """
+
+        :param params:
+        :param max_pages:
+        :return: Iterator[generators] that represent pages of items
+        """
         page = 0
         while params and page < max_pages:
             soup = self._wikt.post(params)
@@ -327,7 +333,7 @@ class WiktionarySpecialPrefixIndex:
 
             page += 1
 
-    def query(self, prefix: str, ns: Namespace, max_pages: int = 1):
+    def query(self, prefix: str, ns: Namespace, max_pages: int = 1) -> Iterator[str]:
         params = {'prefix': prefix,
                   'namespace': ns.value,
                   'title': 'Special:PrefixIndex'}

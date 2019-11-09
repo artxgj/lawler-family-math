@@ -7,7 +7,8 @@ def download_dialectal_synonyms(infilepath, outfolder):
     with open(infilepath, 'r') as infile:
         for line in infile:
             word = line.strip()
-            res = dsapi.get_synonym_data(word)
+            #res = dsapi.dialectal_synonyms(word)
+            res = getattr(dsapi, "dialectal_synonyms")(word)
             with open(f"{outfolder}/{word}", 'w', encoding='utf-8') as outf:
                 outf.write(res)
 

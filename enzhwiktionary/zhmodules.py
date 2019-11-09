@@ -2,40 +2,63 @@ from typing import IO, Optional
 from p3lib.wiktionary import WiktionaryModuleDataPage, WiktionarySpecialPrefixIndex, Namespace
 from io import StringIO
 from luaparser import ast, astnodes
+from abc import ABC, abstractmethod
 
 
-class ZhModuleDataIndex:
-    pron_minnan = "nan-pron"
-
-    def __init__(self):
+class ZhModuleDataIndex(ABC):
+    def __init__(self, modulepage, maxpages):
+        self._maxpages = maxpages
+        self._modulepagepath = f"zh/data/{modulepage}"
+        self._modulepage = modulepage
         self._spi = WiktionarySpecialPrefixIndex()
 
-    def list_synonyms(self, ostream: IO[str], stripprefix: bool = True) -> None:
-        for syn_mod in self._spi.query('zh/data/dial-syn', Namespace.module, max_pages=50):
-            past_rightslash = syn_mod.rfind('/') + 1
+    def _remove_prefix(self, subpage):
+        lastrightslash= subpage.rfind('/')
+        return subpage[lastrightslash+1:]
 
-            if past_rightslash < len(syn_mod) and ord(syn_mod[past_rightslash]) < 0x80:
-                continue    # ignore ascii
+    def get_contents(self, stripprefix: bool = True):
+        index_pages = self._spi.query(self._modulepagepath, Namespace.module, max_pages=self._maxpages)
 
-            if stripprefix:
-                outstr = syn_mod[past_rightslash:]
-            else:
-                outstr = syn_mod
+        if stripprefix:
+            index_pages = map(self._remove_prefix, index_pages)
 
-            ostream.write(f"{outstr}\n")
+        return filter(self.filter_predicate, index_pages)
 
-    def list_pronunciations(self, topolect: str, stripprefix: bool = True):
-        prefix = f"zh/data/{topolect}"
+    @abstractmethod
+    def filter_predicate(self, sub_page_names):
+        pass
 
-        for syn_mod in self._spi.query(prefix, Namespace.module, max_pages=50):
-            past_rightslash = syn_mod.rfind('/') + 1
 
-            if stripprefix:
-                outstr = syn_mod[past_rightslash:]
-            else:
-                outstr = syn_mod
+class BaiyueIndex(ZhModuleDataIndex):
+    """
+        https://en.wikipedia.org/wiki/Baiyue
 
-            yield outstr
+        This class is used for extracting the items of en.wiktionary.org's index pages for nan-pron (Minnan 閩南發音),
+        hak-pron (Hakka 客家發音) and yue-word (Cantonese 廣東發音)
+    """
+    _doc = 'documentation'
+
+    def __init__(self, modulepage, maxpages=1):
+        super().__init__(modulepage, maxpages)
+
+    def predicate(self, sub_page_name):
+        return sub_page_name[-len(self._modulepage):] != self._modulepage and sub_page_name[-len(self._doc):] != self._doc
+
+    def filter_predicate(self, sub_page_name):
+        return sub_page_name[-len(self._modulepage):] != self._modulepage and sub_page_name[-len(self._doc):] != self._doc
+
+
+class DialectalSynonymsIndex(ZhModuleDataIndex):
+    _template = 'template'
+    _doc = 'documentation'
+
+    def __init__(self, modulepage='dial-syn'):
+        super().__init__(modulepage, maxpages=10)
+
+    def filter_predicate(self, sub_page_name):
+        return sub_page_name[-len(self._modulepage):] != self._modulepage and \
+                    sub_page_name[-len(self._doc):] != self._doc and \
+                    sub_page_name[-len(self._template):] != self._template
 
 
 class ZhModuleDataResource:
@@ -44,23 +67,42 @@ class ZhModuleDataResource:
 
 
 class ZhModuleDataPage(ZhModuleDataResource):
-    Module_name = "Module:zh/data/"
-    prefix_dialectal_syn = "Module:zh/data/dial-syn/"
-    prefix_nan_pron = "Module:zh/data/nan-pron/"
+    Module_name = "Module:zh/data"
 
     def __init__(self):
         self._mdp = WiktionaryModuleDataPage()
 
-    def get_synonym_data(self, word: str) -> str:
-        page = f"{self.prefix_dialectal_syn}{word}"
-        return self._mdp.get_contents(page)
+    def dialectal_synonyms(self, word: str) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/dial-syn/{word}")
 
-    def get_pronunciation_data(self, pron_page: str) -> str:
-        """
-        refactor later, now that it's obvious get_pronunciation_data is
-        essentially the same as get_synonym_data
-        """
-        return self._mdp.get_contents(pron_page)
+    def minnan_pron(self, subpage: str) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/nan-pron/{subpage}")
+
+    def mandarin_pron(self):
+        return self._mdp.get_contents(f"{self.Module_name}/cmn-pron")
+
+    def cantonese_pron(self) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/yue-pron")
+
+    def cantonese_word(self, word) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/yue-word/{word}")
+
+    def hakka_pron(self, subpage: str) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/hak-pron/{subpage}")
+
+    def st(self) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/st")
+
+    def ts(self) -> str:
+        return self._mdp.get_contents(f"{self.Module_name}/ts")
+
+    def wordlist(self, page=''):
+        if len(page) == 0:
+            wl = "wordlist"
+        else:
+            wl = f"wordlist/{page}"
+
+        return self._mdp.get_contents(f"{self.Module_name}/${wl}")
 
 
 class ZhModuleDataFile(ZhModuleDataResource):
