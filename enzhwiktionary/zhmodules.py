@@ -41,9 +41,6 @@ class BaiyueIndex(ZhModuleDataIndex):
     def __init__(self, modulepage, maxpages=1):
         super().__init__(modulepage, maxpages)
 
-    def predicate(self, sub_page_name):
-        return sub_page_name[-len(self._modulepage):] != self._modulepage and sub_page_name[-len(self._doc):] != self._doc
-
     def filter_predicate(self, sub_page_name):
         return sub_page_name[-len(self._modulepage):] != self._modulepage and sub_page_name[-len(self._doc):] != self._doc
 
