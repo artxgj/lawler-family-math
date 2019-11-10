@@ -3,11 +3,11 @@ from zhmodules import BaiyueIndex, DialectalSynonymsIndex
 import argparse
 import io
 
-index_configs = {
-    'minnan': {'type': BaiyueIndex, 'data_index': 'nan-pron', 'index-filename': 'nan-pron-index.txt'},
-    'cantonese': {'type': BaiyueIndex, 'data_index': 'yue-word', 'index-filename': 'yue-word-index.txt'},
-    'hakka': {'type': BaiyueIndex, 'data_index': 'hak-pron', 'index-filename': 'hakka-pron-index.txt'},
-    'dialectic_synonyms': {'type': DialectalSynonymsIndex, 'data_index': 'dial-syn', 'index-filename': 'dialectal-synonyms-index.txt'}
+toc_configs = {
+    'minnan': {'type': BaiyueIndex, 'data_index': 'nan-pron', 'index-filename': 'nan-pron-toc.txt'},
+    'cantonese': {'type': BaiyueIndex, 'data_index': 'yue-word', 'index-filename': 'yue-word-toc.txt'},
+    'hakka': {'type': BaiyueIndex, 'data_index': 'hak-pron', 'index-filename': 'hakka-pron-toc.txt'},
+    'dialectic_synonyms': {'type': DialectalSynonymsIndex, 'data_index': 'dial-syn', 'index-filename': 'dialectal-synonyms-toc.txt'}
 }
 
 
@@ -38,7 +38,7 @@ if __name__ == '__main__':
     parser.add_argument("-o", "--outfilepath", help="dialectal synonym output filepath", type=str, required=True)
     args = parser.parse_args()
 
-    for k, v in index_configs.items():
+    for k, v in toc_configs.items():
         memstream_zhminnan_pronunciations_list(v)
         filestream_zhminnan_pronunciations_list(v, f"{args.outfilepath}/{v['index-filename']}")
 

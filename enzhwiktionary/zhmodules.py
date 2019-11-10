@@ -37,12 +37,15 @@ class BaiyueIndex(ZhModuleDataIndex):
         hak-pron (Hakka 客家發音) and yue-word (Cantonese 廣東發音)
     """
     _doc = 'documentation'
+    _list = 'list'
 
     def __init__(self, modulepage, maxpages=1):
         super().__init__(modulepage, maxpages)
 
     def filter_predicate(self, sub_page_name):
-        return sub_page_name[-len(self._modulepage):] != self._modulepage and sub_page_name[-len(self._doc):] != self._doc
+        return sub_page_name[-len(self._modulepage):] != self._modulepage and \
+               sub_page_name[-len(self._doc):] != self._doc and \
+               sub_page_name[-len(self._list):] != self._list
 
 
 class DialectalSynonymsIndex(ZhModuleDataIndex):
@@ -63,7 +66,7 @@ class ZhModuleDataResource:
         pass
 
 
-class ZhModuleDataPage(ZhModuleDataResource):
+class ZhModuleDataPage:
     Module_name = "Module:zh/data"
 
     def __init__(self):
@@ -88,9 +91,17 @@ class ZhModuleDataPage(ZhModuleDataResource):
         return self._mdp.get_contents(f"{self.Module_name}/hak-pron/{subpage}")
 
     def st(self) -> str:
+        """
+        simple to traditional characters
+        :return:
+        """
         return self._mdp.get_contents(f"{self.Module_name}/st")
 
     def ts(self) -> str:
+        """
+        traditional to simple characters
+        :return:
+        """
         return self._mdp.get_contents(f"{self.Module_name}/ts")
 
     def wordlist(self, page=''):
@@ -99,17 +110,18 @@ class ZhModuleDataPage(ZhModuleDataResource):
         else:
             wl = f"wordlist/{page}"
 
-        return self._mdp.get_contents(f"{self.Module_name}/${wl}")
+        return self._mdp.get_contents(f"{self.Module_name}/{wl}")
 
 
-class ZhModuleDataFile(ZhModuleDataResource):
+class ZhModuleDataFile:
     def __init__(self, dirpath: str):
         self._dirpath = dirpath
 
-    def get_synonym_data(self, word: str) -> str:
+    def get_contents(self, key: str) -> str:
         s = StringIO()
-        with open(f"{self._dirpath}/{word}", "r", encoding='utf-8') as f:
-            s.writelines(f.readlines())
+        with open(f"{self._dirpath}/{key}", "r", encoding='utf-8') as f:
+            for line in f.readline():
+                s.write(line)
 
         return s.getvalue()
 
