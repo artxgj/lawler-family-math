@@ -1,0 +1,435 @@
+{
+    "meaning": "small",
+    "note": "",
+    "Classical": {
+        "1": ""
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "小"
+    },
+    "Taiwan": {
+        "1": "小"
+    },
+    "Tianjin": {
+        "1": "小"
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "小"
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "小",
+        "2": "碎"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": "小"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "小"
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "小"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": "小"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "小"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "小"
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "小"
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "小",
+        "2": "瑣"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "細",
+        "2": "小"
+    },
+    "Shuangfeng": {
+        "1": "細"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "細",
+        "2": "小"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "細"
+    },
+    "Xingning": {
+        "1": "細"
+    },
+    "Huizhou": {
+        "1": "細"
+    },
+    "Huidong": {
+        "1": "細"
+    },
+    "Dongguan-H": {
+        "1": "細"
+    },
+    "Shenzhen-H": {
+        "1": "細"
+    },
+    "Zhongshan-NLHS": {
+        "1": "小"
+    },
+    "Qujiang": {
+        "1": "細"
+    },
+    "Conghua-H": {
+        "1": "細"
+    },
+    "Xiaosanjiang": {
+        "1": "細"
+    },
+    "Changting": {
+        "1": "細"
+    },
+    "Pingyu": {
+        "1": "細"
+    },
+    "Wuping": {
+        "1": "細"
+    },
+    "Liancheng": {
+        "1": "細"
+    },
+    "Ninghua": {
+        "1": "小"
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": "細"
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "細"
+    },
+    "Liudui": {
+        "1": "細"
+    },
+    "Hsinchu": {
+        "1": "細"
+    },
+    "Dongshi": {
+        "1": "細"
+    },
+    "Raoping": {
+        "1": "細"
+    },
+    "Yunlin": {
+        "1": "細"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "細"
+    },
+    "Hong Kong": {
+        "1": "細"
+    },
+    "HK Weitou": {
+        "1": ""
+    },
+    "Kam Tin": {
+        "1": "細"
+    },
+    "Ting Kok": {
+        "1": ""
+    },
+    "Tung Ping Chau": {
+        "1": ""
+    },
+    "Macau": {
+        "1": "細"
+    },
+    "Panyu": {
+        "1": "細"
+    },
+    "Huadu": {
+        "1": "細"
+    },
+    "Conghua": {
+        "1": "細"
+    },
+    "Zengcheng": {
+        "1": "細"
+    },
+    "Foshan": {
+        "1": "細"
+    },
+    "Nanhai": {
+        "1": "細"
+    },
+    "Shunde": {
+        "1": "細"
+    },
+    "Sanshui": {
+        "1": "細"
+    },
+    "Gaoming": {
+        "1": "細"
+    },
+    "Zhongshan": {
+        "1": "細"
+    },
+    "Zhuhai": {
+        "1": "細"
+    },
+    "Doumen-T": {
+        "1": "細"
+    },
+    "Doumen-S": {
+        "1": "細"
+    },
+    "Jiangmen": {
+        "1": "細"
+    },
+    "Xinhui": {
+        "1": "細"
+    },
+    "Taishan": {
+        "1": "細"
+    },
+    "Kaiping": {
+        "1": "細"
+    },
+    "Enping": {
+        "1": "細"
+    },
+    "Heshan": {
+        "1": "細"
+    },
+    "Dongguan": {
+        "1": "細"
+    },
+    "Bao'an": {
+        "1": "細"
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "細"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "細"
+    },
+    "Quanzhou": {
+        "1": "細"
+    },
+    "Zhangzhou": {
+        "1": "細"
+    },
+    "Taipei": {
+        "1": "小",
+        "2": "細"
+    },
+    "Kaohsiung": {
+        "1": "小",
+        "2": "細"
+    },
+    "Tainan": {
+        "1": "小",
+        "2": "細"
+    },
+    "Taichung": {
+        "1": "小",
+        "2": "細"
+    },
+    "Yilan": {
+        "1": "小",
+        "2": "細"
+    },
+    "Lukang": {
+        "1": "小",
+        "2": "細"
+    },
+    "Sanxia": {
+        "1": "小",
+        "2": "細"
+    },
+    "Kinmen": {
+        "1": "小"
+    },
+    "Magong": {
+        "1": "小"
+    },
+    "Hsinchu-MN": {
+        "1": "小",
+        "2": "細"
+    },
+    "Malaysia-MN": {
+        "1": "細"
+    },
+    "Singapore-MN": {
+        "1": "細"
+    },
+    "Philippine-MN": {
+        "1": "細"
+    },
+    "Chaozhou": {
+        "1": "細"
+    },
+    "Shantou": {
+        "1": "細"
+    },
+    "Haifeng": {
+        "1": "細"
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": "細",
+        "2": "孧"
+    },
+    "Leizhou": {
+        "1": "細"
+    },
+    "Fuzhou": {
+        "1": "嫩",
+        "2": "細"
+    },
+    "Jian'ou": {
+        "1": "小"
+    }
+}

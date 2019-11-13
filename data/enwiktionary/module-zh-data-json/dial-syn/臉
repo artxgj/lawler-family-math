@@ -1,0 +1,448 @@
+{
+    "meaning": "face",
+    "note": "",
+    "Classical": {
+        "1": "面",
+        "2": "顏"
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "臉"
+    },
+    "Taiwan": {
+        "1": "臉"
+    },
+    "Tianjin": {
+        "1": "臉"
+    },
+    "Harbin": {
+        "1": "臉"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": "臉蛋子"
+    },
+    "Ulan Hot": {
+        "1": "臉蛋子"
+    },
+    "Tongliao": {
+        "1": "臉蛋子"
+    },
+    "Chifeng": {
+        "1": "臉"
+    },
+    "Baochang": {
+        "1": "臉"
+    },
+    "Bayanhot": {
+        "1": "臉"
+    },
+    "Jinan": {
+        "1": "臉"
+    },
+    "Muping": {
+        "1": "臉"
+    },
+    "Luoyang": {
+        "1": "臉"
+    },
+    "Wanrong": {
+        "1": "臉"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "臉"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": "臉"
+    },
+    "Xuzhou": {
+        "1": "臉",
+        "2": "臉兒",
+        "3": "臉膛子"
+    },
+    "Yinchuan": {
+        "1": "臉"
+    },
+    "Lanzhou": {
+        "1": "臉"
+    },
+    "Ürümqi": {
+        "1": "臉"
+    },
+    "Wuhan": {
+        "1": "臉"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "臉"
+    },
+    "Guiyang": {
+        "1": "臉"
+    },
+    "Guilin": {
+        "1": "臉"
+    },
+    "Liuzhou": {
+        "1": "臉"
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "臉"
+    },
+    "Nanjing": {
+        "1": "臉"
+    },
+    "Hefei": {
+        "1": "臉"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "臉"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": "臉"
+    },
+    "Jining": {
+        "1": "臉"
+    },
+    "Hohhot": {
+        "1": "臉"
+    },
+    "Baotou": {
+        "1": "臉"
+    },
+    "Dongsheng": {
+        "1": "眉眼"
+    },
+    "Linhe": {
+        "1": "臉"
+    },
+    "Haibowan": {
+        "1": "面"
+    },
+    "Suzhou": {
+        "1": "面孔"
+    },
+    "Hangzhou": {
+        "1": "臉",
+        "2": "臉孔"
+    },
+    "Shanghai": {
+        "1": "面孔",
+        "2": "面顴"
+    },
+    "Chongming": {
+        "1": "面孔"
+    },
+    "Wenzhou": {
+        "1": "面股",
+        "2": "面"
+    },
+    "Danyang": {
+        "1": "面孔"
+    },
+    "Jinhua": {
+        "1": "面",
+        "2": "面孔"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "面孔"
+    },
+    "Changsha": {
+        "1": "臉"
+    },
+    "Shuangfeng": {
+        "1": "面"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": "面"
+    },
+    "Quanzhou-X": {
+        "1": "臉"
+    },
+    "Nanchang": {
+        "1": "臉"
+    },
+    "Lichuan": {
+        "1": "面"
+    },
+    "Pingxiang": {
+        "1": "面"
+    },
+    "Meixian": {
+        "1": "面"
+    },
+    "Xingning": {
+        "1": "面"
+    },
+    "Huidong": {
+        "1": "面"
+    },
+    "Qujiang": {
+        "1": "面"
+    },
+    "Xiaosanjiang": {
+        "1": "面"
+    },
+    "Luchuan": {
+        "1": "面"
+    },
+    "Changting": {
+        "1": "面"
+    },
+    "Pingyu": {
+        "1": "面"
+    },
+    "Wuping": {
+        "1": "面"
+    },
+    "Liancheng": {
+        "1": "面"
+    },
+    "Ninghua": {
+        "1": "面"
+    },
+    "Yudu": {
+        "1": "面盤"
+    },
+    "Ruijin": {
+        "1": "面"
+    },
+    "Shicheng": {
+        "1": "面"
+    },
+    "Shangyou": {
+        "1": "面"
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "面"
+    },
+    "Liudui": {
+        "1": "面"
+    },
+    "Hsinchu": {
+        "1": "面"
+    },
+    "Dongshi": {
+        "1": "面"
+    },
+    "Raoping": {
+        "1": "面"
+    },
+    "Yunlin": {
+        "1": "面"
+    },
+    "Hong Kong-H": {
+        "1": "面"
+    },
+    "Sabah": {
+        "1": "面",
+        "2": "面鉢"
+    },
+    "Senai": {
+        "1": "面鉢"
+    },
+    "Singkawang": {
+        "1": "面"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": "面"
+    },
+    "Guangzhou": {
+        "1": "面"
+    },
+    "Hong Kong": {
+        "1": "面"
+    },
+    "Shunde": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": ""
+    },
+    "Dongguan": {
+        "1": "面"
+    },
+    "HK Weitou": {
+        "1": "面"
+    },
+    "Taishan": {
+        "1": "面"
+    },
+    "Doumen": {
+        "1": ""
+    },
+    "Kaiping": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "面"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": "面"
+    },
+    "Wuzhou": {
+        "1": "面"
+    },
+    "Yulin": {
+        "1": "面"
+    },
+    "Hepu": {
+        "1": "面"
+    },
+    "Kuala Lumpur": {
+        "1": "面"
+    },
+    "Nanning-P": {
+        "1": "面"
+    },
+    "Guilin-P": {
+        "1": "面"
+    },
+    "Xiamen": {
+        "1": "面"
+    },
+    "Quanzhou": {
+        "1": "面"
+    },
+    "Zhangzhou": {
+        "1": "面"
+    },
+    "Taipei": {
+        "1": "面"
+    },
+    "Kaohsiung": {
+        "1": "面"
+    },
+    "Tainan": {
+        "1": "面"
+    },
+    "Taichung": {
+        "1": "面"
+    },
+    "Yilan": {
+        "1": "面"
+    },
+    "Lukang": {
+        "1": "面"
+    },
+    "Sanxia": {
+        "1": "面"
+    },
+    "Kinmen": {
+        "1": "面"
+    },
+    "Magong": {
+        "1": "面"
+    },
+    "Hsinchu-MN": {
+        "1": "面"
+    },
+    "Malaysia-MN": {
+        "1": "面"
+    },
+    "Singapore-MN": {
+        "1": "面"
+    },
+    "Philippine-MN": {
+        "1": "面"
+    },
+    "Pingnan": {
+        "1": "面"
+    },
+    "Chaozhou": {
+        "1": "面"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "面"
+    },
+    "Haikou": {
+        "1": "面"
+    },
+    "Leizhou": {
+        "1": "面"
+    },
+    "Putian": {
+        "1": "面"
+    },
+    "Xianyou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "面"
+    },
+    "Fuqing": {
+        "1": "面",
+        "2": "面䫌"
+    },
+    "Matsu": {
+        "1": "面"
+    },
+    "Jian'ou": {
+        "1": "面"
+    }
+}

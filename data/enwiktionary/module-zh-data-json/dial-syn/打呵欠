@@ -1,0 +1,348 @@
+{
+    "meaning": "to yawn",
+    "note": "",
+    "Classical": {
+        "1": ""
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "打呵欠",
+        "2": "打哈欠",
+        "3": "打哈赤"
+    },
+    "Taiwan": {
+        "1": "打呵欠",
+        "2": "打哈欠"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "打哈吸"
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "張口兒",
+        "2": "打呵獻"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": "打呵獻"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "打呵害"
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "打歡戲"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": "打張咽"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "賣張口兒"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "打呵獻"
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": ""
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "打睏瞌",
+        "2": "打哈vai"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "打呵信"
+    },
+    "Shuangfeng": {
+        "1": "打呵獻"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "打呵獻"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "開欠"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "擘嘴"
+    },
+    "Liudui": {
+        "1": "擘嘴"
+    },
+    "Hsinchu": {
+        "1": "擘嘴"
+    },
+    "Dongshi": {
+        "1": "擘嘴"
+    },
+    "Raoping": {
+        "1": "擘嘴"
+    },
+    "Yunlin": {
+        "1": "擘嘴"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "打喊露"
+    },
+    "Hong Kong": {
+        "1": "打喊露"
+    },
+    "Shunde": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": ""
+    },
+    "Dongguan": {
+        "1": ""
+    },
+    "Taishan": {
+        "1": "擘口擘鼻"
+    },
+    "Doumen": {
+        "1": ""
+    },
+    "Kaiping": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "呷浪"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "哈唏"
+    },
+    "Quanzhou": {
+        "1": "哈唏"
+    },
+    "Zhangzhou": {
+        "1": "喝頷"
+    },
+    "Taipei": {
+        "1": "哈唏"
+    },
+    "Kaohsiung": {
+        "1": "哈唏"
+    },
+    "Tainan": {
+        "1": "哈唏"
+    },
+    "Taichung": {
+        "1": "哈唏"
+    },
+    "Yilan": {
+        "1": "擘哈"
+    },
+    "Lukang": {
+        "1": "哈唏"
+    },
+    "Sanxia": {
+        "1": "哈唏"
+    },
+    "Kinmen": {
+        "1": "哈唏"
+    },
+    "Magong": {
+        "1": "哈唏"
+    },
+    "Hsinchu-MN": {
+        "1": ""
+    },
+    "Malaysia-MN": {
+        "1": "哈唏"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "哈唏"
+    },
+    "Chaozhou": {
+        "1": "喝戲"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "擘喙"
+    },
+    "Jian'ou": {
+        "1": "擘喙"
+    }
+}

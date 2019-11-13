@@ -1,0 +1,733 @@
+{
+    "meaning": "duck",
+    "note": "",
+    "Classical": {
+        "1": "鴨"
+    },
+    "Formal": {
+        "1": "鴨"
+    },
+    "Taxonomic": {
+        "1": "鴨"
+    },
+    "Beijing": {
+        "1": "鴨子"
+    },
+    "Taiwan": {
+        "1": "鴨子"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": "鴨子"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": ""
+    },
+    "Ulan Hot": {
+        "1": ""
+    },
+    "Tongliao": {
+        "1": ""
+    },
+    "Chifeng": {
+        "1": ""
+    },
+    "Bayanhot": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "鴨子"
+    },
+    "Muping": {
+        "1": "鴨巴子"
+    },
+    "Luoyang": {
+        "1": "鴨子"
+    },
+    "Wanrong": {
+        "1": "鴨兒"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "鴨子"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": "鴨子",
+        "2": "鴨"
+    },
+    "Xining": {
+        "1": "鴨子",
+        "2": "鴨鴨"
+    },
+    "Xuzhou": {
+        "1": "鴨子"
+    },
+    "Yinchuan": {
+        "1": "鴨子"
+    },
+    "Lanzhou": {
+        "1": "鴨子"
+    },
+    "Ürümqi": {
+        "1": "鴨子"
+    },
+    "Wuhan": {
+        "1": "鴨子"
+    },
+    "Huanggang": {
+        "1": "鴨子"
+    },
+    "Chengdu": {
+        "1": "鴨子",
+        "2": "鴨兒"
+    },
+    "Guiyang": {
+        "1": "鴨子",
+        "2": "鴨哩哩:childish"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": "鴨子",
+        "2": "鴨"
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "鴨子",
+        "2": "扁嘴王:humorous"
+    },
+    "Nanjing": {
+        "1": "鴨子"
+    },
+    "Hefei": {
+        "1": "鴨子"
+    },
+    "Nantong": {
+        "1": "鴨子"
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Gansu-DG": {
+        "1": ""
+    },
+    "Shaanxi-DG": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "鴨子"
+    },
+    "Pingyao": {
+        "1": "鴨子"
+    },
+    "Xinzhou": {
+        "1": "鴨子"
+    },
+    "Baochang": {
+        "1": ""
+    },
+    "Jining": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": "鴨子"
+    },
+    "Baotou": {
+        "1": ""
+    },
+    "Dongsheng": {
+        "1": ""
+    },
+    "Linhe": {
+        "1": ""
+    },
+    "Haibowan": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "鴨子",
+        "2": "鴨",
+        "3": "鴨里里:childish"
+    },
+    "Suzhou": {
+        "1": "鴨",
+        "2": "鴨連連"
+    },
+    "Wuxi": {
+        "1": "鴨",
+        "2": "鴨連連"
+    },
+    "Hangzhou": {
+        "1": "鴨兒"
+    },
+    "Chongming": {
+        "1": "鴨"
+    },
+    "Wenzhou": {
+        "1": "水雞",
+        "2": "鴨",
+        "3": "嘎嘎:childish",
+        "4": "嘎嘎囉:childish"
+    },
+    "Danyang": {
+        "1": "鴨子",
+        "2": "鴨"
+    },
+    "Jinhua": {
+        "1": "鴨",
+        "2": "鴨兒"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "鴨",
+        "2": "鴨兒",
+        "3": "茄茄鴨:childish"
+    },
+    "Changsha": {
+        "1": "鴨"
+    },
+    "Shuangfeng": {
+        "1": "鴨"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": "鴨"
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "鴨子",
+        "2": "鴨"
+    },
+    "Lichuan": {
+        "1": "鴨兒"
+    },
+    "Pingxiang": {
+        "1": "鴨"
+    },
+    "Meixian": {
+        "1": "鴨仔"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": "鴨子"
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": "鴨子"
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": "鴨仔"
+    },
+    "Yudu": {
+        "1": "鴨子"
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "鴨仔"
+    },
+    "Liudui": {
+        "1": "鴨仔"
+    },
+    "Hsinchu": {
+        "1": "鴨仔"
+    },
+    "Dongshi": {
+        "1": "鴨"
+    },
+    "Raoping": {
+        "1": "鴨仔",
+        "2": "鴨"
+    },
+    "Yunlin": {
+        "1": "鴨"
+    },
+    "Hong Kong-H": {
+        "1": "鴨"
+    },
+    "Sabah-B": {
+        "1": ""
+    },
+    "Sabah-L": {
+        "1": ""
+    },
+    "Senai": {
+        "1": "鴨"
+    },
+    "Singkawang": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": "鴨"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Xiuning": {
+        "1": ""
+    },
+    "Yixian": {
+        "1": ""
+    },
+    "Qimen": {
+        "1": ""
+    },
+    "Wuyuan": {
+        "1": ""
+    },
+    "Fuliang": {
+        "1": ""
+    },
+    "Dexing": {
+        "1": ""
+    },
+    "Jingde": {
+        "1": ""
+    },
+    "Zhanda": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "鴨"
+    },
+    "Hong Kong": {
+        "1": "鴨"
+    },
+    "HK Weitou": {
+        "1": "鴨"
+    },
+    "Kam Tin": {
+        "1": "鴨"
+    },
+    "Ting Kok": {
+        "1": "鴨"
+    },
+    "Tung Ping Chau": {
+        "1": "鴨"
+    },
+    "Macau": {
+        "1": "鴨"
+    },
+    "Panyu": {
+        "1": "鴨"
+    },
+    "Huadu": {
+        "1": "鴨"
+    },
+    "Conghua": {
+        "1": "鴨"
+    },
+    "Zengcheng": {
+        "1": "鴨"
+    },
+    "Foshan": {
+        "1": "鴨"
+    },
+    "Nanhai": {
+        "1": "鴨"
+    },
+    "Shunde": {
+        "1": "鴨"
+    },
+    "Sanshui": {
+        "1": "鴨"
+    },
+    "Gaoming": {
+        "1": "鴨"
+    },
+    "Zhongshan": {
+        "1": "鴨"
+    },
+    "Zhuhai": {
+        "1": "鴨"
+    },
+    "Doumen-T": {
+        "1": "鴨"
+    },
+    "Doumen-S": {
+        "1": "鴨"
+    },
+    "Jiangmen": {
+        "1": "鴨"
+    },
+    "Xinhui": {
+        "1": "鴨"
+    },
+    "Taishan": {
+        "1": "鴨"
+    },
+    "Kaiping": {
+        "1": "鴨"
+    },
+    "Enping": {
+        "1": "鴨"
+    },
+    "Heshan": {
+        "1": "鴨"
+    },
+    "Dongguan": {
+        "1": "鴨"
+    },
+    "Bao'an": {
+        "1": "鴨"
+    },
+    "Dapeng": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": "鴨仔"
+    },
+    "Yunfu": {
+        "1": "鴨"
+    },
+    "Yangjiang": {
+        "1": "鴨"
+    },
+    "Xinyi": {
+        "1": "鴨"
+    },
+    "Lianjiang": {
+        "1": "鴨"
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "鴨"
+    },
+    "Ho Chi Minh City": {
+        "1": "鴨"
+    },
+    "Nanning-P": {
+        "1": "鴨",
+        "2": "老扁:secret language"
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "鴨",
+        "2": "鴨仔",
+        "3": "闊喙婆:humorous"
+    },
+    "Tong'an": {
+        "1": ""
+    },
+    "Quanzhou": {
+        "1": "鴨",
+        "2": "鴨仔",
+        "3": "闊喙婆:humorous"
+    },
+    "Jinjiang": {
+        "1": ""
+    },
+    "Nan'an": {
+        "1": ""
+    },
+    "Shishi": {
+        "1": ""
+    },
+    "Hui'an": {
+        "1": ""
+    },
+    "Anxi": {
+        "1": ""
+    },
+    "Yongchun": {
+        "1": ""
+    },
+    "Dehua": {
+        "1": ""
+    },
+    "Zhangzhou": {
+        "1": "鴨",
+        "2": "鴨仔",
+        "3": "闊喙婆:humorous"
+    },
+    "Longhai": {
+        "1": ""
+    },
+    "Changtai": {
+        "1": ""
+    },
+    "Hua'an": {
+        "1": ""
+    },
+    "Nanjing-MN": {
+        "1": ""
+    },
+    "Pinghe": {
+        "1": ""
+    },
+    "Zhangpu": {
+        "1": ""
+    },
+    "Yunxiao": {
+        "1": ""
+    },
+    "Zhao'an": {
+        "1": ""
+    },
+    "Dongshan": {
+        "1": "鴨"
+    },
+    "Taipei": {
+        "1": "鴨仔"
+    },
+    "Kaohsiung": {
+        "1": "鴨仔"
+    },
+    "Tainan": {
+        "1": "鴨仔"
+    },
+    "Taichung": {
+        "1": "鴨"
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": "鴨"
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": "鴨仔"
+    },
+    "Sanxia": {
+        "1": "鴨仔"
+    },
+    "Yilan": {
+        "1": "鴨仔"
+    },
+    "Kinmen": {
+        "1": "鴨"
+    },
+    "Magong": {
+        "1": "鴨"
+    },
+    "Malaysia-MN": {
+        "1": "鴨"
+    },
+    "Singapore-MN": {
+        "1": "鴨"
+    },
+    "Philippine-MN": {
+        "1": "鴨"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Longyan": {
+        "1": ""
+    },
+    "Zhangping": {
+        "1": ""
+    },
+    "Yongfu": {
+        "1": "鴨"
+    },
+    "Datian": {
+        "1": ""
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "鴨"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": "鴨咪"
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "鴨"
+    },
+    "Wenchang": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": "鴨"
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Putian": {
+        "1": ""
+    },
+    "Xianyou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "鴨",
+        "2": "鴨囝"
+    },
+    "Changle": {
+        "1": ""
+    },
+    "Fuqing": {
+        "1": "鴨"
+    },
+    "Pingtan": {
+        "1": ""
+    },
+    "Yongtai": {
+        "1": ""
+    },
+    "Gutian": {
+        "1": ""
+    },
+    "Fu'an": {
+        "1": ""
+    },
+    "Ningde": {
+        "1": ""
+    },
+    "Shouning": {
+        "1": ""
+    },
+    "Zhouning": {
+        "1": ""
+    },
+    "Fuding": {
+        "1": ""
+    },
+    "Matsu": {
+        "1": "鴨"
+    },
+    "Jian'ou": {
+        "1": "鴨"
+    },
+    "Dikou": {
+        "1": ""
+    },
+    "Songxi": {
+        "1": ""
+    },
+    "Zhenghe": {
+        "1": ""
+    },
+    "Zhenqian": {
+        "1": ""
+    },
+    "Jianyang": {
+        "1": ""
+    },
+    "Wuyishan": {
+        "1": ""
+    },
+    "Shibei": {
+        "1": ""
+    },
+    "Fu'an-She": {
+        "1": "鴨"
+    },
+    "Fuding-She": {
+        "1": "鴨"
+    },
+    "Luoyuan-She": {
+        "1": "鴨"
+    },
+    "Sanming-She": {
+        "1": "鴨"
+    },
+    "Shunchang-She": {
+        "1": "鴨"
+    },
+    "Hua'an-She": {
+        "1": "鴨"
+    },
+    "Guixi-She": {
+        "1": "鴨"
+    },
+    "Cangnan-She": {
+        "1": "鴨"
+    },
+    "Jingning-She": {
+        "1": "鴨"
+    },
+    "Lishui-She": {
+        "1": "鴨"
+    },
+    "Longyou-She": {
+        "1": "鴨"
+    },
+    "Chaozhou-She": {
+        "1": "鴨"
+    },
+    "Fengshun-She": {
+        "1": "鴨"
+    }
+}

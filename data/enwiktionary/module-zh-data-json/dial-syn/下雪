@@ -1,0 +1,597 @@
+{
+    "meaning": "to snow",
+    "note": "",
+    "Classical": {
+        "1": "雨雪",
+        "2": "落雪"
+    },
+    "Formal": {
+        "1": "下雪",
+        "2": "降雪"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "下雪"
+    },
+    "Taiwan": {
+        "1": "下雪"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": "下雪"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": "下雪"
+    },
+    "Ulan Hot": {
+        "1": "下雪"
+    },
+    "Tongliao": {
+        "1": "下雪"
+    },
+    "Chifeng": {
+        "1": "下雪"
+    },
+    "Bayanhot": {
+        "1": "下雪",
+        "2": "飄雪"
+    },
+    "Jinan": {
+        "1": "下雪",
+        "2": "落雪"
+    },
+    "Muping": {
+        "1": "下雪"
+    },
+    "Luoyang": {
+        "1": "下雪",
+        "2": "落雪"
+    },
+    "Wanrong": {
+        "1": "下雪"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "下雪"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": "下雪"
+    },
+    "Xining": {
+        "1": "下雪"
+    },
+    "Xuzhou": {
+        "1": "下雪"
+    },
+    "Yinchuan": {
+        "1": "下雪"
+    },
+    "Lanzhou": {
+        "1": "下雪"
+    },
+    "Ürümqi": {
+        "1": "下雪"
+    },
+    "Wuhan": {
+        "1": "下雪",
+        "2": "落雪"
+    },
+    "Huanggang": {
+        "1": "落雪"
+    },
+    "Chengdu": {
+        "1": "下雪",
+        "2": "落雪"
+    },
+    "Guiyang": {
+        "1": "下雪"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": "下雪"
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "下雪"
+    },
+    "Nanjing": {
+        "1": "下雪"
+    },
+    "Hefei": {
+        "1": "下雪"
+    },
+    "Nantong": {
+        "1": "落雪"
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Gansu-DG": {
+        "1": "下雪"
+    },
+    "Shaanxi-DG": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "下雪"
+    },
+    "Pingyao": {
+        "1": "下雪"
+    },
+    "Xinzhou": {
+        "1": "下雪"
+    },
+    "Baochang": {
+        "1": "下雪"
+    },
+    "Jining": {
+        "1": "下雪"
+    },
+    "Hohhot": {
+        "1": "下雪"
+    },
+    "Baotou": {
+        "1": "下雪"
+    },
+    "Dongsheng": {
+        "1": "下雪"
+    },
+    "Linhe": {
+        "1": "下雪"
+    },
+    "Haibowan": {
+        "1": "下雪"
+    },
+    "Shanghai": {
+        "1": "落雪"
+    },
+    "Suzhou": {
+        "1": "落雪"
+    },
+    "Wuxi": {
+        "1": ""
+    },
+    "Hangzhou": {
+        "1": "落雪"
+    },
+    "Chongming": {
+        "1": "落雪"
+    },
+    "Wenzhou": {
+        "1": "落雪"
+    },
+    "Danyang": {
+        "1": "落雪"
+    },
+    "Jinhua": {
+        "1": "落雪"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "落雪"
+    },
+    "Changsha": {
+        "1": "落雪"
+    },
+    "Shuangfeng": {
+        "1": "落雪"
+    },
+    "Xiangtan": {
+        "1": "落雪"
+    },
+    "Loudi": {
+        "1": "落雪"
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "落雪"
+    },
+    "Lichuan": {
+        "1": "落雪"
+    },
+    "Pingxiang": {
+        "1": "落雪"
+    },
+    "Meixian": {
+        "1": "落雪"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": "落雪"
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": "落雪"
+    },
+    "Shangyou": {
+        "1": "落雪"
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "落雪"
+    },
+    "Liudui": {
+        "1": "落雪"
+    },
+    "Hsinchu": {
+        "1": "落雪"
+    },
+    "Dongshi": {
+        "1": "落雪"
+    },
+    "Raoping": {
+        "1": "落雪"
+    },
+    "Yunlin": {
+        "1": "落雪"
+    },
+    "Hong Kong-H": {
+        "1": "落雪"
+    },
+    "Sabah-B": {
+        "1": ""
+    },
+    "Sabah-L": {
+        "1": "落雪"
+    },
+    "Senai": {
+        "1": "落雪"
+    },
+    "Singkawang": {
+        "1": "落雪"
+    },
+    "Jixi": {
+        "1": "落雪"
+    },
+    "Shexian": {
+        "1": "落雪"
+    },
+    "Tunxi": {
+        "1": "落雪"
+    },
+    "Xiuning": {
+        "1": "落雪"
+    },
+    "Yixian": {
+        "1": "落雪"
+    },
+    "Qimen": {
+        "1": "落雪"
+    },
+    "Wuyuan": {
+        "1": "落雪"
+    },
+    "Fuliang": {
+        "1": ""
+    },
+    "Dexing": {
+        "1": ""
+    },
+    "Jingde": {
+        "1": ""
+    },
+    "Zhanda": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "落雪"
+    },
+    "Hong Kong": {
+        "1": "落雪"
+    },
+    "Shunde": {
+        "1": "落雪"
+    },
+    "Foshan": {
+        "1": "落雪"
+    },
+    "Zhongshan": {
+        "1": "落雪"
+    },
+    "Dongguan": {
+        "1": "落雪"
+    },
+    "HK Weitou": {
+        "1": "降雪"
+    },
+    "Doumen-T": {
+        "1": "落雪"
+    },
+    "Doumen-S": {
+        "1": "落雪"
+    },
+    "Taishan": {
+        "1": "落雪"
+    },
+    "Kaiping": {
+        "1": "落雪"
+    },
+    "Shaoguan": {
+        "1": "落雪"
+    },
+    "Yunfu": {
+        "1": "落雪"
+    },
+    "Yangjiang": {
+        "1": "落雪"
+    },
+    "Xinyi": {
+        "1": "落雪"
+    },
+    "Lianjiang": {
+        "1": "落雪"
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "落雪"
+    },
+    "Ho Chi Minh City": {
+        "1": "落雪"
+    },
+    "Nanning-P": {
+        "1": "落雪"
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "落雪"
+    },
+    "Quanzhou": {
+        "1": "落雪"
+    },
+    "Zhangzhou": {
+        "1": "落雪"
+    },
+    "Taipei": {
+        "1": "落雪"
+    },
+    "Kaohsiung": {
+        "1": "落雪"
+    },
+    "Tainan": {
+        "1": ""
+    },
+    "Taichung": {
+        "1": ""
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": ""
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": ""
+    },
+    "Sanxia": {
+        "1": ""
+    },
+    "Yilan": {
+        "1": ""
+    },
+    "Kinmen": {
+        "1": ""
+    },
+    "Magong": {
+        "1": ""
+    },
+    "Malaysia-MN": {
+        "1": "落霜"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "落雪"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "落雪"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "落雪"
+    },
+    "Wenchang": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": "落雪"
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Putian": {
+        "1": ""
+    },
+    "Xianyou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "盪雪",
+        "2": "落雪"
+    },
+    "Changle": {
+        "1": ""
+    },
+    "Fuqing": {
+        "1": "落雪"
+    },
+    "Pingtan": {
+        "1": ""
+    },
+    "Yongtai": {
+        "1": ""
+    },
+    "Gutian": {
+        "1": ""
+    },
+    "Fu'an": {
+        "1": ""
+    },
+    "Ningde": {
+        "1": ""
+    },
+    "Shouning": {
+        "1": ""
+    },
+    "Zhouning": {
+        "1": ""
+    },
+    "Fuding": {
+        "1": ""
+    },
+    "Matsu": {
+        "1": "落雪"
+    },
+    "Jian'ou": {
+        "1": "落雪"
+    },
+    "Dikou": {
+        "1": "落雪"
+    },
+    "Songxi": {
+        "1": ""
+    },
+    "Zhenghe": {
+        "1": ""
+    },
+    "Zhenqian": {
+        "1": "落雪"
+    },
+    "Jianyang": {
+        "1": ""
+    },
+    "Wuyishan": {
+        "1": ""
+    },
+    "Shibei": {
+        "1": "落雪"
+    },
+    "Fu'an-She": {
+        "1": ""
+    },
+    "Fuding-She": {
+        "1": ""
+    },
+    "Luoyuan-She": {
+        "1": ""
+    },
+    "Sanming-She": {
+        "1": ""
+    },
+    "Shunchang-She": {
+        "1": ""
+    },
+    "Hua'an-She": {
+        "1": ""
+    },
+    "Guixi-She": {
+        "1": ""
+    },
+    "Cangnan-She": {
+        "1": ""
+    },
+    "Jingning-She": {
+        "1": ""
+    },
+    "Lishui-She": {
+        "1": ""
+    },
+    "Longyou-She": {
+        "1": ""
+    },
+    "Chaozhou-She": {
+        "1": ""
+    },
+    "Fengshun-She": {
+        "1": ""
+    }
+}

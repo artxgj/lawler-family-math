@@ -1,0 +1,393 @@
+{
+    "meaning": "postage stamp",
+    "note": "",
+    "Classical": {
+        "1": ""
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "郵票"
+    },
+    "Taiwan": {
+        "1": "郵票"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "郵票"
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "郵票"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": "郵花",
+        "2": "郵票"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "郵票",
+        "2": "郵花兒"
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "郵票"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": "郵票"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "郵票"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "郵票",
+        "2": "龍頭"
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "郵票"
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "郵票"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "郵花",
+        "2": "郵票"
+    },
+    "Shuangfeng": {
+        "1": "郵花",
+        "2": "郵票"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "郵票"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "郵票"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Liudui": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Hsinchu": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Dongshi": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Raoping": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Yunlin": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Hong Kong-H": {
+        "1": "郵票"
+    },
+    "Sabah": {
+        "1": ""
+    },
+    "Senai": {
+        "1": "郵票"
+    },
+    "Singkawang": {
+        "1": ""
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "郵票",
+        "2": "士擔:dated"
+    },
+    "Hong Kong": {
+        "1": "郵票",
+        "2": "士擔:dated"
+    },
+    "Shunde": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": ""
+    },
+    "Dongguan": {
+        "1": ""
+    },
+    "HK Weitou": {
+        "1": "士擔"
+    },
+    "Taishan": {
+        "1": "郵票",
+        "2": "士擔"
+    },
+    "Doumen": {
+        "1": ""
+    },
+    "Kaiping": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": ""
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "郵票",
+        "2": "stamp",
+        "3": "士膽:dated",
+        "4": "公仔頭:dated"
+    },
+    "Nanning-P": {
+        "1": "郵票"
+    },
+    "Xiamen": {
+        "1": "郵票"
+    },
+    "Quanzhou": {
+        "1": "郵票"
+    },
+    "Zhangzhou": {
+        "1": "郵票"
+    },
+    "Taipei": {
+        "1": "郵票"
+    },
+    "Kaohsiung": {
+        "1": "郵票"
+    },
+    "Tainan": {
+        "1": "尪仔頭",
+        "2": "郵票"
+    },
+    "Taichung": {
+        "1": "郵票"
+    },
+    "Yilan": {
+        "1": "郵票"
+    },
+    "Lukang": {
+        "1": "花仔紙",
+        "2": "郵票"
+    },
+    "Sanxia": {
+        "1": "郵票"
+    },
+    "Kinmen": {
+        "1": "郵票"
+    },
+    "Magong": {
+        "1": "郵票"
+    },
+    "Hsinchu-MN": {
+        "1": "郵票",
+        "2": "切手"
+    },
+    "Malaysia-MN": {
+        "1": "stamp"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "郵票"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "郵票"
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "郵票"
+    },
+    "Fuqing": {
+        "1": ""
+    },
+    "Matsu": {
+        "1": ""
+    },
+    "Jian'ou": {
+        "1": "郵票"
+    }
+}

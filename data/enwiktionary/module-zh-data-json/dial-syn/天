@@ -1,0 +1,359 @@
+{
+    "meaning": "day (24 hours)",
+    "note": "",
+    "Classical": {
+        "1": "日"
+    },
+    "Formal": {
+        "1": "日"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "天"
+    },
+    "Taiwan": {
+        "1": "天"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": ""
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": ""
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": ""
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": ""
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": ""
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": ""
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "天"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": ""
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "日",
+        "2": "天"
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "日"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "天"
+    },
+    "Shuangfeng": {
+        "1": ""
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "日"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "日"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "日"
+    },
+    "Liudui": {
+        "1": "日"
+    },
+    "Hsinchu": {
+        "1": "日"
+    },
+    "Dongshi": {
+        "1": "日"
+    },
+    "Raoping": {
+        "1": "日"
+    },
+    "Yunlin": {
+        "1": "日"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": "日"
+    },
+    "Guangzhou": {
+        "1": "日"
+    },
+    "Hong Kong": {
+        "1": "日"
+    },
+    "Shunde": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": ""
+    },
+    "Dongguan": {
+        "1": ""
+    },
+    "Taishan": {
+        "1": "日"
+    },
+    "Doumen": {
+        "1": ""
+    },
+    "Kaiping": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": ""
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "日"
+    },
+    "Quanzhou": {
+        "1": "日"
+    },
+    "Zhangzhou": {
+        "1": "日"
+    },
+    "Taipei": {
+        "1": "工",
+        "2": "日"
+    },
+    "Kaohsiung": {
+        "1": "工",
+        "2": "日"
+    },
+    "Tainan": {
+        "1": "工",
+        "2": "日"
+    },
+    "Taichung": {
+        "1": "日",
+        "2": "工"
+    },
+    "Yilan": {
+        "1": "工",
+        "2": "日"
+    },
+    "Lukang": {
+        "1": "工",
+        "2": "日"
+    },
+    "Sanxia": {
+        "1": "工",
+        "2": "日"
+    },
+    "Kinmen": {
+        "1": "工"
+    },
+    "Magong": {
+        "1": "工"
+    },
+    "Hsinchu-MN": {
+        "1": "日",
+        "2": "工"
+    },
+    "Malaysia-MN": {
+        "1": "日"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "日"
+    },
+    "Chaozhou": {
+        "1": "日"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "日",
+        "2": "工"
+    },
+    "Jian'ou": {
+        "1": ""
+    }
+}

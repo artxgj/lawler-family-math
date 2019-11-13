@@ -1,0 +1,606 @@
+{
+    "meaning": "maternal grandfather",
+    "note": "",
+    "Classical": {
+        "1": "外祖",
+        "2": "外祖父",
+        "3": "外翁"
+    },
+    "Formal": {
+        "1": "外祖父"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "姥爺"
+    },
+    "Taiwan": {
+        "1": "外公"
+    },
+    "Tianjin": {
+        "1": "姥爺"
+    },
+    "Harbin": {
+        "1": "姥爺"
+    },
+    "Shenyang": {
+        "1": "姥爺"
+    },
+    "Hailar": {
+        "1": "姥爺"
+    },
+    "Ulan Hot": {
+        "1": "姥爺"
+    },
+    "Tongliao": {
+        "1": "姥爺"
+    },
+    "Chifeng": {
+        "1": "姥爺"
+    },
+    "Bayanhot": {
+        "1": "外爺爺",
+        "2": "姥爺"
+    },
+    "Jinan": {
+        "1": "姥爺"
+    },
+    "Muping": {
+        "1": "姥爺"
+    },
+    "Luoyang": {
+        "1": "外爺"
+    },
+    "Wanrong": {
+        "1": "舅廈爺"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "外爺",
+        "2": "舅家爺",
+        "3": "舅爺",
+        "4": "外把:Hui"
+    },
+    "Qingdao": {
+        "1": "姥爺"
+    },
+    "Zhengzhou": {
+        "1": "姥爺"
+    },
+    "Xining": {
+        "1": "外爺"
+    },
+    "Xuzhou": {
+        "1": "外爺爺",
+        "2": "外老爺"
+    },
+    "Yinchuan": {
+        "1": "外爺爺:non-face-to-face",
+        "2": "姥爺:non-face-to-face",
+        "3": "爺爺:face-to-face"
+    },
+    "Lanzhou": {
+        "1": "外爺:non-face-to-face",
+        "2": "爺爺:face-to-face"
+    },
+    "Ürümqi": {
+        "1": "外爺爺"
+    },
+    "Wuhan": {
+        "1": "家公爹爹:non-face-to-face",
+        "2": "爹爹:face-to-face"
+    },
+    "Huanggang": {
+        "1": "家爹"
+    },
+    "Chengdu": {
+        "1": "外爺",
+        "2": "外公",
+        "3": "外祖父",
+        "4": "家公"
+    },
+    "Guiyang": {
+        "1": "外公:non-face-to-face",
+        "2": "公公:face-to-face"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": "公",
+        "2": "爺爺",
+        "3": "阿公"
+    },
+    "Kunming": {
+        "1": "公公"
+    },
+    "Yangzhou": {
+        "1": "公公"
+    },
+    "Nanjing": {
+        "1": "公公",
+        "2": "外公把把:Hui"
+    },
+    "Hefei": {
+        "1": "外爹爹"
+    },
+    "Nantong": {
+        "1": "外公爹爹"
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "姥爺"
+    },
+    "Pingyao": {
+        "1": "簡爺"
+    },
+    "Xinzhou": {
+        "1": "姥爺:non-face-to-face",
+        "2": "姥爺啊:face-to-face"
+    },
+    "Baochang": {
+        "1": "姥爺"
+    },
+    "Jining": {
+        "1": "姥爺"
+    },
+    "Hohhot": {
+        "1": "姥爺"
+    },
+    "Baotou": {
+        "1": "姥爺"
+    },
+    "Dongsheng": {
+        "1": "姥爺"
+    },
+    "Linhe": {
+        "1": "姥爺"
+    },
+    "Haibowan": {
+        "1": "姥爺"
+    },
+    "Shanghai": {
+        "1": "外公",
+        "2": "外公爹爹",
+        "3": "外公老爹"
+    },
+    "Suzhou": {
+        "1": "外公",
+        "2": "外公阿爹",
+        "3": "阿爹"
+    },
+    "Wuxi": {
+        "1": "舅公"
+    },
+    "Hangzhou": {
+        "1": "外公"
+    },
+    "Chongming": {
+        "1": "外公",
+        "2": "公公:face-to-face"
+    },
+    "Wenzhou": {
+        "1": "外公爺"
+    },
+    "Danyang": {
+        "1": "公公"
+    },
+    "Jinhua": {
+        "1": "外公",
+        "2": "公公"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "外公"
+    },
+    "Changsha": {
+        "1": "外公"
+    },
+    "Shuangfeng": {
+        "1": "外公"
+    },
+    "Xiangtan": {
+        "1": "外公"
+    },
+    "Loudi": {
+        "1": "外公"
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "阿公"
+    },
+    "Lichuan": {
+        "1": "阿公"
+    },
+    "Pingxiang": {
+        "1": "外公",
+        "2": "外公老子"
+    },
+    "Meixian": {
+        "1": "外阿公"
+    },
+    "Xingning": {
+        "1": "姐公"
+    },
+    "Huidong": {
+        "1": "姐公"
+    },
+    "Qujiang": {
+        "1": "姐公"
+    },
+    "Xiaosanjiang": {
+        "1": "小公"
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": "外公爹"
+    },
+    "Pingyu": {
+        "1": "外阿公"
+    },
+    "Wuping": {
+        "1": "外公爹"
+    },
+    "Liancheng": {
+        "1": "外子爹"
+    },
+    "Ninghua": {
+        "1": "公公"
+    },
+    "Yudu": {
+        "1": "外公"
+    },
+    "Ruijin": {
+        "1": "外公"
+    },
+    "Shicheng": {
+        "1": "外公"
+    },
+    "Shangyou": {
+        "1": "外公"
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "姐公"
+    },
+    "Liudui": {
+        "1": "外阿公",
+        "2": "阿公"
+    },
+    "Hsinchu": {
+        "1": "姐公"
+    },
+    "Dongshi": {
+        "1": "外阿公"
+    },
+    "Raoping": {
+        "1": "姐公"
+    },
+    "Yunlin": {
+        "1": "外公"
+    },
+    "Hong Kong-H": {
+        "1": "姐公"
+    },
+    "Sabah": {
+        "1": "姐公"
+    },
+    "Senai": {
+        "1": "姐公"
+    },
+    "Singkawang": {
+        "1": "姐公"
+    },
+    "Shexian": {
+        "1": "外公"
+    },
+    "Tunxi": {
+        "1": "外公",
+        "2": "公公"
+    },
+    "Jixi": {
+        "1": "外公"
+    },
+    "Guangzhou": {
+        "1": "外公:non-face-to-face",
+        "2": "阿公:face-to-face"
+    },
+    "Hong Kong": {
+        "1": "阿公",
+        "2": "公公"
+    },
+    "Kam Tin": {
+        "1": "外公:non-face-to-face",
+        "2": "阿公:face-to-face"
+    },
+    "Macau": {
+        "1": "阿公"
+    },
+    "Panyu": {
+        "1": "阿公"
+    },
+    "Huadu": {
+        "1": "阿公"
+    },
+    "Conghua": {
+        "1": "遠公"
+    },
+    "Zengcheng": {
+        "1": "阿公"
+    },
+    "Foshan": {
+        "1": "阿公"
+    },
+    "Nanhai": {
+        "1": "阿公"
+    },
+    "Shunde": {
+        "1": "阿公"
+    },
+    "Sanshui": {
+        "1": "阿公"
+    },
+    "Gaoming": {
+        "1": "外公"
+    },
+    "Zhongshan": {
+        "1": "阿公"
+    },
+    "Zhuhai": {
+        "1": "外公:non-face-to-face",
+        "2": "阿公:face-to-face"
+    },
+    "Doumen-T": {
+        "1": "祖公"
+    },
+    "Doumen-S": {
+        "1": "子公"
+    },
+    "Jiangmen": {
+        "1": "祖公"
+    },
+    "Xinhui": {
+        "1": "祖公"
+    },
+    "Taishan": {
+        "1": "阿公"
+    },
+    "Kaiping": {
+        "1": "阿公"
+    },
+    "Enping": {
+        "1": "阿公"
+    },
+    "Heshan": {
+        "1": "外公:non-face-to-face",
+        "2": "阿公:face-to-face"
+    },
+    "Dongguan": {
+        "1": "阿公"
+    },
+    "Bao'an": {
+        "1": "阿公"
+    },
+    "Shaoguan": {
+        "1": "阿公",
+        "2": "外公"
+    },
+    "Yunfu": {
+        "1": "阿公"
+    },
+    "Yangjiang": {
+        "1": "外公"
+    },
+    "Xinyi": {
+        "1": "外公"
+    },
+    "Lianjiang": {
+        "1": "姊公",
+        "2": "阿公"
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "外公"
+    },
+    "Nanning-P": {
+        "1": "阿公"
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "外公",
+        "2": "阿公",
+        "3": "俺公"
+    },
+    "Quanzhou": {
+        "1": "外公",
+        "2": "阿公"
+    },
+    "Zhangzhou": {
+        "1": "外公",
+        "2": "阿公"
+    },
+    "Taipei": {
+        "1": "外公"
+    },
+    "Kaohsiung": {
+        "1": "外公"
+    },
+    "Tainan": {
+        "1": "外公"
+    },
+    "Taichung": {
+        "1": "外公"
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": "外公"
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": "外公"
+    },
+    "Sanxia": {
+        "1": "外公"
+    },
+    "Yilan": {
+        "1": "外公"
+    },
+    "Kinmen": {
+        "1": "外公"
+    },
+    "Magong": {
+        "1": "外公"
+    },
+    "Malaysia-MN": {
+        "1": "外公",
+        "2": "阿公",
+        "3": "公"
+    },
+    "Singapore-MN": {
+        "1": "外公:non-face-to-face",
+        "2": "俺公:face-to-face",
+        "3": "阿公:face-to-face"
+    },
+    "Philippine-MN": {
+        "1": "外公"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "外公"
+    },
+    "Shantou": {
+        "1": "外公"
+    },
+    "Haifeng": {
+        "1": "外公"
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "外公"
+    },
+    "Wenchang": {
+        "1": "外公"
+    },
+    "Haikou": {
+        "1": "外家爸:non-face-to-face",
+        "2": "外家公:non-face-to-face",
+        "3": "外爸:non-face-to-face",
+        "4": "阿爸:face-to-face"
+    },
+    "Leizhou": {
+        "1": "外家祖公",
+        "2": "公"
+    },
+    "Putian": {
+        "1": "外頭公"
+    },
+    "Xianyou": {
+        "1": "外頭公"
+    },
+    "Fuzhou": {
+        "1": "外公"
+    },
+    "Changle": {
+        "1": "外公"
+    },
+    "Fuqing": {
+        "1": "外公"
+    },
+    "Pingtan": {
+        "1": ""
+    },
+    "Yongtai": {
+        "1": "外公"
+    },
+    "Gutian": {
+        "1": "外公"
+    },
+    "Fu'an": {
+        "1": "外公"
+    },
+    "Ningde": {
+        "1": "外翁"
+    },
+    "Shouning": {
+        "1": "外翁"
+    },
+    "Zhouning": {
+        "1": "娘翁"
+    },
+    "Fuding": {
+        "1": "外公"
+    },
+    "Matsu": {
+        "1": "外公"
+    },
+    "Jian'ou": {
+        "1": "畬公",
+        "2": "外公",
+        "3": "公公"
+    },
+    "Dikou": {
+        "1": "畬公"
+    },
+    "Songxi": {
+        "1": "公伯"
+    },
+    "Zhenghe": {
+        "1": "婆公"
+    },
+    "Zhenqian": {
+        "1": "外公"
+    },
+    "Jianyang": {
+        "1": "婆爹"
+    },
+    "Wuyishan": {
+        "1": "外公"
+    },
+    "Shibei": {
+        "1": "畬公",
+        "2": "公仔"
+    }
+}

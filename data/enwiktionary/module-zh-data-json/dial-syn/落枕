@@ -1,0 +1,459 @@
+{
+    "meaning": "to have a stiff neck after sleeping",
+    "note": "",
+    "Classical": {
+        "1": "失枕"
+    },
+    "Formal": {
+        "1": "落枕"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "落枕"
+    },
+    "Taiwan": {
+        "1": "落枕"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": "落枕"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": ""
+    },
+    "Ulan Hot": {
+        "1": ""
+    },
+    "Tongliao": {
+        "1": ""
+    },
+    "Chifeng": {
+        "1": ""
+    },
+    "Baochang": {
+        "1": ""
+    },
+    "Bayanhot": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "落枕"
+    },
+    "Muping": {
+        "1": "失兒枕了"
+    },
+    "Luoyang": {
+        "1": "落枕"
+    },
+    "Wanrong": {
+        "1": "落枕"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "落枕"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": "脖子擰筋兒",
+        "2": "擰脖筋兒"
+    },
+    "Yinchuan": {
+        "1": "落枕"
+    },
+    "Lanzhou": {
+        "1": "握枕"
+    },
+    "Ürümqi": {
+        "1": "落枕"
+    },
+    "Wuhan": {
+        "1": ""
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "失枕"
+    },
+    "Guiyang": {
+        "1": "失枕"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": "失枕"
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "戧枕"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": ""
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "落枕"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": "落枕"
+    },
+    "Jining": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Baotou": {
+        "1": ""
+    },
+    "Dongsheng": {
+        "1": ""
+    },
+    "Linhe": {
+        "1": ""
+    },
+    "Haibowan": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "睏直頭頸骨"
+    },
+    "Hangzhou": {
+        "1": "落枕"
+    },
+    "Shanghai": {
+        "1": "落枕"
+    },
+    "Chongming": {
+        "1": "強頸骨"
+    },
+    "Wenzhou": {
+        "1": "頭頸睏諾爻"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": "落枕"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "頭頸骨𢺴出"
+    },
+    "Changsha": {
+        "1": "落枕",
+        "2": "捩噠頸"
+    },
+    "Shuangfeng": {
+        "1": ""
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": "失枕"
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": ""
+    },
+    "Lichuan": {
+        "1": "項了頸"
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "失枕"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": "熨頸"
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "落枕"
+    },
+    "Liudui": {
+        "1": "落枕",
+        "2": "失枕"
+    },
+    "Hsinchu": {
+        "1": "落枕"
+    },
+    "Dongshi": {
+        "1": "落枕"
+    },
+    "Raoping": {
+        "1": "落枕"
+    },
+    "Yunlin": {
+        "1": "落枕"
+    },
+    "Hong Kong-H": {
+        "1": "失枕"
+    },
+    "Sabah": {
+        "1": ""
+    },
+    "Senai": {
+        "1": "失枕"
+    },
+    "Singkawang": {
+        "1": "失枕"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "瞓捩頸"
+    },
+    "Hong Kong": {
+        "1": "瞓捩頸"
+    },
+    "Shunde": {
+        "1": "瞓捩頸"
+    },
+    "Foshan": {
+        "1": "瞓捩頸"
+    },
+    "Zhongshan": {
+        "1": "瞓捩頸"
+    },
+    "Dongguan": {
+        "1": "瞓捩頸"
+    },
+    "HK Weitou": {
+        "1": "瞓捩頸"
+    },
+    "Taishan": {
+        "1": "梗頸",
+        "2": "瞓扭頸"
+    },
+    "Doumen": {
+        "1": "瞓捩頸"
+    },
+    "Kaiping": {
+        "1": "瞓捩頸"
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": ""
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "瞓捩頸"
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "交落枕",
+        "2": "落枕"
+    },
+    "Quanzhou": {
+        "1": "睏落枕"
+    },
+    "Zhangzhou": {
+        "1": "落枕"
+    },
+    "Taipei": {
+        "1": "交落枕"
+    },
+    "Kaohsiung": {
+        "1": "交落枕"
+    },
+    "Tainan": {
+        "1": "交落枕"
+    },
+    "Taichung": {
+        "1": "失枕"
+    },
+    "Wuqi": {
+        "1": "交落枕"
+    },
+    "Hsinchu-MN": {
+        "1": "交落枕"
+    },
+    "Taitung": {
+        "1": "交落枕"
+    },
+    "Lukang": {
+        "1": "交落枕"
+    },
+    "Sanxia": {
+        "1": ""
+    },
+    "Yilan": {
+        "1": "落枕"
+    },
+    "Kinmen": {
+        "1": ""
+    },
+    "Magong": {
+        "1": "拍枕"
+    },
+    "Malaysia-MN": {
+        "1": ""
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "睏落枕"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": ""
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "交落枕"
+    },
+    "Haikou": {
+        "1": "落枕"
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Putian": {
+        "1": "鬱枕"
+    },
+    "Xianyou": {
+        "1": "鬱枕"
+    },
+    "Fuzhou": {
+        "1": "脰骨挫腫"
+    },
+    "Fuqing": {
+        "1": ""
+    },
+    "Matsu": {
+        "1": ""
+    },
+    "Jian'ou": {
+        "1": ""
+    }
+}

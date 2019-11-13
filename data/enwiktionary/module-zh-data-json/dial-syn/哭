@@ -1,0 +1,829 @@
+{
+    "meaning": "to cry; to weep",
+    "note": "",
+    "Classical": {
+        "1": "泣",
+        "2": "哭"
+    },
+    "Formal": {
+        "1": "哭",
+        "2": "哭泣"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "哭"
+    },
+    "Taiwan": {
+        "1": "哭"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": "哭",
+        "2": "哭鼻子:humorous"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": ""
+    },
+    "Ulan Hot": {
+        "1": ""
+    },
+    "Tongliao": {
+        "1": ""
+    },
+    "Chifeng": {
+        "1": ""
+    },
+    "Bayanhot": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "哭"
+    },
+    "Muping": {
+        "1": "哭"
+    },
+    "Luoyang": {
+        "1": "哭"
+    },
+    "Wanrong": {
+        "1": "哭"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "哭"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": "哭"
+    },
+    "Xuzhou": {
+        "1": "哭"
+    },
+    "Yinchuan": {
+        "1": "哭",
+        "2": "哭鼻子"
+    },
+    "Lanzhou": {
+        "1": "哭"
+    },
+    "Ürümqi": {
+        "1": "哭"
+    },
+    "Wuhan": {
+        "1": "哭"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "哭"
+    },
+    "Guiyang": {
+        "1": "哭"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "哭"
+    },
+    "Nanjing": {
+        "1": "哭",
+        "2": "哭鼻子:humorous"
+    },
+    "Hefei": {
+        "1": "哭"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Gansu-DG": {
+        "1": "哭"
+    },
+    "Shaanxi-DG": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "哭"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": "哭"
+    },
+    "Baochang": {
+        "1": ""
+    },
+    "Jining": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Baotou": {
+        "1": ""
+    },
+    "Dongsheng": {
+        "1": ""
+    },
+    "Linhe": {
+        "1": ""
+    },
+    "Haibowan": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "哭"
+    },
+    "Suzhou": {
+        "1": "哭"
+    },
+    "Wuxi": {
+        "1": "哭"
+    },
+    "Hangzhou": {
+        "1": "哭"
+    },
+    "Chongming": {
+        "1": "哭"
+    },
+    "Wenzhou": {
+        "1": "哭"
+    },
+    "Danyang": {
+        "1": "哭"
+    },
+    "Jinhua": {
+        "1": "哭"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "哭"
+    },
+    "Changsha": {
+        "1": "哭"
+    },
+    "Shuangfeng": {
+        "1": "哭"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": "哭"
+    },
+    "Quanzhou-X": {
+        "1": "哭"
+    },
+    "Nanchang": {
+        "1": "哭",
+        "2": "叫"
+    },
+    "Lichuan": {
+        "1": "啼"
+    },
+    "Pingxiang": {
+        "1": "哭"
+    },
+    "Meixian": {
+        "1": "叫",
+        "2": "叫眵",
+        "3": "叫嘴"
+    },
+    "Xingning": {
+        "1": "叫"
+    },
+    "Huizhou": {
+        "1": "哭"
+    },
+    "Huizhou-SK": {
+        "1": ""
+    },
+    "Huizhou-HL": {
+        "1": ""
+    },
+    "Huiyang": {
+        "1": ""
+    },
+    "Huidong-PS": {
+        "1": ""
+    },
+    "Huidong-DL": {
+        "1": "叫"
+    },
+    "Dongguan-H": {
+        "1": "叫"
+    },
+    "Longmen-PL": {
+        "1": ""
+    },
+    "Longmen-LX": {
+        "1": ""
+    },
+    "Boluo": {
+        "1": ""
+    },
+    "Shenzhen-H": {
+        "1": "叫"
+    },
+    "Zengcheng-ZG": {
+        "1": ""
+    },
+    "Zhongshan-WGS": {
+        "1": "叫"
+    },
+    "Zhongshan-NLHS": {
+        "1": "叫"
+    },
+    "Wuhua-SZ": {
+        "1": "叫"
+    },
+    "Wuhua-HC": {
+        "1": "叫",
+        "2": "叫嘴"
+    },
+    "Wuhua-CB": {
+        "1": "叫",
+        "2": "叫嘴"
+    },
+    "Wuhua-MY": {
+        "1": "叫",
+        "2": "叫嘴"
+    },
+    "Heyuan": {
+        "1": "哭"
+    },
+    "Zijin-GZ": {
+        "1": ""
+    },
+    "Longchuan-TC": {
+        "1": ""
+    },
+    "Longchuan-SD": {
+        "1": ""
+    },
+    "Heping-LZ": {
+        "1": ""
+    },
+    "Lianping-ZX": {
+        "1": ""
+    },
+    "Lianping-LJ": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": "叫嘴"
+    },
+    "Xinfeng-MT": {
+        "1": ""
+    },
+    "Xinfeng-DX": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": "叫"
+    },
+    "Liannan": {
+        "1": "叫"
+    },
+    "Conghua-H": {
+        "1": "叫"
+    },
+    "Jiexi": {
+        "1": "叫"
+    },
+    "Luchuan-LC": {
+        "1": "叫"
+    },
+    "Luchuan-DQ": {
+        "1": ""
+    },
+    "Changting": {
+        "1": "唩"
+    },
+    "Pingyu": {
+        "1": "叫"
+    },
+    "Wuping": {
+        "1": "叫嘴"
+    },
+    "Liancheng": {
+        "1": "唩"
+    },
+    "Ninghua": {
+        "1": "唩"
+    },
+    "Yudu": {
+        "1": "叫"
+    },
+    "Ruijin": {
+        "1": "叫"
+    },
+    "Shicheng": {
+        "1": "唩"
+    },
+    "Shangyou": {
+        "1": "叫"
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "叫",
+        "2": "叫眵"
+    },
+    "Liudui": {
+        "1": "叫",
+        "2": "叫眵"
+    },
+    "Hsinchu": {
+        "1": "叫",
+        "2": "叫眵"
+    },
+    "Dongshi": {
+        "1": "叫",
+        "2": "叫眵"
+    },
+    "Raoping": {
+        "1": "唩",
+        "2": "唩眵"
+    },
+    "Yunlin": {
+        "1": "唩"
+    },
+    "Hong Kong-H": {
+        "1": "叫"
+    },
+    "Sabah-B": {
+        "1": ""
+    },
+    "Sabah-L": {
+        "1": "叫",
+        "2": "叫嘴"
+    },
+    "Senai": {
+        "1": "叫"
+    },
+    "Singkawang": {
+        "1": "叫"
+    },
+    "Jixi": {
+        "1": "嚎"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Xiuning": {
+        "1": ""
+    },
+    "Yixian": {
+        "1": ""
+    },
+    "Qimen": {
+        "1": ""
+    },
+    "Wuyuan": {
+        "1": ""
+    },
+    "Fuliang": {
+        "1": ""
+    },
+    "Dexing": {
+        "1": ""
+    },
+    "Jingde": {
+        "1": ""
+    },
+    "Zhanda": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "喊"
+    },
+    "Hong Kong": {
+        "1": "喊"
+    },
+    "HK Weitou": {
+        "1": "哭"
+    },
+    "Kam Tin": {
+        "1": "哭"
+    },
+    "Ting Kok": {
+        "1": "哭"
+    },
+    "Tung Ping Chau": {
+        "1": "哭"
+    },
+    "Macau": {
+        "1": "喊"
+    },
+    "Panyu": {
+        "1": "喊"
+    },
+    "Huadu": {
+        "1": "叫"
+    },
+    "Conghua": {
+        "1": "哭"
+    },
+    "Zengcheng": {
+        "1": "哭"
+    },
+    "Foshan": {
+        "1": "喊"
+    },
+    "Nanhai": {
+        "1": "喊"
+    },
+    "Shunde": {
+        "1": "喊"
+    },
+    "Sanshui": {
+        "1": "喊"
+    },
+    "Gaoming": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": "喊"
+    },
+    "Zhuhai": {
+        "1": "喊"
+    },
+    "Doumen-T": {
+        "1": "哭"
+    },
+    "Doumen-S": {
+        "1": "哭"
+    },
+    "Jiangmen": {
+        "1": "哭"
+    },
+    "Xinhui": {
+        "1": "哭"
+    },
+    "Taishan": {
+        "1": "哭"
+    },
+    "Kaiping": {
+        "1": "哭"
+    },
+    "Enping": {
+        "1": "哭"
+    },
+    "Heshan": {
+        "1": "哭"
+    },
+    "Dongguan": {
+        "1": "哭"
+    },
+    "Bao'an": {
+        "1": "哭",
+        "2": "喊"
+    },
+    "Dapeng": {
+        "1": "哭"
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "哭"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": "哭"
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": "哭"
+    },
+    "Kuala Lumpur": {
+        "1": "喊"
+    },
+    "Ho Chi Minh City": {
+        "1": "喊"
+    },
+    "Nanning-P": {
+        "1": "哭"
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Tong'an": {
+        "1": ""
+    },
+    "Quanzhou": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Jinjiang": {
+        "1": ""
+    },
+    "Nan'an": {
+        "1": ""
+    },
+    "Shishi": {
+        "1": ""
+    },
+    "Hui'an": {
+        "1": ""
+    },
+    "Anxi": {
+        "1": ""
+    },
+    "Yongchun": {
+        "1": "吼"
+    },
+    "Dehua": {
+        "1": ""
+    },
+    "Zhangzhou": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Longhai": {
+        "1": ""
+    },
+    "Changtai": {
+        "1": ""
+    },
+    "Hua'an": {
+        "1": ""
+    },
+    "Nanjing-MN": {
+        "1": ""
+    },
+    "Pinghe": {
+        "1": ""
+    },
+    "Zhangpu": {
+        "1": ""
+    },
+    "Yunxiao": {
+        "1": ""
+    },
+    "Zhao'an": {
+        "1": ""
+    },
+    "Dongshan": {
+        "1": ""
+    },
+    "Taipei": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Kaohsiung": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Tainan": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Taichung": {
+        "1": "哭",
+        "2": "吼"
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": "哭",
+        "2": "吼"
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Sanxia": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Yilan": {
+        "1": "吼",
+        "2": "哭"
+    },
+    "Kinmen": {
+        "1": "吼"
+    },
+    "Magong": {
+        "1": "哭",
+        "2": "吼"
+    },
+    "Malaysia-MN": {
+        "1": "吼"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "吼"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Longyan": {
+        "1": "啼"
+    },
+    "Zhangping": {
+        "1": "啼"
+    },
+    "Yongfu": {
+        "1": ""
+    },
+    "Datian": {
+        "1": "哭"
+    },
+    "Pingnan": {
+        "1": "吼"
+    },
+    "Chaozhou": {
+        "1": "哭"
+    },
+    "Shantou": {
+        "1": "哭"
+    },
+    "Haifeng": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "哭"
+    },
+    "Wenchang": {
+        "1": "哭"
+    },
+    "Haikou": {
+        "1": "啼"
+    },
+    "Leizhou": {
+        "1": "哭"
+    },
+    "Putian": {
+        "1": "吼"
+    },
+    "Xianyou": {
+        "1": "吼"
+    },
+    "Fuzhou": {
+        "1": "啼",
+        "2": "啼嘛"
+    },
+    "Changle": {
+        "1": "啼"
+    },
+    "Fuqing": {
+        "1": "啼"
+    },
+    "Pingtan": {
+        "1": ""
+    },
+    "Yongtai": {
+        "1": "啼"
+    },
+    "Gutian": {
+        "1": "啼"
+    },
+    "Fu'an": {
+        "1": "嚎"
+    },
+    "Ningde": {
+        "1": "嚎"
+    },
+    "Shouning": {
+        "1": "嚎"
+    },
+    "Zhouning": {
+        "1": "嚎"
+    },
+    "Fuding": {
+        "1": "啼",
+        "2": "哭"
+    },
+    "Matsu": {
+        "1": "啼",
+        "2": "啼嘛"
+    },
+    "Jian'ou": {
+        "1": "啼"
+    },
+    "Dikou": {
+        "1": "啼"
+    },
+    "Songxi": {
+        "1": "啼"
+    },
+    "Zhenghe": {
+        "1": "啼"
+    },
+    "Zhenqian": {
+        "1": "啼"
+    },
+    "Jianyang": {
+        "1": "啼"
+    },
+    "Wuyishan": {
+        "1": "啼"
+    },
+    "Shibei": {
+        "1": "啼"
+    },
+    "Fu'an-She": {
+        "1": "叫"
+    },
+    "Fuding-She": {
+        "1": "叫"
+    },
+    "Luoyuan-She": {
+        "1": "叫"
+    },
+    "Sanming-She": {
+        "1": "叫"
+    },
+    "Shunchang-She": {
+        "1": "叫"
+    },
+    "Hua'an-She": {
+        "1": "叫"
+    },
+    "Guixi-She": {
+        "1": "叫"
+    },
+    "Cangnan-She": {
+        "1": "叫"
+    },
+    "Jingning-She": {
+        "1": "叫"
+    },
+    "Lishui-She": {
+        "1": "叫"
+    },
+    "Longyou-She": {
+        "1": "叫"
+    },
+    "Chaozhou-She": {
+        "1": "叫"
+    },
+    "Fengshun-She": {
+        "1": "叫"
+    }
+}

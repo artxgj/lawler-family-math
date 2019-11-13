@@ -1,0 +1,429 @@
+{
+    "meaning": "oyster",
+    "note": "",
+    "Classical": {
+        "1": "蠣",
+        "2": "蠔",
+        "3": "牡蠣",
+        "4": "牡蛤",
+        "5": "蠣蛤",
+        "6": "古賁"
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Taxonomic": {
+        "1": "牡蠣"
+    },
+    "Beijing": {
+        "1": "牡蠣"
+    },
+    "Taiwan": {
+        "1": "牡蠣",
+        "2": "蚵仔",
+        "3": "蚵"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": ""
+    },
+    "Muping": {
+        "1": "海蠣子"
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": ""
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": ""
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": ""
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": ""
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": ""
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": ""
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": ""
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": ""
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "蠣膏"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "蠣黃"
+    },
+    "Changsha": {
+        "1": ""
+    },
+    "Shuangfeng": {
+        "1": ""
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": ""
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": ""
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "蚵仔"
+    },
+    "Liudui": {
+        "1": "蚵仔"
+    },
+    "Hsinchu": {
+        "1": "蚵仔"
+    },
+    "Dongshi": {
+        "1": "蚵"
+    },
+    "Raoping": {
+        "1": "蚵仔"
+    },
+    "Yunlin": {
+        "1": "蚵"
+    },
+    "Hong Kong-H": {
+        "1": ""
+    },
+    "Sabah": {
+        "1": ""
+    },
+    "Senai": {
+        "1": ""
+    },
+    "Singkawang": {
+        "1": ""
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "蠔"
+    },
+    "Hong Kong": {
+        "1": "蠔"
+    },
+    "Shunde": {
+        "1": ""
+    },
+    "Foshan": {
+        "1": ""
+    },
+    "Zhongshan": {
+        "1": ""
+    },
+    "Dongguan": {
+        "1": "蠔"
+    },
+    "HK Weitou": {
+        "1": ""
+    },
+    "Taishan": {
+        "1": ""
+    },
+    "Doumen": {
+        "1": ""
+    },
+    "Kaiping": {
+        "1": ""
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": ""
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": ""
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "蚵仔",
+        "2": "蚵"
+    },
+    "Quanzhou": {
+        "1": "蚵仔",
+        "2": "蚵"
+    },
+    "Zhangzhou": {
+        "1": "蚵仔",
+        "2": "蚵"
+    },
+    "Taipei": {
+        "1": "蚵仔"
+    },
+    "Kaohsiung": {
+        "1": "蚵仔"
+    },
+    "Tainan": {
+        "1": "蚵仔"
+    },
+    "Taichung": {
+        "1": "蚵仔"
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": "蚵仔"
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": "蚵仔"
+    },
+    "Sanxia": {
+        "1": "蚵"
+    },
+    "Yilan": {
+        "1": "蚵仔"
+    },
+    "Kinmen": {
+        "1": "蚵"
+    },
+    "Magong": {
+        "1": "蚵"
+    },
+    "Malaysia-MN": {
+        "1": "蚵"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "蚵仔"
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "蠔"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": "蠔"
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": "蠔"
+    },
+    "Putian": {
+        "1": "蚮"
+    },
+    "Xianyou": {
+        "1": "蚮",
+        "2": "蠔"
+    },
+    "Fuzhou": {
+        "1": "蠣"
+    },
+    "Fuqing": {
+        "1": "蠣"
+    },
+    "Matsu": {
+        "1": "蠣"
+    },
+    "Jian'ou": {
+        "1": ""
+    }
+}

@@ -1,0 +1,519 @@
+{
+    "meaning": "ladder",
+    "note": "",
+    "Classical": {
+        "1": ""
+    },
+    "Formal": {
+        "1": "梯子"
+    },
+    "Taxonomic": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "梯子"
+    },
+    "Taiwan": {
+        "1": "梯子"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": "梯子"
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Hailar": {
+        "1": ""
+    },
+    "Ulan Hot": {
+        "1": ""
+    },
+    "Tongliao": {
+        "1": ""
+    },
+    "Chifeng": {
+        "1": ""
+    },
+    "Bayanhot": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "梯子"
+    },
+    "Muping": {
+        "1": "梯子"
+    },
+    "Luoyang": {
+        "1": "梯子"
+    },
+    "Wanrong": {
+        "1": "梯子"
+    },
+    "Ronghe": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "梯子"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": "梯子"
+    },
+    "Xuzhou": {
+        "1": "梯子"
+    },
+    "Yinchuan": {
+        "1": "梯子"
+    },
+    "Lanzhou": {
+        "1": "梯架"
+    },
+    "Ürümqi": {
+        "1": "梯架"
+    },
+    "Wuhan": {
+        "1": "梯子",
+        "2": "樓梯"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "梯子"
+    },
+    "Guiyang": {
+        "1": "樓梯"
+    },
+    "Guilin": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": "梯子"
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "梯子"
+    },
+    "Nanjing": {
+        "1": "梯子"
+    },
+    "Hefei": {
+        "1": "梯子"
+    },
+    "Nantong": {
+        "1": "扶梯"
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "梯子"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": "梯子"
+    },
+    "Baochang": {
+        "1": ""
+    },
+    "Jining": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Baotou": {
+        "1": ""
+    },
+    "Dongsheng": {
+        "1": ""
+    },
+    "Linhe": {
+        "1": ""
+    },
+    "Haibowan": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "胡梯"
+    },
+    "Suzhou": {
+        "1": "梯"
+    },
+    "Wuxi": {
+        "1": "梯子",
+        "2": "竹梯"
+    },
+    "Hangzhou": {
+        "1": "梯子"
+    },
+    "Chongming": {
+        "1": "梯"
+    },
+    "Wenzhou": {
+        "1": "樓梯"
+    },
+    "Danyang": {
+        "1": "梯",
+        "2": "梯子"
+    },
+    "Jinhua": {
+        "1": "梯兒"
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": "路梯"
+    },
+    "Changsha": {
+        "1": "樓梯",
+        "2": "梯子"
+    },
+    "Shuangfeng": {
+        "1": "樓梯"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Quanzhou-X": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "樓梯"
+    },
+    "Lichuan": {
+        "1": "樓批"
+    },
+    "Pingxiang": {
+        "1": "樓梯"
+    },
+    "Meixian": {
+        "1": "梯"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Luchuan": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "梯仔"
+    },
+    "Liudui": {
+        "1": "梯仔"
+    },
+    "Hsinchu": {
+        "1": "梯仔"
+    },
+    "Dongshi": {
+        "1": "梯"
+    },
+    "Raoping": {
+        "1": "梯仔",
+        "2": "梯"
+    },
+    "Yunlin": {
+        "1": "梯"
+    },
+    "Hong Kong-H": {
+        "1": "陡梯"
+    },
+    "Sabah": {
+        "1": ""
+    },
+    "Senai": {
+        "1": "梯"
+    },
+    "Singkawang": {
+        "1": ""
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": "梯"
+    },
+    "Guangzhou": {
+        "1": "梯"
+    },
+    "Hong Kong": {
+        "1": "梯"
+    },
+    "Shunde": {
+        "1": "梯"
+    },
+    "Foshan": {
+        "1": "梯橫"
+    },
+    "Zhongshan": {
+        "1": "梯橫"
+    },
+    "Dongguan": {
+        "1": "梯"
+    },
+    "HK Weitou": {
+        "1": "梯"
+    },
+    "Taishan": {
+        "1": "憑企"
+    },
+    "Doumen": {
+        "1": "梯"
+    },
+    "Kaiping": {
+        "1": "憑企"
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "梯"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": ""
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "梯"
+    },
+    "Nanning-P": {
+        "1": "樓梯"
+    },
+    "Guilin-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "梯",
+        "2": "樓梯"
+    },
+    "Quanzhou": {
+        "1": ""
+    },
+    "Zhangzhou": {
+        "1": ""
+    },
+    "Taipei": {
+        "1": ""
+    },
+    "Kaohsiung": {
+        "1": ""
+    },
+    "Tainan": {
+        "1": ""
+    },
+    "Taichung": {
+        "1": ""
+    },
+    "Wuqi": {
+        "1": ""
+    },
+    "Hsinchu-MN": {
+        "1": ""
+    },
+    "Taitung": {
+        "1": ""
+    },
+    "Lukang": {
+        "1": ""
+    },
+    "Sanxia": {
+        "1": ""
+    },
+    "Yilan": {
+        "1": ""
+    },
+    "Kinmen": {
+        "1": ""
+    },
+    "Magong": {
+        "1": ""
+    },
+    "Malaysia-MN": {
+        "1": ""
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "樓梯",
+        "2": "梯"
+    },
+    "Medan": {
+        "1": ""
+    },
+    "Pingnan": {
+        "1": ""
+    },
+    "Chaozhou": {
+        "1": "梯"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Johor Bahru": {
+        "1": "梯"
+    },
+    "Wenchang": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": "梯"
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Putian": {
+        "1": ""
+    },
+    "Xianyou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "梯",
+        "2": "樓梯"
+    },
+    "Changle": {
+        "1": ""
+    },
+    "Fuqing": {
+        "1": ""
+    },
+    "Pingtan": {
+        "1": ""
+    },
+    "Yongtai": {
+        "1": ""
+    },
+    "Gutian": {
+        "1": ""
+    },
+    "Fu'an": {
+        "1": ""
+    },
+    "Ningde": {
+        "1": ""
+    },
+    "Shouning": {
+        "1": ""
+    },
+    "Zhouning": {
+        "1": ""
+    },
+    "Fuding": {
+        "1": ""
+    },
+    "Matsu": {
+        "1": ""
+    },
+    "Jian'ou": {
+        "1": "樓階"
+    },
+    "Dikou": {
+        "1": ""
+    },
+    "Songxi": {
+        "1": ""
+    },
+    "Zhenghe": {
+        "1": ""
+    },
+    "Zhenqian": {
+        "1": ""
+    },
+    "Jianyang": {
+        "1": ""
+    },
+    "Wuyishan": {
+        "1": ""
+    },
+    "Shibei": {
+        "1": ""
+    }
+}

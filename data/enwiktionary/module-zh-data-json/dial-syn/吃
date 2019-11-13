@@ -1,0 +1,450 @@
+{
+    "meaning": "to eat",
+    "note": "",
+    "Classical": {
+        "1": "食"
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "吃"
+    },
+    "Taiwan": {
+        "1": "吃"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "吃"
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "吃"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": "吃"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "吃"
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "吃"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": "吃"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Taiyuan": {
+        "1": "吃"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "吃"
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "吃"
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "吃"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "吃"
+    },
+    "Shuangfeng": {
+        "1": "吃"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "喫"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "食"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "食"
+    },
+    "Liudui": {
+        "1": "食"
+    },
+    "Hsinchu": {
+        "1": "食"
+    },
+    "Dongshi": {
+        "1": "食"
+    },
+    "Raoping": {
+        "1": "食"
+    },
+    "Yunlin": {
+        "1": "食"
+    },
+    "Hong Kong-H": {
+        "1": "食"
+    },
+    "Sabah-B": {
+        "1": ""
+    },
+    "Sabah-L": {
+        "1": ""
+    },
+    "Senai": {
+        "1": "食"
+    },
+    "Singkawang": {
+        "1": ""
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": "吃"
+    },
+    "Guangzhou": {
+        "1": "食"
+    },
+    "Hong Kong": {
+        "1": "食"
+    },
+    "HK Weitou": {
+        "1": "吃"
+    },
+    "Kam Tin": {
+        "1": "吃"
+    },
+    "Ting Kok": {
+        "1": "食"
+    },
+    "Tung Ping Chau": {
+        "1": "食"
+    },
+    "Macau": {
+        "1": "食"
+    },
+    "Panyu": {
+        "1": "食"
+    },
+    "Huadu": {
+        "1": "食"
+    },
+    "Conghua": {
+        "1": "食"
+    },
+    "Zengcheng": {
+        "1": "食"
+    },
+    "Foshan": {
+        "1": "食"
+    },
+    "Nanhai": {
+        "1": "食"
+    },
+    "Shunde": {
+        "1": "食"
+    },
+    "Sanshui": {
+        "1": "食"
+    },
+    "Gaoming": {
+        "1": "吃"
+    },
+    "Zhongshan": {
+        "1": "吃"
+    },
+    "Zhuhai": {
+        "1": "吃"
+    },
+    "Doumen-T": {
+        "1": "吃"
+    },
+    "Doumen-S": {
+        "1": "吃"
+    },
+    "Jiangmen": {
+        "1": "食"
+    },
+    "Xinhui": {
+        "1": "吃"
+    },
+    "Taishan": {
+        "1": "吃"
+    },
+    "Kaiping": {
+        "1": "吃"
+    },
+    "Enping": {
+        "1": "吃"
+    },
+    "Heshan": {
+        "1": "食"
+    },
+    "Dongguan": {
+        "1": "食"
+    },
+    "Bao'an": {
+        "1": "食"
+    },
+    "Dapeng": {
+        "1": "食"
+    },
+    "Shaoguan": {
+        "1": "食"
+    },
+    "Yunfu": {
+        "1": "食"
+    },
+    "Yangjiang": {
+        "1": "吃"
+    },
+    "Xinyi": {
+        "1": "食"
+    },
+    "Lianjiang": {
+        "1": "食"
+    },
+    "Nanning": {
+        "1": "食"
+    },
+    "Wuzhou": {
+        "1": ""
+    },
+    "Yulin": {
+        "1": "吃"
+    },
+    "Hepu": {
+        "1": ""
+    },
+    "Danzhou": {
+        "1": ""
+    },
+    "Kuala Lumpur": {
+        "1": "食"
+    },
+    "Ho Chi Minh City": {
+        "1": "食"
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "食",
+        "2": "唵:childish"
+    },
+    "Quanzhou": {
+        "1": "食"
+    },
+    "Zhangzhou": {
+        "1": "食",
+        "2": "唵:childish"
+    },
+    "Taipei": {
+        "1": "食"
+    },
+    "Kaohsiung": {
+        "1": "食"
+    },
+    "Tainan": {
+        "1": "食"
+    },
+    "Taichung": {
+        "1": "食"
+    },
+    "Yilan": {
+        "1": "食"
+    },
+    "Lukang": {
+        "1": "食"
+    },
+    "Sanxia": {
+        "1": "食"
+    },
+    "Kinmen": {
+        "1": "食"
+    },
+    "Magong": {
+        "1": "食"
+    },
+    "Hsinchu-MN": {
+        "1": "食"
+    },
+    "Malaysia-MN": {
+        "1": "食"
+    },
+    "Singapore-MN": {
+        "1": "食"
+    },
+    "Philippine-MN": {
+        "1": "食"
+    },
+    "Chaozhou": {
+        "1": "食"
+    },
+    "Shantou": {
+        "1": ""
+    },
+    "Haifeng": {
+        "1": ""
+    },
+    "Thailand-MN-T": {
+        "1": "食"
+    },
+    "Johor Bahru": {
+        "1": "食"
+    },
+    "Wenchang": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "食"
+    },
+    "Jian'ou": {
+        "1": "食"
+    }
+}

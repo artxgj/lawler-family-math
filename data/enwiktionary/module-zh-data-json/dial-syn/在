@@ -1,0 +1,372 @@
+{
+    "meaning": "at, in",
+    "note": "mT - mainstream Taiwanese (no particular region identified)",
+    "Classical": {
+        "1": "於"
+    },
+    "Formal": {
+        "1": ""
+    },
+    "Beijing": {
+        "1": "在",
+        "2": "挨",
+        "3": "跟"
+    },
+    "Taiwan": {
+        "1": "在"
+    },
+    "Tianjin": {
+        "1": ""
+    },
+    "Harbin": {
+        "1": ""
+    },
+    "Shenyang": {
+        "1": ""
+    },
+    "Jinan": {
+        "1": "在",
+        "2": "從"
+    },
+    "Muping": {
+        "1": ""
+    },
+    "Luoyang": {
+        "1": ""
+    },
+    "Wanrong": {
+        "1": ""
+    },
+    "Xi'an": {
+        "1": "在"
+    },
+    "Qingdao": {
+        "1": ""
+    },
+    "Zhengzhou": {
+        "1": ""
+    },
+    "Xining": {
+        "1": ""
+    },
+    "Xuzhou": {
+        "1": ""
+    },
+    "Yinchuan": {
+        "1": ""
+    },
+    "Lanzhou": {
+        "1": ""
+    },
+    "Ürümqi": {
+        "1": ""
+    },
+    "Wuhan": {
+        "1": "在"
+    },
+    "Huanggang": {
+        "1": ""
+    },
+    "Chengdu": {
+        "1": "在"
+    },
+    "Guiyang": {
+        "1": ""
+    },
+    "Liuzhou": {
+        "1": ""
+    },
+    "Kunming": {
+        "1": ""
+    },
+    "Yangzhou": {
+        "1": "在"
+    },
+    "Nanjing": {
+        "1": ""
+    },
+    "Hefei": {
+        "1": "在"
+    },
+    "Nantong": {
+        "1": ""
+    },
+    "Malaysia-M": {
+        "1": ""
+    },
+    "Singapore-M": {
+        "1": ""
+    },
+    "Gansu-DG": {
+        "1": "在"
+    },
+    "Taiyuan": {
+        "1": "在"
+    },
+    "Pingyao": {
+        "1": ""
+    },
+    "Hohhot": {
+        "1": ""
+    },
+    "Xinzhou": {
+        "1": ""
+    },
+    "Suzhou": {
+        "1": "勒"
+    },
+    "Hangzhou": {
+        "1": ""
+    },
+    "Shanghai": {
+        "1": "辣",
+        "2": "辣辣",
+        "3": "辣海"
+    },
+    "Chongming": {
+        "1": ""
+    },
+    "Wenzhou": {
+        "1": "是"
+    },
+    "Danyang": {
+        "1": ""
+    },
+    "Jinhua": {
+        "1": ""
+    },
+    "Tangxi": {
+        "1": ""
+    },
+    "Ningbo": {
+        "1": ""
+    },
+    "Changsha": {
+        "1": "在"
+    },
+    "Shuangfeng": {
+        "1": "在"
+    },
+    "Xiangtan": {
+        "1": ""
+    },
+    "Loudi": {
+        "1": ""
+    },
+    "Nanchang": {
+        "1": "在"
+    },
+    "Lichuan": {
+        "1": ""
+    },
+    "Pingxiang": {
+        "1": ""
+    },
+    "Meixian": {
+        "1": "喺"
+    },
+    "Xingning": {
+        "1": ""
+    },
+    "Huidong": {
+        "1": ""
+    },
+    "Qujiang": {
+        "1": ""
+    },
+    "Xiaosanjiang": {
+        "1": ""
+    },
+    "Changting": {
+        "1": ""
+    },
+    "Pingyu": {
+        "1": ""
+    },
+    "Wuping": {
+        "1": ""
+    },
+    "Liancheng": {
+        "1": ""
+    },
+    "Ninghua": {
+        "1": ""
+    },
+    "Yudu": {
+        "1": ""
+    },
+    "Ruijin": {
+        "1": ""
+    },
+    "Shicheng": {
+        "1": ""
+    },
+    "Shangyou": {
+        "1": ""
+    },
+    "Taoyuan": {
+        "1": ""
+    },
+    "Miaoli": {
+        "1": "在"
+    },
+    "Liudui": {
+        "1": "在"
+    },
+    "Hsinchu": {
+        "1": "在"
+    },
+    "Dongshi": {
+        "1": "在"
+    },
+    "Raoping": {
+        "1": "在"
+    },
+    "Yunlin": {
+        "1": "在"
+    },
+    "Shexian": {
+        "1": ""
+    },
+    "Tunxi": {
+        "1": ""
+    },
+    "Jixi": {
+        "1": ""
+    },
+    "Guangzhou": {
+        "1": "喺",
+        "2": "響"
+    },
+    "Hong Kong": {
+        "1": "喺",
+        "2": "響"
+    },
+    "Shunde": {
+        "1": "喺"
+    },
+    "Foshan": {
+        "1": "喺",
+        "2": "響"
+    },
+    "Zhongshan": {
+        "1": "在"
+    },
+    "Dongguan": {
+        "1": "響",
+        "2": "在",
+        "3": "喺"
+    },
+    "Doumen-T": {
+        "1": "響",
+        "2": "揀"
+    },
+    "Doumen-S": {
+        "1": "揀"
+    },
+    "Taishan": {
+        "1": "到",
+        "2": "響"
+    },
+    "Kaiping": {
+        "1": "到"
+    },
+    "Shaoguan": {
+        "1": ""
+    },
+    "Yunfu": {
+        "1": ""
+    },
+    "Yangjiang": {
+        "1": "在"
+    },
+    "Xinyi": {
+        "1": ""
+    },
+    "Lianjiang": {
+        "1": ""
+    },
+    "Nanning": {
+        "1": ""
+    },
+    "Nanning-P": {
+        "1": ""
+    },
+    "Xiamen": {
+        "1": "佇",
+        "2": "踮"
+    },
+    "Quanzhou": {
+        "1": "佇"
+    },
+    "Zhangzhou": {
+        "1": "佇"
+    },
+    "Taipei": {
+        "1": "佇",
+        "2": "踮:mT"
+    },
+    "Kaohsiung": {
+        "1": "佇"
+    },
+    "Tainan": {
+        "1": "佇"
+    },
+    "Taichung": {
+        "1": "佇"
+    },
+    "Yilan": {
+        "1": "佇"
+    },
+    "Lukang": {
+        "1": "佇"
+    },
+    "Sanxia": {
+        "1": "佇"
+    },
+    "Kinmen": {
+        "1": "佇"
+    },
+    "Magong": {
+        "1": "佇"
+    },
+    "Hsinchu-MN": {
+        "1": "佇"
+    },
+    "Malaysia-MN": {
+        "1": "佇"
+    },
+    "Singapore-MN": {
+        "1": ""
+    },
+    "Philippine-MN": {
+        "1": "佇"
+    },
+    "Chaozhou": {
+        "1": "在"
+    },
+    "Shantou": {
+        "1": "在"
+    },
+    "Thailand-MN-T": {
+        "1": ""
+    },
+    "Haikou": {
+        "1": ""
+    },
+    "Leizhou": {
+        "1": ""
+    },
+    "Fuzhou": {
+        "1": "著",
+        "2": "在",
+        "3": "洽"
+    },
+    "Fuqing": {
+        "1": "著",
+        "2": "洽"
+    },
+    "Jian'ou": {
+        "1": "到"
+    }
+}
