@@ -1,470 +1,416 @@
 {
     "meaning": "pigeon; dove",
     "note": "",
-    "Classical": {
-        "1": "鴿"
-    },
-    "Formal": {
-        "1": "鴿子"
-    },
-    "Taxonomic": {
-        "1": "鴿"
-    },
-    "Beijing": {
-        "1": "鴿子"
-    },
-    "Taiwan": {
-        "1": "鴿子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "鴿子",
-        "2": "鵓鴿子",
-        "3": "鵓鴿兒"
-    },
-    "Shenyang": {
-        "1": "鵓鴿"
-    },
-    "Hailar": {
-        "1": "鴿子"
-    },
-    "Ulan Hot": {
-        "1": "鴿子",
-        "2": "鵓鴿子"
-    },
-    "Tongliao": {
-        "1": "鴿子",
-        "2": "鵓鴿子"
-    },
-    "Chifeng": {
-        "1": "鴿子"
-    },
-    "Baochang": {
-        "1": "鸕鸕"
-    },
-    "Bayanhot": {
-        "1": "鴿子"
-    },
-    "Jinan": {
-        "1": "鵓鴿",
-        "2": "鴿子"
-    },
-    "Muping": {
-        "1": "鵓鴿兒"
-    },
-    "Luoyang": {
-        "1": "鴿子"
-    },
-    "Wanrong": {
-        "1": "樓鴿"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "趷鵓",
-        "2": "鴿子"
-    },
-    "Qingdao": {
-        "1": "布鴿"
-    },
-    "Zhengzhou": {
-        "1": "鵓鴿"
-    },
-    "Xining": {
-        "1": "鴿子"
-    },
-    "Xuzhou": {
-        "1": "鴿子"
-    },
-    "Yinchuan": {
-        "1": "鴿子"
-    },
-    "Lanzhou": {
-        "1": "普鴿"
-    },
-    "Ürümqi": {
-        "1": "鴿子"
-    },
-    "Wuhan": {
-        "1": "鴿子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "鴿子"
-    },
-    "Guiyang": {
-        "1": "鴿子"
-    },
-    "Guilin": {
-        "1": "鴿子"
-    },
-    "Liuzhou": {
-        "1": "鴿子",
-        "2": "鴿子鳥"
-    },
-    "Kunming": {
-        "1": "鴿子"
-    },
-    "Yangzhou": {
-        "1": "鴿子"
-    },
-    "Nanjing": {
-        "1": "鴿子"
-    },
-    "Hefei": {
-        "1": "鴿子"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "鴿子",
-        "2": "木鴿兒"
-    },
-    "Pingyao": {
-        "1": "木鴿子"
-    },
-    "Xinzhou": {
-        "1": "鴿子",
-        "2": "鸕鸕"
-    },
-    "Jining": {
-        "1": "鴿子"
-    },
-    "Hohhot": {
-        "1": "鸕鸕"
-    },
-    "Baotou": {
-        "1": "鴿子"
-    },
-    "Dongsheng": {
-        "1": "鴿子"
-    },
-    "Linhe": {
-        "1": "鴿子"
-    },
-    "Haibowan": {
-        "1": "鴿子"
-    },
-    "Suzhou": {
-        "1": "鵓鴿"
-    },
-    "Hangzhou": {
-        "1": "鴿子"
-    },
-    "Shanghai": {
-        "1": "鴿子"
-    },
-    "Chongming": {
-        "1": "鴿子"
-    },
-    "Wenzhou": {
-        "1": "白鴿"
-    },
-    "Danyang": {
-        "1": "鴿子"
-    },
-    "Jinhua": {
-        "1": "鵓鴿",
-        "2": "鵓鴿兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "白鴿"
-    },
-    "Changsha": {
-        "1": "鴿子"
-    },
-    "Shuangfeng": {
-        "1": "鵓鴣子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "鴿子",
-        "2": "鵓鴣子"
-    },
-    "Quanzhou-X": {
-        "1": "鴿子"
-    },
-    "Nanchang": {
-        "1": "鴿子"
-    },
-    "Lichuan": {
-        "1": "鴿兒"
-    },
-    "Pingxiang": {
-        "1": "鴿子"
-    },
-    "Meixian": {
-        "1": "月鴿仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "白鴿"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "鴿子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "月鴿仔"
-    },
-    "Liudui": {
-        "1": "月鴿仔"
-    },
-    "Hsinchu": {
-        "1": "月鴿仔"
-    },
-    "Dongshi": {
-        "1": "月鴿"
-    },
-    "Raoping": {
-        "1": "月鴿仔",
-        "2": "月鴿",
-        "3": "粉鳥"
-    },
-    "Yunlin": {
-        "1": "粉鳥"
-    },
-    "Hong Kong-H": {
-        "1": "月鴿",
-        "2": "白鴿"
-    },
-    "Sabah": {
-        "1": "白鴿"
-    },
-    "Senai": {
-        "1": "白鴿"
-    },
-    "Singkawang": {
-        "1": "月鴿"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "鴿"
-    },
-    "Guangzhou": {
-        "1": "白鴿"
-    },
-    "Hong Kong": {
-        "1": "白鴿"
-    },
-    "Shunde": {
-        "1": "白鴿"
-    },
-    "Foshan": {
-        "1": "白鴿"
-    },
-    "Zhongshan": {
-        "1": "鴿"
-    },
-    "Dongguan": {
-        "1": "白鴿"
-    },
-    "HK Weitou": {
-        "1": "白鴿"
-    },
-    "Taishan": {
-        "1": "白鴿"
-    },
-    "Doumen": {
-        "1": "白鴿"
-    },
-    "Kaiping": {
-        "1": "白鴿"
-    },
-    "Shaoguan": {
-        "1": "白鴿"
-    },
-    "Yunfu": {
-        "1": "白鴿"
-    },
-    "Yangjiang": {
-        "1": "白鴿"
-    },
-    "Xinyi": {
-        "1": "白鴿"
-    },
-    "Lianjiang": {
-        "1": "白鴿"
-    },
-    "Nanning": {
-        "1": "白鴿"
-    },
-    "Wuzhou": {
-        "1": "白鴿"
-    },
-    "Yulin": {
-        "1": "白鴿"
-    },
-    "Hepu": {
-        "1": "白鴿"
-    },
-    "Kuala Lumpur": {
-        "1": "白鴿"
-    },
-    "Nanning-P": {
-        "1": "鵓鴿",
-        "2": "鴿"
-    },
-    "Guilin-P": {
-        "1": "鴿子"
-    },
-    "Xiamen": {
-        "1": "子仔",
-        "2": "鴿仔"
-    },
-    "Quanzhou": {
-        "1": "鴿仔"
-    },
-    "Zhangzhou": {
-        "1": "子仔",
-        "2": "鴿仔",
-        "3": "粉鳥"
-    },
-    "Taipei": {
-        "1": "粉鳥"
-    },
-    "Kaohsiung": {
-        "1": "粉鳥"
-    },
-    "Tainan": {
-        "1": "粉鳥"
-    },
-    "Taichung": {
-        "1": "粉鳥"
-    },
-    "Wuqi": {
-        "1": "粉鳥"
-    },
-    "Hsinchu-MN": {
-        "1": "粉鳥"
-    },
-    "Taitung": {
-        "1": "粉鳥"
-    },
-    "Lukang": {
-        "1": "粉鳥"
-    },
-    "Sanxia": {
-        "1": "粉鳥"
-    },
-    "Yilan": {
-        "1": "粉鳥"
-    },
-    "Kinmen": {
-        "1": "鴿"
-    },
-    "Magong": {
-        "1": "粉鳥"
-    },
-    "Malaysia-MN": {
-        "1": "鴿"
-    },
-    "Singapore-MN": {
-        "1": "粉鳥",
-        "2": "鴿"
-    },
-    "Philippine-MN": {
-        "1": "鴿仔"
-    },
-    "Pingnan": {
-        "1": "白鴿"
-    },
-    "Chaozhou": {
-        "1": "粉鳥"
-    },
-    "Shantou": {
-        "1": "粉鳥"
-    },
-    "Haifeng": {
-        "1": "白鴿"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "粉鳥"
-    },
-    "Haikou": {
-        "1": "白鴿"
-    },
-    "Leizhou": {
-        "1": "飛鴿"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "白鴿"
-    },
-    "Fuqing": {
-        "1": "白鴿"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "白鴿"
-    }
+    "Classical": [
+        "鴿"
+    ],
+    "Formal": [
+        "鴿子"
+    ],
+    "Taxonomic": [
+        "鴿"
+    ],
+    "Beijing": [
+        "鴿子"
+    ],
+    "Taiwan": [
+        "鴿子"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "鴿子",
+        "鵓鴿子",
+        "鵓鴿兒"
+    ],
+    "Shenyang": [
+        "鵓鴿"
+    ],
+    "Hailar": [
+        "鴿子"
+    ],
+    "Ulan Hot": [
+        "鴿子",
+        "鵓鴿子"
+    ],
+    "Tongliao": [
+        "鴿子",
+        "鵓鴿子"
+    ],
+    "Chifeng": [
+        "鴿子"
+    ],
+    "Baochang": [
+        "鸕鸕"
+    ],
+    "Bayanhot": [
+        "鴿子"
+    ],
+    "Jinan": [
+        "鵓鴿",
+        "鴿子"
+    ],
+    "Muping": [
+        "鵓鴿兒"
+    ],
+    "Luoyang": [
+        "鴿子"
+    ],
+    "Wanrong": [
+        "樓鴿"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "趷鵓",
+        "鴿子"
+    ],
+    "Qingdao": [
+        "布鴿"
+    ],
+    "Zhengzhou": [
+        "鵓鴿"
+    ],
+    "Xining": [
+        "鴿子"
+    ],
+    "Xuzhou": [
+        "鴿子"
+    ],
+    "Yinchuan": [
+        "鴿子"
+    ],
+    "Lanzhou": [
+        "普鴿"
+    ],
+    "Ürümqi": [
+        "鴿子"
+    ],
+    "Wuhan": [
+        "鴿子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "鴿子"
+    ],
+    "Guiyang": [
+        "鴿子"
+    ],
+    "Guilin": [
+        "鴿子"
+    ],
+    "Liuzhou": [
+        "鴿子",
+        "鴿子鳥"
+    ],
+    "Kunming": [
+        "鴿子"
+    ],
+    "Yangzhou": [
+        "鴿子"
+    ],
+    "Nanjing": [
+        "鴿子"
+    ],
+    "Hefei": [
+        "鴿子"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "鴿子",
+        "木鴿兒"
+    ],
+    "Pingyao": [
+        "木鴿子"
+    ],
+    "Xinzhou": [
+        "鴿子",
+        "鸕鸕"
+    ],
+    "Jining": [
+        "鴿子"
+    ],
+    "Hohhot": [
+        "鸕鸕"
+    ],
+    "Baotou": [
+        "鴿子"
+    ],
+    "Dongsheng": [
+        "鴿子"
+    ],
+    "Linhe": [
+        "鴿子"
+    ],
+    "Haibowan": [
+        "鴿子"
+    ],
+    "Suzhou": [
+        "鵓鴿"
+    ],
+    "Hangzhou": [
+        "鴿子"
+    ],
+    "Shanghai": [
+        "鴿子"
+    ],
+    "Chongming": [
+        "鴿子"
+    ],
+    "Wenzhou": [
+        "白鴿"
+    ],
+    "Danyang": [
+        "鴿子"
+    ],
+    "Jinhua": [
+        "鵓鴿",
+        "鵓鴿兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "白鴿"
+    ],
+    "Changsha": [
+        "鴿子"
+    ],
+    "Shuangfeng": [
+        "鵓鴣子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "鴿子",
+        "鵓鴣子"
+    ],
+    "Quanzhou-X": [
+        "鴿子"
+    ],
+    "Nanchang": [
+        "鴿子"
+    ],
+    "Lichuan": [
+        "鴿兒"
+    ],
+    "Pingxiang": [
+        "鴿子"
+    ],
+    "Meixian": [
+        "月鴿仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "白鴿"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "鴿子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "月鴿仔"
+    ],
+    "Liudui": [
+        "月鴿仔"
+    ],
+    "Hsinchu": [
+        "月鴿仔"
+    ],
+    "Dongshi": [
+        "月鴿"
+    ],
+    "Raoping": [
+        "月鴿仔",
+        "月鴿",
+        "粉鳥"
+    ],
+    "Yunlin": [
+        "粉鳥"
+    ],
+    "Hong Kong-H": [
+        "月鴿",
+        "白鴿"
+    ],
+    "Sabah": [
+        "白鴿"
+    ],
+    "Senai": [
+        "白鴿"
+    ],
+    "Singkawang": [
+        "月鴿"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "鴿"
+    ],
+    "Guangzhou": [
+        "白鴿"
+    ],
+    "Hong Kong": [
+        "白鴿"
+    ],
+    "Shunde": [
+        "白鴿"
+    ],
+    "Foshan": [
+        "白鴿"
+    ],
+    "Zhongshan": [
+        "鴿"
+    ],
+    "Dongguan": [
+        "白鴿"
+    ],
+    "HK Weitou": [
+        "白鴿"
+    ],
+    "Taishan": [
+        "白鴿"
+    ],
+    "Doumen": [
+        "白鴿"
+    ],
+    "Kaiping": [
+        "白鴿"
+    ],
+    "Shaoguan": [
+        "白鴿"
+    ],
+    "Yunfu": [
+        "白鴿"
+    ],
+    "Yangjiang": [
+        "白鴿"
+    ],
+    "Xinyi": [
+        "白鴿"
+    ],
+    "Lianjiang": [
+        "白鴿"
+    ],
+    "Nanning": [
+        "白鴿"
+    ],
+    "Wuzhou": [
+        "白鴿"
+    ],
+    "Yulin": [
+        "白鴿"
+    ],
+    "Hepu": [
+        "白鴿"
+    ],
+    "Kuala Lumpur": [
+        "白鴿"
+    ],
+    "Nanning-P": [
+        "鵓鴿",
+        "鴿"
+    ],
+    "Guilin-P": [
+        "鴿子"
+    ],
+    "Xiamen": [
+        "子仔",
+        "鴿仔"
+    ],
+    "Quanzhou": [
+        "鴿仔"
+    ],
+    "Zhangzhou": [
+        "子仔",
+        "鴿仔",
+        "粉鳥"
+    ],
+    "Taipei": [
+        "粉鳥"
+    ],
+    "Kaohsiung": [
+        "粉鳥"
+    ],
+    "Tainan": [
+        "粉鳥"
+    ],
+    "Taichung": [
+        "粉鳥"
+    ],
+    "Wuqi": [
+        "粉鳥"
+    ],
+    "Hsinchu-MN": [
+        "粉鳥"
+    ],
+    "Taitung": [
+        "粉鳥"
+    ],
+    "Lukang": [
+        "粉鳥"
+    ],
+    "Sanxia": [
+        "粉鳥"
+    ],
+    "Yilan": [
+        "粉鳥"
+    ],
+    "Kinmen": [
+        "鴿"
+    ],
+    "Magong": [
+        "粉鳥"
+    ],
+    "Malaysia-MN": [
+        "鴿"
+    ],
+    "Singapore-MN": [
+        "粉鳥",
+        "鴿"
+    ],
+    "Philippine-MN": [
+        "鴿仔"
+    ],
+    "Pingnan": [
+        "白鴿"
+    ],
+    "Chaozhou": [
+        "粉鳥"
+    ],
+    "Shantou": [
+        "粉鳥"
+    ],
+    "Haifeng": [
+        "白鴿"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "粉鳥"
+    ],
+    "Haikou": [
+        "白鴿"
+    ],
+    "Leizhou": [
+        "飛鴿"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "白鴿"
+    ],
+    "Fuqing": [
+        "白鴿"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "白鴿"
+    ]
 }

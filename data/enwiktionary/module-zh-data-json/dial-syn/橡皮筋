@@ -1,378 +1,228 @@
 {
     "meaning": "rubber band; elastic band",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "猴皮筋兒",
-        "2": "橡皮筋兒",
-        "3": "皮筋兒"
-    },
-    "Taiwan": {
-        "1": "橡皮筋"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "皮筋兒",
-        "2": "猴筋兒"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "皮筋兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "橡皮筋",
-        "2": "橡皮箍"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "橡皮圈兒",
-        "2": "橡皮筋兒"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "橡皮筋",
-        "2": "牛皮筋"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "橡皮筋",
-        "2": "牛皮筋",
-        "3": "老鼠筋"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "樹膠圈"
-    },
-    "Singapore-M": {
-        "1": "樹膠圈"
-    },
-    "Taiyuan": {
-        "1": "猴皮筋"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "牛皮筋",
-        "2": "橡皮筋"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "橡皮丘兒"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "橡皮箍",
-        "2": "橡皮箍箍",
-        "3": "橡皮筋"
-    },
-    "Shuangfeng": {
-        "1": "橡皮箍"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "橡皮箍子"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "牛筋"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "樹乳仔"
-    },
-    "Liudui": {
-        "1": "樹乳"
-    },
-    "Hsinchu": {
-        "1": "樹乳仔"
-    },
-    "Dongshi": {
-        "1": "樹乳"
-    },
-    "Raoping": {
-        "1": "樹乳仔"
-    },
-    "Yunlin": {
-        "1": "樹乳"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "橡筋",
-        "2": "橡筋箍"
-    },
-    "Hong Kong": {
-        "1": "橡筋"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "橡筋",
-        "2": "牛筋"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "膠箍仔"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "樹奶條",
-        "2": "樹奶環",
-        "3": "樹奶箍仔"
-    },
-    "Quanzhou": {
-        "1": "樹奶環"
-    },
-    "Zhangzhou": {
-        "1": "樹奶環",
-        "2": "樹奶箍仔"
-    },
-    "Taipei": {
-        "1": "樹奶箍仔"
-    },
-    "Kaohsiung": {
-        "1": "樹奶"
-    },
-    "Tainan": {
-        "1": "樹奶",
-        "2": "樹奶箍仔"
-    },
-    "Taichung": {
-        "1": "樹奶"
-    },
-    "Wuqi": {
-        "1": "樹奶束仔"
-    },
-    "Hsinchu-MN": {
-        "1": "樹奶"
-    },
-    "Taitung": {
-        "1": "樹奶"
-    },
-    "Lukang": {
-        "1": "樹奶箍仔"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "樹奶"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "樹奶箍仔"
-    },
-    "Malaysia-MN": {
-        "1": "樹奶"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "樹奶箍"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "牛筋"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "牛筋"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "猴皮筋兒",
+        "橡皮筋兒",
+        "皮筋兒"
+    ],
+    "Taiwan": [
+        "橡皮筋"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "皮筋兒",
+        "猴筋兒"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "皮筋兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "橡皮筋",
+        "橡皮箍"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "橡皮圈兒",
+        "橡皮筋兒"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "橡皮筋",
+        "牛皮筋"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "橡皮筋",
+        "牛皮筋",
+        "老鼠筋"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "樹膠圈"
+    ],
+    "Singapore-M": [
+        "樹膠圈"
+    ],
+    "Taiyuan": [
+        "猴皮筋"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "牛皮筋",
+        "橡皮筋"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "橡皮丘兒"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "橡皮箍",
+        "橡皮箍箍",
+        "橡皮筋"
+    ],
+    "Shuangfeng": [
+        "橡皮箍"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "橡皮箍子"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "牛筋"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "樹乳仔"
+    ],
+    "Liudui": [
+        "樹乳"
+    ],
+    "Hsinchu": [
+        "樹乳仔"
+    ],
+    "Dongshi": [
+        "樹乳"
+    ],
+    "Raoping": [
+        "樹乳仔"
+    ],
+    "Yunlin": [
+        "樹乳"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "橡筋",
+        "橡筋箍"
+    ],
+    "Hong Kong": [
+        "橡筋"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "橡筋",
+        "牛筋"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "膠箍仔"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "樹奶條",
+        "樹奶環",
+        "樹奶箍仔"
+    ],
+    "Quanzhou": [
+        "樹奶環"
+    ],
+    "Zhangzhou": [
+        "樹奶環",
+        "樹奶箍仔"
+    ],
+    "Taipei": [
+        "樹奶箍仔"
+    ],
+    "Kaohsiung": [
+        "樹奶"
+    ],
+    "Tainan": [
+        "樹奶",
+        "樹奶箍仔"
+    ],
+    "Taichung": [
+        "樹奶"
+    ],
+    "Wuqi": [
+        "樹奶束仔"
+    ],
+    "Hsinchu-MN": [
+        "樹奶"
+    ],
+    "Taitung": [
+        "樹奶"
+    ],
+    "Lukang": [
+        "樹奶箍仔"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "樹奶"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "樹奶箍仔"
+    ],
+    "Malaysia-MN": [
+        "樹奶"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "樹奶箍"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "牛筋"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "牛筋"
+    ]
 }

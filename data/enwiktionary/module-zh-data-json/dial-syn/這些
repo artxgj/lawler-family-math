@@ -1,617 +1,463 @@
 {
     "meaning": "these",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "這些"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "這些"
-    },
-    "Taiwan": {
-        "1": "這些"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "這些",
-        "2": "這些個"
-    },
-    "Shenyang": {
-        "1": "這些"
-    },
-    "Hailar": {
-        "1": "這些"
-    },
-    "Ulan Hot": {
-        "1": "這些"
-    },
-    "Tongliao": {
-        "1": "這些"
-    },
-    "Chifeng": {
-        "1": "這些"
-    },
-    "Bayanhot": {
-        "1": "這些"
-    },
-    "Jinan": {
-        "1": "這些"
-    },
-    "Muping": {
-        "1": "這些"
-    },
-    "Luoyang": {
-        "1": "這些"
-    },
-    "Wanrong": {
-        "1": "這些"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "這些"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "這些"
-    },
-    "Xining": {
-        "1": "這些"
-    },
-    "Xuzhou": {
-        "1": "這些"
-    },
-    "Yinchuan": {
-        "1": "這些"
-    },
-    "Lanzhou": {
-        "1": "這些",
-        "2": "這些個"
-    },
-    "Ürümqi": {
-        "1": "這些",
-        "2": "這些個"
-    },
-    "Wuhan": {
-        "1": "這些"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "這些"
-    },
-    "Guiyang": {
-        "1": "這些"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "這些"
-    },
-    "Kunming": {
-        "1": "這些"
-    },
-    "Yangzhou": {
-        "1": "這些"
-    },
-    "Nanjing": {
-        "1": "這些"
-    },
-    "Hefei": {
-        "1": "這些"
-    },
-    "Nantong": {
-        "1": "格些"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "這些"
-    },
-    "Pingyao": {
-        "1": "這些兒",
-        "2": "這些些"
-    },
-    "Xinzhou": {
-        "1": "這些兒"
-    },
-    "Baochang": {
-        "1": "這些"
-    },
-    "Jining": {
-        "1": "這些"
-    },
-    "Hohhot": {
-        "1": "這些"
-    },
-    "Baotou": {
-        "1": "這些"
-    },
-    "Dongsheng": {
-        "1": "這些"
-    },
-    "Linhe": {
-        "1": "這些"
-    },
-    "Haibowan": {
-        "1": "這些"
-    },
-    "Shanghai": {
-        "1": "搿點",
-        "2": "迭點",
-        "3": "搿眼",
-        "4": "迭眼",
-        "5": "搿醒"
-    },
-    "Suzhou": {
-        "1": "該星",
-        "2": "哀星",
-        "3": "搿星",
-        "4": "搿點",
-        "5": "哀點",
-        "6": "該點",
-        "7": "哀點星"
-    },
-    "Wuxi": {
-        "1": "意些"
-    },
-    "Hangzhou": {
-        "1": "格些",
-        "2": "格星"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "該倈",
-        "2": "倈"
-    },
-    "Danyang": {
-        "1": "格許多"
-    },
-    "Jinhua": {
-        "1": "格些"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "該眼",
-        "2": "該點眼",
-        "3": "該眼頭"
-    },
-    "Changsha": {
-        "1": "咯些"
-    },
-    "Shuangfeng": {
-        "1": "咯滴"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "已滴",
-        "2": "咯滴"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "箇些"
-    },
-    "Lichuan": {
-        "1": "該多"
-    },
-    "Pingxiang": {
-        "1": "該些"
-    },
-    "Meixian": {
-        "1": "這兜"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "這滴子",
-        "2": "這滴"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "樣兜",
-        "2": "這兜"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "只些"
-    },
-    "Yudu": {
-        "1": "這棉子"
-    },
-    "Ruijin": {
-        "1": "這多子"
-    },
-    "Shicheng": {
-        "1": "這多"
-    },
-    "Shangyou": {
-        "1": "該兜",
-        "2": "該支"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "這兜"
-    },
-    "Liudui": {
-        "1": "這兜"
-    },
-    "Hsinchu": {
-        "1": "這兜"
-    },
-    "Dongshi": {
-        "1": "這兜"
-    },
-    "Raoping": {
-        "1": "這兜"
-    },
-    "Yunlin": {
-        "1": "這兜"
-    },
-    "Hong Kong-H": {
-        "1": "這兜"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "泥的"
-    },
-    "Senai": {
-        "1": "這兜"
-    },
-    "Singkawang": {
-        "1": "這兜"
-    },
-    "Jixi": {
-        "1": "爾號"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "呢啲"
-    },
-    "Hong Kong": {
-        "1": "呢啲"
-    },
-    "Shunde": {
-        "1": "呢啲"
-    },
-    "Foshan": {
-        "1": "呢啲"
-    },
-    "Zhongshan": {
-        "1": "姑啲"
-    },
-    "Dongguan": {
-        "1": "呢啲"
-    },
-    "HK Weitou": {
-        "1": "呢啲"
-    },
-    "Doumen-T": {
-        "1": "呢啲"
-    },
-    "Doumen-S": {
-        "1": "該尼"
-    },
-    "Taishan": {
-        "1": "該尼"
-    },
-    "Kaiping": {
-        "1": "該尼"
-    },
-    "Shaoguan": {
-        "1": "呢啲"
-    },
-    "Yunfu": {
-        "1": "呢一啲"
-    },
-    "Yangjiang": {
-        "1": "果胒"
-    },
-    "Xinyi": {
-        "1": "個搦",
-        "2": "己個搦"
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "呢啲"
-    },
-    "Ho Chi Minh City": {
-        "1": "呢啲"
-    },
-    "Nanning-P": {
-        "1": "亞啲"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "遮的"
-    },
-    "Quanzhou": {
-        "1": "拽"
-    },
-    "Jinjiang": {
-        "1": "拽"
-    },
-    "Zhangzhou": {
-        "1": "遮的"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": "遮的"
-    },
-    "Tainan": {
-        "1": "遮"
-    },
-    "Taichung": {
-        "1": "遮的"
-    },
-    "Wuqi": {
-        "1": "拽"
-    },
-    "Hsinchu-MN": {
-        "1": "遮的"
-    },
-    "Taitung": {
-        "1": "遮的"
-    },
-    "Lukang": {
-        "1": "拽"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "遮的"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "遮"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "拽"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "只撮"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "只撮"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "即多",
-        "2": "者多"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "者些"
-    },
-    "Xianyou": {
-        "1": "者些"
-    },
-    "Fuzhou": {
-        "1": "只滴囝",
-        "2": "只下"
-    },
-    "Changle": {
-        "1": "只下"
-    },
-    "Fuqing": {
-        "1": "者爪兒"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "只穧"
-    },
-    "Gutian": {
-        "1": "者仂囝"
-    },
-    "Fu'an": {
-        "1": "這隻"
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    },
-    "Dikou": {
-        "1": "約多"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "戲多"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": "乙密"
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "這些"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "這些"
+    ],
+    "Taiwan": [
+        "這些"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "這些",
+        "這些個"
+    ],
+    "Shenyang": [
+        "這些"
+    ],
+    "Hailar": [
+        "這些"
+    ],
+    "Ulan Hot": [
+        "這些"
+    ],
+    "Tongliao": [
+        "這些"
+    ],
+    "Chifeng": [
+        "這些"
+    ],
+    "Bayanhot": [
+        "這些"
+    ],
+    "Jinan": [
+        "這些"
+    ],
+    "Muping": [
+        "這些"
+    ],
+    "Luoyang": [
+        "這些"
+    ],
+    "Wanrong": [
+        "這些"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "這些"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "這些"
+    ],
+    "Xining": [
+        "這些"
+    ],
+    "Xuzhou": [
+        "這些"
+    ],
+    "Yinchuan": [
+        "這些"
+    ],
+    "Lanzhou": [
+        "這些",
+        "這些個"
+    ],
+    "Ürümqi": [
+        "這些",
+        "這些個"
+    ],
+    "Wuhan": [
+        "這些"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "這些"
+    ],
+    "Guiyang": [
+        "這些"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "這些"
+    ],
+    "Kunming": [
+        "這些"
+    ],
+    "Yangzhou": [
+        "這些"
+    ],
+    "Nanjing": [
+        "這些"
+    ],
+    "Hefei": [
+        "這些"
+    ],
+    "Nantong": [
+        "格些"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "這些"
+    ],
+    "Pingyao": [
+        "這些兒",
+        "這些些"
+    ],
+    "Xinzhou": [
+        "這些兒"
+    ],
+    "Baochang": [
+        "這些"
+    ],
+    "Jining": [
+        "這些"
+    ],
+    "Hohhot": [
+        "這些"
+    ],
+    "Baotou": [
+        "這些"
+    ],
+    "Dongsheng": [
+        "這些"
+    ],
+    "Linhe": [
+        "這些"
+    ],
+    "Haibowan": [
+        "這些"
+    ],
+    "Shanghai": [
+        "搿點",
+        "迭點",
+        "搿眼",
+        "迭眼",
+        "搿醒"
+    ],
+    "Suzhou": [
+        "該星",
+        "哀星",
+        "搿星",
+        "搿點",
+        "哀點",
+        "該點",
+        "哀點星"
+    ],
+    "Wuxi": [
+        "意些"
+    ],
+    "Hangzhou": [
+        "格些",
+        "格星"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "該倈",
+        "倈"
+    ],
+    "Danyang": [
+        "格許多"
+    ],
+    "Jinhua": [
+        "格些"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "該眼",
+        "該點眼",
+        "該眼頭"
+    ],
+    "Changsha": [
+        "咯些"
+    ],
+    "Shuangfeng": [
+        "咯滴"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "已滴",
+        "咯滴"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "箇些"
+    ],
+    "Lichuan": [
+        "該多"
+    ],
+    "Pingxiang": [
+        "該些"
+    ],
+    "Meixian": [
+        "這兜"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "這滴子",
+        "這滴"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "樣兜",
+        "這兜"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "只些"
+    ],
+    "Yudu": [
+        "這棉子"
+    ],
+    "Ruijin": [
+        "這多子"
+    ],
+    "Shicheng": [
+        "這多"
+    ],
+    "Shangyou": [
+        "該兜",
+        "該支"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "這兜"
+    ],
+    "Liudui": [
+        "這兜"
+    ],
+    "Hsinchu": [
+        "這兜"
+    ],
+    "Dongshi": [
+        "這兜"
+    ],
+    "Raoping": [
+        "這兜"
+    ],
+    "Yunlin": [
+        "這兜"
+    ],
+    "Hong Kong-H": [
+        "這兜"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "泥的"
+    ],
+    "Senai": [
+        "這兜"
+    ],
+    "Singkawang": [
+        "這兜"
+    ],
+    "Jixi": [
+        "爾號"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "呢啲"
+    ],
+    "Hong Kong": [
+        "呢啲"
+    ],
+    "Shunde": [
+        "呢啲"
+    ],
+    "Foshan": [
+        "呢啲"
+    ],
+    "Zhongshan": [
+        "姑啲"
+    ],
+    "Dongguan": [
+        "呢啲"
+    ],
+    "HK Weitou": [
+        "呢啲"
+    ],
+    "Doumen-T": [
+        "呢啲"
+    ],
+    "Doumen-S": [
+        "該尼"
+    ],
+    "Taishan": [
+        "該尼"
+    ],
+    "Kaiping": [
+        "該尼"
+    ],
+    "Shaoguan": [
+        "呢啲"
+    ],
+    "Yunfu": [
+        "呢一啲"
+    ],
+    "Yangjiang": [
+        "果胒"
+    ],
+    "Xinyi": [
+        "個搦",
+        "己個搦"
+    ],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "呢啲"
+    ],
+    "Ho Chi Minh City": [
+        "呢啲"
+    ],
+    "Nanning-P": [
+        "亞啲"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "遮的"
+    ],
+    "Quanzhou": [
+        "拽"
+    ],
+    "Jinjiang": [
+        "拽"
+    ],
+    "Zhangzhou": [
+        "遮的"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [
+        "遮的"
+    ],
+    "Tainan": [
+        "遮"
+    ],
+    "Taichung": [
+        "遮的"
+    ],
+    "Wuqi": [
+        "拽"
+    ],
+    "Hsinchu-MN": [
+        "遮的"
+    ],
+    "Taitung": [
+        "遮的"
+    ],
+    "Lukang": [
+        "拽"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "遮的"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "遮"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "拽"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "只撮"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "只撮"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "即多",
+        "者多"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "者些"
+    ],
+    "Xianyou": [
+        "者些"
+    ],
+    "Fuzhou": [
+        "只滴囝",
+        "只下"
+    ],
+    "Changle": [
+        "只下"
+    ],
+    "Fuqing": [
+        "者爪兒"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "只穧"
+    ],
+    "Gutian": [
+        "者仂囝"
+    ],
+    "Fu'an": [
+        "這隻"
+    ],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [],
+    "Dikou": [
+        "約多"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "戲多"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [
+        "乙密"
+    ],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

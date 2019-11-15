@@ -1,446 +1,320 @@
 {
     "meaning": "squid",
     "note": "",
-    "Classical": {
-        "1": "柔魚"
-    },
-    "Formal": {
-        "1": "槍烏賊",
-        "2": "魷魚"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "魷魚"
-    },
-    "Taiwan": {
-        "1": "魷魚"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "魷魚"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "魷魚"
-    },
-    "Muping": {
-        "1": "魷魚"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "魷魚"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "魷魚"
-    },
-    "Xuzhou": {
-        "1": "魷魚"
-    },
-    "Yinchuan": {
-        "1": "魷魚"
-    },
-    "Lanzhou": {
-        "1": "魷魚"
-    },
-    "Ürümqi": {
-        "1": "魷魚"
-    },
-    "Wuhan": {
-        "1": "魷魚"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "魷魚"
-    },
-    "Guiyang": {
-        "1": "魷魚"
-    },
-    "Liuzhou": {
-        "1": "魷魚"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "魷魚"
-    },
-    "Nanjing": {
-        "1": "魷魚"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "魷魚"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "魷魚"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "魷魚"
-    },
-    "Hangzhou": {
-        "1": "魷魚"
-    },
-    "Shanghai": {
-        "1": "魷魚"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "魷魚"
-    },
-    "Danyang": {
-        "1": "魷魚"
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "魷魚"
-    },
-    "Changsha": {
-        "1": "魷魚"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": "魷魚"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "魷魚"
-    },
-    "Pingxiang": {
-        "1": "魷魚"
-    },
-    "Meixian": {
-        "1": "魷魚"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "魷魚"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "魷魚"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "魷魚",
-        "2": "魷魚仔"
-    },
-    "Liudui": {
-        "1": "魷魚仔"
-    },
-    "Hsinchu": {
-        "1": "魷魚"
-    },
-    "Dongshi": {
-        "1": "魷魚"
-    },
-    "Raoping": {
-        "1": "魷魚"
-    },
-    "Yunlin": {
-        "1": "魷魚"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": "魷魚"
-    },
-    "Senai": {
-        "1": "sotong"
-    },
-    "Singkawang": {
-        "1": "魷魚"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "魷魚"
-    },
-    "Hong Kong": {
-        "1": "魷魚"
-    },
-    "Shunde": {
-        "1": "魷魚"
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": "魷魚"
-    },
-    "Dongguan": {
-        "1": "魷魚"
-    },
-    "Taishan": {
-        "1": "魷魚"
-    },
-    "Doumen": {
-        "1": "魷魚"
-    },
-    "Kaiping": {
-        "1": "魷魚"
-    },
-    "Shaoguan": {
-        "1": "魷魚"
-    },
-    "Yunfu": {
-        "1": "魷魚"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "魷魚"
-    },
-    "Lianjiang": {
-        "1": "魷魚"
-    },
-    "Nanning": {
-        "1": "魷魚"
-    },
-    "Wuzhou": {
-        "1": "魷魚"
-    },
-    "Yulin": {
-        "1": "魷魚"
-    },
-    "Hepu": {
-        "1": "魷魚"
-    },
-    "Kuala Lumpur": {
-        "1": "sotong",
-        "2": "魷魚"
-    },
-    "Nanning-P": {
-        "1": "魷魚"
-    },
-    "Guilin-P": {
-        "1": "魷魚"
-    },
-    "Xiamen": {
-        "1": "鰇魚"
-    },
-    "Quanzhou": {
-        "1": "鰇魚"
-    },
-    "Zhangzhou": {
-        "1": "鰇魚"
-    },
-    "Taipei": {
-        "1": "鰇魚"
-    },
-    "Kaohsiung": {
-        "1": "鰇魚"
-    },
-    "Tainan": {
-        "1": "鰇魚"
-    },
-    "Taichung": {
-        "1": "鰇魚"
-    },
-    "Wuqi": {
-        "1": "鰇魚"
-    },
-    "Hsinchu-MN": {
-        "1": "鰇魚"
-    },
-    "Taitung": {
-        "1": "鰇魚"
-    },
-    "Lukang": {
-        "1": "鰇魚"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "鰇魚"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "鰇魚"
-    },
-    "Malaysia-MN": {
-        "1": "鰇魚"
-    },
-    "Singapore-MN": {
-        "1": "鰇魚"
-    },
-    "Philippine-MN": {
-        "1": "鰇魚"
-    },
-    "Pingnan": {
-        "1": "魷魚"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "魷魚",
-        "2": "sotong"
-    },
-    "Haikou": {
-        "1": "魷魚"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "魷魚"
-    },
-    "Fuqing": {
-        "1": "魷魚"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [
+        "柔魚"
+    ],
+    "Formal": [
+        "槍烏賊",
+        "魷魚"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "魷魚"
+    ],
+    "Taiwan": [
+        "魷魚"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "魷魚"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "魷魚"
+    ],
+    "Muping": [
+        "魷魚"
+    ],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "魷魚"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "魷魚"
+    ],
+    "Xuzhou": [
+        "魷魚"
+    ],
+    "Yinchuan": [
+        "魷魚"
+    ],
+    "Lanzhou": [
+        "魷魚"
+    ],
+    "Ürümqi": [
+        "魷魚"
+    ],
+    "Wuhan": [
+        "魷魚"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "魷魚"
+    ],
+    "Guiyang": [
+        "魷魚"
+    ],
+    "Liuzhou": [
+        "魷魚"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "魷魚"
+    ],
+    "Nanjing": [
+        "魷魚"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "魷魚"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "魷魚"
+    ],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "魷魚"
+    ],
+    "Hangzhou": [
+        "魷魚"
+    ],
+    "Shanghai": [
+        "魷魚"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "魷魚"
+    ],
+    "Danyang": [
+        "魷魚"
+    ],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "魷魚"
+    ],
+    "Changsha": [
+        "魷魚"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [
+        "魷魚"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "魷魚"
+    ],
+    "Pingxiang": [
+        "魷魚"
+    ],
+    "Meixian": [
+        "魷魚"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "魷魚"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "魷魚"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "魷魚",
+        "魷魚仔"
+    ],
+    "Liudui": [
+        "魷魚仔"
+    ],
+    "Hsinchu": [
+        "魷魚"
+    ],
+    "Dongshi": [
+        "魷魚"
+    ],
+    "Raoping": [
+        "魷魚"
+    ],
+    "Yunlin": [
+        "魷魚"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [
+        "魷魚"
+    ],
+    "Senai": [
+        "sotong"
+    ],
+    "Singkawang": [
+        "魷魚"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "魷魚"
+    ],
+    "Hong Kong": [
+        "魷魚"
+    ],
+    "Shunde": [
+        "魷魚"
+    ],
+    "Foshan": [],
+    "Zhongshan": [
+        "魷魚"
+    ],
+    "Dongguan": [
+        "魷魚"
+    ],
+    "Taishan": [
+        "魷魚"
+    ],
+    "Doumen": [
+        "魷魚"
+    ],
+    "Kaiping": [
+        "魷魚"
+    ],
+    "Shaoguan": [
+        "魷魚"
+    ],
+    "Yunfu": [
+        "魷魚"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "魷魚"
+    ],
+    "Lianjiang": [
+        "魷魚"
+    ],
+    "Nanning": [
+        "魷魚"
+    ],
+    "Wuzhou": [
+        "魷魚"
+    ],
+    "Yulin": [
+        "魷魚"
+    ],
+    "Hepu": [
+        "魷魚"
+    ],
+    "Kuala Lumpur": [
+        "sotong",
+        "魷魚"
+    ],
+    "Nanning-P": [
+        "魷魚"
+    ],
+    "Guilin-P": [
+        "魷魚"
+    ],
+    "Xiamen": [
+        "鰇魚"
+    ],
+    "Quanzhou": [
+        "鰇魚"
+    ],
+    "Zhangzhou": [
+        "鰇魚"
+    ],
+    "Taipei": [
+        "鰇魚"
+    ],
+    "Kaohsiung": [
+        "鰇魚"
+    ],
+    "Tainan": [
+        "鰇魚"
+    ],
+    "Taichung": [
+        "鰇魚"
+    ],
+    "Wuqi": [
+        "鰇魚"
+    ],
+    "Hsinchu-MN": [
+        "鰇魚"
+    ],
+    "Taitung": [
+        "鰇魚"
+    ],
+    "Lukang": [
+        "鰇魚"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "鰇魚"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "鰇魚"
+    ],
+    "Malaysia-MN": [
+        "鰇魚"
+    ],
+    "Singapore-MN": [
+        "鰇魚"
+    ],
+    "Philippine-MN": [
+        "鰇魚"
+    ],
+    "Pingnan": [
+        "魷魚"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "魷魚",
+        "sotong"
+    ],
+    "Haikou": [
+        "魷魚"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "魷魚"
+    ],
+    "Fuqing": [
+        "魷魚"
+    ],
+    "Matsu": [],
+    "Jian'ou": []
 }

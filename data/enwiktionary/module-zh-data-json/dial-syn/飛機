@@ -1,358 +1,220 @@
 {
     "meaning": "airplane",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "飛機"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "飛機",
-        "2": "鐵鳥兒"
-    },
-    "Taiwan": {
-        "1": "飛機"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "飛機"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "飛機"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "飛機",
-        "2": "飛艇"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "飛機"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "飛機"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "飛機"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "飛機",
-        "2": "飛艇"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "飛機"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "飛機"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "飛機"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "飛機"
-    },
-    "Shuangfeng": {
-        "1": "飛機"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "飛機"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "飛機"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "飛行機"
-    },
-    "Liudui": {
-        "1": "飛行機"
-    },
-    "Hsinchu": {
-        "1": "飛行機",
-        "2": "飛機"
-    },
-    "Dongshi": {
-        "1": "飛行機"
-    },
-    "Raoping": {
-        "1": "飛行機"
-    },
-    "Yunlin": {
-        "1": "飛機",
-        "2": "飛行機"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "飛機"
-    },
-    "Hong Kong": {
-        "1": "飛機"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "飛機"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "飛機"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "飛機",
-        "2": "飛船"
-    },
-    "Quanzhou": {
-        "1": "飛機",
-        "2": "飛船"
-    },
-    "Zhangzhou": {
-        "1": "飛機",
-        "2": "飛船"
-    },
-    "Taipei": {
-        "1": "飛行機",
-        "2": "飛機"
-    },
-    "Kaohsiung": {
-        "1": "飛行機"
-    },
-    "Tainan": {
-        "1": "飛行機"
-    },
-    "Taichung": {
-        "1": "飛行機"
-    },
-    "Yilan": {
-        "1": "飛行機"
-    },
-    "Lukang": {
-        "1": "飛行機"
-    },
-    "Sanxia": {
-        "1": "飛行機"
-    },
-    "Kinmen": {
-        "1": "飛船",
-        "2": "飛機"
-    },
-    "Magong": {
-        "1": "飛行機"
-    },
-    "Hsinchu-MN": {
-        "1": "飛行機"
-    },
-    "Malaysia-MN": {
-        "1": "飛機",
-        "2": "飛船"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "飛機"
-    },
-    "Chaozhou": {
-        "1": "飛機"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "飛機",
-        "2": "飛船"
-    },
-    "Jian'ou": {
-        "1": "飛機"
-    }
+    "Classical": [],
+    "Formal": [
+        "飛機"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "飛機",
+        "鐵鳥兒"
+    ],
+    "Taiwan": [
+        "飛機"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "飛機"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "飛機"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "飛機",
+        "飛艇"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "飛機"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "飛機"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "飛機"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "飛機",
+        "飛艇"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "飛機"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "飛機"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "飛機"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "飛機"
+    ],
+    "Shuangfeng": [
+        "飛機"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "飛機"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "飛機"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "飛行機"
+    ],
+    "Liudui": [
+        "飛行機"
+    ],
+    "Hsinchu": [
+        "飛行機",
+        "飛機"
+    ],
+    "Dongshi": [
+        "飛行機"
+    ],
+    "Raoping": [
+        "飛行機"
+    ],
+    "Yunlin": [
+        "飛機",
+        "飛行機"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "飛機"
+    ],
+    "Hong Kong": [
+        "飛機"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "飛機"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "飛機"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "飛機",
+        "飛船"
+    ],
+    "Quanzhou": [
+        "飛機",
+        "飛船"
+    ],
+    "Zhangzhou": [
+        "飛機",
+        "飛船"
+    ],
+    "Taipei": [
+        "飛行機",
+        "飛機"
+    ],
+    "Kaohsiung": [
+        "飛行機"
+    ],
+    "Tainan": [
+        "飛行機"
+    ],
+    "Taichung": [
+        "飛行機"
+    ],
+    "Yilan": [
+        "飛行機"
+    ],
+    "Lukang": [
+        "飛行機"
+    ],
+    "Sanxia": [
+        "飛行機"
+    ],
+    "Kinmen": [
+        "飛船",
+        "飛機"
+    ],
+    "Magong": [
+        "飛行機"
+    ],
+    "Hsinchu-MN": [
+        "飛行機"
+    ],
+    "Malaysia-MN": [
+        "飛機",
+        "飛船"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "飛機"
+    ],
+    "Chaozhou": [
+        "飛機"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "飛機",
+        "飛船"
+    ],
+    "Jian'ou": [
+        "飛機"
+    ]
 }

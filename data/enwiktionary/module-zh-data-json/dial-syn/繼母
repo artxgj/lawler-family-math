@@ -1,546 +1,360 @@
 {
     "meaning": "stepmother",
     "note": "",
-    "Classical": {
-        "1": "繼母",
-        "2": "後母"
-    },
-    "Formal": {
-        "1": "繼母",
-        "2": "後母"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "後媽"
-    },
-    "Taiwan": {
-        "1": ""
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "後媽",
-        "2": "後娘"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "後媽",
-        "2": "後娘"
-    },
-    "Muping": {
-        "1": "後媽"
-    },
-    "Luoyang": {
-        "1": "後媽兒",
-        "2": "後娘"
-    },
-    "Wanrong": {
-        "1": "後嬤"
-    },
-    "Ronghe": {
-        "1": "後媽"
-    },
-    "Xi'an": {
-        "1": "後媽",
-        "2": "姚娘"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "後娘",
-        "2": "後媽媽",
-        "3": "後媽"
-    },
-    "Xuzhou": {
-        "1": "晚娘",
-        "2": "繼母娘"
-    },
-    "Yinchuan": {
-        "1": "後媽",
-        "2": "姚婆子"
-    },
-    "Lanzhou": {
-        "1": "後媽"
-    },
-    "Ürümqi": {
-        "1": "後媽",
-        "2": "後娘"
-    },
-    "Wuhan": {
-        "1": "後來娘",
-        "2": "後娘"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "後娘",
-        "2": "後媽",
-        "3": "繼母"
-    },
-    "Guiyang": {
-        "1": "後媽"
-    },
-    "Guilin": {
-        "1": "後娘"
-    },
-    "Liuzhou": {
-        "1": "後媽"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "晚娘"
-    },
-    "Nanjing": {
-        "1": "晚娘"
-    },
-    "Hefei": {
-        "1": "晚媽"
-    },
-    "Nantong": {
-        "1": "繼娘:face-to-face",
-        "2": "後娘:non-face-to-face",
-        "3": "晚娘:non-face-to-face"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "後媽"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "後波",
-        "2": "後繼母"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "晚娘"
-    },
-    "Suzhou": {
-        "1": "晚娘"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "晚娘",
-        "2": "後娘"
-    },
-    "Chongming": {
-        "1": "晚娘"
-    },
-    "Wenzhou": {
-        "1": "後娘",
-        "2": "後嬸",
-        "3": "晚娘"
-    },
-    "Danyang": {
-        "1": "繼娘",
-        "2": "晚娘"
-    },
-    "Jinhua": {
-        "1": "晚娘",
-        "2": "後娘"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "晚娘",
-        "2": "後娘"
-    },
-    "Changsha": {
-        "1": "後娘子",
-        "2": "後娘",
-        "3": "後來娘"
-    },
-    "Shuangfeng": {
-        "1": "後頭娘"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "後來娘"
-    },
-    "Quanzhou-X": {
-        "1": "繼母"
-    },
-    "Nanchang": {
-        "1": "後娘"
-    },
-    "Lichuan": {
-        "1": "後娘"
-    },
-    "Pingxiang": {
-        "1": "後娘",
-        "2": "後來娘"
-    },
-    "Meixian": {
-        "1": "後哀",
-        "2": "繼母"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "後來哀"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "後哀"
-    },
-    "Liudui": {
-        "1": "後哀",
-        "2": "接腳哀"
-    },
-    "Hsinchu": {
-        "1": "後哀"
-    },
-    "Dongshi": {
-        "1": "後哀"
-    },
-    "Raoping": {
-        "1": "後哀"
-    },
-    "Yunlin": {
-        "1": "後哀"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "晚娘"
-    },
-    "Guangzhou": {
-        "1": "後母",
-        "2": "後底乸"
-    },
-    "Hong Kong": {
-        "1": "後母",
-        "2": "後底乸"
-    },
-    "Shunde": {
-        "1": "後底乸"
-    },
-    "Foshan": {
-        "1": "後母"
-    },
-    "Zhongshan": {
-        "1": "後仔乸"
-    },
-    "Dongguan": {
-        "1": "後歸婆"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "後母"
-    },
-    "Doumen": {
-        "1": "後母"
-    },
-    "Kaiping": {
-        "1": "後母"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "背底奶"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "後乸",
-        "2": "後底乸"
-    },
-    "Wuzhou": {
-        "1": "後仔乸"
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": "後乸"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "後老娘",
-        "2": "後底搉",
-        "3": "後媽"
-    },
-    "Guilin-P": {
-        "1": "後娘"
-    },
-    "Xiamen": {
-        "1": "後母"
-    },
-    "Quanzhou": {
-        "1": "後母"
-    },
-    "Zhangzhou": {
-        "1": "後母"
-    },
-    "Taipei": {
-        "1": "後母"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "後母"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "繼媽"
-    },
-    "Chaozhou": {
-        "1": "後嬡"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "後母",
-        "2": "繼母"
-    },
-    "Leizhou": {
-        "1": "後奶"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "後郎奶",
-        "2": "後奶"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "後奶"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [
+        "繼母",
+        "後母"
+    ],
+    "Formal": [
+        "繼母",
+        "後母"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "後媽"
+    ],
+    "Taiwan": [],
+    "Tianjin": [],
+    "Harbin": [
+        "後媽",
+        "後娘"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "後媽",
+        "後娘"
+    ],
+    "Muping": [
+        "後媽"
+    ],
+    "Luoyang": [
+        "後媽兒",
+        "後娘"
+    ],
+    "Wanrong": [
+        "後嬤"
+    ],
+    "Ronghe": [
+        "後媽"
+    ],
+    "Xi'an": [
+        "後媽",
+        "姚娘"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "後娘",
+        "後媽媽",
+        "後媽"
+    ],
+    "Xuzhou": [
+        "晚娘",
+        "繼母娘"
+    ],
+    "Yinchuan": [
+        "後媽",
+        "姚婆子"
+    ],
+    "Lanzhou": [
+        "後媽"
+    ],
+    "Ürümqi": [
+        "後媽",
+        "後娘"
+    ],
+    "Wuhan": [
+        "後來娘",
+        "後娘"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "後娘",
+        "後媽",
+        "繼母"
+    ],
+    "Guiyang": [
+        "後媽"
+    ],
+    "Guilin": [
+        "後娘"
+    ],
+    "Liuzhou": [
+        "後媽"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "晚娘"
+    ],
+    "Nanjing": [
+        "晚娘"
+    ],
+    "Hefei": [
+        "晚媽"
+    ],
+    "Nantong": [
+        "繼娘:face-to-face",
+        "後娘:non-face-to-face",
+        "晚娘:non-face-to-face"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "後媽"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "後波",
+        "後繼母"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "晚娘"
+    ],
+    "Suzhou": [
+        "晚娘"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "晚娘",
+        "後娘"
+    ],
+    "Chongming": [
+        "晚娘"
+    ],
+    "Wenzhou": [
+        "後娘",
+        "後嬸",
+        "晚娘"
+    ],
+    "Danyang": [
+        "繼娘",
+        "晚娘"
+    ],
+    "Jinhua": [
+        "晚娘",
+        "後娘"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "晚娘",
+        "後娘"
+    ],
+    "Changsha": [
+        "後娘子",
+        "後娘",
+        "後來娘"
+    ],
+    "Shuangfeng": [
+        "後頭娘"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "後來娘"
+    ],
+    "Quanzhou-X": [
+        "繼母"
+    ],
+    "Nanchang": [
+        "後娘"
+    ],
+    "Lichuan": [
+        "後娘"
+    ],
+    "Pingxiang": [
+        "後娘",
+        "後來娘"
+    ],
+    "Meixian": [
+        "後哀",
+        "繼母"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "後來哀"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "後哀"
+    ],
+    "Liudui": [
+        "後哀",
+        "接腳哀"
+    ],
+    "Hsinchu": [
+        "後哀"
+    ],
+    "Dongshi": [
+        "後哀"
+    ],
+    "Raoping": [
+        "後哀"
+    ],
+    "Yunlin": [
+        "後哀"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "晚娘"
+    ],
+    "Guangzhou": [
+        "後母",
+        "後底乸"
+    ],
+    "Hong Kong": [
+        "後母",
+        "後底乸"
+    ],
+    "Shunde": [
+        "後底乸"
+    ],
+    "Foshan": [
+        "後母"
+    ],
+    "Zhongshan": [
+        "後仔乸"
+    ],
+    "Dongguan": [
+        "後歸婆"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "後母"
+    ],
+    "Doumen": [
+        "後母"
+    ],
+    "Kaiping": [
+        "後母"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "背底奶"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "後乸",
+        "後底乸"
+    ],
+    "Wuzhou": [
+        "後仔乸"
+    ],
+    "Yulin": [],
+    "Hepu": [
+        "後乸"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "後老娘",
+        "後底搉",
+        "後媽"
+    ],
+    "Guilin-P": [
+        "後娘"
+    ],
+    "Xiamen": [
+        "後母"
+    ],
+    "Quanzhou": [
+        "後母"
+    ],
+    "Zhangzhou": [
+        "後母"
+    ],
+    "Taipei": [
+        "後母"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "後母"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "繼媽"
+    ],
+    "Chaozhou": [
+        "後嬡"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "後母",
+        "繼母"
+    ],
+    "Leizhou": [
+        "後奶"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "後郎奶",
+        "後奶"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "後奶"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

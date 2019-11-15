@@ -1,525 +1,347 @@
 {
     "meaning": "fava bean",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "蠶豆"
-    },
-    "Taxonomic": {
-        "1": "蠶豆"
-    },
-    "Beijing": {
-        "1": "蠶豆"
-    },
-    "Taiwan": {
-        "1": "蠶豆"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "蠶豆"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "蠶豆"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "蠶豆",
-        "2": "藍花豆兒"
-    },
-    "Wanrong": {
-        "1": "蠶豆"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "蠶豆"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "大豆"
-    },
-    "Xuzhou": {
-        "1": "蠶豆"
-    },
-    "Yinchuan": {
-        "1": "蠶豆",
-        "2": "大豆"
-    },
-    "Lanzhou": {
-        "1": "大豆"
-    },
-    "Ürümqi": {
-        "1": "大豆"
-    },
-    "Wuhan": {
-        "1": "蠶豆"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "胡豆兒",
-        "2": "胡豆"
-    },
-    "Guiyang": {
-        "1": "胡豆"
-    },
-    "Guilin": {
-        "1": "蠶豆"
-    },
-    "Liuzhou": {
-        "1": "蠶豆"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "蠶豆"
-    },
-    "Nanjing": {
-        "1": "蠶豆"
-    },
-    "Hefei": {
-        "1": "蠶豆"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "大豆"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "大豆"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "蠶豆",
-        "2": "寒豆"
-    },
-    "Suzhou": {
-        "1": "蠶豆"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "蠶豆兒"
-    },
-    "Chongming": {
-        "1": "寒豆"
-    },
-    "Wenzhou": {
-        "1": "淮豆"
-    },
-    "Danyang": {
-        "1": "蠶豆"
-    },
-    "Jinhua": {
-        "1": "佛豆"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "倭豆",
-        "2": "大倭豆"
-    },
-    "Changsha": {
-        "1": "蠶豆",
-        "2": "豌豆"
-    },
-    "Shuangfeng": {
-        "1": "豌豆子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "豌豆"
-    },
-    "Quanzhou-X": {
-        "1": "蠶豆"
-    },
-    "Nanchang": {
-        "1": "蠶豆"
-    },
-    "Lichuan": {
-        "1": "蠶豆"
-    },
-    "Pingxiang": {
-        "1": "大豌豆"
-    },
-    "Meixian": {
-        "1": "蠶豆",
-        "2": "胡豆"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "蠶豆"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "蠶豆",
-        "2": "胡豆",
-        "3": "巴豆"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "田豆"
-    },
-    "Liudui": {
-        "1": "田豆"
-    },
-    "Hsinchu": {
-        "1": "田豆"
-    },
-    "Dongshi": {
-        "1": "田豆"
-    },
-    "Raoping": {
-        "1": "田豆"
-    },
-    "Yunlin": {
-        "1": "田豆",
-        "2": "蠶豆"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": "蠶豆"
-    },
-    "Tunxi": {
-        "1": "蠶豆兒",
-        "2": "碧豆兒:dated"
-    },
-    "Jixi": {
-        "1": "蠶豆"
-    },
-    "Guangzhou": {
-        "1": "蠶豆"
-    },
-    "Hong Kong": {
-        "1": "蠶豆"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "豬屎豆"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "蠶豆"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "蠶豆"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "蠶豆"
-    },
-    "Wuzhou": {
-        "1": "蠶豆"
-    },
-    "Yulin": {
-        "1": "蠶豆"
-    },
-    "Hepu": {
-        "1": "蠶豆"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "蠶豆",
-        "2": "木豆"
-    },
-    "Guilin-P": {
-        "1": "蠶豆"
-    },
-    "Xiamen": {
-        "1": "馬齒豆"
-    },
-    "Quanzhou": {
-        "1": "馬齒豆"
-    },
-    "Zhangzhou": {
-        "1": "馬齒豆",
-        "2": "虎爪豆"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "扁豆"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "蠶豆"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "塍豆"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "蠶豆"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "蠶豆"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": "茶豆"
-    },
-    "Ningde": {
-        "1": "羅漢豆"
-    },
-    "Shouning": {
-        "1": "茶豆"
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": "茴豆"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "福州豆",
-        "2": "蠶豆"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": "蠶豆"
-    },
-    "Zhenghe": {
-        "1": "蠶豆"
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "福州豆"
-    },
-    "Wuyishan": {
-        "1": "福州豆"
-    },
-    "Shibei": {
-        "1": "福州豆"
-    }
+    "Classical": [],
+    "Formal": [
+        "蠶豆"
+    ],
+    "Taxonomic": [
+        "蠶豆"
+    ],
+    "Beijing": [
+        "蠶豆"
+    ],
+    "Taiwan": [
+        "蠶豆"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "蠶豆"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "蠶豆"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "蠶豆",
+        "藍花豆兒"
+    ],
+    "Wanrong": [
+        "蠶豆"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "蠶豆"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "大豆"
+    ],
+    "Xuzhou": [
+        "蠶豆"
+    ],
+    "Yinchuan": [
+        "蠶豆",
+        "大豆"
+    ],
+    "Lanzhou": [
+        "大豆"
+    ],
+    "Ürümqi": [
+        "大豆"
+    ],
+    "Wuhan": [
+        "蠶豆"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "胡豆兒",
+        "胡豆"
+    ],
+    "Guiyang": [
+        "胡豆"
+    ],
+    "Guilin": [
+        "蠶豆"
+    ],
+    "Liuzhou": [
+        "蠶豆"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "蠶豆"
+    ],
+    "Nanjing": [
+        "蠶豆"
+    ],
+    "Hefei": [
+        "蠶豆"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "大豆"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "大豆"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "蠶豆",
+        "寒豆"
+    ],
+    "Suzhou": [
+        "蠶豆"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "蠶豆兒"
+    ],
+    "Chongming": [
+        "寒豆"
+    ],
+    "Wenzhou": [
+        "淮豆"
+    ],
+    "Danyang": [
+        "蠶豆"
+    ],
+    "Jinhua": [
+        "佛豆"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "倭豆",
+        "大倭豆"
+    ],
+    "Changsha": [
+        "蠶豆",
+        "豌豆"
+    ],
+    "Shuangfeng": [
+        "豌豆子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "豌豆"
+    ],
+    "Quanzhou-X": [
+        "蠶豆"
+    ],
+    "Nanchang": [
+        "蠶豆"
+    ],
+    "Lichuan": [
+        "蠶豆"
+    ],
+    "Pingxiang": [
+        "大豌豆"
+    ],
+    "Meixian": [
+        "蠶豆",
+        "胡豆"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "蠶豆"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "蠶豆",
+        "胡豆",
+        "巴豆"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "田豆"
+    ],
+    "Liudui": [
+        "田豆"
+    ],
+    "Hsinchu": [
+        "田豆"
+    ],
+    "Dongshi": [
+        "田豆"
+    ],
+    "Raoping": [
+        "田豆"
+    ],
+    "Yunlin": [
+        "田豆",
+        "蠶豆"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [
+        "蠶豆"
+    ],
+    "Tunxi": [
+        "蠶豆兒",
+        "碧豆兒:dated"
+    ],
+    "Jixi": [
+        "蠶豆"
+    ],
+    "Guangzhou": [
+        "蠶豆"
+    ],
+    "Hong Kong": [
+        "蠶豆"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "豬屎豆"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "蠶豆"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "蠶豆"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "蠶豆"
+    ],
+    "Wuzhou": [
+        "蠶豆"
+    ],
+    "Yulin": [
+        "蠶豆"
+    ],
+    "Hepu": [
+        "蠶豆"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "蠶豆",
+        "木豆"
+    ],
+    "Guilin-P": [
+        "蠶豆"
+    ],
+    "Xiamen": [
+        "馬齒豆"
+    ],
+    "Quanzhou": [
+        "馬齒豆"
+    ],
+    "Zhangzhou": [
+        "馬齒豆",
+        "虎爪豆"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "扁豆"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "蠶豆"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "塍豆"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "蠶豆"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "蠶豆"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [
+        "茶豆"
+    ],
+    "Ningde": [
+        "羅漢豆"
+    ],
+    "Shouning": [
+        "茶豆"
+    ],
+    "Zhouning": [],
+    "Fuding": [
+        "茴豆"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "福州豆",
+        "蠶豆"
+    ],
+    "Dikou": [],
+    "Songxi": [
+        "蠶豆"
+    ],
+    "Zhenghe": [
+        "蠶豆"
+    ],
+    "Zhenqian": [],
+    "Jianyang": [
+        "福州豆"
+    ],
+    "Wuyishan": [
+        "福州豆"
+    ],
+    "Shibei": [
+        "福州豆"
+    ]
 }

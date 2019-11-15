@@ -1,543 +1,433 @@
 {
     "meaning": "navel; belly button",
     "note": "",
-    "Classical": {
-        "1": "臍"
-    },
-    "Formal": {
-        "1": "肚臍"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "肚臍兒",
-        "2": "肚臍眼兒"
-    },
-    "Taiwan": {
-        "1": "肚臍",
-        "2": "肚臍眼"
-    },
-    "Tianjin": {
-        "1": "肚眼兒"
-    },
-    "Harbin": {
-        "1": "肚臍眼兒",
-        "2": "肚臍子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "肚臍眼"
-    },
-    "Ulan Hot": {
-        "1": "肚臍眼"
-    },
-    "Tongliao": {
-        "1": "肚臍眼"
-    },
-    "Chifeng": {
-        "1": "肚臍兒"
-    },
-    "Bayanhot": {
-        "1": "肚母臍臍"
-    },
-    "Jinan": {
-        "1": "脖臍",
-        "2": "脖臍眼兒"
-    },
-    "Muping": {
-        "1": "閉臍",
-        "2": "閉臍眼子"
-    },
-    "Luoyang": {
-        "1": "肚臍兒",
-        "2": "肚目臍兒"
-    },
-    "Wanrong": {
-        "1": "不臍窩"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "脖臍窩兒"
-    },
-    "Qingdao": {
-        "1": "肚臍眼兒",
-        "2": "腹臍眼兒"
-    },
-    "Zhengzhou": {
-        "1": "肚末臍兒"
-    },
-    "Xining": {
-        "1": "蒲臍眼"
-    },
-    "Xuzhou": {
-        "1": "肚眼兒",
-        "2": "肚眼子",
-        "3": "肚臍兒",
-        "4": "肚臍"
-    },
-    "Yinchuan": {
-        "1": "肚母臍臍"
-    },
-    "Lanzhou": {
-        "1": "肚母臍"
-    },
-    "Ürümqi": {
-        "1": "肚目臍子"
-    },
-    "Wuhan": {
-        "1": "肚臍眼"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "肚臍兒",
-        "2": "肚臍眼兒"
-    },
-    "Guiyang": {
-        "1": "肚臍眼",
-        "2": "一分錢:humorous"
-    },
-    "Guilin": {
-        "1": "肚臍眼"
-    },
-    "Liuzhou": {
-        "1": "肚臍眼",
-        "2": "肚臍"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "肚臍子"
-    },
-    "Nanjing": {
-        "1": "肚臍眼兒"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "肚臍眼兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "肚不臍"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "木臍"
-    },
-    "Baochang": {
-        "1": "肚臍眼"
-    },
-    "Jining": {
-        "1": "肚摸臍"
-    },
-    "Hohhot": {
-        "1": "肚麼臍臍"
-    },
-    "Baotou": {
-        "1": "肚摸臍"
-    },
-    "Dongsheng": {
-        "1": "肚臍兒"
-    },
-    "Linhe": {
-        "1": "肚臍"
-    },
-    "Haibowan": {
-        "1": "肚部臍"
-    },
-    "Shanghai": {
-        "1": "肚皮眼",
-        "2": "肚臍",
-        "3": "肚臍眼"
-    },
-    "Suzhou": {
-        "1": "肚臍眼"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "肚臍眼兒"
-    },
-    "Chongming": {
-        "1": "肚皮子"
-    },
-    "Wenzhou": {
-        "1": "肚臍窟",
-        "2": "肚臍丼"
-    },
-    "Danyang": {
-        "1": "肚臍眼",
-        "2": "肚皮眼"
-    },
-    "Jinhua": {
-        "1": "肚臍",
-        "2": "肚臍窟窿"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "肚臍眼"
-    },
-    "Changsha": {
-        "1": "肚臍眼"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "肚臍眼"
-    },
-    "Quanzhou-X": {
-        "1": "肚臍眼",
-        "2": "肚臍"
-    },
-    "Nanchang": {
-        "1": "肚臍眼"
-    },
-    "Lichuan": {
-        "1": "肚胔眼"
-    },
-    "Pingxiang": {
-        "1": "脖子眼",
-        "2": "肚絲眼"
-    },
-    "Meixian": {
-        "1": "肚臍窟"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "肚臍眼"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "肚臍",
-        "2": "肚臍眼"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "肚臍",
-        "2": "肚臍窟"
-    },
-    "Liudui": {
-        "1": "肚臍",
-        "2": "肚臍窟"
-    },
-    "Hsinchu": {
-        "1": "肚臍",
-        "2": "肚臍窟"
-    },
-    "Dongshi": {
-        "1": "肚臍",
-        "2": "肚臍窟"
-    },
-    "Raoping": {
-        "1": "肚臍",
-        "2": "肚臍窟"
-    },
-    "Yunlin": {
-        "1": "腹臍",
-        "2": "腹臍窟"
-    },
-    "Hong Kong-H": {
-        "1": "肚臍"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "肚臍"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "肚臍"
-    },
-    "Guangzhou": {
-        "1": "肚臍",
-        "2": "肚臍窿"
-    },
-    "Hong Kong": {
-        "1": "肚臍",
-        "2": "肚臍窿"
-    },
-    "Shunde": {
-        "1": "肚臍"
-    },
-    "Foshan": {
-        "1": "肚臍"
-    },
-    "Zhongshan": {
-        "1": "肚臍"
-    },
-    "Dongguan": {
-        "1": "屎肚臍",
-        "2": "肚臍",
-        "3": "屎卜臍"
-    },
-    "HK Weitou": {
-        "1": "肚臍"
-    },
-    "Taishan": {
-        "1": "肚臍"
-    },
-    "Doumen": {
-        "1": "肚臍"
-    },
-    "Kaiping": {
-        "1": "肚臍"
-    },
-    "Shaoguan": {
-        "1": "肚臍"
-    },
-    "Yunfu": {
-        "1": "肚臍"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "肚臍"
-    },
-    "Lianjiang": {
-        "1": "肚臍"
-    },
-    "Nanning": {
-        "1": "肚臍"
-    },
-    "Wuzhou": {
-        "1": "肚臍"
-    },
-    "Yulin": {
-        "1": "肚臍"
-    },
-    "Hepu": {
-        "1": "肚臍"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "肚臍"
-    },
-    "Nanning-P": {
-        "1": "肚臍"
-    },
-    "Guilin-P": {
-        "1": "肚臍眼"
-    },
-    "Xiamen": {
-        "1": "肚臍空",
-        "2": "腹臍"
-    },
-    "Quanzhou": {
-        "1": "腹臍"
-    },
-    "Zhangzhou": {
-        "1": "肚臍空"
-    },
-    "Taipei": {
-        "1": "肚臍"
-    },
-    "Kaohsiung": {
-        "1": "肚臍"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "肚臍"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "肚臍"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "肚臍"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "肚臍"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "腹臍"
-    },
-    "Changle": {
-        "1": "腹臍"
-    },
-    "Fuqing": {
-        "1": "腹臍"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "腹肚臍"
-    },
-    "Gutian": {
-        "1": "腹臍"
-    },
-    "Fu'an": {
-        "1": "腹臍"
-    },
-    "Ningde": {
-        "1": "腹臍"
-    },
-    "Shouning": {
-        "1": "腹臍"
-    },
-    "Zhouning": {
-        "1": "腹臍"
-    },
-    "Fuding": {
-        "1": "腹臍"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "腹臍"
-    },
-    "Dikou": {
-        "1": "腹臍"
-    },
-    "Songxi": {
-        "1": "腹臍"
-    },
-    "Zhenghe": {
-        "1": "腹臍"
-    },
-    "Zhenqian": {
-        "1": "腹鹵臍"
-    },
-    "Jianyang": {
-        "1": "腹臍"
-    },
-    "Wuyishan": {
-        "1": "腹臍"
-    },
-    "Shibei": {
-        "1": "腹臍"
-    }
+    "Classical": [
+        "臍"
+    ],
+    "Formal": [
+        "肚臍"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "肚臍兒",
+        "肚臍眼兒"
+    ],
+    "Taiwan": [
+        "肚臍",
+        "肚臍眼"
+    ],
+    "Tianjin": [
+        "肚眼兒"
+    ],
+    "Harbin": [
+        "肚臍眼兒",
+        "肚臍子"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "肚臍眼"
+    ],
+    "Ulan Hot": [
+        "肚臍眼"
+    ],
+    "Tongliao": [
+        "肚臍眼"
+    ],
+    "Chifeng": [
+        "肚臍兒"
+    ],
+    "Bayanhot": [
+        "肚母臍臍"
+    ],
+    "Jinan": [
+        "脖臍",
+        "脖臍眼兒"
+    ],
+    "Muping": [
+        "閉臍",
+        "閉臍眼子"
+    ],
+    "Luoyang": [
+        "肚臍兒",
+        "肚目臍兒"
+    ],
+    "Wanrong": [
+        "不臍窩"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "脖臍窩兒"
+    ],
+    "Qingdao": [
+        "肚臍眼兒",
+        "腹臍眼兒"
+    ],
+    "Zhengzhou": [
+        "肚末臍兒"
+    ],
+    "Xining": [
+        "蒲臍眼"
+    ],
+    "Xuzhou": [
+        "肚眼兒",
+        "肚眼子",
+        "肚臍兒",
+        "肚臍"
+    ],
+    "Yinchuan": [
+        "肚母臍臍"
+    ],
+    "Lanzhou": [
+        "肚母臍"
+    ],
+    "Ürümqi": [
+        "肚目臍子"
+    ],
+    "Wuhan": [
+        "肚臍眼"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "肚臍兒",
+        "肚臍眼兒"
+    ],
+    "Guiyang": [
+        "肚臍眼",
+        "一分錢:humorous"
+    ],
+    "Guilin": [
+        "肚臍眼"
+    ],
+    "Liuzhou": [
+        "肚臍眼",
+        "肚臍"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "肚臍子"
+    ],
+    "Nanjing": [
+        "肚臍眼兒"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "肚臍眼兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "肚不臍"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "木臍"
+    ],
+    "Baochang": [
+        "肚臍眼"
+    ],
+    "Jining": [
+        "肚摸臍"
+    ],
+    "Hohhot": [
+        "肚麼臍臍"
+    ],
+    "Baotou": [
+        "肚摸臍"
+    ],
+    "Dongsheng": [
+        "肚臍兒"
+    ],
+    "Linhe": [
+        "肚臍"
+    ],
+    "Haibowan": [
+        "肚部臍"
+    ],
+    "Shanghai": [
+        "肚皮眼",
+        "肚臍",
+        "肚臍眼"
+    ],
+    "Suzhou": [
+        "肚臍眼"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "肚臍眼兒"
+    ],
+    "Chongming": [
+        "肚皮子"
+    ],
+    "Wenzhou": [
+        "肚臍窟",
+        "肚臍丼"
+    ],
+    "Danyang": [
+        "肚臍眼",
+        "肚皮眼"
+    ],
+    "Jinhua": [
+        "肚臍",
+        "肚臍窟窿"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "肚臍眼"
+    ],
+    "Changsha": [
+        "肚臍眼"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "肚臍眼"
+    ],
+    "Quanzhou-X": [
+        "肚臍眼",
+        "肚臍"
+    ],
+    "Nanchang": [
+        "肚臍眼"
+    ],
+    "Lichuan": [
+        "肚胔眼"
+    ],
+    "Pingxiang": [
+        "脖子眼",
+        "肚絲眼"
+    ],
+    "Meixian": [
+        "肚臍窟"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "肚臍眼"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "肚臍",
+        "肚臍眼"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "肚臍",
+        "肚臍窟"
+    ],
+    "Liudui": [
+        "肚臍",
+        "肚臍窟"
+    ],
+    "Hsinchu": [
+        "肚臍",
+        "肚臍窟"
+    ],
+    "Dongshi": [
+        "肚臍",
+        "肚臍窟"
+    ],
+    "Raoping": [
+        "肚臍",
+        "肚臍窟"
+    ],
+    "Yunlin": [
+        "腹臍",
+        "腹臍窟"
+    ],
+    "Hong Kong-H": [
+        "肚臍"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "肚臍"
+    ],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "肚臍"
+    ],
+    "Guangzhou": [
+        "肚臍",
+        "肚臍窿"
+    ],
+    "Hong Kong": [
+        "肚臍",
+        "肚臍窿"
+    ],
+    "Shunde": [
+        "肚臍"
+    ],
+    "Foshan": [
+        "肚臍"
+    ],
+    "Zhongshan": [
+        "肚臍"
+    ],
+    "Dongguan": [
+        "屎肚臍",
+        "肚臍",
+        "屎卜臍"
+    ],
+    "HK Weitou": [
+        "肚臍"
+    ],
+    "Taishan": [
+        "肚臍"
+    ],
+    "Doumen": [
+        "肚臍"
+    ],
+    "Kaiping": [
+        "肚臍"
+    ],
+    "Shaoguan": [
+        "肚臍"
+    ],
+    "Yunfu": [
+        "肚臍"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "肚臍"
+    ],
+    "Lianjiang": [
+        "肚臍"
+    ],
+    "Nanning": [
+        "肚臍"
+    ],
+    "Wuzhou": [
+        "肚臍"
+    ],
+    "Yulin": [
+        "肚臍"
+    ],
+    "Hepu": [
+        "肚臍"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "肚臍"
+    ],
+    "Nanning-P": [
+        "肚臍"
+    ],
+    "Guilin-P": [
+        "肚臍眼"
+    ],
+    "Xiamen": [
+        "肚臍空",
+        "腹臍"
+    ],
+    "Quanzhou": [
+        "腹臍"
+    ],
+    "Zhangzhou": [
+        "肚臍空"
+    ],
+    "Taipei": [
+        "肚臍"
+    ],
+    "Kaohsiung": [
+        "肚臍"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "肚臍"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [
+        "肚臍"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "肚臍"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "肚臍"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "腹臍"
+    ],
+    "Changle": [
+        "腹臍"
+    ],
+    "Fuqing": [
+        "腹臍"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "腹肚臍"
+    ],
+    "Gutian": [
+        "腹臍"
+    ],
+    "Fu'an": [
+        "腹臍"
+    ],
+    "Ningde": [
+        "腹臍"
+    ],
+    "Shouning": [
+        "腹臍"
+    ],
+    "Zhouning": [
+        "腹臍"
+    ],
+    "Fuding": [
+        "腹臍"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "腹臍"
+    ],
+    "Dikou": [
+        "腹臍"
+    ],
+    "Songxi": [
+        "腹臍"
+    ],
+    "Zhenghe": [
+        "腹臍"
+    ],
+    "Zhenqian": [
+        "腹鹵臍"
+    ],
+    "Jianyang": [
+        "腹臍"
+    ],
+    "Wuyishan": [
+        "腹臍"
+    ],
+    "Shibei": [
+        "腹臍"
+    ]
 }

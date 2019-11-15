@@ -1,607 +1,453 @@
 {
     "meaning": "bedbug",
     "note": "",
-    "Classical": {
-        "1": "臭蟲",
-        "2": "壁蝨",
-        "3": "蜰蟲",
-        "4": "蜰"
-    },
-    "Formal": {
-        "1": "臭蟲",
-        "2": "床蝨"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "臭蟲"
-    },
-    "Taiwan": {
-        "1": "臭蟲",
-        "2": "床蝨"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "臭蟲",
-        "2": "老臭"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": "壁蝨"
-    },
-    "Jinan": {
-        "1": "臭蟲"
-    },
-    "Muping": {
-        "1": "壁蝨"
-    },
-    "Luoyang": {
-        "1": "臭蟲"
-    },
-    "Wanrong": {
-        "1": "壁蝨"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "臭蝨"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "臭蟲"
-    },
-    "Xining": {
-        "1": "臭蝨"
-    },
-    "Xuzhou": {
-        "1": "臭蟲"
-    },
-    "Yinchuan": {
-        "1": "臭臭"
-    },
-    "Lanzhou": {
-        "1": "壁蝨",
-        "2": "臭蟲"
-    },
-    "Ürümqi": {
-        "1": "臭蝨"
-    },
-    "Wuhan": {
-        "1": "臭蟲"
-    },
-    "Huanggang": {
-        "1": "臭蝨"
-    },
-    "Chengdu": {
-        "1": "臭蟲"
-    },
-    "Guiyang": {
-        "1": "臭蟲"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "臭蟲"
-    },
-    "Kunming": {
-        "1": "壁蝨"
-    },
-    "Yangzhou": {
-        "1": "臭癟",
-        "2": "臭蟲"
-    },
-    "Nanjing": {
-        "1": "臭蟲"
-    },
-    "Hefei": {
-        "1": "臭蟲"
-    },
-    "Nantong": {
-        "1": "壁蝨"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "臭蝨"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "壁蝨",
-        "2": "臭蟲"
-    },
-    "Pingyao": {
-        "1": "壁蝨"
-    },
-    "Xinzhou": {
-        "1": "壁蝨"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "臭蟲",
-        "2": "壁蝨"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "臭蟲",
-        "2": "臭蝨",
-        "3": "壁蝨:dated"
-    },
-    "Suzhou": {
-        "1": "壁蝨",
-        "2": "臭蟲"
-    },
-    "Wuxi": {
-        "1": "癟蝨"
-    },
-    "Hangzhou": {
-        "1": "臭蟲"
-    },
-    "Chongming": {
-        "1": "臭蝨"
-    },
-    "Wenzhou": {
-        "1": "茭蝨"
-    },
-    "Danyang": {
-        "1": "壁蝨",
-        "2": "臭蟲"
-    },
-    "Jinhua": {
-        "1": "臭蟲"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "臭蟲"
-    },
-    "Changsha": {
-        "1": "臭蟲"
-    },
-    "Shuangfeng": {
-        "1": "臭蟲"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "臭蟲"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "臭蟲"
-    },
-    "Lichuan": {
-        "1": "臭蟲",
-        "2": "烏蜱"
-    },
-    "Pingxiang": {
-        "1": "虼蜱"
-    },
-    "Meixian": {
-        "1": "䗆蜱"
-    },
-    "Xingning": {
-        "1": "䗆蜱"
-    },
-    "Huidong": {
-        "1": "䗆蜱"
-    },
-    "Qujiang": {
-        "1": "枯蜱"
-    },
-    "Xiaosanjiang": {
-        "1": "䗆蜱"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "䗆蜱"
-    },
-    "Pingyu": {
-        "1": "䗆蜱"
-    },
-    "Wuping": {
-        "1": "䗆蜱"
-    },
-    "Liancheng": {
-        "1": "䗆蜱"
-    },
-    "Ninghua": {
-        "1": "臭蟲"
-    },
-    "Yudu": {
-        "1": "䗆蜱"
-    },
-    "Ruijin": {
-        "1": "臭蟲"
-    },
-    "Shicheng": {
-        "1": "臭蟲"
-    },
-    "Shangyou": {
-        "1": "臭蟲"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "䗆蜱"
-    },
-    "Liudui": {
-        "1": "䗆蜱"
-    },
-    "Hsinchu": {
-        "1": "䗆蜱"
-    },
-    "Dongshi": {
-        "1": "䗆蜱"
-    },
-    "Raoping": {
-        "1": "䗆蜱"
-    },
-    "Yunlin": {
-        "1": "䗆蜱"
-    },
-    "Hong Kong-H": {
-        "1": "䗆蜱"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "䗆蜱"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "木蝨",
-        "2": "臭蟲"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "木蝨"
-    },
-    "Hong Kong": {
-        "1": "木蝨"
-    },
-    "Shunde": {
-        "1": "木蝨"
-    },
-    "Foshan": {
-        "1": "木蝨"
-    },
-    "Zhongshan": {
-        "1": "木蝨"
-    },
-    "Dongguan": {
-        "1": "木蝨"
-    },
-    "HK Weitou": {
-        "1": "木蝨"
-    },
-    "Doumen-T": {
-        "1": "木蝨"
-    },
-    "Doumen-S": {
-        "1": "交蚍",
-        "2": "木蝨"
-    },
-    "Taishan": {
-        "1": "交蚍"
-    },
-    "Kaiping": {
-        "1": "交蚍"
-    },
-    "Shaoguan": {
-        "1": "木蝨"
-    },
-    "Yunfu": {
-        "1": "木蝨"
-    },
-    "Yangjiang": {
-        "1": "木蝨"
-    },
-    "Xinyi": {
-        "1": "木蝨"
-    },
-    "Lianjiang": {
-        "1": "木蝨"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "木蝨"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "臭蟲",
-        "2": "木蝨"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "木蝨"
-    },
-    "Quanzhou": {
-        "1": "木蝨"
-    },
-    "Zhangzhou": {
-        "1": "木蝨"
-    },
-    "Taipei": {
-        "1": "木蝨"
-    },
-    "Kaohsiung": {
-        "1": "木蝨"
-    },
-    "Tainan": {
-        "1": "木蝨"
-    },
-    "Taichung": {
-        "1": "木蝨"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "木蝨"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "木蝨"
-    },
-    "Sanxia": {
-        "1": "木蝨"
-    },
-    "Yilan": {
-        "1": "木蝨"
-    },
-    "Kinmen": {
-        "1": "蛀龜"
-    },
-    "Magong": {
-        "1": "蛀龜"
-    },
-    "Malaysia-MN": {
-        "1": "木蝨"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "木蝨"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "木蝨"
-    },
-    "Shantou": {
-        "1": "木蝨"
-    },
-    "Haifeng": {
-        "1": "木蝨"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "木蝨"
-    },
-    "Wenchang": {
-        "1": "木蝨"
-    },
-    "Haikou": {
-        "1": "木蝨"
-    },
-    "Leizhou": {
-        "1": "木蝨"
-    },
-    "Putian": {
-        "1": "木蝨"
-    },
-    "Xianyou": {
-        "1": "木蝨"
-    },
-    "Fuzhou": {
-        "1": "木蝨"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "木蝨"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "木蝨"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "木蝨"
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": "䗆蜱"
-    },
-    "Fengshun-She": {
-        "1": "䗆蜱"
-    }
+    "Classical": [
+        "臭蟲",
+        "壁蝨",
+        "蜰蟲",
+        "蜰"
+    ],
+    "Formal": [
+        "臭蟲",
+        "床蝨"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "臭蟲"
+    ],
+    "Taiwan": [
+        "臭蟲",
+        "床蝨"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "臭蟲",
+        "老臭"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [
+        "壁蝨"
+    ],
+    "Jinan": [
+        "臭蟲"
+    ],
+    "Muping": [
+        "壁蝨"
+    ],
+    "Luoyang": [
+        "臭蟲"
+    ],
+    "Wanrong": [
+        "壁蝨"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "臭蝨"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "臭蟲"
+    ],
+    "Xining": [
+        "臭蝨"
+    ],
+    "Xuzhou": [
+        "臭蟲"
+    ],
+    "Yinchuan": [
+        "臭臭"
+    ],
+    "Lanzhou": [
+        "壁蝨",
+        "臭蟲"
+    ],
+    "Ürümqi": [
+        "臭蝨"
+    ],
+    "Wuhan": [
+        "臭蟲"
+    ],
+    "Huanggang": [
+        "臭蝨"
+    ],
+    "Chengdu": [
+        "臭蟲"
+    ],
+    "Guiyang": [
+        "臭蟲"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "臭蟲"
+    ],
+    "Kunming": [
+        "壁蝨"
+    ],
+    "Yangzhou": [
+        "臭癟",
+        "臭蟲"
+    ],
+    "Nanjing": [
+        "臭蟲"
+    ],
+    "Hefei": [
+        "臭蟲"
+    ],
+    "Nantong": [
+        "壁蝨"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "臭蝨"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "壁蝨",
+        "臭蟲"
+    ],
+    "Pingyao": [
+        "壁蝨"
+    ],
+    "Xinzhou": [
+        "壁蝨"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "臭蟲",
+        "壁蝨"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "臭蟲",
+        "臭蝨",
+        "壁蝨:dated"
+    ],
+    "Suzhou": [
+        "壁蝨",
+        "臭蟲"
+    ],
+    "Wuxi": [
+        "癟蝨"
+    ],
+    "Hangzhou": [
+        "臭蟲"
+    ],
+    "Chongming": [
+        "臭蝨"
+    ],
+    "Wenzhou": [
+        "茭蝨"
+    ],
+    "Danyang": [
+        "壁蝨",
+        "臭蟲"
+    ],
+    "Jinhua": [
+        "臭蟲"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "臭蟲"
+    ],
+    "Changsha": [
+        "臭蟲"
+    ],
+    "Shuangfeng": [
+        "臭蟲"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "臭蟲"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "臭蟲"
+    ],
+    "Lichuan": [
+        "臭蟲",
+        "烏蜱"
+    ],
+    "Pingxiang": [
+        "虼蜱"
+    ],
+    "Meixian": [
+        "䗆蜱"
+    ],
+    "Xingning": [
+        "䗆蜱"
+    ],
+    "Huidong": [
+        "䗆蜱"
+    ],
+    "Qujiang": [
+        "枯蜱"
+    ],
+    "Xiaosanjiang": [
+        "䗆蜱"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "䗆蜱"
+    ],
+    "Pingyu": [
+        "䗆蜱"
+    ],
+    "Wuping": [
+        "䗆蜱"
+    ],
+    "Liancheng": [
+        "䗆蜱"
+    ],
+    "Ninghua": [
+        "臭蟲"
+    ],
+    "Yudu": [
+        "䗆蜱"
+    ],
+    "Ruijin": [
+        "臭蟲"
+    ],
+    "Shicheng": [
+        "臭蟲"
+    ],
+    "Shangyou": [
+        "臭蟲"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "䗆蜱"
+    ],
+    "Liudui": [
+        "䗆蜱"
+    ],
+    "Hsinchu": [
+        "䗆蜱"
+    ],
+    "Dongshi": [
+        "䗆蜱"
+    ],
+    "Raoping": [
+        "䗆蜱"
+    ],
+    "Yunlin": [
+        "䗆蜱"
+    ],
+    "Hong Kong-H": [
+        "䗆蜱"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "䗆蜱"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "木蝨",
+        "臭蟲"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "木蝨"
+    ],
+    "Hong Kong": [
+        "木蝨"
+    ],
+    "Shunde": [
+        "木蝨"
+    ],
+    "Foshan": [
+        "木蝨"
+    ],
+    "Zhongshan": [
+        "木蝨"
+    ],
+    "Dongguan": [
+        "木蝨"
+    ],
+    "HK Weitou": [
+        "木蝨"
+    ],
+    "Doumen-T": [
+        "木蝨"
+    ],
+    "Doumen-S": [
+        "交蚍",
+        "木蝨"
+    ],
+    "Taishan": [
+        "交蚍"
+    ],
+    "Kaiping": [
+        "交蚍"
+    ],
+    "Shaoguan": [
+        "木蝨"
+    ],
+    "Yunfu": [
+        "木蝨"
+    ],
+    "Yangjiang": [
+        "木蝨"
+    ],
+    "Xinyi": [
+        "木蝨"
+    ],
+    "Lianjiang": [
+        "木蝨"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "木蝨"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "臭蟲",
+        "木蝨"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "木蝨"
+    ],
+    "Quanzhou": [
+        "木蝨"
+    ],
+    "Zhangzhou": [
+        "木蝨"
+    ],
+    "Taipei": [
+        "木蝨"
+    ],
+    "Kaohsiung": [
+        "木蝨"
+    ],
+    "Tainan": [
+        "木蝨"
+    ],
+    "Taichung": [
+        "木蝨"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "木蝨"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "木蝨"
+    ],
+    "Sanxia": [
+        "木蝨"
+    ],
+    "Yilan": [
+        "木蝨"
+    ],
+    "Kinmen": [
+        "蛀龜"
+    ],
+    "Magong": [
+        "蛀龜"
+    ],
+    "Malaysia-MN": [
+        "木蝨"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "木蝨"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "木蝨"
+    ],
+    "Shantou": [
+        "木蝨"
+    ],
+    "Haifeng": [
+        "木蝨"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "木蝨"
+    ],
+    "Wenchang": [
+        "木蝨"
+    ],
+    "Haikou": [
+        "木蝨"
+    ],
+    "Leizhou": [
+        "木蝨"
+    ],
+    "Putian": [
+        "木蝨"
+    ],
+    "Xianyou": [
+        "木蝨"
+    ],
+    "Fuzhou": [
+        "木蝨"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "木蝨"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "木蝨"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "木蝨"
+    ],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [
+        "䗆蜱"
+    ],
+    "Fengshun-She": [
+        "䗆蜱"
+    ]
 }

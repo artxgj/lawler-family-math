@@ -1,587 +1,397 @@
 {
     "meaning": "lion",
     "note": "",
-    "Classical": {
-        "1": "獅子",
-        "2": "獅"
-    },
-    "Formal": {
-        "1": "獅子"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "獅子"
-    },
-    "Taiwan": {
-        "1": "獅子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "獅子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "獅子"
-    },
-    "Ulan Hot": {
-        "1": "獅子"
-    },
-    "Tongliao": {
-        "1": "獅子"
-    },
-    "Chifeng": {
-        "1": "獅子"
-    },
-    "Bayanhot": {
-        "1": "獅子"
-    },
-    "Jinan": {
-        "1": "獅子"
-    },
-    "Muping": {
-        "1": "獅子"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "獅子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "獅子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "獅子"
-    },
-    "Xining": {
-        "1": "獅子"
-    },
-    "Xuzhou": {
-        "1": "獅子"
-    },
-    "Yinchuan": {
-        "1": "獅子"
-    },
-    "Lanzhou": {
-        "1": "獅子"
-    },
-    "Ürümqi": {
-        "1": "獅子"
-    },
-    "Wuhan": {
-        "1": "獅子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "獅子"
-    },
-    "Guiyang": {
-        "1": "獅子"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "獅子"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "獅子"
-    },
-    "Nanjing": {
-        "1": "獅子"
-    },
-    "Hefei": {
-        "1": "獅子"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "獅子"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "獅子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "獅子"
-    },
-    "Baochang": {
-        "1": "獅子"
-    },
-    "Jining": {
-        "1": "獅子"
-    },
-    "Hohhot": {
-        "1": "獅子"
-    },
-    "Baotou": {
-        "1": "獅子"
-    },
-    "Dongsheng": {
-        "1": "獅子"
-    },
-    "Linhe": {
-        "1": "獅子"
-    },
-    "Haibowan": {
-        "1": "獅子"
-    },
-    "Shanghai": {
-        "1": "獅子"
-    },
-    "Suzhou": {
-        "1": "獅子"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "獅子"
-    },
-    "Chongming": {
-        "1": "獅子"
-    },
-    "Wenzhou": {
-        "1": "獅子"
-    },
-    "Danyang": {
-        "1": "獅子"
-    },
-    "Jinhua": {
-        "1": "獅子"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "獅子"
-    },
-    "Changsha": {
-        "1": "獅子"
-    },
-    "Shuangfeng": {
-        "1": "獅子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "獅子"
-    },
-    "Lichuan": {
-        "1": "獅仔"
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "獅仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "獅子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "獅仔"
-    },
-    "Liudui": {
-        "1": "獅仔"
-    },
-    "Hsinchu": {
-        "1": "獅仔"
-    },
-    "Dongshi": {
-        "1": "獅"
-    },
-    "Raoping": {
-        "1": "獅仔"
-    },
-    "Yunlin": {
-        "1": "獅"
-    },
-    "Hong Kong-H": {
-        "1": "獅子"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "獅子"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "獅"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "獅子"
-    },
-    "Hong Kong": {
-        "1": "獅子"
-    },
-    "Shunde": {
-        "1": "獅子"
-    },
-    "Foshan": {
-        "1": "獅子"
-    },
-    "Zhongshan": {
-        "1": "獅子"
-    },
-    "Dongguan": {
-        "1": "獅子"
-    },
-    "HK Weitou": {
-        "1": "獅子"
-    },
-    "Taishan": {
-        "1": "獅子"
-    },
-    "Doumen": {
-        "1": "獅子"
-    },
-    "Kaiping": {
-        "1": "獅子"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "獅子"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "獅子"
-    },
-    "Ho Chi Minh City": {
-        "1": "獅子"
-    },
-    "Nanning-P": {
-        "1": "獅子"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "獅",
-        "2": "獅仔"
-    },
-    "Quanzhou": {
-        "1": "獅"
-    },
-    "Zhangzhou": {
-        "1": "獅"
-    },
-    "Taipei": {
-        "1": "獅"
-    },
-    "Kaohsiung": {
-        "1": "獅"
-    },
-    "Tainan": {
-        "1": "獅"
-    },
-    "Taichung": {
-        "1": "獅"
-    },
-    "Wuqi": {
-        "1": "獅"
-    },
-    "Hsinchu-MN": {
-        "1": "獅"
-    },
-    "Taitung": {
-        "1": "獅"
-    },
-    "Lukang": {
-        "1": "獅"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "獅"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "獅"
-    },
-    "Malaysia-MN": {
-        "1": "獅"
-    },
-    "Singapore-MN": {
-        "1": "獅",
-        "2": "獅仔"
-    },
-    "Philippine-MN": {
-        "1": "獅",
-        "2": "獅仔"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "獅"
-    },
-    "Shantou": {
-        "1": "獅"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "獅"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "獅"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "獅"
-    },
-    "Xianyou": {
-        "1": "獅"
-    },
-    "Fuzhou": {
-        "1": "獅"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "獅子"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "獅子",
+        "獅"
+    ],
+    "Formal": [
+        "獅子"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "獅子"
+    ],
+    "Taiwan": [
+        "獅子"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "獅子"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "獅子"
+    ],
+    "Ulan Hot": [
+        "獅子"
+    ],
+    "Tongliao": [
+        "獅子"
+    ],
+    "Chifeng": [
+        "獅子"
+    ],
+    "Bayanhot": [
+        "獅子"
+    ],
+    "Jinan": [
+        "獅子"
+    ],
+    "Muping": [
+        "獅子"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "獅子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "獅子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "獅子"
+    ],
+    "Xining": [
+        "獅子"
+    ],
+    "Xuzhou": [
+        "獅子"
+    ],
+    "Yinchuan": [
+        "獅子"
+    ],
+    "Lanzhou": [
+        "獅子"
+    ],
+    "Ürümqi": [
+        "獅子"
+    ],
+    "Wuhan": [
+        "獅子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "獅子"
+    ],
+    "Guiyang": [
+        "獅子"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "獅子"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "獅子"
+    ],
+    "Nanjing": [
+        "獅子"
+    ],
+    "Hefei": [
+        "獅子"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "獅子"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "獅子"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "獅子"
+    ],
+    "Baochang": [
+        "獅子"
+    ],
+    "Jining": [
+        "獅子"
+    ],
+    "Hohhot": [
+        "獅子"
+    ],
+    "Baotou": [
+        "獅子"
+    ],
+    "Dongsheng": [
+        "獅子"
+    ],
+    "Linhe": [
+        "獅子"
+    ],
+    "Haibowan": [
+        "獅子"
+    ],
+    "Shanghai": [
+        "獅子"
+    ],
+    "Suzhou": [
+        "獅子"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "獅子"
+    ],
+    "Chongming": [
+        "獅子"
+    ],
+    "Wenzhou": [
+        "獅子"
+    ],
+    "Danyang": [
+        "獅子"
+    ],
+    "Jinhua": [
+        "獅子"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "獅子"
+    ],
+    "Changsha": [
+        "獅子"
+    ],
+    "Shuangfeng": [
+        "獅子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "獅子"
+    ],
+    "Lichuan": [
+        "獅仔"
+    ],
+    "Pingxiang": [],
+    "Meixian": [
+        "獅仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "獅子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "獅仔"
+    ],
+    "Liudui": [
+        "獅仔"
+    ],
+    "Hsinchu": [
+        "獅仔"
+    ],
+    "Dongshi": [
+        "獅"
+    ],
+    "Raoping": [
+        "獅仔"
+    ],
+    "Yunlin": [
+        "獅"
+    ],
+    "Hong Kong-H": [
+        "獅子"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "獅子"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "獅"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "獅子"
+    ],
+    "Hong Kong": [
+        "獅子"
+    ],
+    "Shunde": [
+        "獅子"
+    ],
+    "Foshan": [
+        "獅子"
+    ],
+    "Zhongshan": [
+        "獅子"
+    ],
+    "Dongguan": [
+        "獅子"
+    ],
+    "HK Weitou": [
+        "獅子"
+    ],
+    "Taishan": [
+        "獅子"
+    ],
+    "Doumen": [
+        "獅子"
+    ],
+    "Kaiping": [
+        "獅子"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "獅子"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "獅子"
+    ],
+    "Ho Chi Minh City": [
+        "獅子"
+    ],
+    "Nanning-P": [
+        "獅子"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "獅",
+        "獅仔"
+    ],
+    "Quanzhou": [
+        "獅"
+    ],
+    "Zhangzhou": [
+        "獅"
+    ],
+    "Taipei": [
+        "獅"
+    ],
+    "Kaohsiung": [
+        "獅"
+    ],
+    "Tainan": [
+        "獅"
+    ],
+    "Taichung": [
+        "獅"
+    ],
+    "Wuqi": [
+        "獅"
+    ],
+    "Hsinchu-MN": [
+        "獅"
+    ],
+    "Taitung": [
+        "獅"
+    ],
+    "Lukang": [
+        "獅"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "獅"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "獅"
+    ],
+    "Malaysia-MN": [
+        "獅"
+    ],
+    "Singapore-MN": [
+        "獅",
+        "獅仔"
+    ],
+    "Philippine-MN": [
+        "獅",
+        "獅仔"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "獅"
+    ],
+    "Shantou": [
+        "獅"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "獅"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "獅"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "獅"
+    ],
+    "Xianyou": [
+        "獅"
+    ],
+    "Fuzhou": [
+        "獅"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "獅子"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

@@ -1,927 +1,725 @@
 {
     "meaning": "doctor; physician",
     "note": "TCM: doctor practising [[traditional Chinese medicine]]",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "醫生",
-        "2": "醫師"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "大夫"
-    },
-    "Taiwan": {
-        "1": "醫生",
-        "2": "大夫"
-    },
-    "Tianjin": {
-        "1": "大夫",
-        "2": "醫生"
-    },
-    "Harbin": {
-        "1": "大夫",
-        "2": "醫生",
-        "3": "先生"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "大夫"
-    },
-    "Ulan Hot": {
-        "1": "大夫"
-    },
-    "Tongliao": {
-        "1": "大夫"
-    },
-    "Chifeng": {
-        "1": "大夫"
-    },
-    "Bayanhot": {
-        "1": "醫生",
-        "2": "大夫"
-    },
-    "Jinan": {
-        "1": "大夫",
-        "2": "先生:TCM, dated"
-    },
-    "Muping": {
-        "1": "大夫",
-        "2": "醫生",
-        "3": "先生:TCM, dated"
-    },
-    "Luoyang": {
-        "1": "大夫",
-        "2": "醫生"
-    },
-    "Wanrong": {
-        "1": "看病先生",
-        "2": "先生",
-        "3": "大夫",
-        "4": "醫生",
-        "5": "醫人:dated"
-    },
-    "Xi'an": {
-        "1": "大夫",
-        "2": "看病先生:dated",
-        "3": "先生:dated"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "大夫",
-        "2": "先生:TCM"
-    },
-    "Xining": {
-        "1": "大夫",
-        "2": "先生"
-    },
-    "Xuzhou": {
-        "1": "大夫",
-        "2": "先生"
-    },
-    "Yinchuan": {
-        "1": "先生"
-    },
-    "Lanzhou": {
-        "1": "大夫",
-        "2": "先生:TCM"
-    },
-    "Ürümqi": {
-        "1": "大夫",
-        "2": "醫生",
-        "3": "先生:TCM"
-    },
-    "Wuhan": {
-        "1": "醫生",
-        "2": "大夫",
-        "3": "先生:dated"
-    },
-    "Huanggang": {
-        "1": "先生"
-    },
-    "Chengdu": {
-        "1": "醫生",
-        "2": "老師:TCM",
-        "3": "先生:TCM"
-    },
-    "Guiyang": {
-        "1": "醫師",
-        "2": "醫生",
-        "3": "先生:TCM, dated"
-    },
-    "Guilin": {
-        "1": "醫生"
-    },
-    "Liuzhou": {
-        "1": "醫生",
-        "2": "醫師"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "醫生",
-        "2": "大夫",
-        "3": "先生",
-        "4": "郎中:TCM",
-        "5": "醫家先生:dated"
-    },
-    "Nanjing": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Hefei": {
-        "1": "醫生",
-        "2": "先生:TCM",
-        "3": "郎中:TCM"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "大夫",
-        "2": "先生",
-        "3": "道可討兒"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "大夫",
-        "2": "醫生",
-        "3": "郎中:TCM",
-        "4": "先生:dated"
-    },
-    "Pingyao": {
-        "1": "醫生",
-        "2": "大夫:Western",
-        "3": "先生:TCM"
-    },
-    "Xinzhou": {
-        "1": "醫生",
-        "2": "先生:dated"
-    },
-    "Baochang": {
-        "1": "醫生"
-    },
-    "Jining": {
-        "1": "看病先生"
-    },
-    "Hohhot": {
-        "1": "大夫"
-    },
-    "Baotou": {
-        "1": "看病先生"
-    },
-    "Dongsheng": {
-        "1": "大夫"
-    },
-    "Linhe": {
-        "1": "先生"
-    },
-    "Haibowan": {
-        "1": "醫官",
-        "2": "大夫"
-    },
-    "Shanghai": {
-        "1": "醫生",
-        "2": "郎中:TCM, dated"
-    },
-    "Suzhou": {
-        "1": "醫生",
-        "2": "郎中",
-        "3": "先生:TCM"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "醫生",
-        "2": "郎中先生:dated"
-    },
-    "Chongming": {
-        "1": "郎中:TCM"
-    },
-    "Wenzhou": {
-        "1": "醫生",
-        "2": "醫師",
-        "3": "先生:chiefly TCM",
-        "4": "醫藥先生:TCM"
-    },
-    "Danyang": {
-        "1": "醫生",
-        "2": "郎中:TCM",
-        "3": "先生:dated"
-    },
-    "Jinhua": {
-        "1": "醫師",
-        "2": "醫生",
-        "3": "先生",
-        "4": "郎中:TCM, dated"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "醫生",
-        "2": "先生",
-        "3": "郎中:TCM"
-    },
-    "Changsha": {
-        "1": "醫生",
-        "2": "大夫",
-        "3": "醫師:TCM",
-        "4": "先生:TCM",
-        "5": "郎中:TCM or dated"
-    },
-    "Shuangfeng": {
-        "1": "醫師",
-        "2": "郎中:TCM"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "郎中:TCM",
-        "2": "郎中先生:TCM"
-    },
-    "Quanzhou-X": {
-        "1": "醫師"
-    },
-    "Nanchang": {
-        "1": "醫生",
-        "2": "郎中",
-        "3": "先生"
-    },
-    "Lichuan": {
-        "1": "醫師",
-        "2": "郎中:dated"
-    },
-    "Pingxiang": {
-        "1": "醫師",
-        "2": "郎中:TCM, dated"
-    },
-    "Meixian": {
-        "1": "醫生",
-        "2": "先生",
-        "3": "看病先生:TCM"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "醫生"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "醫生"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "先生",
-        "2": "醫生"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "醫生"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "醫生"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "醫生"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "醫師",
-        "2": "醫生",
-        "3": "郎中:TCM",
-        "4": "先生:TCM, dated"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "先生",
-        "2": "醫生",
-        "3": "醫師"
-    },
-    "Liudui": {
-        "1": "先生",
-        "2": "醫生",
-        "3": "醫師"
-    },
-    "Hsinchu": {
-        "1": "先生",
-        "2": "醫生",
-        "3": "醫師"
-    },
-    "Dongshi": {
-        "1": "先生",
-        "2": "醫生",
-        "3": "醫師"
-    },
-    "Raoping": {
-        "1": "先生",
-        "2": "醫生",
-        "3": "醫師"
-    },
-    "Yunlin": {
-        "1": "先生",
-        "2": "醫生"
-    },
-    "Hong Kong-H": {
-        "1": "醫生"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "醫生"
-    },
-    "Senai": {
-        "1": "醫生"
-    },
-    "Singkawang": {
-        "1": "醫生"
-    },
-    "Jixi": {
-        "1": "醫師",
-        "2": "醫生"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "醫生",
-        "2": "先生:TCM"
-    },
-    "Hong Kong": {
-        "1": "醫生",
-        "2": "醫師:TCM",
-        "3": "先生:TCM"
-    },
-    "HK Weitou": {
-        "1": "先生"
-    },
-    "Kam Tin": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Ting Kok": {
-        "1": "醫生"
-    },
-    "Tung Ping Chau": {
-        "1": "醫生"
-    },
-    "Macau": {
-        "1": "醫生"
-    },
-    "Panyu": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Huadu": {
-        "1": "醫生"
-    },
-    "Conghua": {
-        "1": "醫生"
-    },
-    "Zengcheng": {
-        "1": "先生",
-        "2": "醫生"
-    },
-    "Foshan": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Nanhai": {
-        "1": "醫家先生"
-    },
-    "Shunde": {
-        "1": "醫生"
-    },
-    "Sanshui": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Gaoming": {
-        "1": "醫生"
-    },
-    "Zhongshan": {
-        "1": "醫生"
-    },
-    "Zhuhai": {
-        "1": "醫生"
-    },
-    "Doumen-T": {
-        "1": "醫生"
-    },
-    "Doumen-S": {
-        "1": "先生",
-        "2": "醫生"
-    },
-    "Jiangmen": {
-        "1": "先生"
-    },
-    "Xinhui": {
-        "1": "先生"
-    },
-    "Taishan": {
-        "1": "醫生"
-    },
-    "Kaiping": {
-        "1": "醫生"
-    },
-    "Enping": {
-        "1": "醫生"
-    },
-    "Heshan": {
-        "1": "醫生"
-    },
-    "Dongguan": {
-        "1": "先生",
-        "2": "醫生"
-    },
-    "Bao'an": {
-        "1": "醫生"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "醫生"
-    },
-    "Yunfu": {
-        "1": "醫生"
-    },
-    "Yangjiang": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Xinyi": {
-        "1": "醫生"
-    },
-    "Lianjiang": {
-        "1": "醫生"
-    },
-    "Nanning": {
-        "1": "醫生",
-        "2": "醫師"
-    },
-    "Wuzhou": {
-        "1": "醫生",
-        "2": "醫師"
-    },
-    "Yulin": {
-        "1": "醫師",
-        "2": "先生"
-    },
-    "Hepu": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "醫生"
-    },
-    "Ho Chi Minh City": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Nanning-P": {
-        "1": "醫生",
-        "2": "醫師"
-    },
-    "Guilin-P": {
-        "1": "醫生"
-    },
-    "Xiamen": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Jinjiang": {
-        "1": "先生儂"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "先生"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "醫生"
-    },
-    "Taipei": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Kaohsiung": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Tainan": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Taichung": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Sanxia": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Yilan": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Kinmen": {
-        "1": "先生"
-    },
-    "Magong": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Malaysia-MN": {
-        "1": "醫生",
-        "2": "老君"
-    },
-    "Singapore-MN": {
-        "1": "老君",
-        "2": "先生:TCM"
-    },
-    "Philippine-MN": {
-        "1": "醫生"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": "先生"
-    },
-    "Yongfu": {
-        "1": "醫生",
-        "2": "先生"
-    },
-    "Datian": {
-        "1": "先生:TCM"
-    },
-    "Pingnan": {
-        "1": "醫師",
-        "2": "醫生"
-    },
-    "Chaozhou": {
-        "1": "醫生",
-        "2": "先生:TCM"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "醫生"
-    },
-    "Thailand-MN-T": {
-        "1": "醫生"
-    },
-    "Johor Bahru": {
-        "1": "老君"
-    },
-    "Wenchang": {
-        "1": "先生"
-    },
-    "Haikou": {
-        "1": "醫生",
-        "2": "先生:dated"
-    },
-    "Leizhou": {
-        "1": "醫官",
-        "2": "先生:dated"
-    },
-    "Putian": {
-        "1": "醫生"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "醫生",
-        "2": "先生:TCM",
-        "3": "看病先生:TCM",
-        "4": "三格指醫生:TCM"
-    },
-    "Changle": {
-        "1": "先生"
-    },
-    "Fuqing": {
-        "1": "醫生:Western",
-        "2": "郎中:TCM"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "先生"
-    },
-    "Gutian": {
-        "1": "先生"
-    },
-    "Fu'an": {
-        "1": "睨病先生"
-    },
-    "Ningde": {
-        "1": "先生"
-    },
-    "Shouning": {
-        "1": "先生"
-    },
-    "Zhouning": {
-        "1": "先生"
-    },
-    "Fuding": {
-        "1": "先生"
-    },
-    "Matsu": {
-        "1": "醫生",
-        "2": "醫師",
-        "3": "醫官",
-        "4": "先生"
-    },
-    "Jian'ou": {
-        "1": "醫生",
-        "2": "先生:TCM"
-    },
-    "Dikou": {
-        "1": "覷病先生",
-        "2": "醫生"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "覷病先生",
-        "2": "醫生"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "覷病先生",
-        "2": "醫生"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "醫生",
+        "醫師"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "大夫"
+    ],
+    "Taiwan": [
+        "醫生",
+        "大夫"
+    ],
+    "Tianjin": [
+        "大夫",
+        "醫生"
+    ],
+    "Harbin": [
+        "大夫",
+        "醫生",
+        "先生"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "大夫"
+    ],
+    "Ulan Hot": [
+        "大夫"
+    ],
+    "Tongliao": [
+        "大夫"
+    ],
+    "Chifeng": [
+        "大夫"
+    ],
+    "Bayanhot": [
+        "醫生",
+        "大夫"
+    ],
+    "Jinan": [
+        "大夫",
+        "先生:TCM, dated"
+    ],
+    "Muping": [
+        "大夫",
+        "醫生",
+        "先生:TCM, dated"
+    ],
+    "Luoyang": [
+        "大夫",
+        "醫生"
+    ],
+    "Wanrong": [
+        "看病先生",
+        "先生",
+        "大夫",
+        "醫生",
+        "醫人:dated"
+    ],
+    "Xi'an": [
+        "大夫",
+        "看病先生:dated",
+        "先生:dated"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "大夫",
+        "先生:TCM"
+    ],
+    "Xining": [
+        "大夫",
+        "先生"
+    ],
+    "Xuzhou": [
+        "大夫",
+        "先生"
+    ],
+    "Yinchuan": [
+        "先生"
+    ],
+    "Lanzhou": [
+        "大夫",
+        "先生:TCM"
+    ],
+    "Ürümqi": [
+        "大夫",
+        "醫生",
+        "先生:TCM"
+    ],
+    "Wuhan": [
+        "醫生",
+        "大夫",
+        "先生:dated"
+    ],
+    "Huanggang": [
+        "先生"
+    ],
+    "Chengdu": [
+        "醫生",
+        "老師:TCM",
+        "先生:TCM"
+    ],
+    "Guiyang": [
+        "醫師",
+        "醫生",
+        "先生:TCM, dated"
+    ],
+    "Guilin": [
+        "醫生"
+    ],
+    "Liuzhou": [
+        "醫生",
+        "醫師"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "醫生",
+        "大夫",
+        "先生",
+        "郎中:TCM",
+        "醫家先生:dated"
+    ],
+    "Nanjing": [
+        "醫生",
+        "先生"
+    ],
+    "Hefei": [
+        "醫生",
+        "先生:TCM",
+        "郎中:TCM"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "大夫",
+        "先生",
+        "道可討兒"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "大夫",
+        "醫生",
+        "郎中:TCM",
+        "先生:dated"
+    ],
+    "Pingyao": [
+        "醫生",
+        "大夫:Western",
+        "先生:TCM"
+    ],
+    "Xinzhou": [
+        "醫生",
+        "先生:dated"
+    ],
+    "Baochang": [
+        "醫生"
+    ],
+    "Jining": [
+        "看病先生"
+    ],
+    "Hohhot": [
+        "大夫"
+    ],
+    "Baotou": [
+        "看病先生"
+    ],
+    "Dongsheng": [
+        "大夫"
+    ],
+    "Linhe": [
+        "先生"
+    ],
+    "Haibowan": [
+        "醫官",
+        "大夫"
+    ],
+    "Shanghai": [
+        "醫生",
+        "郎中:TCM, dated"
+    ],
+    "Suzhou": [
+        "醫生",
+        "郎中",
+        "先生:TCM"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "醫生",
+        "郎中先生:dated"
+    ],
+    "Chongming": [
+        "郎中:TCM"
+    ],
+    "Wenzhou": [
+        "醫生",
+        "醫師",
+        "先生:chiefly TCM",
+        "醫藥先生:TCM"
+    ],
+    "Danyang": [
+        "醫生",
+        "郎中:TCM",
+        "先生:dated"
+    ],
+    "Jinhua": [
+        "醫師",
+        "醫生",
+        "先生",
+        "郎中:TCM, dated"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "醫生",
+        "先生",
+        "郎中:TCM"
+    ],
+    "Changsha": [
+        "醫生",
+        "大夫",
+        "醫師:TCM",
+        "先生:TCM",
+        "郎中:TCM or dated"
+    ],
+    "Shuangfeng": [
+        "醫師",
+        "郎中:TCM"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "郎中:TCM",
+        "郎中先生:TCM"
+    ],
+    "Quanzhou-X": [
+        "醫師"
+    ],
+    "Nanchang": [
+        "醫生",
+        "郎中",
+        "先生"
+    ],
+    "Lichuan": [
+        "醫師",
+        "郎中:dated"
+    ],
+    "Pingxiang": [
+        "醫師",
+        "郎中:TCM, dated"
+    ],
+    "Meixian": [
+        "醫生",
+        "先生",
+        "看病先生:TCM"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "醫生"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "醫生"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "先生",
+        "醫生"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "醫生"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "醫生"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "醫生"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "醫師",
+        "醫生",
+        "郎中:TCM",
+        "先生:TCM, dated"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "先生",
+        "醫生",
+        "醫師"
+    ],
+    "Liudui": [
+        "先生",
+        "醫生",
+        "醫師"
+    ],
+    "Hsinchu": [
+        "先生",
+        "醫生",
+        "醫師"
+    ],
+    "Dongshi": [
+        "先生",
+        "醫生",
+        "醫師"
+    ],
+    "Raoping": [
+        "先生",
+        "醫生",
+        "醫師"
+    ],
+    "Yunlin": [
+        "先生",
+        "醫生"
+    ],
+    "Hong Kong-H": [
+        "醫生"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "醫生"
+    ],
+    "Senai": [
+        "醫生"
+    ],
+    "Singkawang": [
+        "醫生"
+    ],
+    "Jixi": [
+        "醫師",
+        "醫生"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "醫生",
+        "先生:TCM"
+    ],
+    "Hong Kong": [
+        "醫生",
+        "醫師:TCM",
+        "先生:TCM"
+    ],
+    "HK Weitou": [
+        "先生"
+    ],
+    "Kam Tin": [
+        "醫生",
+        "先生"
+    ],
+    "Ting Kok": [
+        "醫生"
+    ],
+    "Tung Ping Chau": [
+        "醫生"
+    ],
+    "Macau": [
+        "醫生"
+    ],
+    "Panyu": [
+        "醫生",
+        "先生"
+    ],
+    "Huadu": [
+        "醫生"
+    ],
+    "Conghua": [
+        "醫生"
+    ],
+    "Zengcheng": [
+        "先生",
+        "醫生"
+    ],
+    "Foshan": [
+        "醫生",
+        "先生"
+    ],
+    "Nanhai": [
+        "醫家先生"
+    ],
+    "Shunde": [
+        "醫生"
+    ],
+    "Sanshui": [
+        "醫生",
+        "先生"
+    ],
+    "Gaoming": [
+        "醫生"
+    ],
+    "Zhongshan": [
+        "醫生"
+    ],
+    "Zhuhai": [
+        "醫生"
+    ],
+    "Doumen-T": [
+        "醫生"
+    ],
+    "Doumen-S": [
+        "先生",
+        "醫生"
+    ],
+    "Jiangmen": [
+        "先生"
+    ],
+    "Xinhui": [
+        "先生"
+    ],
+    "Taishan": [
+        "醫生"
+    ],
+    "Kaiping": [
+        "醫生"
+    ],
+    "Enping": [
+        "醫生"
+    ],
+    "Heshan": [
+        "醫生"
+    ],
+    "Dongguan": [
+        "先生",
+        "醫生"
+    ],
+    "Bao'an": [
+        "醫生"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "醫生"
+    ],
+    "Yunfu": [
+        "醫生"
+    ],
+    "Yangjiang": [
+        "醫生",
+        "先生"
+    ],
+    "Xinyi": [
+        "醫生"
+    ],
+    "Lianjiang": [
+        "醫生"
+    ],
+    "Nanning": [
+        "醫生",
+        "醫師"
+    ],
+    "Wuzhou": [
+        "醫生",
+        "醫師"
+    ],
+    "Yulin": [
+        "醫師",
+        "先生"
+    ],
+    "Hepu": [
+        "醫生",
+        "先生"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "醫生"
+    ],
+    "Ho Chi Minh City": [
+        "醫生",
+        "先生"
+    ],
+    "Nanning-P": [
+        "醫生",
+        "醫師"
+    ],
+    "Guilin-P": [
+        "醫生"
+    ],
+    "Xiamen": [
+        "醫生",
+        "先生"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "醫生",
+        "先生"
+    ],
+    "Jinjiang": [
+        "先生儂"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "先生"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "醫生",
+        "先生"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "醫生"
+    ],
+    "Taipei": [
+        "醫生",
+        "先生"
+    ],
+    "Kaohsiung": [
+        "醫生",
+        "先生"
+    ],
+    "Tainan": [
+        "醫生",
+        "先生"
+    ],
+    "Taichung": [
+        "醫生",
+        "先生"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "醫生",
+        "先生"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "醫生",
+        "先生"
+    ],
+    "Sanxia": [
+        "醫生",
+        "先生"
+    ],
+    "Yilan": [
+        "醫生",
+        "先生"
+    ],
+    "Kinmen": [
+        "先生"
+    ],
+    "Magong": [
+        "醫生",
+        "先生"
+    ],
+    "Malaysia-MN": [
+        "醫生",
+        "老君"
+    ],
+    "Singapore-MN": [
+        "老君",
+        "先生:TCM"
+    ],
+    "Philippine-MN": [
+        "醫生"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [
+        "先生"
+    ],
+    "Yongfu": [
+        "醫生",
+        "先生"
+    ],
+    "Datian": [
+        "先生:TCM"
+    ],
+    "Pingnan": [
+        "醫師",
+        "醫生"
+    ],
+    "Chaozhou": [
+        "醫生",
+        "先生:TCM"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "醫生"
+    ],
+    "Thailand-MN-T": [
+        "醫生"
+    ],
+    "Johor Bahru": [
+        "老君"
+    ],
+    "Wenchang": [
+        "先生"
+    ],
+    "Haikou": [
+        "醫生",
+        "先生:dated"
+    ],
+    "Leizhou": [
+        "醫官",
+        "先生:dated"
+    ],
+    "Putian": [
+        "醫生"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "醫生",
+        "先生:TCM",
+        "看病先生:TCM",
+        "三格指醫生:TCM"
+    ],
+    "Changle": [
+        "先生"
+    ],
+    "Fuqing": [
+        "醫生:Western",
+        "郎中:TCM"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "先生"
+    ],
+    "Gutian": [
+        "先生"
+    ],
+    "Fu'an": [
+        "睨病先生"
+    ],
+    "Ningde": [
+        "先生"
+    ],
+    "Shouning": [
+        "先生"
+    ],
+    "Zhouning": [
+        "先生"
+    ],
+    "Fuding": [
+        "先生"
+    ],
+    "Matsu": [
+        "醫生",
+        "醫師",
+        "醫官",
+        "先生"
+    ],
+    "Jian'ou": [
+        "醫生",
+        "先生:TCM"
+    ],
+    "Dikou": [
+        "覷病先生",
+        "醫生"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "覷病先生",
+        "醫生"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "覷病先生",
+        "醫生"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

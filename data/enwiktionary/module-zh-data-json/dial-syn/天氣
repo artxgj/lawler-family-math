@@ -1,618 +1,470 @@
 {
     "meaning": "weather",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "天氣"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "天兒",
-        "2": "天氣"
-    },
-    "Taiwan": {
-        "1": "天氣"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "天氣",
-        "2": "天"
-    },
-    "Shenyang": {
-        "1": "天頭"
-    },
-    "Hailar": {
-        "1": "天氣"
-    },
-    "Ulan Hot": {
-        "1": "天頭"
-    },
-    "Tongliao": {
-        "1": "天頭"
-    },
-    "Chifeng": {
-        "1": "天氣"
-    },
-    "Bayanhot": {
-        "1": "天氣"
-    },
-    "Jinan": {
-        "1": "天兒",
-        "2": "天氣"
-    },
-    "Muping": {
-        "1": "天氣"
-    },
-    "Luoyang": {
-        "1": "天氣"
-    },
-    "Wanrong": {
-        "1": "天氣"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "天氣"
-    },
-    "Qingdao": {
-        "1": "天兒"
-    },
-    "Zhengzhou": {
-        "1": "天氣"
-    },
-    "Xining": {
-        "1": "天氣兒",
-        "2": "天氣"
-    },
-    "Xuzhou": {
-        "1": "天"
-    },
-    "Yinchuan": {
-        "1": "天氣"
-    },
-    "Lanzhou": {
-        "1": "天氣"
-    },
-    "Ürümqi": {
-        "1": "天氣",
-        "2": "天"
-    },
-    "Wuhan": {
-        "1": "天道",
-        "2": "天氣"
-    },
-    "Huanggang": {
-        "1": "天頭"
-    },
-    "Chengdu": {
-        "1": "天氣"
-    },
-    "Guiyang": {
-        "1": "天氣"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "天氣",
-        "2": "天時"
-    },
-    "Kunming": {
-        "1": "天氣"
-    },
-    "Yangzhou": {
-        "1": "天",
-        "2": "天氣"
-    },
-    "Nanjing": {
-        "1": "天",
-        "2": "天氣"
-    },
-    "Hefei": {
-        "1": "天氣"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "天氣",
-        "2": "天"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "天氣"
-    },
-    "Baochang": {
-        "1": "天氣"
-    },
-    "Jining": {
-        "1": "天氣"
-    },
-    "Hohhot": {
-        "1": "氣候"
-    },
-    "Baotou": {
-        "1": "天氣"
-    },
-    "Dongsheng": {
-        "1": "天氣"
-    },
-    "Linhe": {
-        "1": "天氣"
-    },
-    "Haibowan": {
-        "1": "天氣"
-    },
-    "Shanghai": {
-        "1": "天氣"
-    },
-    "Suzhou": {
-        "1": "天氣",
-        "2": "天"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "天空"
-    },
-    "Chongming": {
-        "1": "天色"
-    },
-    "Wenzhou": {
-        "1": "天色",
-        "2": "天時"
-    },
-    "Danyang": {
-        "1": "天氣",
-        "2": "天光"
-    },
-    "Jinhua": {
-        "1": "天公",
-        "2": "天氣"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "天價"
-    },
-    "Changsha": {
-        "1": "天色",
-        "2": "天氣"
-    },
-    "Shuangfeng": {
-        "1": "天氣"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "天色"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "天氣",
-        "2": "天色"
-    },
-    "Lichuan": {
-        "1": "天氣",
-        "2": "天頭"
-    },
-    "Pingxiang": {
-        "1": "天",
-        "2": "天氣"
-    },
-    "Meixian": {
-        "1": "天氣",
-        "2": "天色",
-        "3": "天時"
-    },
-    "Xingning": {
-        "1": "天時"
-    },
-    "Huidong": {
-        "1": "天時"
-    },
-    "Qujiang": {
-        "1": "天時"
-    },
-    "Xiaosanjiang": {
-        "1": "天時"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "天時"
-    },
-    "Pingyu": {
-        "1": "天時"
-    },
-    "Wuping": {
-        "1": "天時"
-    },
-    "Liancheng": {
-        "1": "天時"
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "天氣"
-    },
-    "Ruijin": {
-        "1": "天氣"
-    },
-    "Shicheng": {
-        "1": "天頭"
-    },
-    "Shangyou": {
-        "1": "天色"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Liudui": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Hsinchu": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Dongshi": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Raoping": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Yunlin": {
-        "1": "天氣"
-    },
-    "Hong Kong-H": {
-        "1": "天時"
-    },
-    "Sabah": {
-        "1": "天時"
-    },
-    "Senai": {
-        "1": "天時"
-    },
-    "Singkawang": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Jixi": {
-        "1": "天公"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "天氣",
-        "2": "天時",
-        "3": "天候"
-    },
-    "Hong Kong": {
-        "1": "天氣",
-        "2": "天時",
-        "3": "天候"
-    },
-    "Shunde": {
-        "1": "天氣"
-    },
-    "Foshan": {
-        "1": "天時"
-    },
-    "Zhongshan": {
-        "1": "天時"
-    },
-    "Dongguan": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "HK Weitou": {
-        "1": "天候",
-        "2": "天時"
-    },
-    "Taishan": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Doumen": {
-        "1": "天時"
-    },
-    "Kaiping": {
-        "1": "天時"
-    },
-    "Shaoguan": {
-        "1": "天時"
-    },
-    "Yunfu": {
-        "1": "天氣"
-    },
-    "Yangjiang": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Xinyi": {
-        "1": "天氣"
-    },
-    "Lianjiang": {
-        "1": "天氣"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "天"
-    },
-    "Kuala Lumpur": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Ho Chi Minh City": {
-        "1": "天時"
-    },
-    "Nanning-P": {
-        "1": "天氣"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Quanzhou": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Zhangzhou": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "天時",
-        "2": "天氣"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "天時"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "天時"
-    },
-    "Wenchang": {
-        "1": "天氣"
-    },
-    "Haikou": {
-        "1": "天時"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "天時"
-    },
-    "Xianyou": {
-        "1": "天時"
-    },
-    "Fuzhou": {
-        "1": "天氣",
-        "2": "天時"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "天氣"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "天氣"
-    },
-    "Jian'ou": {
-        "1": "天氣",
-        "2": "天時"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "天性"
-    },
-    "Fuding-She": {
-        "1": "天氣"
-    },
-    "Luoyuan-She": {
-        "1": "天性"
-    },
-    "Sanming-She": {
-        "1": "天氣"
-    },
-    "Shunchang-She": {
-        "1": "天氣"
-    },
-    "Hua'an-She": {
-        "1": "天氣"
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "天氣"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "天兒",
+        "天氣"
+    ],
+    "Taiwan": [
+        "天氣"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "天氣",
+        "天"
+    ],
+    "Shenyang": [
+        "天頭"
+    ],
+    "Hailar": [
+        "天氣"
+    ],
+    "Ulan Hot": [
+        "天頭"
+    ],
+    "Tongliao": [
+        "天頭"
+    ],
+    "Chifeng": [
+        "天氣"
+    ],
+    "Bayanhot": [
+        "天氣"
+    ],
+    "Jinan": [
+        "天兒",
+        "天氣"
+    ],
+    "Muping": [
+        "天氣"
+    ],
+    "Luoyang": [
+        "天氣"
+    ],
+    "Wanrong": [
+        "天氣"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "天氣"
+    ],
+    "Qingdao": [
+        "天兒"
+    ],
+    "Zhengzhou": [
+        "天氣"
+    ],
+    "Xining": [
+        "天氣兒",
+        "天氣"
+    ],
+    "Xuzhou": [
+        "天"
+    ],
+    "Yinchuan": [
+        "天氣"
+    ],
+    "Lanzhou": [
+        "天氣"
+    ],
+    "Ürümqi": [
+        "天氣",
+        "天"
+    ],
+    "Wuhan": [
+        "天道",
+        "天氣"
+    ],
+    "Huanggang": [
+        "天頭"
+    ],
+    "Chengdu": [
+        "天氣"
+    ],
+    "Guiyang": [
+        "天氣"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "天氣",
+        "天時"
+    ],
+    "Kunming": [
+        "天氣"
+    ],
+    "Yangzhou": [
+        "天",
+        "天氣"
+    ],
+    "Nanjing": [
+        "天",
+        "天氣"
+    ],
+    "Hefei": [
+        "天氣"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "天氣",
+        "天"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "天氣"
+    ],
+    "Baochang": [
+        "天氣"
+    ],
+    "Jining": [
+        "天氣"
+    ],
+    "Hohhot": [
+        "氣候"
+    ],
+    "Baotou": [
+        "天氣"
+    ],
+    "Dongsheng": [
+        "天氣"
+    ],
+    "Linhe": [
+        "天氣"
+    ],
+    "Haibowan": [
+        "天氣"
+    ],
+    "Shanghai": [
+        "天氣"
+    ],
+    "Suzhou": [
+        "天氣",
+        "天"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "天空"
+    ],
+    "Chongming": [
+        "天色"
+    ],
+    "Wenzhou": [
+        "天色",
+        "天時"
+    ],
+    "Danyang": [
+        "天氣",
+        "天光"
+    ],
+    "Jinhua": [
+        "天公",
+        "天氣"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "天價"
+    ],
+    "Changsha": [
+        "天色",
+        "天氣"
+    ],
+    "Shuangfeng": [
+        "天氣"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "天色"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "天氣",
+        "天色"
+    ],
+    "Lichuan": [
+        "天氣",
+        "天頭"
+    ],
+    "Pingxiang": [
+        "天",
+        "天氣"
+    ],
+    "Meixian": [
+        "天氣",
+        "天色",
+        "天時"
+    ],
+    "Xingning": [
+        "天時"
+    ],
+    "Huidong": [
+        "天時"
+    ],
+    "Qujiang": [
+        "天時"
+    ],
+    "Xiaosanjiang": [
+        "天時"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "天時"
+    ],
+    "Pingyu": [
+        "天時"
+    ],
+    "Wuping": [
+        "天時"
+    ],
+    "Liancheng": [
+        "天時"
+    ],
+    "Ninghua": [],
+    "Yudu": [
+        "天氣"
+    ],
+    "Ruijin": [
+        "天氣"
+    ],
+    "Shicheng": [
+        "天頭"
+    ],
+    "Shangyou": [
+        "天色"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "天時",
+        "天氣"
+    ],
+    "Liudui": [
+        "天時",
+        "天氣"
+    ],
+    "Hsinchu": [
+        "天時",
+        "天氣"
+    ],
+    "Dongshi": [
+        "天時",
+        "天氣"
+    ],
+    "Raoping": [
+        "天時",
+        "天氣"
+    ],
+    "Yunlin": [
+        "天氣"
+    ],
+    "Hong Kong-H": [
+        "天時"
+    ],
+    "Sabah": [
+        "天時"
+    ],
+    "Senai": [
+        "天時"
+    ],
+    "Singkawang": [
+        "天時",
+        "天氣"
+    ],
+    "Jixi": [
+        "天公"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "天氣",
+        "天時",
+        "天候"
+    ],
+    "Hong Kong": [
+        "天氣",
+        "天時",
+        "天候"
+    ],
+    "Shunde": [
+        "天氣"
+    ],
+    "Foshan": [
+        "天時"
+    ],
+    "Zhongshan": [
+        "天時"
+    ],
+    "Dongguan": [
+        "天時",
+        "天氣"
+    ],
+    "HK Weitou": [
+        "天候",
+        "天時"
+    ],
+    "Taishan": [
+        "天時",
+        "天氣"
+    ],
+    "Doumen": [
+        "天時"
+    ],
+    "Kaiping": [
+        "天時"
+    ],
+    "Shaoguan": [
+        "天時"
+    ],
+    "Yunfu": [
+        "天氣"
+    ],
+    "Yangjiang": [
+        "天時",
+        "天氣"
+    ],
+    "Xinyi": [
+        "天氣"
+    ],
+    "Lianjiang": [
+        "天氣"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "天"
+    ],
+    "Kuala Lumpur": [
+        "天時",
+        "天氣"
+    ],
+    "Ho Chi Minh City": [
+        "天時"
+    ],
+    "Nanning-P": [
+        "天氣"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "天時",
+        "天氣"
+    ],
+    "Quanzhou": [
+        "天時",
+        "天氣"
+    ],
+    "Zhangzhou": [
+        "天時",
+        "天氣"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "天時",
+        "天氣"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "天時"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "天時"
+    ],
+    "Wenchang": [
+        "天氣"
+    ],
+    "Haikou": [
+        "天時"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "天時"
+    ],
+    "Xianyou": [
+        "天時"
+    ],
+    "Fuzhou": [
+        "天氣",
+        "天時"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "天氣"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "天氣"
+    ],
+    "Jian'ou": [
+        "天氣",
+        "天時"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "天性"
+    ],
+    "Fuding-She": [
+        "天氣"
+    ],
+    "Luoyuan-She": [
+        "天性"
+    ],
+    "Sanming-She": [
+        "天氣"
+    ],
+    "Shunchang-She": [
+        "天氣"
+    ],
+    "Hua'an-She": [
+        "天氣"
+    ],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

@@ -1,731 +1,371 @@
 {
     "meaning": "(to have an) earthquake",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "地震"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Taiwan": {
-        "1": "地震",
-        "2": "地牛翻身"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "地動"
-    },
-    "Wanrong": {
-        "1": "地動"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "地震"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "地震"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "地震"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "地震",
-        "2": "地動"
-    },
-    "Suzhou": {
-        "1": "地震"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "地震",
-        "2": "地藏王轉肩"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "地震"
-    },
-    "Shuangfeng": {
-        "1": "地震"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "地震"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": "地震",
-        "2": "孽龍轉身"
-    },
-    "Meixian": {
-        "1": "地震",
-        "2": "天地轉側"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "地動",
-        "2": "地牛翻身",
-        "3": "地牛轉肩"
-    },
-    "Liudui": {
-        "1": "地動"
-    },
-    "Hsinchu": {
-        "1": "地動",
-        "2": "地牛翻身",
-        "3": "地牛轉肩"
-    },
-    "Dongshi": {
-        "1": "地動"
-    },
-    "Raoping": {
-        "1": "地動"
-    },
-    "Yunlin": {
-        "1": "地動"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "地震"
-    },
-    "Hong Kong": {
-        "1": "地震"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": ""
-    },
-    "Panyu": {
-        "1": ""
-    },
-    "Huadu": {
-        "1": ""
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Nanhai": {
-        "1": ""
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Sanshui": {
-        "1": ""
-    },
-    "Gaoming": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Zhuhai": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": ""
-    },
-    "Jiangmen": {
-        "1": ""
-    },
-    "Xinhui": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Enping": {
-        "1": ""
-    },
-    "Heshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Bao'an": {
-        "1": ""
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "地震"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "地震"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "地動"
-    },
-    "Tong'an": {
-        "1": "地動"
-    },
-    "Quanzhou": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Longhai": {
-        "1": "地動"
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": "地動"
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "地牛過肩",
-        "2": "地顫:rural"
-    },
-    "Taipei": {
-        "1": "地動"
-    },
-    "Kaohsiung": {
-        "1": "地動",
-        "2": "塗牛翻身"
-    },
-    "Tainan": {
-        "1": "地動",
-        "2": "塗牛翻身"
-    },
-    "Taichung": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "地動"
-    },
-    "Sanxia": {
-        "1": "地牛翻身",
-        "2": "地動"
-    },
-    "Yilan": {
-        "1": "地牛翻身",
-        "2": "地動"
-    },
-    "Kinmen": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Magong": {
-        "1": "地動",
-        "2": "地牛翻身"
-    },
-    "Malaysia-MN": {
-        "1": "地動",
-        "2": "地顫"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "地動"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "地震"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "地牛翻身"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "地震",
-        "2": "地牛轉肩"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "地震",
-        "2": "地牛反肩"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "地震"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "地震",
+        "地動"
+    ],
+    "Taiwan": [
+        "地震",
+        "地牛翻身"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "地震",
+        "地動"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "地動"
+    ],
+    "Wanrong": [
+        "地動"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "地震",
+        "地動"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "地震"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "地震",
+        "地動"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "地震"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "地震"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "地震",
+        "地動"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "地震",
+        "地動"
+    ],
+    "Suzhou": [
+        "地震"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "地震",
+        "地藏王轉肩"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "地震"
+    ],
+    "Shuangfeng": [
+        "地震"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "地震"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [
+        "地震",
+        "孽龍轉身"
+    ],
+    "Meixian": [
+        "地震",
+        "天地轉側"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "地動",
+        "地牛翻身",
+        "地牛轉肩"
+    ],
+    "Liudui": [
+        "地動"
+    ],
+    "Hsinchu": [
+        "地動",
+        "地牛翻身",
+        "地牛轉肩"
+    ],
+    "Dongshi": [
+        "地動"
+    ],
+    "Raoping": [
+        "地動"
+    ],
+    "Yunlin": [
+        "地動"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "地震"
+    ],
+    "Hong Kong": [
+        "地震"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "地震"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "地震"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "地動"
+    ],
+    "Tong'an": [
+        "地動"
+    ],
+    "Quanzhou": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Longhai": [
+        "地動"
+    ],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [
+        "地動"
+    ],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "地牛過肩",
+        "地顫:rural"
+    ],
+    "Taipei": [
+        "地動"
+    ],
+    "Kaohsiung": [
+        "地動",
+        "塗牛翻身"
+    ],
+    "Tainan": [
+        "地動",
+        "塗牛翻身"
+    ],
+    "Taichung": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "地動"
+    ],
+    "Sanxia": [
+        "地牛翻身",
+        "地動"
+    ],
+    "Yilan": [
+        "地牛翻身",
+        "地動"
+    ],
+    "Kinmen": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Magong": [
+        "地動",
+        "地牛翻身"
+    ],
+    "Malaysia-MN": [
+        "地動",
+        "地顫"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "地動"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "地震"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "地牛翻身"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "地震",
+        "地牛轉肩"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "地震",
+        "地牛反肩"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

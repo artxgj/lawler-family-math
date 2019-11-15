@@ -1,867 +1,785 @@
 {
     "meaning": "soap",
     "note": "",
-    "Classical": {
-        "1": "皂"
-    },
-    "Formal": {
-        "1": "肥皂"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "肥皂",
-        "2": "胰子"
-    },
-    "Taiwan": {
-        "1": "肥皂"
-    },
-    "Tianjin": {
-        "1": "肥皂",
-        "2": "胰子"
-    },
-    "Harbin": {
-        "1": "胰子",
-        "2": "大胰子",
-        "3": "肥皂"
-    },
-    "Shenyang": {
-        "1": "胰子",
-        "2": "黃胰子"
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "肥皂",
-        "2": "胰子"
-    },
-    "Muping": {
-        "1": "胰子"
-    },
-    "Luoyang": {
-        "1": "胰子",
-        "2": "洋鹼"
-    },
-    "Wanrong": {
-        "1": "洋鹼"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "洋鹼"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "胰子",
-        "2": "洋鹼"
-    },
-    "Xining": {
-        "1": "胰子",
-        "2": "肥皂"
-    },
-    "Xuzhou": {
-        "1": "胰子"
-    },
-    "Yinchuan": {
-        "1": "洋胰子",
-        "2": "肥皂"
-    },
-    "Lanzhou": {
-        "1": "胰子"
-    },
-    "Ürümqi": {
-        "1": "肥皂",
-        "2": "胰子"
-    },
-    "Wuhan": {
-        "1": "肥皂"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "洋鹼",
-        "2": "肥皂"
-    },
-    "Guiyang": {
-        "1": "洋鹼",
-        "2": "肥皂"
-    },
-    "Guilin": {
-        "1": "肥皂"
-    },
-    "Liuzhou": {
-        "1": "肥皂",
-        "2": "鹼"
-    },
-    "Kunming": {
-        "1": "洋鹼",
-        "2": "胰子"
-    },
-    "Yangzhou": {
-        "1": "洋胰子",
-        "2": "肥皂"
-    },
-    "Nanjing": {
-        "1": "洋胰子",
-        "2": "肥皂"
-    },
-    "Hefei": {
-        "1": "肥皂",
-        "2": "洋胰子"
-    },
-    "Nantong": {
-        "1": "洋鹼"
-    },
-    "Malaysia-M": {
-        "1": "肥皂"
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "胰子"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "胰子",
-        "2": "洋胰子",
-        "3": "肥皂"
-    },
-    "Pingyao": {
-        "1": "胰子"
-    },
-    "Xinzhou": {
-        "1": "胰子",
-        "2": "洗衣裳胰子"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "肥皂"
-    },
-    "Suzhou": {
-        "1": "肥皂"
-    },
-    "Wuxi": {
-        "1": "肥皂"
-    },
-    "Hangzhou": {
-        "1": "肥皂",
-        "2": "洋肥皂"
-    },
-    "Chongming": {
-        "1": "肥皂"
-    },
-    "Wenzhou": {
-        "1": "洋皂",
-        "2": "油皂",
-        "3": "番皂"
-    },
-    "Danyang": {
-        "1": "洋鹼",
-        "2": "肥皂",
-        "3": "洋礬"
-    },
-    "Jinhua": {
-        "1": "肥皂",
-        "2": "洋肥皂"
-    },
-    "Tangxi": {
-        "1": "洋肥皂"
-    },
-    "Ningbo": {
-        "1": "肥皂"
-    },
-    "Changsha": {
-        "1": "肥皂",
-        "2": "胰子油"
-    },
-    "Shuangfeng": {
-        "1": "肥皂",
-        "2": "洋鹼"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "肥皂",
-        "2": "洋鹼"
-    },
-    "Quanzhou-X": {
-        "1": "洋鹼"
-    },
-    "Nanchang": {
-        "1": "肥皂",
-        "2": "洋鹼"
-    },
-    "Lichuan": {
-        "1": "鹼"
-    },
-    "Pingxiang": {
-        "1": "肥皂",
-        "2": "洋鹼"
-    },
-    "Meixian": {
-        "1": "番鹼"
-    },
-    "Xingning": {
-        "1": "番鹼"
-    },
-    "Huizhou": {
-        "1": "番鹼"
-    },
-    "Huizhou-SK": {
-        "1": "番鹼"
-    },
-    "Huizhou-HL": {
-        "1": "番鹼"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "番鹼"
-    },
-    "Huidong-DL": {
-        "1": "番鹼"
-    },
-    "Dongguan-H": {
-        "1": "番鹼"
-    },
-    "Longmen-PL": {
-        "1": "番鹼"
-    },
-    "Longmen-LX": {
-        "1": "番鹼"
-    },
-    "Boluo": {
-        "1": "番鹼"
-    },
-    "Shenzhen-H": {
-        "1": "番鹼"
-    },
-    "Zengcheng-ZG": {
-        "1": "番鹼"
-    },
-    "Zhongshan-WGS": {
-        "1": "番鹼"
-    },
-    "Zhongshan-NLHS": {
-        "1": "番鹼"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": "番鹼"
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": "番鹼",
-        "2": "鹼"
-    },
-    "Zijin-GZ": {
-        "1": "番鹼"
-    },
-    "Longchuan-TC": {
-        "1": "番鹼"
-    },
-    "Longchuan-SD": {
-        "1": "番鹼"
-    },
-    "Heping-LZ": {
-        "1": "番鹼"
-    },
-    "Lianping-ZX": {
-        "1": "番鹼"
-    },
-    "Lianping-LJ": {
-        "1": "番鹼"
-    },
-    "Qujiang": {
-        "1": "鹼"
-    },
-    "Xinfeng-MT": {
-        "1": "番鹼"
-    },
-    "Xinfeng-DX": {
-        "1": "番鹼"
-    },
-    "Xiaosanjiang": {
-        "1": "番鹼"
-    },
-    "Liannan": {
-        "1": "番鹼"
-    },
-    "Conghua-H": {
-        "1": "番鹼"
-    },
-    "Jiexi": {
-        "1": "番鹼"
-    },
-    "Luchuan-LC": {
-        "1": "洋鹼"
-    },
-    "Luchuan-DQ": {
-        "1": "肥皂"
-    },
-    "Changting": {
-        "1": "胰子"
-    },
-    "Pingyu": {
-        "1": "番鹼"
-    },
-    "Wuping": {
-        "1": "洋膏",
-        "2": "番鹼"
-    },
-    "Liancheng": {
-        "1": "洋鹼"
-    },
-    "Ninghua": {
-        "1": "胰子"
-    },
-    "Yudu": {
-        "1": "胰子",
-        "2": "洋鹼"
-    },
-    "Ruijin": {
-        "1": "胰子"
-    },
-    "Shicheng": {
-        "1": "肥皂"
-    },
-    "Shangyou": {
-        "1": "洋鹼"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "茶箍",
-        "2": "石鹼"
-    },
-    "Liudui": {
-        "1": "茶箍",
-        "2": "番鹼",
-        "3": "石鹼"
-    },
-    "Hsinchu": {
-        "1": "茶箍",
-        "2": "石鹼"
-    },
-    "Dongshi": {
-        "1": "茶箍",
-        "2": "石鹼"
-    },
-    "Raoping": {
-        "1": "茶箍",
-        "2": "石鹼"
-    },
-    "Yunlin": {
-        "1": "茶箍",
-        "2": "石鹼"
-    },
-    "Hong Kong-H": {
-        "1": "番鹼"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "番鹼"
-    },
-    "Senai": {
-        "1": "番鹼"
-    },
-    "Singkawang": {
-        "1": "雪文"
-    },
-    "Jixi": {
-        "1": "肥皂",
-        "2": "肥珠",
-        "3": "洋肥皂",
-        "4": "洋肥珠"
-    },
-    "Shexian": {
-        "1": "肥皂",
-        "2": "肥珠"
-    },
-    "Tunxi": {
-        "1": "肥皂"
-    },
-    "Xiuning": {
-        "1": "洋肥皂",
-        "2": "肥皂"
-    },
-    "Yixian": {
-        "1": "肥皂",
-        "2": "肥珠"
-    },
-    "Qimen": {
-        "1": "肥皂"
-    },
-    "Wuyuan": {
-        "1": "肥皂",
-        "2": "肥珠"
-    },
-    "Fuliang": {
-        "1": "洋肥珠"
-    },
-    "Dexing": {
-        "1": "洋鹼"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "番鹼",
-        "2": "鹼"
-    },
-    "Hong Kong": {
-        "1": "番鹼",
-        "2": "鹼"
-    },
-    "HK Weitou": {
-        "1": "番鹼"
-    },
-    "Kam Tin": {
-        "1": "番鹼"
-    },
-    "Ting Kok": {
-        "1": "番鹼"
-    },
-    "Tung Ping Chau": {
-        "1": "番鹼"
-    },
-    "Macau": {
-        "1": "番鹼"
-    },
-    "Panyu": {
-        "1": "番鹼"
-    },
-    "Huadu": {
-        "1": "番鹼"
-    },
-    "Conghua": {
-        "1": "番鹼"
-    },
-    "Zengcheng": {
-        "1": "番鹼"
-    },
-    "Foshan": {
-        "1": "番鹼"
-    },
-    "Nanhai": {
-        "1": "番鹼"
-    },
-    "Shunde": {
-        "1": "番鹼"
-    },
-    "Sanshui": {
-        "1": "番鹼"
-    },
-    "Gaoming": {
-        "1": "番鹼"
-    },
-    "Zhongshan": {
-        "1": "番鹼"
-    },
-    "Zhuhai": {
-        "1": "番鹼"
-    },
-    "Doumen-T": {
-        "1": "番鹼"
-    },
-    "Doumen-S": {
-        "1": "番鹼"
-    },
-    "Jiangmen": {
-        "1": "番鹼"
-    },
-    "Xinhui": {
-        "1": "番鹼"
-    },
-    "Taishan": {
-        "1": "番鹼"
-    },
-    "Kaiping": {
-        "1": "番鹼"
-    },
-    "Enping": {
-        "1": "番鹼"
-    },
-    "Heshan": {
-        "1": "番鹼"
-    },
-    "Dongguan": {
-        "1": "番鹼"
-    },
-    "Bao'an": {
-        "1": "番鹼"
-    },
-    "Dapeng": {
-        "1": "番鹼"
-    },
-    "Shaoguan": {
-        "1": "番鹼"
-    },
-    "Yunfu": {
-        "1": "番鹼"
-    },
-    "Yangjiang": {
-        "1": "番鹼",
-        "2": "鹼"
-    },
-    "Xinyi": {
-        "1": "番鹼"
-    },
-    "Lianjiang": {
-        "1": "番鹼"
-    },
-    "Nanning": {
-        "1": "鹼"
-    },
-    "Wuzhou": {
-        "1": "鹼"
-    },
-    "Yulin": {
-        "1": "鹼"
-    },
-    "Hepu": {
-        "1": "鹼"
-    },
-    "Danzhou": {
-        "1": "鹼"
-    },
-    "Kuala Lumpur": {
-        "1": "番鹼"
-    },
-    "Ho Chi Minh City": {
-        "1": "番鹼"
-    },
-    "Nanning-P": {
-        "1": "鹼",
-        "2": "洋鹼",
-        "3": "洗衫鹼"
-    },
-    "Guilin-P": {
-        "1": "肥皂",
-        "2": "洋鹼"
-    },
-    "Xiamen": {
-        "1": "雪文",
-        "2": "油胰"
-    },
-    "Tong'an": {
-        "1": "雪文"
-    },
-    "Quanzhou": {
-        "1": "雪文",
-        "2": "胰"
-    },
-    "Jinjiang": {
-        "1": "雪文"
-    },
-    "Nan'an": {
-        "1": "雪文"
-    },
-    "Shishi": {
-        "1": "雪文"
-    },
-    "Hui'an": {
-        "1": "雪文"
-    },
-    "Anxi": {
-        "1": "雪文"
-    },
-    "Yongchun": {
-        "1": "雪文",
-        "2": "鹼"
-    },
-    "Dehua": {
-        "1": "雪文"
-    },
-    "Zhangzhou": {
-        "1": "雪文"
-    },
-    "Longhai": {
-        "1": "雪文"
-    },
-    "Changtai": {
-        "1": "雪文"
-    },
-    "Hua'an": {
-        "1": "鹼"
-    },
-    "Nanjing-MN": {
-        "1": "雪文",
-        "2": "番仔蠟"
-    },
-    "Pinghe": {
-        "1": "雪文",
-        "2": "番仔蠟"
-    },
-    "Zhangpu": {
-        "1": "番仔蠟"
-    },
-    "Yunxiao": {
-        "1": "蠟"
-    },
-    "Zhao'an": {
-        "1": "番仔蠟"
-    },
-    "Dongshan": {
-        "1": "番仔蠟"
-    },
-    "Taipei": {
-        "1": "雪文"
-    },
-    "Kaohsiung": {
-        "1": "雪文"
-    },
-    "Tainan": {
-        "1": "雪文"
-    },
-    "Taichung": {
-        "1": "茶箍"
-    },
-    "Wuqi": {
-        "1": "茶箍"
-    },
-    "Hsinchu-MN": {
-        "1": "茶箍",
-        "2": "雪文"
-    },
-    "Taitung": {
-        "1": "茶箍"
-    },
-    "Lukang": {
-        "1": "雪文",
-        "2": "茶箍"
-    },
-    "Sanxia": {
-        "1": "雪文"
-    },
-    "Yilan": {
-        "1": "雪文"
-    },
-    "Kinmen": {
-        "1": "油胰",
-        "2": "雪文",
-        "3": "茶箍"
-    },
-    "Magong": {
-        "1": "雪文"
-    },
-    "Malaysia-MN": {
-        "1": "雪文"
-    },
-    "Singapore-MN": {
-        "1": "雪文"
-    },
-    "Philippine-MN": {
-        "1": "雪文"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "番仔鹼"
-    },
-    "Zhangping": {
-        "1": "番仔鹼",
-        "2": "鹼"
-    },
-    "Yongfu": {
-        "1": "蠟",
-        "2": "洗衫蠟"
-    },
-    "Datian": {
-        "1": "蠟"
-    },
-    "Pingnan": {
-        "1": "鹼"
-    },
-    "Chaozhou": {
-        "1": "餅藥"
-    },
-    "Shantou": {
-        "1": "餅藥"
-    },
-    "Haifeng": {
-        "1": "番仔鹼"
-    },
-    "Thailand-MN-T": {
-        "1": "餅藥",
-        "2": "雪文"
-    },
-    "Johor Bahru": {
-        "1": "雪文"
-    },
-    "Wenchang": {
-        "1": "沙文",
-        "2": "肥皂"
-    },
-    "Haikou": {
-        "1": "番鬼鹼",
-        "2": "油糠",
-        "3": "番鬼油糠"
-    },
-    "Leizhou": {
-        "1": "鹼",
-        "2": "番鬼鹼"
-    },
-    "Putian": {
-        "1": "胰皂"
-    },
-    "Xianyou": {
-        "1": "胰皂"
-    },
-    "Fuzhou": {
-        "1": "胰皂"
-    },
-    "Changle": {
-        "1": "胰皂"
-    },
-    "Fuqing": {
-        "1": "胰皂"
-    },
-    "Pingtan": {
-        "1": "胰皂"
-    },
-    "Yongtai": {
-        "1": "胰皂"
-    },
-    "Gutian": {
-        "1": "胰皂"
-    },
-    "Fu'an": {
-        "1": "胰皂"
-    },
-    "Ningde": {
-        "1": "胰皂"
-    },
-    "Shouning": {
-        "1": "胰皂"
-    },
-    "Zhouning": {
-        "1": "胰皂"
-    },
-    "Fuding": {
-        "1": "蠟"
-    },
-    "Matsu": {
-        "1": "胰皂"
-    },
-    "Jian'ou": {
-        "1": "胰仔"
-    },
-    "Dikou": {
-        "1": "胰仔"
-    },
-    "Songxi": {
-        "1": "番仔鹼"
-    },
-    "Zhenghe": {
-        "1": "胰仔"
-    },
-    "Zhenqian": {
-        "1": "胰仔"
-    },
-    "Jianyang": {
-        "1": "鬼仔鹼"
-    },
-    "Wuyishan": {
-        "1": "番鬼鹼"
-    },
-    "Shibei": {
-        "1": "鬼仔蠟"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "皂"
+    ],
+    "Formal": [
+        "肥皂"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "肥皂",
+        "胰子"
+    ],
+    "Taiwan": [
+        "肥皂"
+    ],
+    "Tianjin": [
+        "肥皂",
+        "胰子"
+    ],
+    "Harbin": [
+        "胰子",
+        "大胰子",
+        "肥皂"
+    ],
+    "Shenyang": [
+        "胰子",
+        "黃胰子"
+    ],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "肥皂",
+        "胰子"
+    ],
+    "Muping": [
+        "胰子"
+    ],
+    "Luoyang": [
+        "胰子",
+        "洋鹼"
+    ],
+    "Wanrong": [
+        "洋鹼"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "洋鹼"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "胰子",
+        "洋鹼"
+    ],
+    "Xining": [
+        "胰子",
+        "肥皂"
+    ],
+    "Xuzhou": [
+        "胰子"
+    ],
+    "Yinchuan": [
+        "洋胰子",
+        "肥皂"
+    ],
+    "Lanzhou": [
+        "胰子"
+    ],
+    "Ürümqi": [
+        "肥皂",
+        "胰子"
+    ],
+    "Wuhan": [
+        "肥皂"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "洋鹼",
+        "肥皂"
+    ],
+    "Guiyang": [
+        "洋鹼",
+        "肥皂"
+    ],
+    "Guilin": [
+        "肥皂"
+    ],
+    "Liuzhou": [
+        "肥皂",
+        "鹼"
+    ],
+    "Kunming": [
+        "洋鹼",
+        "胰子"
+    ],
+    "Yangzhou": [
+        "洋胰子",
+        "肥皂"
+    ],
+    "Nanjing": [
+        "洋胰子",
+        "肥皂"
+    ],
+    "Hefei": [
+        "肥皂",
+        "洋胰子"
+    ],
+    "Nantong": [
+        "洋鹼"
+    ],
+    "Malaysia-M": [
+        "肥皂"
+    ],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "胰子"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "胰子",
+        "洋胰子",
+        "肥皂"
+    ],
+    "Pingyao": [
+        "胰子"
+    ],
+    "Xinzhou": [
+        "胰子",
+        "洗衣裳胰子"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "肥皂"
+    ],
+    "Suzhou": [
+        "肥皂"
+    ],
+    "Wuxi": [
+        "肥皂"
+    ],
+    "Hangzhou": [
+        "肥皂",
+        "洋肥皂"
+    ],
+    "Chongming": [
+        "肥皂"
+    ],
+    "Wenzhou": [
+        "洋皂",
+        "油皂",
+        "番皂"
+    ],
+    "Danyang": [
+        "洋鹼",
+        "肥皂",
+        "洋礬"
+    ],
+    "Jinhua": [
+        "肥皂",
+        "洋肥皂"
+    ],
+    "Tangxi": [
+        "洋肥皂"
+    ],
+    "Ningbo": [
+        "肥皂"
+    ],
+    "Changsha": [
+        "肥皂",
+        "胰子油"
+    ],
+    "Shuangfeng": [
+        "肥皂",
+        "洋鹼"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "肥皂",
+        "洋鹼"
+    ],
+    "Quanzhou-X": [
+        "洋鹼"
+    ],
+    "Nanchang": [
+        "肥皂",
+        "洋鹼"
+    ],
+    "Lichuan": [
+        "鹼"
+    ],
+    "Pingxiang": [
+        "肥皂",
+        "洋鹼"
+    ],
+    "Meixian": [
+        "番鹼"
+    ],
+    "Xingning": [
+        "番鹼"
+    ],
+    "Huizhou": [
+        "番鹼"
+    ],
+    "Huizhou-SK": [
+        "番鹼"
+    ],
+    "Huizhou-HL": [
+        "番鹼"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "番鹼"
+    ],
+    "Huidong-DL": [
+        "番鹼"
+    ],
+    "Dongguan-H": [
+        "番鹼"
+    ],
+    "Longmen-PL": [
+        "番鹼"
+    ],
+    "Longmen-LX": [
+        "番鹼"
+    ],
+    "Boluo": [
+        "番鹼"
+    ],
+    "Shenzhen-H": [
+        "番鹼"
+    ],
+    "Zengcheng-ZG": [
+        "番鹼"
+    ],
+    "Zhongshan-WGS": [
+        "番鹼"
+    ],
+    "Zhongshan-NLHS": [
+        "番鹼"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [
+        "番鹼"
+    ],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [
+        "番鹼",
+        "鹼"
+    ],
+    "Zijin-GZ": [
+        "番鹼"
+    ],
+    "Longchuan-TC": [
+        "番鹼"
+    ],
+    "Longchuan-SD": [
+        "番鹼"
+    ],
+    "Heping-LZ": [
+        "番鹼"
+    ],
+    "Lianping-ZX": [
+        "番鹼"
+    ],
+    "Lianping-LJ": [
+        "番鹼"
+    ],
+    "Qujiang": [
+        "鹼"
+    ],
+    "Xinfeng-MT": [
+        "番鹼"
+    ],
+    "Xinfeng-DX": [
+        "番鹼"
+    ],
+    "Xiaosanjiang": [
+        "番鹼"
+    ],
+    "Liannan": [
+        "番鹼"
+    ],
+    "Conghua-H": [
+        "番鹼"
+    ],
+    "Jiexi": [
+        "番鹼"
+    ],
+    "Luchuan-LC": [
+        "洋鹼"
+    ],
+    "Luchuan-DQ": [
+        "肥皂"
+    ],
+    "Changting": [
+        "胰子"
+    ],
+    "Pingyu": [
+        "番鹼"
+    ],
+    "Wuping": [
+        "洋膏",
+        "番鹼"
+    ],
+    "Liancheng": [
+        "洋鹼"
+    ],
+    "Ninghua": [
+        "胰子"
+    ],
+    "Yudu": [
+        "胰子",
+        "洋鹼"
+    ],
+    "Ruijin": [
+        "胰子"
+    ],
+    "Shicheng": [
+        "肥皂"
+    ],
+    "Shangyou": [
+        "洋鹼"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "茶箍",
+        "石鹼"
+    ],
+    "Liudui": [
+        "茶箍",
+        "番鹼",
+        "石鹼"
+    ],
+    "Hsinchu": [
+        "茶箍",
+        "石鹼"
+    ],
+    "Dongshi": [
+        "茶箍",
+        "石鹼"
+    ],
+    "Raoping": [
+        "茶箍",
+        "石鹼"
+    ],
+    "Yunlin": [
+        "茶箍",
+        "石鹼"
+    ],
+    "Hong Kong-H": [
+        "番鹼"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "番鹼"
+    ],
+    "Senai": [
+        "番鹼"
+    ],
+    "Singkawang": [
+        "雪文"
+    ],
+    "Jixi": [
+        "肥皂",
+        "肥珠",
+        "洋肥皂",
+        "洋肥珠"
+    ],
+    "Shexian": [
+        "肥皂",
+        "肥珠"
+    ],
+    "Tunxi": [
+        "肥皂"
+    ],
+    "Xiuning": [
+        "洋肥皂",
+        "肥皂"
+    ],
+    "Yixian": [
+        "肥皂",
+        "肥珠"
+    ],
+    "Qimen": [
+        "肥皂"
+    ],
+    "Wuyuan": [
+        "肥皂",
+        "肥珠"
+    ],
+    "Fuliang": [
+        "洋肥珠"
+    ],
+    "Dexing": [
+        "洋鹼"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "番鹼",
+        "鹼"
+    ],
+    "Hong Kong": [
+        "番鹼",
+        "鹼"
+    ],
+    "HK Weitou": [
+        "番鹼"
+    ],
+    "Kam Tin": [
+        "番鹼"
+    ],
+    "Ting Kok": [
+        "番鹼"
+    ],
+    "Tung Ping Chau": [
+        "番鹼"
+    ],
+    "Macau": [
+        "番鹼"
+    ],
+    "Panyu": [
+        "番鹼"
+    ],
+    "Huadu": [
+        "番鹼"
+    ],
+    "Conghua": [
+        "番鹼"
+    ],
+    "Zengcheng": [
+        "番鹼"
+    ],
+    "Foshan": [
+        "番鹼"
+    ],
+    "Nanhai": [
+        "番鹼"
+    ],
+    "Shunde": [
+        "番鹼"
+    ],
+    "Sanshui": [
+        "番鹼"
+    ],
+    "Gaoming": [
+        "番鹼"
+    ],
+    "Zhongshan": [
+        "番鹼"
+    ],
+    "Zhuhai": [
+        "番鹼"
+    ],
+    "Doumen-T": [
+        "番鹼"
+    ],
+    "Doumen-S": [
+        "番鹼"
+    ],
+    "Jiangmen": [
+        "番鹼"
+    ],
+    "Xinhui": [
+        "番鹼"
+    ],
+    "Taishan": [
+        "番鹼"
+    ],
+    "Kaiping": [
+        "番鹼"
+    ],
+    "Enping": [
+        "番鹼"
+    ],
+    "Heshan": [
+        "番鹼"
+    ],
+    "Dongguan": [
+        "番鹼"
+    ],
+    "Bao'an": [
+        "番鹼"
+    ],
+    "Dapeng": [
+        "番鹼"
+    ],
+    "Shaoguan": [
+        "番鹼"
+    ],
+    "Yunfu": [
+        "番鹼"
+    ],
+    "Yangjiang": [
+        "番鹼",
+        "鹼"
+    ],
+    "Xinyi": [
+        "番鹼"
+    ],
+    "Lianjiang": [
+        "番鹼"
+    ],
+    "Nanning": [
+        "鹼"
+    ],
+    "Wuzhou": [
+        "鹼"
+    ],
+    "Yulin": [
+        "鹼"
+    ],
+    "Hepu": [
+        "鹼"
+    ],
+    "Danzhou": [
+        "鹼"
+    ],
+    "Kuala Lumpur": [
+        "番鹼"
+    ],
+    "Ho Chi Minh City": [
+        "番鹼"
+    ],
+    "Nanning-P": [
+        "鹼",
+        "洋鹼",
+        "洗衫鹼"
+    ],
+    "Guilin-P": [
+        "肥皂",
+        "洋鹼"
+    ],
+    "Xiamen": [
+        "雪文",
+        "油胰"
+    ],
+    "Tong'an": [
+        "雪文"
+    ],
+    "Quanzhou": [
+        "雪文",
+        "胰"
+    ],
+    "Jinjiang": [
+        "雪文"
+    ],
+    "Nan'an": [
+        "雪文"
+    ],
+    "Shishi": [
+        "雪文"
+    ],
+    "Hui'an": [
+        "雪文"
+    ],
+    "Anxi": [
+        "雪文"
+    ],
+    "Yongchun": [
+        "雪文",
+        "鹼"
+    ],
+    "Dehua": [
+        "雪文"
+    ],
+    "Zhangzhou": [
+        "雪文"
+    ],
+    "Longhai": [
+        "雪文"
+    ],
+    "Changtai": [
+        "雪文"
+    ],
+    "Hua'an": [
+        "鹼"
+    ],
+    "Nanjing-MN": [
+        "雪文",
+        "番仔蠟"
+    ],
+    "Pinghe": [
+        "雪文",
+        "番仔蠟"
+    ],
+    "Zhangpu": [
+        "番仔蠟"
+    ],
+    "Yunxiao": [
+        "蠟"
+    ],
+    "Zhao'an": [
+        "番仔蠟"
+    ],
+    "Dongshan": [
+        "番仔蠟"
+    ],
+    "Taipei": [
+        "雪文"
+    ],
+    "Kaohsiung": [
+        "雪文"
+    ],
+    "Tainan": [
+        "雪文"
+    ],
+    "Taichung": [
+        "茶箍"
+    ],
+    "Wuqi": [
+        "茶箍"
+    ],
+    "Hsinchu-MN": [
+        "茶箍",
+        "雪文"
+    ],
+    "Taitung": [
+        "茶箍"
+    ],
+    "Lukang": [
+        "雪文",
+        "茶箍"
+    ],
+    "Sanxia": [
+        "雪文"
+    ],
+    "Yilan": [
+        "雪文"
+    ],
+    "Kinmen": [
+        "油胰",
+        "雪文",
+        "茶箍"
+    ],
+    "Magong": [
+        "雪文"
+    ],
+    "Malaysia-MN": [
+        "雪文"
+    ],
+    "Singapore-MN": [
+        "雪文"
+    ],
+    "Philippine-MN": [
+        "雪文"
+    ],
+    "Medan": [],
+    "Longyan": [
+        "番仔鹼"
+    ],
+    "Zhangping": [
+        "番仔鹼",
+        "鹼"
+    ],
+    "Yongfu": [
+        "蠟",
+        "洗衫蠟"
+    ],
+    "Datian": [
+        "蠟"
+    ],
+    "Pingnan": [
+        "鹼"
+    ],
+    "Chaozhou": [
+        "餅藥"
+    ],
+    "Shantou": [
+        "餅藥"
+    ],
+    "Haifeng": [
+        "番仔鹼"
+    ],
+    "Thailand-MN-T": [
+        "餅藥",
+        "雪文"
+    ],
+    "Johor Bahru": [
+        "雪文"
+    ],
+    "Wenchang": [
+        "沙文",
+        "肥皂"
+    ],
+    "Haikou": [
+        "番鬼鹼",
+        "油糠",
+        "番鬼油糠"
+    ],
+    "Leizhou": [
+        "鹼",
+        "番鬼鹼"
+    ],
+    "Putian": [
+        "胰皂"
+    ],
+    "Xianyou": [
+        "胰皂"
+    ],
+    "Fuzhou": [
+        "胰皂"
+    ],
+    "Changle": [
+        "胰皂"
+    ],
+    "Fuqing": [
+        "胰皂"
+    ],
+    "Pingtan": [
+        "胰皂"
+    ],
+    "Yongtai": [
+        "胰皂"
+    ],
+    "Gutian": [
+        "胰皂"
+    ],
+    "Fu'an": [
+        "胰皂"
+    ],
+    "Ningde": [
+        "胰皂"
+    ],
+    "Shouning": [
+        "胰皂"
+    ],
+    "Zhouning": [
+        "胰皂"
+    ],
+    "Fuding": [
+        "蠟"
+    ],
+    "Matsu": [
+        "胰皂"
+    ],
+    "Jian'ou": [
+        "胰仔"
+    ],
+    "Dikou": [
+        "胰仔"
+    ],
+    "Songxi": [
+        "番仔鹼"
+    ],
+    "Zhenghe": [
+        "胰仔"
+    ],
+    "Zhenqian": [
+        "胰仔"
+    ],
+    "Jianyang": [
+        "鬼仔鹼"
+    ],
+    "Wuyishan": [
+        "番鬼鹼"
+    ],
+    "Shibei": [
+        "鬼仔蠟"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

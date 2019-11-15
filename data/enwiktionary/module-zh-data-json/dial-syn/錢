@@ -1,371 +1,207 @@
 {
     "meaning": "money",
     "note": "",
-    "Classical": {
-        "1": "錢"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "錢",
-        "2": "錢兒"
-    },
-    "Taiwan": {
-        "1": ""
-    },
-    "Tianjin": {
-        "1": "錢"
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "錢",
-        "2": "票子"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "錢"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "錢",
-        "2": "角子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "錢"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "錢"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "錢"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "錢"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "銅鈿"
-    },
-    "Shanghai": {
-        "1": "鈔票",
-        "2": "銅鈿"
-    },
-    "Chongming": {
-        "1": "鈔票",
-        "2": "銅錢",
-        "3": "番錢",
-        "4": "銅錢銀",
-        "5": "銅板",
-        "6": "板"
-    },
-    "Wenzhou": {
-        "1": "鈔票",
-        "2": "銅鈿",
-        "3": "番鈿"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "錢"
-    },
-    "Shuangfeng": {
-        "1": "錢"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "錢"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "錢"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "錢",
-        "2": "銀",
-        "3": "銀紙"
-    },
-    "Hong Kong": {
-        "1": "錢",
-        "2": "銀",
-        "3": "銀紙"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "錢",
-        "2": "銀",
-        "3": "銀紙",
-        "4": "鐳"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "錢"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "錢",
-        "2": "鐳"
-    },
-    "Quanzhou": {
-        "1": "錢",
-        "2": "鐳"
-    },
-    "Zhangzhou": {
-        "1": "錢",
-        "2": "鐳",
-        "3": "阿字仔"
-    },
-    "Taipei": {
-        "1": "錢"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "鐳",
-        "2": "錢",
-        "3": "銀"
-    },
-    "Singapore-MN": {
-        "1": "鐳",
-        "2": "錢"
-    },
-    "Philippine-MN": {
-        "1": "錢"
-    },
-    "Chaozhou": {
-        "1": "鐳"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "錢"
-    },
-    "Jian'ou": {
-        "1": "錢"
-    }
+    "Classical": [
+        "錢"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "錢",
+        "錢兒"
+    ],
+    "Taiwan": [],
+    "Tianjin": [
+        "錢"
+    ],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "錢",
+        "票子"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "錢"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "錢",
+        "角子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "錢"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "錢"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "錢"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "錢"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [],
+    "Hangzhou": [
+        "銅鈿"
+    ],
+    "Shanghai": [
+        "鈔票",
+        "銅鈿"
+    ],
+    "Chongming": [
+        "鈔票",
+        "銅錢",
+        "番錢",
+        "銅錢銀",
+        "銅板",
+        "板"
+    ],
+    "Wenzhou": [
+        "鈔票",
+        "銅鈿",
+        "番鈿"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "錢"
+    ],
+    "Shuangfeng": [
+        "錢"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "錢"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "錢"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "錢",
+        "銀",
+        "銀紙"
+    ],
+    "Hong Kong": [
+        "錢",
+        "銀",
+        "銀紙"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "錢",
+        "銀",
+        "銀紙",
+        "鐳"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "錢"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "錢",
+        "鐳"
+    ],
+    "Quanzhou": [
+        "錢",
+        "鐳"
+    ],
+    "Zhangzhou": [
+        "錢",
+        "鐳",
+        "阿字仔"
+    ],
+    "Taipei": [
+        "錢"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [
+        "鐳",
+        "錢",
+        "銀"
+    ],
+    "Singapore-MN": [
+        "鐳",
+        "錢"
+    ],
+    "Philippine-MN": [
+        "錢"
+    ],
+    "Chaozhou": [
+        "鐳"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "錢"
+    ],
+    "Jian'ou": [
+        "錢"
+    ]
 }

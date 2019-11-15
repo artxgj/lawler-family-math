@@ -1,780 +1,620 @@
 {
     "meaning": "to take someone's pulse",
     "note": "",
-    "Classical": {
-        "1": "診脈",
-        "2": "切脈",
-        "3": "按脈",
-        "4": "候脈"
-    },
-    "Formal": {
-        "1": "診脈",
-        "2": "號脈",
-        "3": "把脈",
-        "4": "切脈",
-        "5": "按脈",
-        "6": "看脈"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "號脈"
-    },
-    "Taiwan": {
-        "1": "把脈"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "號脈",
-        "2": "摸脈",
-        "3": "把脈"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "把脈"
-    },
-    "Ulan Hot": {
-        "1": "把脈"
-    },
-    "Tongliao": {
-        "1": "把脈"
-    },
-    "Chifeng": {
-        "1": "號脈"
-    },
-    "Bayanhot": {
-        "1": "號脈"
-    },
-    "Jinan": {
-        "1": "號脈"
-    },
-    "Muping": {
-        "1": "試脈",
-        "2": "憑脈"
-    },
-    "Luoyang": {
-        "1": "號脈",
-        "2": "摸脈",
-        "3": "品脈"
-    },
-    "Wanrong": {
-        "1": "摸脈",
-        "2": "號脈"
-    },
-    "Ronghe": {
-        "1": "揣脈"
-    },
-    "Xi'an": {
-        "1": "號脈"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "號脈"
-    },
-    "Xining": {
-        "1": "號脈"
-    },
-    "Xuzhou": {
-        "1": "號脈兒",
-        "2": "號脈",
-        "3": "方脈"
-    },
-    "Yinchuan": {
-        "1": "號脈"
-    },
-    "Lanzhou": {
-        "1": "號脈"
-    },
-    "Ürümqi": {
-        "1": "號脈"
-    },
-    "Wuhan": {
-        "1": "拿脈"
-    },
-    "Huanggang": {
-        "1": "拿脈"
-    },
-    "Chengdu": {
-        "1": "拿脈",
-        "2": "摸脈",
-        "3": "號脈",
-        "4": "把脈"
-    },
-    "Guiyang": {
-        "1": "拿脈",
-        "2": "號脈",
-        "3": "摸脈"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "拿脈",
-        "2": "號脈"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "號脈",
-        "2": "把脈",
-        "3": "搭脈"
-    },
-    "Nanjing": {
-        "1": "搭脈"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "把脈"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "號脈"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "把脈"
-    },
-    "Pingyao": {
-        "1": "號脈",
-        "2": "診脈"
-    },
-    "Xinzhou": {
-        "1": "號脈"
-    },
-    "Baochang": {
-        "1": "抓脈"
-    },
-    "Jining": {
-        "1": "號脈"
-    },
-    "Hohhot": {
-        "1": "號脈"
-    },
-    "Baotou": {
-        "1": "號脈"
-    },
-    "Dongsheng": {
-        "1": "號脈"
-    },
-    "Linhe": {
-        "1": "捉脈"
-    },
-    "Haibowan": {
-        "1": "捉脈"
-    },
-    "Shanghai": {
-        "1": "把脈",
-        "2": "搭脈",
-        "3": "診脈"
-    },
-    "Suzhou": {
-        "1": "把脈"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "把脈",
-        "2": "搭脈"
-    },
-    "Chongming": {
-        "1": "把脈"
-    },
-    "Wenzhou": {
-        "1": "搭脈"
-    },
-    "Danyang": {
-        "1": "搭脈",
-        "2": "把脈"
-    },
-    "Jinhua": {
-        "1": "把脈"
-    },
-    "Tangxi": {
-        "1": "候脈"
-    },
-    "Ningbo": {
-        "1": "搭脈",
-        "2": "把脈"
-    },
-    "Changsha": {
-        "1": "捉脈",
-        "2": "看脈",
-        "3": "摸脈",
-        "4": "探脈"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": "看脈"
-    },
-    "Loudi": {
-        "1": "接脈",
-        "2": "摸脈",
-        "3": "看脈"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "把脈"
-    },
-    "Lichuan": {
-        "1": "把脈",
-        "2": "隔脈"
-    },
-    "Pingxiang": {
-        "1": "看脈",
-        "2": "撚脈",
-        "3": "摸脈"
-    },
-    "Meixian": {
-        "1": "打脈",
-        "2": "按脈"
-    },
-    "Xingning": {
-        "1": "打脈"
-    },
-    "Huidong": {
-        "1": "打脈"
-    },
-    "Qujiang": {
-        "1": "打脈"
-    },
-    "Xiaosanjiang": {
-        "1": "打脈"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "打脈"
-    },
-    "Pingyu": {
-        "1": "打脈"
-    },
-    "Wuping": {
-        "1": "打脈"
-    },
-    "Liancheng": {
-        "1": "定脈"
-    },
-    "Ninghua": {
-        "1": "納脈"
-    },
-    "Yudu": {
-        "1": "打脈"
-    },
-    "Ruijin": {
-        "1": "抓脈"
-    },
-    "Shicheng": {
-        "1": "抓脈",
-        "2": "把脈"
-    },
-    "Shangyou": {
-        "1": "打脈"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "打脈"
-    },
-    "Liudui": {
-        "1": "打脈"
-    },
-    "Hsinchu": {
-        "1": "打脈"
-    },
-    "Dongshi": {
-        "1": "打脈"
-    },
-    "Raoping": {
-        "1": "打脈"
-    },
-    "Yunlin": {
-        "1": "打脈"
-    },
-    "Hong Kong-H": {
-        "1": "打脈"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "把脈"
-    },
-    "Senai": {
-        "1": "打脈"
-    },
-    "Singkawang": {
-        "1": "打脈",
-        "2": "抓脈"
-    },
-    "Jixi": {
-        "1": "搭脈"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "把脈",
-        "2": "揞脈",
-        "3": "探脈",
-        "4": "搭脈"
-    },
-    "Hong Kong": {
-        "1": "把脈",
-        "2": "打脈"
-    },
-    "HK Weitou": {
-        "1": "打脈",
-        "2": "把脈"
-    },
-    "Kam Tin": {
-        "1": "打脈"
-    },
-    "Ting Kok": {
-        "1": "打脈"
-    },
-    "Tung Ping Chau": {
-        "1": "把脈"
-    },
-    "Macau": {
-        "1": "把脈"
-    },
-    "Panyu": {
-        "1": "把脈"
-    },
-    "Huadu": {
-        "1": "打脈"
-    },
-    "Conghua": {
-        "1": "把脈"
-    },
-    "Zengcheng": {
-        "1": "診脈"
-    },
-    "Foshan": {
-        "1": "打脈"
-    },
-    "Nanhai": {
-        "1": "揞脈"
-    },
-    "Shunde": {
-        "1": "把脈"
-    },
-    "Sanshui": {
-        "1": "揞脈"
-    },
-    "Gaoming": {
-        "1": "切脈"
-    },
-    "Zhongshan": {
-        "1": "把脈"
-    },
-    "Zhuhai": {
-        "1": "把脈"
-    },
-    "Doumen-T": {
-        "1": "把脈"
-    },
-    "Doumen-S": {
-        "1": "摸脈"
-    },
-    "Jiangmen": {
-        "1": "摸脈"
-    },
-    "Xinhui": {
-        "1": "摸脈"
-    },
-    "Taishan": {
-        "1": "摸脈"
-    },
-    "Kaiping": {
-        "1": "摸脈"
-    },
-    "Enping": {
-        "1": "摸脈"
-    },
-    "Heshan": {
-        "1": "摸脈"
-    },
-    "Dongguan": {
-        "1": "把脈"
-    },
-    "Bao'an": {
-        "1": "打脈"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "打脈",
-        "2": "把脈"
-    },
-    "Yunfu": {
-        "1": "摸脈"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "把脈"
-    },
-    "Lianjiang": {
-        "1": "揸脈",
-        "2": "把脈"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "把脈"
-    },
-    "Ho Chi Minh City": {
-        "1": "打脈"
-    },
-    "Nanning-P": {
-        "1": "把脈",
-        "2": "看脈"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "摸脈",
-        "2": "候脈",
-        "3": "𥌚脈",
-        "4": "捍脈"
-    },
-    "Tong'an": {
-        "1": "扲脈"
-    },
-    "Quanzhou": {
-        "1": "摸脈",
-        "2": "候脈",
-        "3": "𥌚脈"
-    },
-    "Jinjiang": {
-        "1": "候脈"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "𥌚脈",
-        "2": "候脈",
-        "3": "摸脈"
-    },
-    "Dehua": {
-        "1": "摸脈"
-    },
-    "Zhangzhou": {
-        "1": "摸脈",
-        "2": "𥌚脈",
-        "3": "節脈"
-    },
-    "Longhai": {
-        "1": "摸脈"
-    },
-    "Changtai": {
-        "1": "節脈"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": "摸脈",
-        "2": "節脈"
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "按脈",
-        "2": "候脈",
-        "3": "算脈"
-    },
-    "Taipei": {
-        "1": "節脈"
-    },
-    "Kaohsiung": {
-        "1": "節脈",
-        "2": "候脈"
-    },
-    "Tainan": {
-        "1": "節脈",
-        "2": "摸脈"
-    },
-    "Taichung": {
-        "1": "節脈"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "節脈"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "𥌚脈",
-        "2": "節脈"
-    },
-    "Sanxia": {
-        "1": "節脈"
-    },
-    "Yilan": {
-        "1": "節脈"
-    },
-    "Kinmen": {
-        "1": "候脈",
-        "2": "掠脈",
-        "3": "𥌚脈",
-        "4": "捍脈"
-    },
-    "Magong": {
-        "1": "候脈",
-        "2": "節脈",
-        "3": "𥌚脈"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": "𥌚脈",
-        "2": "摸脈",
-        "3": "捍脈",
-        "4": "查脈"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "候脈",
-        "2": "捉脈"
-    },
-    "Datian": {
-        "1": "摸脈"
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "拍脈",
-        "2": "捍脈"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "拍脈"
-    },
-    "Wenchang": {
-        "1": "摸脈"
-    },
-    "Haikou": {
-        "1": "摸脈"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "𥌚脈"
-    },
-    "Xianyou": {
-        "1": "𥌚脈"
-    },
-    "Fuzhou": {
-        "1": "摸脈"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "掏脈"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "看脈"
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "捏脈"
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "看脈"
-    },
-    "Jian'ou": {
-        "1": "摸脈"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "摸脈"
-    },
-    "Wuyishan": {
-        "1": "摸脈"
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "診脈",
+        "切脈",
+        "按脈",
+        "候脈"
+    ],
+    "Formal": [
+        "診脈",
+        "號脈",
+        "把脈",
+        "切脈",
+        "按脈",
+        "看脈"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "號脈"
+    ],
+    "Taiwan": [
+        "把脈"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "號脈",
+        "摸脈",
+        "把脈"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "把脈"
+    ],
+    "Ulan Hot": [
+        "把脈"
+    ],
+    "Tongliao": [
+        "把脈"
+    ],
+    "Chifeng": [
+        "號脈"
+    ],
+    "Bayanhot": [
+        "號脈"
+    ],
+    "Jinan": [
+        "號脈"
+    ],
+    "Muping": [
+        "試脈",
+        "憑脈"
+    ],
+    "Luoyang": [
+        "號脈",
+        "摸脈",
+        "品脈"
+    ],
+    "Wanrong": [
+        "摸脈",
+        "號脈"
+    ],
+    "Ronghe": [
+        "揣脈"
+    ],
+    "Xi'an": [
+        "號脈"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "號脈"
+    ],
+    "Xining": [
+        "號脈"
+    ],
+    "Xuzhou": [
+        "號脈兒",
+        "號脈",
+        "方脈"
+    ],
+    "Yinchuan": [
+        "號脈"
+    ],
+    "Lanzhou": [
+        "號脈"
+    ],
+    "Ürümqi": [
+        "號脈"
+    ],
+    "Wuhan": [
+        "拿脈"
+    ],
+    "Huanggang": [
+        "拿脈"
+    ],
+    "Chengdu": [
+        "拿脈",
+        "摸脈",
+        "號脈",
+        "把脈"
+    ],
+    "Guiyang": [
+        "拿脈",
+        "號脈",
+        "摸脈"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "拿脈",
+        "號脈"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "號脈",
+        "把脈",
+        "搭脈"
+    ],
+    "Nanjing": [
+        "搭脈"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "把脈"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "號脈"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "把脈"
+    ],
+    "Pingyao": [
+        "號脈",
+        "診脈"
+    ],
+    "Xinzhou": [
+        "號脈"
+    ],
+    "Baochang": [
+        "抓脈"
+    ],
+    "Jining": [
+        "號脈"
+    ],
+    "Hohhot": [
+        "號脈"
+    ],
+    "Baotou": [
+        "號脈"
+    ],
+    "Dongsheng": [
+        "號脈"
+    ],
+    "Linhe": [
+        "捉脈"
+    ],
+    "Haibowan": [
+        "捉脈"
+    ],
+    "Shanghai": [
+        "把脈",
+        "搭脈",
+        "診脈"
+    ],
+    "Suzhou": [
+        "把脈"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "把脈",
+        "搭脈"
+    ],
+    "Chongming": [
+        "把脈"
+    ],
+    "Wenzhou": [
+        "搭脈"
+    ],
+    "Danyang": [
+        "搭脈",
+        "把脈"
+    ],
+    "Jinhua": [
+        "把脈"
+    ],
+    "Tangxi": [
+        "候脈"
+    ],
+    "Ningbo": [
+        "搭脈",
+        "把脈"
+    ],
+    "Changsha": [
+        "捉脈",
+        "看脈",
+        "摸脈",
+        "探脈"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [
+        "看脈"
+    ],
+    "Loudi": [
+        "接脈",
+        "摸脈",
+        "看脈"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "把脈"
+    ],
+    "Lichuan": [
+        "把脈",
+        "隔脈"
+    ],
+    "Pingxiang": [
+        "看脈",
+        "撚脈",
+        "摸脈"
+    ],
+    "Meixian": [
+        "打脈",
+        "按脈"
+    ],
+    "Xingning": [
+        "打脈"
+    ],
+    "Huidong": [
+        "打脈"
+    ],
+    "Qujiang": [
+        "打脈"
+    ],
+    "Xiaosanjiang": [
+        "打脈"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "打脈"
+    ],
+    "Pingyu": [
+        "打脈"
+    ],
+    "Wuping": [
+        "打脈"
+    ],
+    "Liancheng": [
+        "定脈"
+    ],
+    "Ninghua": [
+        "納脈"
+    ],
+    "Yudu": [
+        "打脈"
+    ],
+    "Ruijin": [
+        "抓脈"
+    ],
+    "Shicheng": [
+        "抓脈",
+        "把脈"
+    ],
+    "Shangyou": [
+        "打脈"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "打脈"
+    ],
+    "Liudui": [
+        "打脈"
+    ],
+    "Hsinchu": [
+        "打脈"
+    ],
+    "Dongshi": [
+        "打脈"
+    ],
+    "Raoping": [
+        "打脈"
+    ],
+    "Yunlin": [
+        "打脈"
+    ],
+    "Hong Kong-H": [
+        "打脈"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "把脈"
+    ],
+    "Senai": [
+        "打脈"
+    ],
+    "Singkawang": [
+        "打脈",
+        "抓脈"
+    ],
+    "Jixi": [
+        "搭脈"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "把脈",
+        "揞脈",
+        "探脈",
+        "搭脈"
+    ],
+    "Hong Kong": [
+        "把脈",
+        "打脈"
+    ],
+    "HK Weitou": [
+        "打脈",
+        "把脈"
+    ],
+    "Kam Tin": [
+        "打脈"
+    ],
+    "Ting Kok": [
+        "打脈"
+    ],
+    "Tung Ping Chau": [
+        "把脈"
+    ],
+    "Macau": [
+        "把脈"
+    ],
+    "Panyu": [
+        "把脈"
+    ],
+    "Huadu": [
+        "打脈"
+    ],
+    "Conghua": [
+        "把脈"
+    ],
+    "Zengcheng": [
+        "診脈"
+    ],
+    "Foshan": [
+        "打脈"
+    ],
+    "Nanhai": [
+        "揞脈"
+    ],
+    "Shunde": [
+        "把脈"
+    ],
+    "Sanshui": [
+        "揞脈"
+    ],
+    "Gaoming": [
+        "切脈"
+    ],
+    "Zhongshan": [
+        "把脈"
+    ],
+    "Zhuhai": [
+        "把脈"
+    ],
+    "Doumen-T": [
+        "把脈"
+    ],
+    "Doumen-S": [
+        "摸脈"
+    ],
+    "Jiangmen": [
+        "摸脈"
+    ],
+    "Xinhui": [
+        "摸脈"
+    ],
+    "Taishan": [
+        "摸脈"
+    ],
+    "Kaiping": [
+        "摸脈"
+    ],
+    "Enping": [
+        "摸脈"
+    ],
+    "Heshan": [
+        "摸脈"
+    ],
+    "Dongguan": [
+        "把脈"
+    ],
+    "Bao'an": [
+        "打脈"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "打脈",
+        "把脈"
+    ],
+    "Yunfu": [
+        "摸脈"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "把脈"
+    ],
+    "Lianjiang": [
+        "揸脈",
+        "把脈"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "把脈"
+    ],
+    "Ho Chi Minh City": [
+        "打脈"
+    ],
+    "Nanning-P": [
+        "把脈",
+        "看脈"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "摸脈",
+        "候脈",
+        "𥌚脈",
+        "捍脈"
+    ],
+    "Tong'an": [
+        "扲脈"
+    ],
+    "Quanzhou": [
+        "摸脈",
+        "候脈",
+        "𥌚脈"
+    ],
+    "Jinjiang": [
+        "候脈"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "𥌚脈",
+        "候脈",
+        "摸脈"
+    ],
+    "Dehua": [
+        "摸脈"
+    ],
+    "Zhangzhou": [
+        "摸脈",
+        "𥌚脈",
+        "節脈"
+    ],
+    "Longhai": [
+        "摸脈"
+    ],
+    "Changtai": [
+        "節脈"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [
+        "摸脈",
+        "節脈"
+    ],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "按脈",
+        "候脈",
+        "算脈"
+    ],
+    "Taipei": [
+        "節脈"
+    ],
+    "Kaohsiung": [
+        "節脈",
+        "候脈"
+    ],
+    "Tainan": [
+        "節脈",
+        "摸脈"
+    ],
+    "Taichung": [
+        "節脈"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "節脈"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "𥌚脈",
+        "節脈"
+    ],
+    "Sanxia": [
+        "節脈"
+    ],
+    "Yilan": [
+        "節脈"
+    ],
+    "Kinmen": [
+        "候脈",
+        "掠脈",
+        "𥌚脈",
+        "捍脈"
+    ],
+    "Magong": [
+        "候脈",
+        "節脈",
+        "𥌚脈"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "𥌚脈",
+        "摸脈",
+        "捍脈",
+        "查脈"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "候脈",
+        "捉脈"
+    ],
+    "Datian": [
+        "摸脈"
+    ],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "拍脈",
+        "捍脈"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "拍脈"
+    ],
+    "Wenchang": [
+        "摸脈"
+    ],
+    "Haikou": [
+        "摸脈"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "𥌚脈"
+    ],
+    "Xianyou": [
+        "𥌚脈"
+    ],
+    "Fuzhou": [
+        "摸脈"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "掏脈"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "看脈"
+    ],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [
+        "捏脈"
+    ],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "看脈"
+    ],
+    "Jian'ou": [
+        "摸脈"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "摸脈"
+    ],
+    "Wuyishan": [
+        "摸脈"
+    ],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

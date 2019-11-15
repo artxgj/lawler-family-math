@@ -1,524 +1,390 @@
 {
     "meaning": "earwax",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "耳垢",
-        "2": "耵聹"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "耳屎"
-    },
-    "Taiwan": {
-        "1": "耳屎"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "耳殘",
-        "2": "耳屎"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "耳塞子",
-        "2": "耳纏",
-        "3": "耳碎"
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": "耳塞"
-    },
-    "Jinan": {
-        "1": "耳髓"
-    },
-    "Muping": {
-        "1": "耳蛹兒"
-    },
-    "Luoyang": {
-        "1": "耳塞"
-    },
-    "Wanrong": {
-        "1": "耳塞子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "耳塞"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "耳次"
-    },
-    "Xining": {
-        "1": "耳塞"
-    },
-    "Xuzhou": {
-        "1": "耳碎",
-        "2": "耳碎子",
-        "3": "耳屎"
-    },
-    "Yinchuan": {
-        "1": "耳屎"
-    },
-    "Lanzhou": {
-        "1": "耳屎"
-    },
-    "Ürümqi": {
-        "1": "耳塞"
-    },
-    "Wuhan": {
-        "1": "耳塞",
-        "2": "耳㞎㞎"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "耳屎"
-    },
-    "Guiyang": {
-        "1": "耳屎"
-    },
-    "Guilin": {
-        "1": "耳屎"
-    },
-    "Liuzhou": {
-        "1": "耳屎"
-    },
-    "Kunming": {
-        "1": "耳屎"
-    },
-    "Yangzhou": {
-        "1": "耳屎"
-    },
-    "Nanjing": {
-        "1": "耳屎"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "耳屎"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "耳柴",
-        "2": "耳碎"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "耳心"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "耳塞"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "耳馬"
-    },
-    "Suzhou": {
-        "1": "膜"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "耳朵污"
-    },
-    "Chongming": {
-        "1": "新人惡"
-    },
-    "Wenzhou": {
-        "1": "耳朵惡"
-    },
-    "Danyang": {
-        "1": "耳朵屎"
-    },
-    "Jinhua": {
-        "1": "耳朵涴"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "耳朵屙"
-    },
-    "Changsha": {
-        "1": "耳屎"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": "耳屎"
-    },
-    "Loudi": {
-        "1": "耳屎",
-        "2": "耳朵屎"
-    },
-    "Quanzhou-X": {
-        "1": "耳朵屎",
-        "2": "耳屎"
-    },
-    "Nanchang": {
-        "1": "耳屎"
-    },
-    "Lichuan": {
-        "1": "耳屎"
-    },
-    "Pingxiang": {
-        "1": "耳屎"
-    },
-    "Meixian": {
-        "1": "耳屎"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "耳屎"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "耳屎"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "耳屎"
-    },
-    "Liudui": {
-        "1": "耳屎"
-    },
-    "Hsinchu": {
-        "1": "耳屎"
-    },
-    "Dongshi": {
-        "1": "耳屎"
-    },
-    "Raoping": {
-        "1": "耳屎"
-    },
-    "Yunlin": {
-        "1": "耳屎"
-    },
-    "Hong Kong-H": {
-        "1": "耳屎"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "耳屎"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "耳朵屎"
-    },
-    "Guangzhou": {
-        "1": "耳屎"
-    },
-    "Hong Kong": {
-        "1": "耳屎"
-    },
-    "Shunde": {
-        "1": "耳屎"
-    },
-    "Foshan": {
-        "1": "耳屎"
-    },
-    "Zhongshan": {
-        "1": "耳屎"
-    },
-    "Dongguan": {
-        "1": "耳屎"
-    },
-    "HK Weitou": {
-        "1": "耳屎"
-    },
-    "Taishan": {
-        "1": "耳屎"
-    },
-    "Doumen": {
-        "1": "耳屎"
-    },
-    "Kaiping": {
-        "1": "耳屎"
-    },
-    "Shaoguan": {
-        "1": "耳屎"
-    },
-    "Yunfu": {
-        "1": "耳屎"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "耳屎"
-    },
-    "Lianjiang": {
-        "1": "耳屎"
-    },
-    "Nanning": {
-        "1": "耳屎"
-    },
-    "Wuzhou": {
-        "1": "耳屎"
-    },
-    "Yulin": {
-        "1": "耳屎"
-    },
-    "Hepu": {
-        "1": "耳屎"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "耳屎"
-    },
-    "Nanning-P": {
-        "1": "耳屎",
-        "2": "耳朵屎"
-    },
-    "Guilin-P": {
-        "1": "耳朵屎"
-    },
-    "Xiamen": {
-        "1": "耳屎"
-    },
-    "Quanzhou": {
-        "1": "耳屎"
-    },
-    "Zhangzhou": {
-        "1": "耳屎",
-        "2": "耳空屎"
-    },
-    "Taipei": {
-        "1": "耳屎"
-    },
-    "Kaohsiung": {
-        "1": "耳屎"
-    },
-    "Tainan": {
-        "1": "耳屎"
-    },
-    "Taichung": {
-        "1": "耳屎"
-    },
-    "Wuqi": {
-        "1": "耳屎"
-    },
-    "Hsinchu-MN": {
-        "1": "耳屎"
-    },
-    "Taitung": {
-        "1": "耳屎"
-    },
-    "Lukang": {
-        "1": "耳屎"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "耳屎"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "耳屎"
-    },
-    "Malaysia-MN": {
-        "1": "耳仔屎"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "耳屎"
-    },
-    "Chaozhou": {
-        "1": "耳屎"
-    },
-    "Shantou": {
-        "1": "耳屎"
-    },
-    "Haifeng": {
-        "1": "耳屎"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "耳屎"
-    },
-    "Wenchang": {
-        "1": "耳屎"
-    },
-    "Haikou": {
-        "1": "耳屎"
-    },
-    "Leizhou": {
-        "1": "耳屎"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "耳屎"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "耳屎"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "耳仔屎",
-        "2": "耳川屎"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "耳垢",
+        "耵聹"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "耳屎"
+    ],
+    "Taiwan": [
+        "耳屎"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "耳殘",
+        "耳屎"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "耳塞子",
+        "耳纏",
+        "耳碎"
+    ],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [
+        "耳塞"
+    ],
+    "Jinan": [
+        "耳髓"
+    ],
+    "Muping": [
+        "耳蛹兒"
+    ],
+    "Luoyang": [
+        "耳塞"
+    ],
+    "Wanrong": [
+        "耳塞子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "耳塞"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "耳次"
+    ],
+    "Xining": [
+        "耳塞"
+    ],
+    "Xuzhou": [
+        "耳碎",
+        "耳碎子",
+        "耳屎"
+    ],
+    "Yinchuan": [
+        "耳屎"
+    ],
+    "Lanzhou": [
+        "耳屎"
+    ],
+    "Ürümqi": [
+        "耳塞"
+    ],
+    "Wuhan": [
+        "耳塞",
+        "耳㞎㞎"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "耳屎"
+    ],
+    "Guiyang": [
+        "耳屎"
+    ],
+    "Guilin": [
+        "耳屎"
+    ],
+    "Liuzhou": [
+        "耳屎"
+    ],
+    "Kunming": [
+        "耳屎"
+    ],
+    "Yangzhou": [
+        "耳屎"
+    ],
+    "Nanjing": [
+        "耳屎"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "耳屎"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "耳柴",
+        "耳碎"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "耳心"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "耳塞"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "耳馬"
+    ],
+    "Suzhou": [
+        "膜"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "耳朵污"
+    ],
+    "Chongming": [
+        "新人惡"
+    ],
+    "Wenzhou": [
+        "耳朵惡"
+    ],
+    "Danyang": [
+        "耳朵屎"
+    ],
+    "Jinhua": [
+        "耳朵涴"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "耳朵屙"
+    ],
+    "Changsha": [
+        "耳屎"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [
+        "耳屎"
+    ],
+    "Loudi": [
+        "耳屎",
+        "耳朵屎"
+    ],
+    "Quanzhou-X": [
+        "耳朵屎",
+        "耳屎"
+    ],
+    "Nanchang": [
+        "耳屎"
+    ],
+    "Lichuan": [
+        "耳屎"
+    ],
+    "Pingxiang": [
+        "耳屎"
+    ],
+    "Meixian": [
+        "耳屎"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "耳屎"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "耳屎"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "耳屎"
+    ],
+    "Liudui": [
+        "耳屎"
+    ],
+    "Hsinchu": [
+        "耳屎"
+    ],
+    "Dongshi": [
+        "耳屎"
+    ],
+    "Raoping": [
+        "耳屎"
+    ],
+    "Yunlin": [
+        "耳屎"
+    ],
+    "Hong Kong-H": [
+        "耳屎"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "耳屎"
+    ],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "耳朵屎"
+    ],
+    "Guangzhou": [
+        "耳屎"
+    ],
+    "Hong Kong": [
+        "耳屎"
+    ],
+    "Shunde": [
+        "耳屎"
+    ],
+    "Foshan": [
+        "耳屎"
+    ],
+    "Zhongshan": [
+        "耳屎"
+    ],
+    "Dongguan": [
+        "耳屎"
+    ],
+    "HK Weitou": [
+        "耳屎"
+    ],
+    "Taishan": [
+        "耳屎"
+    ],
+    "Doumen": [
+        "耳屎"
+    ],
+    "Kaiping": [
+        "耳屎"
+    ],
+    "Shaoguan": [
+        "耳屎"
+    ],
+    "Yunfu": [
+        "耳屎"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "耳屎"
+    ],
+    "Lianjiang": [
+        "耳屎"
+    ],
+    "Nanning": [
+        "耳屎"
+    ],
+    "Wuzhou": [
+        "耳屎"
+    ],
+    "Yulin": [
+        "耳屎"
+    ],
+    "Hepu": [
+        "耳屎"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "耳屎"
+    ],
+    "Nanning-P": [
+        "耳屎",
+        "耳朵屎"
+    ],
+    "Guilin-P": [
+        "耳朵屎"
+    ],
+    "Xiamen": [
+        "耳屎"
+    ],
+    "Quanzhou": [
+        "耳屎"
+    ],
+    "Zhangzhou": [
+        "耳屎",
+        "耳空屎"
+    ],
+    "Taipei": [
+        "耳屎"
+    ],
+    "Kaohsiung": [
+        "耳屎"
+    ],
+    "Tainan": [
+        "耳屎"
+    ],
+    "Taichung": [
+        "耳屎"
+    ],
+    "Wuqi": [
+        "耳屎"
+    ],
+    "Hsinchu-MN": [
+        "耳屎"
+    ],
+    "Taitung": [
+        "耳屎"
+    ],
+    "Lukang": [
+        "耳屎"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "耳屎"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "耳屎"
+    ],
+    "Malaysia-MN": [
+        "耳仔屎"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [
+        "耳屎"
+    ],
+    "Chaozhou": [
+        "耳屎"
+    ],
+    "Shantou": [
+        "耳屎"
+    ],
+    "Haifeng": [
+        "耳屎"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "耳屎"
+    ],
+    "Wenchang": [
+        "耳屎"
+    ],
+    "Haikou": [
+        "耳屎"
+    ],
+    "Leizhou": [
+        "耳屎"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "耳屎"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "耳屎"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "耳仔屎",
+        "耳川屎"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

@@ -1,528 +1,242 @@
 {
     "meaning": "hammer",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "錘子",
-        "2": "榔頭"
-    },
-    "Taiwan": {
-        "1": "錘子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "錘子"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "釘錘兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "釘錘",
-        "2": "錘子",
-        "3": "榔頭"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "釘錘兒",
-        "2": "錘錘兒"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "榔頭"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "錘子",
-        "2": "釘錘"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "錘子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "榔頭"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "鞋錘兒",
-        "2": "錘兒",
-        "3": "榔頭"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "錘子",
-        "2": "釘錘子",
-        "3": "釘錘"
-    },
-    "Shuangfeng": {
-        "1": "錘子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "釘錘子"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "錘仔",
-        "2": "鐵錘"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "錘"
-    },
-    "Hong Kong": {
-        "1": "錘"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "錘仔"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "鐵錘",
-        "2": "鐵釘仔錘",
-        "3": "錘仔",
-        "4": "錘"
-    },
-    "Quanzhou": {
-        "1": "鐵錘",
-        "2": "錘仔",
-        "3": "錘"
-    },
-    "Zhangzhou": {
-        "1": "錘仔",
-        "2": "錘"
-    },
-    "Taipei": {
-        "1": "摃錘仔"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "鐵錘"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "鐵錘"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "鐵錘囝",
-        "2": "鐵錘"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "鐵錘仔"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "錘子",
+        "榔頭"
+    ],
+    "Taiwan": [
+        "錘子"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "錘子"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "釘錘兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "釘錘",
+        "錘子",
+        "榔頭"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "釘錘兒",
+        "錘錘兒"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "榔頭"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "錘子",
+        "釘錘"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "錘子"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [],
+    "Suzhou": [
+        "榔頭"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "鞋錘兒",
+        "錘兒",
+        "榔頭"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "錘子",
+        "釘錘子",
+        "釘錘"
+    ],
+    "Shuangfeng": [
+        "錘子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "釘錘子"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "錘仔",
+        "鐵錘"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "錘"
+    ],
+    "Hong Kong": [
+        "錘"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "錘仔"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "鐵錘",
+        "鐵釘仔錘",
+        "錘仔",
+        "錘"
+    ],
+    "Quanzhou": [
+        "鐵錘",
+        "錘仔",
+        "錘"
+    ],
+    "Zhangzhou": [
+        "錘仔",
+        "錘"
+    ],
+    "Taipei": [
+        "摃錘仔"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "鐵錘"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "鐵錘"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "鐵錘囝",
+        "鐵錘"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "鐵錘仔"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

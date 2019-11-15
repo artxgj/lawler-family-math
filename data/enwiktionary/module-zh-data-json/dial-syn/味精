@@ -1,359 +1,205 @@
 {
     "meaning": "monosodium glutamate",
     "note": "mT - mainstream Taiwanese (no particular region identified)",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "穀氨酸鈉:Mainland",
-        "2": "麩胺酸鈉:Taiwan"
-    },
-    "Beijing": {
-        "1": "味精"
-    },
-    "Taiwan": {
-        "1": "味精"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "味之素:dated"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": ""
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "味之素"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": "味精"
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "味之素:dated"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "味精"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "味之素"
-    },
-    "Hangzhou": {
-        "1": "味精"
-    },
-    "Shanghai": {
-        "1": "味之素"
-    },
-    "Chongming": {
-        "1": "味之素"
-    },
-    "Wenzhou": {
-        "1": "味之素:dated"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "味之素"
-    },
-    "Changsha": {
-        "1": "味子素"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "味之素"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": "味精"
-    },
-    "Meixian": {
-        "1": ""
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "味素"
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": "甜粉"
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "味精"
-    },
-    "Hong Kong": {
-        "1": "味精"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "味之素"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "味素粉"
-    },
-    "Quanzhou": {
-        "1": "味素粉"
-    },
-    "Zhangzhou": {
-        "1": "味素",
-        "2": "味素粉"
-    },
-    "Taipei": {
-        "1": "味素",
-        "2": "味素粉:mT"
-    },
-    "Kaohsiung": {
-        "1": "味素"
-    },
-    "Tainan": {
-        "1": "味素"
-    },
-    "Taichung": {
-        "1": "味素"
-    },
-    "Wuqi": {
-        "1": "味素"
-    },
-    "Hsinchu-MN": {
-        "1": "味素"
-    },
-    "Taitung": {
-        "1": "味素"
-    },
-    "Lukang": {
-        "1": "味素"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "味素"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "味素"
-    },
-    "Malaysia-MN": {
-        "1": "味素粉"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "味精"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "味素"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "味素"
-    },
-    "Jian'ou": {
-        "1": "味四素",
-        "2": "味精"
-    }
+    "Classical": [],
+    "Formal": [
+        "穀氨酸鈉:Mainland",
+        "麩胺酸鈉:Taiwan"
+    ],
+    "Beijing": [
+        "味精"
+    ],
+    "Taiwan": [
+        "味精"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "味之素:dated"
+    ],
+    "Shenyang": [],
+    "Jinan": [],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "味之素"
+    ],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [
+        "味精"
+    ],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "味之素:dated"
+    ],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "味精"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "味之素"
+    ],
+    "Hangzhou": [
+        "味精"
+    ],
+    "Shanghai": [
+        "味之素"
+    ],
+    "Chongming": [
+        "味之素"
+    ],
+    "Wenzhou": [
+        "味之素:dated"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "味之素"
+    ],
+    "Changsha": [
+        "味子素"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "味之素"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [
+        "味精"
+    ],
+    "Meixian": [],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "味素"
+    ],
+    "Liudui": [],
+    "Hsinchu": [
+        "甜粉"
+    ],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "味精"
+    ],
+    "Hong Kong": [
+        "味精"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "味之素"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "味素粉"
+    ],
+    "Quanzhou": [
+        "味素粉"
+    ],
+    "Zhangzhou": [
+        "味素",
+        "味素粉"
+    ],
+    "Taipei": [
+        "味素",
+        "味素粉:mT"
+    ],
+    "Kaohsiung": [
+        "味素"
+    ],
+    "Tainan": [
+        "味素"
+    ],
+    "Taichung": [
+        "味素"
+    ],
+    "Wuqi": [
+        "味素"
+    ],
+    "Hsinchu-MN": [
+        "味素"
+    ],
+    "Taitung": [
+        "味素"
+    ],
+    "Lukang": [
+        "味素"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "味素"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "味素"
+    ],
+    "Malaysia-MN": [
+        "味素粉"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "味精"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "味素"
+    ],
+    "Fuqing": [],
+    "Matsu": [
+        "味素"
+    ],
+    "Jian'ou": [
+        "味四素",
+        "味精"
+    ]
 }

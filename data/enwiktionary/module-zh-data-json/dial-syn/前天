@@ -1,637 +1,553 @@
 {
     "meaning": "day before yesterday",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "前日",
-        "2": "前天"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "前兒",
-        "2": "前兒個",
-        "3": "前天"
-    },
-    "Taiwan": {
-        "1": "前天"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "前兒",
-        "2": "前兒個",
-        "3": "前天"
-    },
-    "Shenyang": {
-        "1": "前兒個"
-    },
-    "Hailar": {
-        "1": "前兒個"
-    },
-    "Ulan Hot": {
-        "1": "前兒個"
-    },
-    "Tongliao": {
-        "1": "前兒個"
-    },
-    "Chifeng": {
-        "1": "前天",
-        "2": "前兒個"
-    },
-    "Bayanhot": {
-        "1": "前天"
-    },
-    "Jinan": {
-        "1": "前天",
-        "2": "前兒"
-    },
-    "Muping": {
-        "1": "前日"
-    },
-    "Luoyang": {
-        "1": "前兒日兒",
-        "2": "前兒個"
-    },
-    "Wanrong": {
-        "1": "前兒個"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "前兒個"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "前兒",
-        "2": "前兒個"
-    },
-    "Xining": {
-        "1": "前一天",
-        "2": "前天"
-    },
-    "Xuzhou": {
-        "1": "前兒個兒",
-        "2": "前兒個",
-        "3": "早前兒個兒",
-        "4": "前兒每兒",
-        "5": "早前兒每兒",
-        "6": "前天"
-    },
-    "Yinchuan": {
-        "1": "前"
-    },
-    "Lanzhou": {
-        "1": "前個天",
-        "2": "前個"
-    },
-    "Ürümqi": {
-        "1": "前天"
-    },
-    "Wuhan": {
-        "1": "前天",
-        "2": "前日"
-    },
-    "Huanggang": {
-        "1": "前日"
-    },
-    "Chengdu": {
-        "1": "前天"
-    },
-    "Guiyang": {
-        "1": "前天"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "前天"
-    },
-    "Kunming": {
-        "1": "前兒日"
-    },
-    "Yangzhou": {
-        "1": "前個子",
-        "2": "前個",
-        "3": "前兒個",
-        "4": "瞧個子",
-        "5": "瞧個"
-    },
-    "Nanjing": {
-        "1": "前兒",
-        "2": "前兒個",
-        "3": "前兒個兒",
-        "4": "前天"
-    },
-    "Hefei": {
-        "1": "前天",
-        "2": "前個"
-    },
-    "Nantong": {
-        "1": "前子",
-        "2": "前日子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "前天",
-        "2": "前兒日",
-        "3": "前兒"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "前天",
-        "2": "前日"
-    },
-    "Pingyao": {
-        "1": "前日",
-        "2": "前天"
-    },
-    "Xinzhou": {
-        "1": "前兒"
-    },
-    "Baochang": {
-        "1": "前來個"
-    },
-    "Jining": {
-        "1": "前天"
-    },
-    "Hohhot": {
-        "1": "前兒個"
-    },
-    "Baotou": {
-        "1": "前天"
-    },
-    "Dongsheng": {
-        "1": "前兒"
-    },
-    "Linhe": {
-        "1": "前天"
-    },
-    "Haibowan": {
-        "1": "前天"
-    },
-    "Shanghai": {
-        "1": "前日",
-        "2": "前日子",
-        "3": "前天",
-        "4": "前天子"
-    },
-    "Suzhou": {
-        "1": "前日"
-    },
-    "Wuxi": {
-        "1": "前日子"
-    },
-    "Hangzhou": {
-        "1": "前日子"
-    },
-    "Chongming": {
-        "1": "個日子"
-    },
-    "Wenzhou": {
-        "1": "前日"
-    },
-    "Danyang": {
-        "1": "前日子"
-    },
-    "Jinhua": {
-        "1": "前日兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "前日子",
-        "2": "前日"
-    },
-    "Changsha": {
-        "1": "前去日",
-        "2": "前日子",
-        "3": "前日"
-    },
-    "Shuangfeng": {
-        "1": "前家日"
-    },
-    "Xiangtan": {
-        "1": "前介日"
-    },
-    "Loudi": {
-        "1": "前咯日"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "前日"
-    },
-    "Lichuan": {
-        "1": "前日"
-    },
-    "Pingxiang": {
-        "1": "前日"
-    },
-    "Meixian": {
-        "1": "前日",
-        "2": "前日仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": "前晡日"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "前日"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "晡日",
-        "2": "前日子"
-    },
-    "Liancheng": {
-        "1": "頭日晡",
-        "2": "前邊日"
-    },
-    "Ninghua": {
-        "1": "前日"
-    },
-    "Yudu": {
-        "1": "前日"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "前日"
-    },
-    "Shangyou": {
-        "1": "前日"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "前日"
-    },
-    "Liudui": {
-        "1": "前日"
-    },
-    "Hsinchu": {
-        "1": "前日"
-    },
-    "Dongshi": {
-        "1": "前日"
-    },
-    "Raoping": {
-        "1": "前日"
-    },
-    "Yunlin": {
-        "1": "前日"
-    },
-    "Hong Kong-H": {
-        "1": "前日"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "前日"
-    },
-    "Singkawang": {
-        "1": "前日"
-    },
-    "Jixi": {
-        "1": "前朝"
-    },
-    "Shexian": {
-        "1": "前朝",
-        "2": "前日"
-    },
-    "Tunxi": {
-        "1": "前日"
-    },
-    "Xiuning": {
-        "1": "前日"
-    },
-    "Yixian": {
-        "1": "前日"
-    },
-    "Qimen": {
-        "1": "前日"
-    },
-    "Wuyuan": {
-        "1": "前日"
-    },
-    "Fuliang": {
-        "1": "前日"
-    },
-    "Dexing": {
-        "1": "前日"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "前日"
-    },
-    "Guangzhou": {
-        "1": "前日"
-    },
-    "Hong Kong": {
-        "1": "前日"
-    },
-    "Shunde": {
-        "1": "前日"
-    },
-    "Foshan": {
-        "1": "前日"
-    },
-    "Zhongshan": {
-        "1": "前日"
-    },
-    "Dongguan": {
-        "1": "前日"
-    },
-    "HK Weitou": {
-        "1": "前日"
-    },
-    "Doumen-T": {
-        "1": "前日"
-    },
-    "Doumen-S": {
-        "1": "前日"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "前日"
-    },
-    "Yunfu": {
-        "1": "前日"
-    },
-    "Yangjiang": {
-        "1": "前日"
-    },
-    "Xinyi": {
-        "1": "大琴日",
-        "2": "前日"
-    },
-    "Lianjiang": {
-        "1": "前日"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "前日"
-    },
-    "Ho Chi Minh City": {
-        "1": "前日"
-    },
-    "Nanning-P": {
-        "1": "前日"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "昨日",
-        "2": "頂日"
-    },
-    "Quanzhou": {
-        "1": "昨日",
-        "2": "頂日"
-    },
-    "Zhangzhou": {
-        "1": "昨日",
-        "2": "頂日"
-    },
-    "Taipei": {
-        "1": "昨日"
-    },
-    "Kaohsiung": {
-        "1": "昨日"
-    },
-    "Tainan": {
-        "1": "昨日"
-    },
-    "Taichung": {
-        "1": "昨日"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "昨日"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "昨日"
-    },
-    "Sanxia": {
-        "1": "昨日"
-    },
-    "Yilan": {
-        "1": "昨日"
-    },
-    "Kinmen": {
-        "1": "昨日"
-    },
-    "Magong": {
-        "1": "昨日"
-    },
-    "Malaysia-MN": {
-        "1": "昨日",
-        "2": "頂日"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "昨日"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "前日",
-        "2": "上日"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "前日"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "前日"
-    },
-    "Wenchang": {
-        "1": "昨日"
-    },
-    "Haikou": {
-        "1": "昨日"
-    },
-    "Leizhou": {
-        "1": "昨日",
-        "2": "前日"
-    },
-    "Putian": {
-        "1": "昨節"
-    },
-    "Xianyou": {
-        "1": "昨日"
-    },
-    "Fuzhou": {
-        "1": "昨日"
-    },
-    "Changle": {
-        "1": "昨日"
-    },
-    "Fuqing": {
-        "1": "昨日"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "昨日"
-    },
-    "Gutian": {
-        "1": "前工"
-    },
-    "Fu'an": {
-        "1": "前日"
-    },
-    "Ningde": {
-        "1": "前日工"
-    },
-    "Shouning": {
-        "1": "前日工"
-    },
-    "Zhouning": {
-        "1": "前日"
-    },
-    "Fuding": {
-        "1": "前日工"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "前日"
-    },
-    "Dikou": {
-        "1": "前日"
-    },
-    "Songxi": {
-        "1": "昨暝",
-        "2": "前暝"
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "前日"
-    },
-    "Jianyang": {
-        "1": "前暝"
-    },
-    "Wuyishan": {
-        "1": "前暝"
-    },
-    "Shibei": {
-        "1": "前暝"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": "前晡日"
-    },
-    "Luoyuan-She": {
-        "1": "前一工"
-    },
-    "Sanming-She": {
-        "1": "前日"
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": "前日"
-    },
-    "Cangnan-She": {
-        "1": "前晡日"
-    },
-    "Jingning-She": {
-        "1": "前晡"
-    },
-    "Lishui-She": {
-        "1": "前晡"
-    },
-    "Longyou-She": {
-        "1": "前晡"
-    },
-    "Chaozhou-She": {
-        "1": "前日"
-    },
-    "Fengshun-She": {
-        "1": "前日"
-    }
+    "Classical": [],
+    "Formal": [
+        "前日",
+        "前天"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "前兒",
+        "前兒個",
+        "前天"
+    ],
+    "Taiwan": [
+        "前天"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "前兒",
+        "前兒個",
+        "前天"
+    ],
+    "Shenyang": [
+        "前兒個"
+    ],
+    "Hailar": [
+        "前兒個"
+    ],
+    "Ulan Hot": [
+        "前兒個"
+    ],
+    "Tongliao": [
+        "前兒個"
+    ],
+    "Chifeng": [
+        "前天",
+        "前兒個"
+    ],
+    "Bayanhot": [
+        "前天"
+    ],
+    "Jinan": [
+        "前天",
+        "前兒"
+    ],
+    "Muping": [
+        "前日"
+    ],
+    "Luoyang": [
+        "前兒日兒",
+        "前兒個"
+    ],
+    "Wanrong": [
+        "前兒個"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "前兒個"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "前兒",
+        "前兒個"
+    ],
+    "Xining": [
+        "前一天",
+        "前天"
+    ],
+    "Xuzhou": [
+        "前兒個兒",
+        "前兒個",
+        "早前兒個兒",
+        "前兒每兒",
+        "早前兒每兒",
+        "前天"
+    ],
+    "Yinchuan": [
+        "前"
+    ],
+    "Lanzhou": [
+        "前個天",
+        "前個"
+    ],
+    "Ürümqi": [
+        "前天"
+    ],
+    "Wuhan": [
+        "前天",
+        "前日"
+    ],
+    "Huanggang": [
+        "前日"
+    ],
+    "Chengdu": [
+        "前天"
+    ],
+    "Guiyang": [
+        "前天"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "前天"
+    ],
+    "Kunming": [
+        "前兒日"
+    ],
+    "Yangzhou": [
+        "前個子",
+        "前個",
+        "前兒個",
+        "瞧個子",
+        "瞧個"
+    ],
+    "Nanjing": [
+        "前兒",
+        "前兒個",
+        "前兒個兒",
+        "前天"
+    ],
+    "Hefei": [
+        "前天",
+        "前個"
+    ],
+    "Nantong": [
+        "前子",
+        "前日子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "前天",
+        "前兒日",
+        "前兒"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "前天",
+        "前日"
+    ],
+    "Pingyao": [
+        "前日",
+        "前天"
+    ],
+    "Xinzhou": [
+        "前兒"
+    ],
+    "Baochang": [
+        "前來個"
+    ],
+    "Jining": [
+        "前天"
+    ],
+    "Hohhot": [
+        "前兒個"
+    ],
+    "Baotou": [
+        "前天"
+    ],
+    "Dongsheng": [
+        "前兒"
+    ],
+    "Linhe": [
+        "前天"
+    ],
+    "Haibowan": [
+        "前天"
+    ],
+    "Shanghai": [
+        "前日",
+        "前日子",
+        "前天",
+        "前天子"
+    ],
+    "Suzhou": [
+        "前日"
+    ],
+    "Wuxi": [
+        "前日子"
+    ],
+    "Hangzhou": [
+        "前日子"
+    ],
+    "Chongming": [
+        "個日子"
+    ],
+    "Wenzhou": [
+        "前日"
+    ],
+    "Danyang": [
+        "前日子"
+    ],
+    "Jinhua": [
+        "前日兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "前日子",
+        "前日"
+    ],
+    "Changsha": [
+        "前去日",
+        "前日子",
+        "前日"
+    ],
+    "Shuangfeng": [
+        "前家日"
+    ],
+    "Xiangtan": [
+        "前介日"
+    ],
+    "Loudi": [
+        "前咯日"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "前日"
+    ],
+    "Lichuan": [
+        "前日"
+    ],
+    "Pingxiang": [
+        "前日"
+    ],
+    "Meixian": [
+        "前日",
+        "前日仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [
+        "前晡日"
+    ],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "前日"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "晡日",
+        "前日子"
+    ],
+    "Liancheng": [
+        "頭日晡",
+        "前邊日"
+    ],
+    "Ninghua": [
+        "前日"
+    ],
+    "Yudu": [
+        "前日"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "前日"
+    ],
+    "Shangyou": [
+        "前日"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "前日"
+    ],
+    "Liudui": [
+        "前日"
+    ],
+    "Hsinchu": [
+        "前日"
+    ],
+    "Dongshi": [
+        "前日"
+    ],
+    "Raoping": [
+        "前日"
+    ],
+    "Yunlin": [
+        "前日"
+    ],
+    "Hong Kong-H": [
+        "前日"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "前日"
+    ],
+    "Singkawang": [
+        "前日"
+    ],
+    "Jixi": [
+        "前朝"
+    ],
+    "Shexian": [
+        "前朝",
+        "前日"
+    ],
+    "Tunxi": [
+        "前日"
+    ],
+    "Xiuning": [
+        "前日"
+    ],
+    "Yixian": [
+        "前日"
+    ],
+    "Qimen": [
+        "前日"
+    ],
+    "Wuyuan": [
+        "前日"
+    ],
+    "Fuliang": [
+        "前日"
+    ],
+    "Dexing": [
+        "前日"
+    ],
+    "Jingde": [],
+    "Zhanda": [
+        "前日"
+    ],
+    "Guangzhou": [
+        "前日"
+    ],
+    "Hong Kong": [
+        "前日"
+    ],
+    "Shunde": [
+        "前日"
+    ],
+    "Foshan": [
+        "前日"
+    ],
+    "Zhongshan": [
+        "前日"
+    ],
+    "Dongguan": [
+        "前日"
+    ],
+    "HK Weitou": [
+        "前日"
+    ],
+    "Doumen-T": [
+        "前日"
+    ],
+    "Doumen-S": [
+        "前日"
+    ],
+    "Taishan": [],
+    "Kaiping": [],
+    "Shaoguan": [
+        "前日"
+    ],
+    "Yunfu": [
+        "前日"
+    ],
+    "Yangjiang": [
+        "前日"
+    ],
+    "Xinyi": [
+        "大琴日",
+        "前日"
+    ],
+    "Lianjiang": [
+        "前日"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "前日"
+    ],
+    "Ho Chi Minh City": [
+        "前日"
+    ],
+    "Nanning-P": [
+        "前日"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "昨日",
+        "頂日"
+    ],
+    "Quanzhou": [
+        "昨日",
+        "頂日"
+    ],
+    "Zhangzhou": [
+        "昨日",
+        "頂日"
+    ],
+    "Taipei": [
+        "昨日"
+    ],
+    "Kaohsiung": [
+        "昨日"
+    ],
+    "Tainan": [
+        "昨日"
+    ],
+    "Taichung": [
+        "昨日"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "昨日"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "昨日"
+    ],
+    "Sanxia": [
+        "昨日"
+    ],
+    "Yilan": [
+        "昨日"
+    ],
+    "Kinmen": [
+        "昨日"
+    ],
+    "Magong": [
+        "昨日"
+    ],
+    "Malaysia-MN": [
+        "昨日",
+        "頂日"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "昨日"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "前日",
+        "上日"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "前日"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "前日"
+    ],
+    "Wenchang": [
+        "昨日"
+    ],
+    "Haikou": [
+        "昨日"
+    ],
+    "Leizhou": [
+        "昨日",
+        "前日"
+    ],
+    "Putian": [
+        "昨節"
+    ],
+    "Xianyou": [
+        "昨日"
+    ],
+    "Fuzhou": [
+        "昨日"
+    ],
+    "Changle": [
+        "昨日"
+    ],
+    "Fuqing": [
+        "昨日"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "昨日"
+    ],
+    "Gutian": [
+        "前工"
+    ],
+    "Fu'an": [
+        "前日"
+    ],
+    "Ningde": [
+        "前日工"
+    ],
+    "Shouning": [
+        "前日工"
+    ],
+    "Zhouning": [
+        "前日"
+    ],
+    "Fuding": [
+        "前日工"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "前日"
+    ],
+    "Dikou": [
+        "前日"
+    ],
+    "Songxi": [
+        "昨暝",
+        "前暝"
+    ],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "前日"
+    ],
+    "Jianyang": [
+        "前暝"
+    ],
+    "Wuyishan": [
+        "前暝"
+    ],
+    "Shibei": [
+        "前暝"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [
+        "前晡日"
+    ],
+    "Luoyuan-She": [
+        "前一工"
+    ],
+    "Sanming-She": [
+        "前日"
+    ],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [
+        "前日"
+    ],
+    "Cangnan-She": [
+        "前晡日"
+    ],
+    "Jingning-She": [
+        "前晡"
+    ],
+    "Lishui-She": [
+        "前晡"
+    ],
+    "Longyou-She": [
+        "前晡"
+    ],
+    "Chaozhou-She": [
+        "前日"
+    ],
+    "Fengshun-She": [
+        "前日"
+    ]
 }

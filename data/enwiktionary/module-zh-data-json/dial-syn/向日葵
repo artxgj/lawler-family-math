@@ -1,831 +1,621 @@
 {
     "meaning": "sunflower",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "向日葵",
-        "2": "葵花",
-        "3": "向陽花",
-        "4": "朝陽花"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "向日葵",
-        "2": "轉日蓮"
-    },
-    "Taiwan": {
-        "1": "向日葵"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "大葵花",
-        "2": "毛子嗑兒",
-        "3": "毛嗑兒"
-    },
-    "Shenyang": {
-        "1": "毛子嗑"
-    },
-    "Hailar": {
-        "1": "毛嗑兒"
-    },
-    "Ulan Hot": {
-        "1": "毛嗑兒"
-    },
-    "Tongliao": {
-        "1": "毛嗑兒"
-    },
-    "Chifeng": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Bayanhot": {
-        "1": "葵花"
-    },
-    "Jinan": {
-        "1": "朝陽花"
-    },
-    "Muping": {
-        "1": "轉日蓮",
-        "2": "轉家蓮"
-    },
-    "Luoyang": {
-        "1": "朝日葵",
-        "2": "向日葵",
-        "3": "葵花兒"
-    },
-    "Wanrong": {
-        "1": "葵花"
-    },
-    "Ronghe": {
-        "1": "轉花"
-    },
-    "Xi'an": {
-        "1": "向日葵"
-    },
-    "Qingdao": {
-        "1": "朝陽花",
-        "2": "轉悠葵兒"
-    },
-    "Zhengzhou": {
-        "1": "照日葵"
-    },
-    "Xining": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Xuzhou": {
-        "1": "轉蓮",
-        "2": "向日葵",
-        "3": "葵花"
-    },
-    "Yinchuan": {
-        "1": "向陽葵",
-        "2": "葵花"
-    },
-    "Lanzhou": {
-        "1": "葵花"
-    },
-    "Ürümqi": {
-        "1": "葵花"
-    },
-    "Wuhan": {
-        "1": "葵花"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "向耳葵",
-        "2": "向日葵",
-        "3": "葵花"
-    },
-    "Guiyang": {
-        "1": "葵花"
-    },
-    "Guilin": {
-        "1": "向日葵"
-    },
-    "Liuzhou": {
-        "1": "向日葵"
-    },
-    "Kunming": {
-        "1": "朝陽餅兒"
-    },
-    "Yangzhou": {
-        "1": "葵花"
-    },
-    "Nanjing": {
-        "1": "葵花",
-        "2": "向日葵"
-    },
-    "Hefei": {
-        "1": "朝花",
-        "2": "長花"
-    },
-    "Nantong": {
-        "1": "葵花"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "向兒葵"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "葵花"
-    },
-    "Pingyao": {
-        "1": "朝陽花"
-    },
-    "Xinzhou": {
-        "1": "葵花花"
-    },
-    "Baochang": {
-        "1": "朝陽花"
-    },
-    "Jining": {
-        "1": "葵花籽兒",
-        "2": "朝陽陽"
-    },
-    "Hohhot": {
-        "1": "葵花"
-    },
-    "Baotou": {
-        "1": "葵花籽兒",
-        "2": "朝陽陽"
-    },
-    "Dongsheng": {
-        "1": "葵花",
-        "2": "陽籽花"
-    },
-    "Linhe": {
-        "1": "葵花"
-    },
-    "Haibowan": {
-        "1": "葵花"
-    },
-    "Shanghai": {
-        "1": "向日葵"
-    },
-    "Suzhou": {
-        "1": "向日葵"
-    },
-    "Wuxi": {
-        "1": "向日葵"
-    },
-    "Hangzhou": {
-        "1": "葵花"
-    },
-    "Chongming": {
-        "1": "朝日頭花"
-    },
-    "Wenzhou": {
-        "1": "太陽佛花"
-    },
-    "Danyang": {
-        "1": "葵花"
-    },
-    "Jinhua": {
-        "1": "朝日葵"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "朝日頭花",
-        "2": "向日葵"
-    },
-    "Changsha": {
-        "1": "葵花"
-    },
-    "Shuangfeng": {
-        "1": "望立莧"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "向陽花"
-    },
-    "Quanzhou-X": {
-        "1": "葵花子"
-    },
-    "Nanchang": {
-        "1": "葵花"
-    },
-    "Lichuan": {
-        "1": "葵花"
-    },
-    "Pingxiang": {
-        "1": "拜東蓮"
-    },
-    "Meixian": {
-        "1": "葵花",
-        "2": "向日葵"
-    },
-    "Xingning": {
-        "1": "向日葵"
-    },
-    "Huizhou": {
-        "1": "向日葵"
-    },
-    "Huizhou-SK": {
-        "1": "向日葵"
-    },
-    "Huizhou-HL": {
-        "1": "向日葵"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "向日葵"
-    },
-    "Huidong-DL": {
-        "1": "向日葵"
-    },
-    "Dongguan-H": {
-        "1": ""
-    },
-    "Longmen-PL": {
-        "1": "向日葵"
-    },
-    "Longmen-LX": {
-        "1": "向日葵"
-    },
-    "Boluo": {
-        "1": "向日葵"
-    },
-    "Shenzhen-H": {
-        "1": ""
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": ""
-    },
-    "Wuhua-SZ": {
-        "1": "向日葵"
-    },
-    "Wuhua-HC": {
-        "1": "向日葵"
-    },
-    "Wuhua-CB": {
-        "1": "向日葵"
-    },
-    "Wuhua-MY": {
-        "1": "向日葵"
-    },
-    "Heyuan": {
-        "1": "向日葵"
-    },
-    "Zijin-GZ": {
-        "1": "向日葵"
-    },
-    "Longchuan-TC": {
-        "1": "向日葵"
-    },
-    "Longchuan-SD": {
-        "1": "向日葵"
-    },
-    "Heping-LZ": {
-        "1": "向日葵"
-    },
-    "Lianping-ZX": {
-        "1": "向日葵"
-    },
-    "Lianping-LJ": {
-        "1": "朝月蓮"
-    },
-    "Qujiang": {
-        "1": "葵花"
-    },
-    "Xinfeng-MT": {
-        "1": "向日葵"
-    },
-    "Xinfeng-DX": {
-        "1": "照月蓮"
-    },
-    "Xiaosanjiang": {
-        "1": "葵花子"
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": ""
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "向日葵"
-    },
-    "Changting": {
-        "1": "向東蓮"
-    },
-    "Pingyu": {
-        "1": "向東蓮"
-    },
-    "Wuping": {
-        "1": "向東蓮"
-    },
-    "Liancheng": {
-        "1": "照日蓮"
-    },
-    "Ninghua": {
-        "1": "葵花"
-    },
-    "Yudu": {
-        "1": "照日亮"
-    },
-    "Ruijin": {
-        "1": "向熱蓮"
-    },
-    "Shicheng": {
-        "1": "月照瓜"
-    },
-    "Shangyou": {
-        "1": "拜東蓮"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Liudui": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Hsinchu": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Dongshi": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Raoping": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Yunlin": {
-        "1": "日頭花",
-        "2": "葵花"
-    },
-    "Hong Kong-H": {
-        "1": "向日葵"
-    },
-    "Sabah": {
-        "1": "向日葵"
-    },
-    "Senai": {
-        "1": "向日葵"
-    },
-    "Singkawang": {
-        "1": "向日葵"
-    },
-    "Jixi": {
-        "1": "葵花"
-    },
-    "Shexian": {
-        "1": "葵花",
-        "2": "葵花蓮"
-    },
-    "Tunxi": {
-        "1": "絲瓜蓮",
-        "2": "豬肉臉"
-    },
-    "Xiuning": {
-        "1": "葵花蓮",
-        "2": "金桂蓮"
-    },
-    "Yixian": {
-        "1": "葵花蓮"
-    },
-    "Qimen": {
-        "1": "轉蓮葵兒"
-    },
-    "Wuyuan": {
-        "1": "葵花"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": "葵花"
-    },
-    "Jingde": {
-        "1": "葵花"
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "向日葵"
-    },
-    "Hong Kong": {
-        "1": "向日葵",
-        "2": "太陽花",
-        "3": "葵花"
-    },
-    "HK Weitou": {
-        "1": "葵花"
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": "向日葵"
-    },
-    "Tung Ping Chau": {
-        "1": "向日葵"
-    },
-    "Macau": {
-        "1": ""
-    },
-    "Panyu": {
-        "1": ""
-    },
-    "Huadu": {
-        "1": ""
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Nanhai": {
-        "1": ""
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Sanshui": {
-        "1": ""
-    },
-    "Gaoming": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Zhuhai": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": ""
-    },
-    "Jiangmen": {
-        "1": ""
-    },
-    "Xinhui": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "向日葵"
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Enping": {
-        "1": ""
-    },
-    "Heshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "向日葵"
-    },
-    "Bao'an": {
-        "1": ""
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "向日葵"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Wuzhou": {
-        "1": "向日葵"
-    },
-    "Yulin": {
-        "1": "向日葵"
-    },
-    "Hepu": {
-        "1": "向日葵"
-    },
-    "Danzhou": {
-        "1": "向日葵"
-    },
-    "Kuala Lumpur": {
-        "1": "太陽花"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "向日葵"
-    },
-    "Guilin-P": {
-        "1": "朝陽花"
-    },
-    "Xiamen": {
-        "1": "向日葵"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "向日葵"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "向日葵"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "太陽花"
-    },
-    "Kaohsiung": {
-        "1": "日頭花"
-    },
-    "Tainan": {
-        "1": "太陽花"
-    },
-    "Taichung": {
-        "1": "日頭花"
-    },
-    "Wuqi": {
-        "1": "太陽花"
-    },
-    "Hsinchu-MN": {
-        "1": "太陽花"
-    },
-    "Taitung": {
-        "1": "日頭花"
-    },
-    "Lukang": {
-        "1": "日頭花"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "日頭花"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "太陽花"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "葵花"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "葵花"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "日頭花"
-    },
-    "Wenchang": {
-        "1": "向日葵"
-    },
-    "Haikou": {
-        "1": "向日葵"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "向日葵",
-        "2": "葵花"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "葵花",
-        "2": "向日葵"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "日頭陽"
-    },
-    "Dikou": {
-        "1": "日頭貢"
-    },
-    "Songxi": {
-        "1": "日頭蓮"
-    },
-    "Zhenghe": {
-        "1": "日頭花"
-    },
-    "Zhenqian": {
-        "1": "瓜仔盤"
-    },
-    "Jianyang": {
-        "1": "日頭葵"
-    },
-    "Wuyishan": {
-        "1": "日頭花"
-    },
-    "Shibei": {
-        "1": "日頭花"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "向日葵",
+        "葵花",
+        "向陽花",
+        "朝陽花"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "向日葵",
+        "轉日蓮"
+    ],
+    "Taiwan": [
+        "向日葵"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "大葵花",
+        "毛子嗑兒",
+        "毛嗑兒"
+    ],
+    "Shenyang": [
+        "毛子嗑"
+    ],
+    "Hailar": [
+        "毛嗑兒"
+    ],
+    "Ulan Hot": [
+        "毛嗑兒"
+    ],
+    "Tongliao": [
+        "毛嗑兒"
+    ],
+    "Chifeng": [
+        "向日葵",
+        "葵花"
+    ],
+    "Bayanhot": [
+        "葵花"
+    ],
+    "Jinan": [
+        "朝陽花"
+    ],
+    "Muping": [
+        "轉日蓮",
+        "轉家蓮"
+    ],
+    "Luoyang": [
+        "朝日葵",
+        "向日葵",
+        "葵花兒"
+    ],
+    "Wanrong": [
+        "葵花"
+    ],
+    "Ronghe": [
+        "轉花"
+    ],
+    "Xi'an": [
+        "向日葵"
+    ],
+    "Qingdao": [
+        "朝陽花",
+        "轉悠葵兒"
+    ],
+    "Zhengzhou": [
+        "照日葵"
+    ],
+    "Xining": [
+        "向日葵",
+        "葵花"
+    ],
+    "Xuzhou": [
+        "轉蓮",
+        "向日葵",
+        "葵花"
+    ],
+    "Yinchuan": [
+        "向陽葵",
+        "葵花"
+    ],
+    "Lanzhou": [
+        "葵花"
+    ],
+    "Ürümqi": [
+        "葵花"
+    ],
+    "Wuhan": [
+        "葵花"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "向耳葵",
+        "向日葵",
+        "葵花"
+    ],
+    "Guiyang": [
+        "葵花"
+    ],
+    "Guilin": [
+        "向日葵"
+    ],
+    "Liuzhou": [
+        "向日葵"
+    ],
+    "Kunming": [
+        "朝陽餅兒"
+    ],
+    "Yangzhou": [
+        "葵花"
+    ],
+    "Nanjing": [
+        "葵花",
+        "向日葵"
+    ],
+    "Hefei": [
+        "朝花",
+        "長花"
+    ],
+    "Nantong": [
+        "葵花"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "向兒葵"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "葵花"
+    ],
+    "Pingyao": [
+        "朝陽花"
+    ],
+    "Xinzhou": [
+        "葵花花"
+    ],
+    "Baochang": [
+        "朝陽花"
+    ],
+    "Jining": [
+        "葵花籽兒",
+        "朝陽陽"
+    ],
+    "Hohhot": [
+        "葵花"
+    ],
+    "Baotou": [
+        "葵花籽兒",
+        "朝陽陽"
+    ],
+    "Dongsheng": [
+        "葵花",
+        "陽籽花"
+    ],
+    "Linhe": [
+        "葵花"
+    ],
+    "Haibowan": [
+        "葵花"
+    ],
+    "Shanghai": [
+        "向日葵"
+    ],
+    "Suzhou": [
+        "向日葵"
+    ],
+    "Wuxi": [
+        "向日葵"
+    ],
+    "Hangzhou": [
+        "葵花"
+    ],
+    "Chongming": [
+        "朝日頭花"
+    ],
+    "Wenzhou": [
+        "太陽佛花"
+    ],
+    "Danyang": [
+        "葵花"
+    ],
+    "Jinhua": [
+        "朝日葵"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "朝日頭花",
+        "向日葵"
+    ],
+    "Changsha": [
+        "葵花"
+    ],
+    "Shuangfeng": [
+        "望立莧"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "向陽花"
+    ],
+    "Quanzhou-X": [
+        "葵花子"
+    ],
+    "Nanchang": [
+        "葵花"
+    ],
+    "Lichuan": [
+        "葵花"
+    ],
+    "Pingxiang": [
+        "拜東蓮"
+    ],
+    "Meixian": [
+        "葵花",
+        "向日葵"
+    ],
+    "Xingning": [
+        "向日葵"
+    ],
+    "Huizhou": [
+        "向日葵"
+    ],
+    "Huizhou-SK": [
+        "向日葵"
+    ],
+    "Huizhou-HL": [
+        "向日葵"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "向日葵"
+    ],
+    "Huidong-DL": [
+        "向日葵"
+    ],
+    "Dongguan-H": [],
+    "Longmen-PL": [
+        "向日葵"
+    ],
+    "Longmen-LX": [
+        "向日葵"
+    ],
+    "Boluo": [
+        "向日葵"
+    ],
+    "Shenzhen-H": [],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [],
+    "Wuhua-SZ": [
+        "向日葵"
+    ],
+    "Wuhua-HC": [
+        "向日葵"
+    ],
+    "Wuhua-CB": [
+        "向日葵"
+    ],
+    "Wuhua-MY": [
+        "向日葵"
+    ],
+    "Heyuan": [
+        "向日葵"
+    ],
+    "Zijin-GZ": [
+        "向日葵"
+    ],
+    "Longchuan-TC": [
+        "向日葵"
+    ],
+    "Longchuan-SD": [
+        "向日葵"
+    ],
+    "Heping-LZ": [
+        "向日葵"
+    ],
+    "Lianping-ZX": [
+        "向日葵"
+    ],
+    "Lianping-LJ": [
+        "朝月蓮"
+    ],
+    "Qujiang": [
+        "葵花"
+    ],
+    "Xinfeng-MT": [
+        "向日葵"
+    ],
+    "Xinfeng-DX": [
+        "照月蓮"
+    ],
+    "Xiaosanjiang": [
+        "葵花子"
+    ],
+    "Liannan": [],
+    "Conghua-H": [],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "向日葵"
+    ],
+    "Changting": [
+        "向東蓮"
+    ],
+    "Pingyu": [
+        "向東蓮"
+    ],
+    "Wuping": [
+        "向東蓮"
+    ],
+    "Liancheng": [
+        "照日蓮"
+    ],
+    "Ninghua": [
+        "葵花"
+    ],
+    "Yudu": [
+        "照日亮"
+    ],
+    "Ruijin": [
+        "向熱蓮"
+    ],
+    "Shicheng": [
+        "月照瓜"
+    ],
+    "Shangyou": [
+        "拜東蓮"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "向日葵",
+        "葵花"
+    ],
+    "Liudui": [
+        "向日葵",
+        "葵花"
+    ],
+    "Hsinchu": [
+        "向日葵",
+        "葵花"
+    ],
+    "Dongshi": [
+        "向日葵",
+        "葵花"
+    ],
+    "Raoping": [
+        "向日葵",
+        "葵花"
+    ],
+    "Yunlin": [
+        "日頭花",
+        "葵花"
+    ],
+    "Hong Kong-H": [
+        "向日葵"
+    ],
+    "Sabah": [
+        "向日葵"
+    ],
+    "Senai": [
+        "向日葵"
+    ],
+    "Singkawang": [
+        "向日葵"
+    ],
+    "Jixi": [
+        "葵花"
+    ],
+    "Shexian": [
+        "葵花",
+        "葵花蓮"
+    ],
+    "Tunxi": [
+        "絲瓜蓮",
+        "豬肉臉"
+    ],
+    "Xiuning": [
+        "葵花蓮",
+        "金桂蓮"
+    ],
+    "Yixian": [
+        "葵花蓮"
+    ],
+    "Qimen": [
+        "轉蓮葵兒"
+    ],
+    "Wuyuan": [
+        "葵花"
+    ],
+    "Fuliang": [],
+    "Dexing": [
+        "葵花"
+    ],
+    "Jingde": [
+        "葵花"
+    ],
+    "Zhanda": [],
+    "Guangzhou": [
+        "向日葵"
+    ],
+    "Hong Kong": [
+        "向日葵",
+        "太陽花",
+        "葵花"
+    ],
+    "HK Weitou": [
+        "葵花"
+    ],
+    "Kam Tin": [],
+    "Ting Kok": [
+        "向日葵"
+    ],
+    "Tung Ping Chau": [
+        "向日葵"
+    ],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [
+        "向日葵"
+    ],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [
+        "向日葵"
+    ],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "向日葵"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "向日葵",
+        "葵花"
+    ],
+    "Wuzhou": [
+        "向日葵"
+    ],
+    "Yulin": [
+        "向日葵"
+    ],
+    "Hepu": [
+        "向日葵"
+    ],
+    "Danzhou": [
+        "向日葵"
+    ],
+    "Kuala Lumpur": [
+        "太陽花"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "向日葵"
+    ],
+    "Guilin-P": [
+        "朝陽花"
+    ],
+    "Xiamen": [
+        "向日葵"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "向日葵"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "向日葵"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "太陽花"
+    ],
+    "Kaohsiung": [
+        "日頭花"
+    ],
+    "Tainan": [
+        "太陽花"
+    ],
+    "Taichung": [
+        "日頭花"
+    ],
+    "Wuqi": [
+        "太陽花"
+    ],
+    "Hsinchu-MN": [
+        "太陽花"
+    ],
+    "Taitung": [
+        "日頭花"
+    ],
+    "Lukang": [
+        "日頭花"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "日頭花"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "太陽花"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "葵花"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "葵花"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "日頭花"
+    ],
+    "Wenchang": [
+        "向日葵"
+    ],
+    "Haikou": [
+        "向日葵"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "向日葵",
+        "葵花"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "葵花",
+        "向日葵"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "日頭陽"
+    ],
+    "Dikou": [
+        "日頭貢"
+    ],
+    "Songxi": [
+        "日頭蓮"
+    ],
+    "Zhenghe": [
+        "日頭花"
+    ],
+    "Zhenqian": [
+        "瓜仔盤"
+    ],
+    "Jianyang": [
+        "日頭葵"
+    ],
+    "Wuyishan": [
+        "日頭花"
+    ],
+    "Shibei": [
+        "日頭花"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

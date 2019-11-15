@@ -1,735 +1,551 @@
 {
     "meaning": "rice crust; scorched rice",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "鍋巴"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "鍋巴"
-    },
-    "Taiwan": {
-        "1": "鍋巴"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "鍋嘎巴兒",
-        "2": "鍋嘎巴"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "疙渣"
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": "鍋巴"
-    },
-    "Jinan": {
-        "1": "鍋疙渣",
-        "2": "飯疙渣"
-    },
-    "Muping": {
-        "1": "煳疙渣兒"
-    },
-    "Luoyang": {
-        "1": "鍋巴"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "鍋底"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "鍋圪巴"
-    },
-    "Xining": {
-        "1": "鍋蓋巴"
-    },
-    "Xuzhou": {
-        "1": "疙疤",
-        "2": "疙兒",
-        "3": "飯疙疤",
-        "4": "鍋疙疤"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "鍋巴子"
-    },
-    "Ürümqi": {
-        "1": "鍋巴"
-    },
-    "Wuhan": {
-        "1": "鍋巴"
-    },
-    "Huanggang": {
-        "1": "鍋巴"
-    },
-    "Chengdu": {
-        "1": "鍋巴"
-    },
-    "Guiyang": {
-        "1": "鍋巴"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "飯焦",
-        "2": "鍋巴"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "鍋巴",
-        "2": "鍋巴子"
-    },
-    "Nanjing": {
-        "1": "鍋巴"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "鍋巴"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "煳圪巴",
-        "2": "鍋巴"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "圪渣"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "鍋疙渣"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "飯䊓",
-        "2": "鑊焦",
-        "3": "焦飯䊓"
-    },
-    "Suzhou": {
-        "1": "飯䊓"
-    },
-    "Wuxi": {
-        "1": "飯䊓"
-    },
-    "Hangzhou": {
-        "1": "不焦"
-    },
-    "Chongming": {
-        "1": "爬䊓"
-    },
-    "Wenzhou": {
-        "1": "飯焦",
-        "2": "飯𥻿焦"
-    },
-    "Danyang": {
-        "1": "鍋巴"
-    },
-    "Jinhua": {
-        "1": "鑊奪"
-    },
-    "Tangxi": {
-        "1": "鑊隔"
-    },
-    "Ningbo": {
-        "1": "鑊焦",
-        "2": "鑊滯"
-    },
-    "Changsha": {
-        "1": "鍋巴"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "鍋巴"
-    },
-    "Lichuan": {
-        "1": "鍋爆"
-    },
-    "Pingxiang": {
-        "1": "撈痂子",
-        "2": "撈痂"
-    },
-    "Meixian": {
-        "1": "飯𤊶"
-    },
-    "Xingning": {
-        "1": "鑊𤊶"
-    },
-    "Huidong": {
-        "1": "飯𤊶"
-    },
-    "Qujiang": {
-        "1": "飯𤊶"
-    },
-    "Xiaosanjiang": {
-        "1": "飯焦"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "飯巴"
-    },
-    "Pingyu": {
-        "1": "飯𤊶"
-    },
-    "Wuping": {
-        "1": "飯𤊶子"
-    },
-    "Liancheng": {
-        "1": "鍋烙"
-    },
-    "Ninghua": {
-        "1": "鍋烙挾"
-    },
-    "Yudu": {
-        "1": "𤊶",
-        "2": "鑊𤊶"
-    },
-    "Ruijin": {
-        "1": "飯𤊶"
-    },
-    "Shicheng": {
-        "1": "鑊巴"
-    },
-    "Shangyou": {
-        "1": "飯巴"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "飯𤊶"
-    },
-    "Liudui": {
-        "1": "飯𤊶"
-    },
-    "Hsinchu": {
-        "1": "飯𤊶"
-    },
-    "Dongshi": {
-        "1": "飯𤊶"
-    },
-    "Raoping": {
-        "1": "飯𤊶"
-    },
-    "Yunlin": {
-        "1": "鑊皮"
-    },
-    "Hong Kong-H": {
-        "1": "飯𤊶"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "飯𤊶"
-    },
-    "Senai": {
-        "1": "飯𤊶"
-    },
-    "Singkawang": {
-        "1": "飯𤊶"
-    },
-    "Jixi": {
-        "1": "鍋焦"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "飯焦"
-    },
-    "Hong Kong": {
-        "1": "飯焦"
-    },
-    "HK Weitou": {
-        "1": "飯焦"
-    },
-    "Kam Tin": {
-        "1": "飯焦",
-        "2": "飯燶"
-    },
-    "Ting Kok": {
-        "1": "飯焦"
-    },
-    "Tung Ping Chau": {
-        "1": "飯焦"
-    },
-    "Macau": {
-        "1": "飯焦"
-    },
-    "Panyu": {
-        "1": "飯焦"
-    },
-    "Huadu": {
-        "1": "飯焦"
-    },
-    "Conghua": {
-        "1": "飯焦"
-    },
-    "Zengcheng": {
-        "1": "飯焦"
-    },
-    "Foshan": {
-        "1": "飯焦"
-    },
-    "Nanhai": {
-        "1": "飯焦"
-    },
-    "Shunde": {
-        "1": "飯焦"
-    },
-    "Sanshui": {
-        "1": "飯焦"
-    },
-    "Gaoming": {
-        "1": "飯焦"
-    },
-    "Zhongshan": {
-        "1": "飯焦"
-    },
-    "Zhuhai": {
-        "1": "飯焦"
-    },
-    "Doumen-T": {
-        "1": "飯焦"
-    },
-    "Doumen-S": {
-        "1": "飯燶"
-    },
-    "Jiangmen": {
-        "1": "飯焦"
-    },
-    "Xinhui": {
-        "1": "飯燶"
-    },
-    "Taishan": {
-        "1": "飯燶",
-        "2": "飯焦"
-    },
-    "Kaiping": {
-        "1": "飯燶"
-    },
-    "Enping": {
-        "1": "飯燶"
-    },
-    "Heshan": {
-        "1": "燶"
-    },
-    "Dongguan": {
-        "1": "飯焦"
-    },
-    "Bao'an": {
-        "1": "飯焦"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "飯焦"
-    },
-    "Yunfu": {
-        "1": "飯腰"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": "飯燶"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "飯焦"
-    },
-    "Ho Chi Minh City": {
-        "1": "飯焦",
-        "2": "鍋巴"
-    },
-    "Nanning-P": {
-        "1": "鍋巴"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "飯疕",
-        "2": "臭焦疕",
-        "3": "鼎疕"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "飯疕",
-        "2": "臭焦疕",
-        "3": "鼎疕"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "飯疕",
-        "2": "鼎疕"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "飯疕",
-        "2": "臭焦疕",
-        "3": "鼎疕"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "飯疕仔"
-    },
-    "Kaohsiung": {
-        "1": "飯疕"
-    },
-    "Tainan": {
-        "1": "飯疕"
-    },
-    "Taichung": {
-        "1": "鼎疕"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "飯疕",
-        "2": "鼎疕"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "飯疕"
-    },
-    "Sanxia": {
-        "1": "鼎疕"
-    },
-    "Yilan": {
-        "1": "飯疕"
-    },
-    "Kinmen": {
-        "1": "飯疕"
-    },
-    "Magong": {
-        "1": "鼎疕"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "飯疕",
-        "2": "鼎疕"
-    },
-    "Datian": {
-        "1": "飯疕"
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "飯疕"
-    },
-    "Shantou": {
-        "1": "飯疕"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "鼎疕"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "鼎疕"
-    },
-    "Leizhou": {
-        "1": "飯疕"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "飯巴",
-        "2": "鼎巴"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "飯巴",
-        "2": "鼎巴"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "鼎巴",
-        "2": "飯巴"
-    },
-    "Gutian": {
-        "1": "鼎疕"
-    },
-    "Fu'an": {
-        "1": "飯疕"
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": "飯疕"
-    },
-    "Zhouning": {
-        "1": "飯疕"
-    },
-    "Fuding": {
-        "1": "鼎疕"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "飯疕"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "飯疕"
-    },
-    "Wuyishan": {
-        "1": "鼎疕"
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "鑊疕"
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": "飯疕"
-    },
-    "Shunchang-She": {
-        "1": "鑊疕"
-    },
-    "Hua'an-She": {
-        "1": "鑊𤊶"
-    },
-    "Guixi-She": {
-        "1": "鍋巴"
-    },
-    "Cangnan-She": {
-        "1": "飯疕"
-    },
-    "Jingning-She": {
-        "1": "飯烙"
-    },
-    "Lishui-She": {
-        "1": "飯烙"
-    },
-    "Longyou-She": {
-        "1": "飯烙"
-    },
-    "Chaozhou-She": {
-        "1": "飯疕"
-    },
-    "Fengshun-She": {
-        "1": "飯𤊶"
-    }
+    "Classical": [],
+    "Formal": [
+        "鍋巴"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "鍋巴"
+    ],
+    "Taiwan": [
+        "鍋巴"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "鍋嘎巴兒",
+        "鍋嘎巴"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "疙渣"
+    ],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [
+        "鍋巴"
+    ],
+    "Jinan": [
+        "鍋疙渣",
+        "飯疙渣"
+    ],
+    "Muping": [
+        "煳疙渣兒"
+    ],
+    "Luoyang": [
+        "鍋巴"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "鍋底"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "鍋圪巴"
+    ],
+    "Xining": [
+        "鍋蓋巴"
+    ],
+    "Xuzhou": [
+        "疙疤",
+        "疙兒",
+        "飯疙疤",
+        "鍋疙疤"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "鍋巴子"
+    ],
+    "Ürümqi": [
+        "鍋巴"
+    ],
+    "Wuhan": [
+        "鍋巴"
+    ],
+    "Huanggang": [
+        "鍋巴"
+    ],
+    "Chengdu": [
+        "鍋巴"
+    ],
+    "Guiyang": [
+        "鍋巴"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "飯焦",
+        "鍋巴"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "鍋巴",
+        "鍋巴子"
+    ],
+    "Nanjing": [
+        "鍋巴"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "鍋巴"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "煳圪巴",
+        "鍋巴"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "圪渣"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "鍋疙渣"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "飯䊓",
+        "鑊焦",
+        "焦飯䊓"
+    ],
+    "Suzhou": [
+        "飯䊓"
+    ],
+    "Wuxi": [
+        "飯䊓"
+    ],
+    "Hangzhou": [
+        "不焦"
+    ],
+    "Chongming": [
+        "爬䊓"
+    ],
+    "Wenzhou": [
+        "飯焦",
+        "飯𥻿焦"
+    ],
+    "Danyang": [
+        "鍋巴"
+    ],
+    "Jinhua": [
+        "鑊奪"
+    ],
+    "Tangxi": [
+        "鑊隔"
+    ],
+    "Ningbo": [
+        "鑊焦",
+        "鑊滯"
+    ],
+    "Changsha": [
+        "鍋巴"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "鍋巴"
+    ],
+    "Lichuan": [
+        "鍋爆"
+    ],
+    "Pingxiang": [
+        "撈痂子",
+        "撈痂"
+    ],
+    "Meixian": [
+        "飯𤊶"
+    ],
+    "Xingning": [
+        "鑊𤊶"
+    ],
+    "Huidong": [
+        "飯𤊶"
+    ],
+    "Qujiang": [
+        "飯𤊶"
+    ],
+    "Xiaosanjiang": [
+        "飯焦"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "飯巴"
+    ],
+    "Pingyu": [
+        "飯𤊶"
+    ],
+    "Wuping": [
+        "飯𤊶子"
+    ],
+    "Liancheng": [
+        "鍋烙"
+    ],
+    "Ninghua": [
+        "鍋烙挾"
+    ],
+    "Yudu": [
+        "𤊶",
+        "鑊𤊶"
+    ],
+    "Ruijin": [
+        "飯𤊶"
+    ],
+    "Shicheng": [
+        "鑊巴"
+    ],
+    "Shangyou": [
+        "飯巴"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "飯𤊶"
+    ],
+    "Liudui": [
+        "飯𤊶"
+    ],
+    "Hsinchu": [
+        "飯𤊶"
+    ],
+    "Dongshi": [
+        "飯𤊶"
+    ],
+    "Raoping": [
+        "飯𤊶"
+    ],
+    "Yunlin": [
+        "鑊皮"
+    ],
+    "Hong Kong-H": [
+        "飯𤊶"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "飯𤊶"
+    ],
+    "Senai": [
+        "飯𤊶"
+    ],
+    "Singkawang": [
+        "飯𤊶"
+    ],
+    "Jixi": [
+        "鍋焦"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "飯焦"
+    ],
+    "Hong Kong": [
+        "飯焦"
+    ],
+    "HK Weitou": [
+        "飯焦"
+    ],
+    "Kam Tin": [
+        "飯焦",
+        "飯燶"
+    ],
+    "Ting Kok": [
+        "飯焦"
+    ],
+    "Tung Ping Chau": [
+        "飯焦"
+    ],
+    "Macau": [
+        "飯焦"
+    ],
+    "Panyu": [
+        "飯焦"
+    ],
+    "Huadu": [
+        "飯焦"
+    ],
+    "Conghua": [
+        "飯焦"
+    ],
+    "Zengcheng": [
+        "飯焦"
+    ],
+    "Foshan": [
+        "飯焦"
+    ],
+    "Nanhai": [
+        "飯焦"
+    ],
+    "Shunde": [
+        "飯焦"
+    ],
+    "Sanshui": [
+        "飯焦"
+    ],
+    "Gaoming": [
+        "飯焦"
+    ],
+    "Zhongshan": [
+        "飯焦"
+    ],
+    "Zhuhai": [
+        "飯焦"
+    ],
+    "Doumen-T": [
+        "飯焦"
+    ],
+    "Doumen-S": [
+        "飯燶"
+    ],
+    "Jiangmen": [
+        "飯焦"
+    ],
+    "Xinhui": [
+        "飯燶"
+    ],
+    "Taishan": [
+        "飯燶",
+        "飯焦"
+    ],
+    "Kaiping": [
+        "飯燶"
+    ],
+    "Enping": [
+        "飯燶"
+    ],
+    "Heshan": [
+        "燶"
+    ],
+    "Dongguan": [
+        "飯焦"
+    ],
+    "Bao'an": [
+        "飯焦"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "飯焦"
+    ],
+    "Yunfu": [
+        "飯腰"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [
+        "飯燶"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "飯焦"
+    ],
+    "Ho Chi Minh City": [
+        "飯焦",
+        "鍋巴"
+    ],
+    "Nanning-P": [
+        "鍋巴"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "飯疕",
+        "臭焦疕",
+        "鼎疕"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "飯疕",
+        "臭焦疕",
+        "鼎疕"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "飯疕",
+        "鼎疕"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "飯疕",
+        "臭焦疕",
+        "鼎疕"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "飯疕仔"
+    ],
+    "Kaohsiung": [
+        "飯疕"
+    ],
+    "Tainan": [
+        "飯疕"
+    ],
+    "Taichung": [
+        "鼎疕"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "飯疕",
+        "鼎疕"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "飯疕"
+    ],
+    "Sanxia": [
+        "鼎疕"
+    ],
+    "Yilan": [
+        "飯疕"
+    ],
+    "Kinmen": [
+        "飯疕"
+    ],
+    "Magong": [
+        "鼎疕"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "飯疕",
+        "鼎疕"
+    ],
+    "Datian": [
+        "飯疕"
+    ],
+    "Pingnan": [],
+    "Chaozhou": [
+        "飯疕"
+    ],
+    "Shantou": [
+        "飯疕"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "鼎疕"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "鼎疕"
+    ],
+    "Leizhou": [
+        "飯疕"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "飯巴",
+        "鼎巴"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "飯巴",
+        "鼎巴"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "鼎巴",
+        "飯巴"
+    ],
+    "Gutian": [
+        "鼎疕"
+    ],
+    "Fu'an": [
+        "飯疕"
+    ],
+    "Ningde": [],
+    "Shouning": [
+        "飯疕"
+    ],
+    "Zhouning": [
+        "飯疕"
+    ],
+    "Fuding": [
+        "鼎疕"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "飯疕"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "飯疕"
+    ],
+    "Wuyishan": [
+        "鼎疕"
+    ],
+    "Shibei": [],
+    "Fu'an-She": [
+        "鑊疕"
+    ],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [
+        "飯疕"
+    ],
+    "Shunchang-She": [
+        "鑊疕"
+    ],
+    "Hua'an-She": [
+        "鑊𤊶"
+    ],
+    "Guixi-She": [
+        "鍋巴"
+    ],
+    "Cangnan-She": [
+        "飯疕"
+    ],
+    "Jingning-She": [
+        "飯烙"
+    ],
+    "Lishui-She": [
+        "飯烙"
+    ],
+    "Longyou-She": [
+        "飯烙"
+    ],
+    "Chaozhou-She": [
+        "飯疕"
+    ],
+    "Fengshun-She": [
+        "飯𤊶"
+    ]
 }

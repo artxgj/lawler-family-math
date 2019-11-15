@@ -1,624 +1,472 @@
 {
     "meaning": "chair (with back)",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "椅子"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "椅子"
-    },
-    "Taiwan": {
-        "1": "椅子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "椅子"
-    },
-    "Shenyang": {
-        "1": "椅子"
-    },
-    "Hailar": {
-        "1": "椅子"
-    },
-    "Ulan Hot": {
-        "1": "椅子"
-    },
-    "Tongliao": {
-        "1": "椅子"
-    },
-    "Chifeng": {
-        "1": "椅子"
-    },
-    "Bayanhot": {
-        "1": "椅子"
-    },
-    "Jinan": {
-        "1": "椅子"
-    },
-    "Muping": {
-        "1": "椅子"
-    },
-    "Luoyang": {
-        "1": "椅子",
-        "2": "靠背椅子"
-    },
-    "Wanrong": {
-        "1": "椅子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "椅子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "椅子"
-    },
-    "Xining": {
-        "1": "椅子"
-    },
-    "Xuzhou": {
-        "1": "椅子"
-    },
-    "Yinchuan": {
-        "1": "椅子"
-    },
-    "Lanzhou": {
-        "1": "椅子"
-    },
-    "Ürümqi": {
-        "1": "椅子"
-    },
-    "Wuhan": {
-        "1": "椅子",
-        "2": "靠背椅",
-        "3": "靠椅"
-    },
-    "Huanggang": {
-        "1": "椅子"
-    },
-    "Chengdu": {
-        "1": "椅子",
-        "2": "椅椅兒",
-        "3": "憑憑椅"
-    },
-    "Guiyang": {
-        "1": "椅子",
-        "2": "板凳"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "椅子",
-        "2": "靠背椅"
-    },
-    "Kunming": {
-        "1": "椅子"
-    },
-    "Yangzhou": {
-        "1": "椅子"
-    },
-    "Nanjing": {
-        "1": "靠背兒椅子",
-        "2": "椅子"
-    },
-    "Hefei": {
-        "1": "椅子"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "椅凳子",
-        "2": "椅凳兒"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "椅子"
-    },
-    "Pingyao": {
-        "1": "椅子"
-    },
-    "Xinzhou": {
-        "1": "椅子"
-    },
-    "Baochang": {
-        "1": "椅子"
-    },
-    "Jining": {
-        "1": "椅子"
-    },
-    "Hohhot": {
-        "1": "椅子"
-    },
-    "Baotou": {
-        "1": "椅子"
-    },
-    "Dongsheng": {
-        "1": "椅子"
-    },
-    "Linhe": {
-        "1": "椅子"
-    },
-    "Haibowan": {
-        "1": "椅子"
-    },
-    "Shanghai": {
-        "1": "椅子"
-    },
-    "Suzhou": {
-        "1": "交椅",
-        "2": "靠背",
-        "3": "椅子",
-        "4": "靠背矮凳"
-    },
-    "Wuxi": {
-        "1": "靠背椅"
-    },
-    "Hangzhou": {
-        "1": "椅子",
-        "2": "靠背椅",
-        "3": "靠背椅子"
-    },
-    "Chongming": {
-        "1": "椅子"
-    },
-    "Wenzhou": {
-        "1": "矮椅"
-    },
-    "Danyang": {
-        "1": "椅子",
-        "2": "靠背椅子",
-        "3": "靠背椅"
-    },
-    "Jinhua": {
-        "1": "交椅",
-        "2": "椅子",
-        "3": "靠背椅"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "椅子"
-    },
-    "Changsha": {
-        "1": "椅子",
-        "2": "靠背椅子",
-        "3": "靠椅"
-    },
-    "Shuangfeng": {
-        "1": "椅子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "交椅"
-    },
-    "Lichuan": {
-        "1": "椅仔"
-    },
-    "Pingxiang": {
-        "1": "椅子"
-    },
-    "Meixian": {
-        "1": "椅仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "靠背椅"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "憑凳子"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "椅子"
-    },
-    "Yudu": {
-        "1": "椅子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "椅"
-    },
-    "Shangyou": {
-        "1": "椅子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "凳仔"
-    },
-    "Liudui": {
-        "1": "凳仔"
-    },
-    "Hsinchu": {
-        "1": "凳仔"
-    },
-    "Dongshi": {
-        "1": "凳"
-    },
-    "Raoping": {
-        "1": "凳仔"
-    },
-    "Yunlin": {
-        "1": "凳"
-    },
-    "Hong Kong-H": {
-        "1": "交椅"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "凳"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "交椅"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": "椅兒"
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "椅",
-        "2": "挨屏椅"
-    },
-    "Hong Kong": {
-        "1": "凳",
-        "2": "椅",
-        "3": "挨屏椅"
-    },
-    "Shunde": {
-        "1": "椅"
-    },
-    "Foshan": {
-        "1": "椅"
-    },
-    "Zhongshan": {
-        "1": "椅"
-    },
-    "Dongguan": {
-        "1": "凳",
-        "2": "鉸椅"
-    },
-    "HK Weitou": {
-        "1": "凳",
-        "2": "椅"
-    },
-    "Doumen-T": {
-        "1": "椅"
-    },
-    "Doumen-S": {
-        "1": "椅"
-    },
-    "Taishan": {
-        "1": "椅"
-    },
-    "Kaiping": {
-        "1": "椅"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "椅"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "椅"
-    },
-    "Ho Chi Minh City": {
-        "1": "椅"
-    },
-    "Nanning-P": {
-        "1": "椅子",
-        "2": "靠背椅"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "椅",
-        "2": "椅仔"
-    },
-    "Quanzhou": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "椅"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "椅"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "椅囝",
-        "2": "椅"
-    },
-    "Leizhou": {
-        "1": "椅"
-    },
-    "Putian": {
-        "1": "椅",
-        "2": "厚椅",
-        "3": "仙椅"
-    },
-    "Xianyou": {
-        "1": "交椅"
-    },
-    "Fuzhou": {
-        "1": "椅",
-        "2": "椅頭"
-    },
-    "Changle": {
-        "1": "椅囝"
-    },
-    "Fuqing": {
-        "1": "椅",
-        "2": "椅頭"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "椅囝"
-    },
-    "Gutian": {
-        "1": "椅頭"
-    },
-    "Fu'an": {
-        "1": "凳"
-    },
-    "Ningde": {
-        "1": "凳頭"
-    },
-    "Shouning": {
-        "1": "凳頭"
-    },
-    "Zhouning": {
-        "1": "椅",
-        "2": "長凳囝"
-    },
-    "Fuding": {
-        "1": "交椅囝"
-    },
-    "Matsu": {
-        "1": "椅",
-        "2": "椅頭"
-    },
-    "Jian'ou": {
-        "1": "椅仔",
-        "2": "有屏椅"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "椅"
-    },
-    "Fuding-She": {
-        "1": "椅"
-    },
-    "Luoyuan-She": {
-        "1": "椅"
-    },
-    "Sanming-She": {
-        "1": "椅"
-    },
-    "Shunchang-She": {
-        "1": "椅"
-    },
-    "Hua'an-She": {
-        "1": "椅仔"
-    },
-    "Guixi-She": {
-        "1": "椅"
-    },
-    "Cangnan-She": {
-        "1": "椅"
-    },
-    "Jingning-She": {
-        "1": "交椅"
-    },
-    "Lishui-She": {
-        "1": "家椅"
-    },
-    "Longyou-She": {
-        "1": "家椅"
-    },
-    "Chaozhou-She": {
-        "1": "凳"
-    },
-    "Fengshun-She": {
-        "1": "椅"
-    }
+    "Classical": [],
+    "Formal": [
+        "椅子"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "椅子"
+    ],
+    "Taiwan": [
+        "椅子"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "椅子"
+    ],
+    "Shenyang": [
+        "椅子"
+    ],
+    "Hailar": [
+        "椅子"
+    ],
+    "Ulan Hot": [
+        "椅子"
+    ],
+    "Tongliao": [
+        "椅子"
+    ],
+    "Chifeng": [
+        "椅子"
+    ],
+    "Bayanhot": [
+        "椅子"
+    ],
+    "Jinan": [
+        "椅子"
+    ],
+    "Muping": [
+        "椅子"
+    ],
+    "Luoyang": [
+        "椅子",
+        "靠背椅子"
+    ],
+    "Wanrong": [
+        "椅子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "椅子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "椅子"
+    ],
+    "Xining": [
+        "椅子"
+    ],
+    "Xuzhou": [
+        "椅子"
+    ],
+    "Yinchuan": [
+        "椅子"
+    ],
+    "Lanzhou": [
+        "椅子"
+    ],
+    "Ürümqi": [
+        "椅子"
+    ],
+    "Wuhan": [
+        "椅子",
+        "靠背椅",
+        "靠椅"
+    ],
+    "Huanggang": [
+        "椅子"
+    ],
+    "Chengdu": [
+        "椅子",
+        "椅椅兒",
+        "憑憑椅"
+    ],
+    "Guiyang": [
+        "椅子",
+        "板凳"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "椅子",
+        "靠背椅"
+    ],
+    "Kunming": [
+        "椅子"
+    ],
+    "Yangzhou": [
+        "椅子"
+    ],
+    "Nanjing": [
+        "靠背兒椅子",
+        "椅子"
+    ],
+    "Hefei": [
+        "椅子"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "椅凳子",
+        "椅凳兒"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "椅子"
+    ],
+    "Pingyao": [
+        "椅子"
+    ],
+    "Xinzhou": [
+        "椅子"
+    ],
+    "Baochang": [
+        "椅子"
+    ],
+    "Jining": [
+        "椅子"
+    ],
+    "Hohhot": [
+        "椅子"
+    ],
+    "Baotou": [
+        "椅子"
+    ],
+    "Dongsheng": [
+        "椅子"
+    ],
+    "Linhe": [
+        "椅子"
+    ],
+    "Haibowan": [
+        "椅子"
+    ],
+    "Shanghai": [
+        "椅子"
+    ],
+    "Suzhou": [
+        "交椅",
+        "靠背",
+        "椅子",
+        "靠背矮凳"
+    ],
+    "Wuxi": [
+        "靠背椅"
+    ],
+    "Hangzhou": [
+        "椅子",
+        "靠背椅",
+        "靠背椅子"
+    ],
+    "Chongming": [
+        "椅子"
+    ],
+    "Wenzhou": [
+        "矮椅"
+    ],
+    "Danyang": [
+        "椅子",
+        "靠背椅子",
+        "靠背椅"
+    ],
+    "Jinhua": [
+        "交椅",
+        "椅子",
+        "靠背椅"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "椅子"
+    ],
+    "Changsha": [
+        "椅子",
+        "靠背椅子",
+        "靠椅"
+    ],
+    "Shuangfeng": [
+        "椅子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "交椅"
+    ],
+    "Lichuan": [
+        "椅仔"
+    ],
+    "Pingxiang": [
+        "椅子"
+    ],
+    "Meixian": [
+        "椅仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "靠背椅"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "憑凳子"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "椅子"
+    ],
+    "Yudu": [
+        "椅子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "椅"
+    ],
+    "Shangyou": [
+        "椅子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "凳仔"
+    ],
+    "Liudui": [
+        "凳仔"
+    ],
+    "Hsinchu": [
+        "凳仔"
+    ],
+    "Dongshi": [
+        "凳"
+    ],
+    "Raoping": [
+        "凳仔"
+    ],
+    "Yunlin": [
+        "凳"
+    ],
+    "Hong Kong-H": [
+        "交椅"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "凳"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "交椅"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [
+        "椅兒"
+    ],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "椅",
+        "挨屏椅"
+    ],
+    "Hong Kong": [
+        "凳",
+        "椅",
+        "挨屏椅"
+    ],
+    "Shunde": [
+        "椅"
+    ],
+    "Foshan": [
+        "椅"
+    ],
+    "Zhongshan": [
+        "椅"
+    ],
+    "Dongguan": [
+        "凳",
+        "鉸椅"
+    ],
+    "HK Weitou": [
+        "凳",
+        "椅"
+    ],
+    "Doumen-T": [
+        "椅"
+    ],
+    "Doumen-S": [
+        "椅"
+    ],
+    "Taishan": [
+        "椅"
+    ],
+    "Kaiping": [
+        "椅"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "椅"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "椅"
+    ],
+    "Ho Chi Minh City": [
+        "椅"
+    ],
+    "Nanning-P": [
+        "椅子",
+        "靠背椅"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "椅",
+        "椅仔"
+    ],
+    "Quanzhou": [],
+    "Zhangzhou": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "椅"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "椅"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "椅囝",
+        "椅"
+    ],
+    "Leizhou": [
+        "椅"
+    ],
+    "Putian": [
+        "椅",
+        "厚椅",
+        "仙椅"
+    ],
+    "Xianyou": [
+        "交椅"
+    ],
+    "Fuzhou": [
+        "椅",
+        "椅頭"
+    ],
+    "Changle": [
+        "椅囝"
+    ],
+    "Fuqing": [
+        "椅",
+        "椅頭"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "椅囝"
+    ],
+    "Gutian": [
+        "椅頭"
+    ],
+    "Fu'an": [
+        "凳"
+    ],
+    "Ningde": [
+        "凳頭"
+    ],
+    "Shouning": [
+        "凳頭"
+    ],
+    "Zhouning": [
+        "椅",
+        "長凳囝"
+    ],
+    "Fuding": [
+        "交椅囝"
+    ],
+    "Matsu": [
+        "椅",
+        "椅頭"
+    ],
+    "Jian'ou": [
+        "椅仔",
+        "有屏椅"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "椅"
+    ],
+    "Fuding-She": [
+        "椅"
+    ],
+    "Luoyuan-She": [
+        "椅"
+    ],
+    "Sanming-She": [
+        "椅"
+    ],
+    "Shunchang-She": [
+        "椅"
+    ],
+    "Hua'an-She": [
+        "椅仔"
+    ],
+    "Guixi-She": [
+        "椅"
+    ],
+    "Cangnan-She": [
+        "椅"
+    ],
+    "Jingning-She": [
+        "交椅"
+    ],
+    "Lishui-She": [
+        "家椅"
+    ],
+    "Longyou-She": [
+        "家椅"
+    ],
+    "Chaozhou-She": [
+        "凳"
+    ],
+    "Fengshun-She": [
+        "椅"
+    ]
 }

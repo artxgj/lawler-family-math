@@ -1,404 +1,318 @@
 {
     "meaning": "chick; young chicken",
     "note": "",
-    "Classical": {
-        "1": "雛",
-        "2": "雞子"
-    },
-    "Formal": {
-        "1": "雛雞"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "小雞兒"
-    },
-    "Taiwan": {
-        "1": "小雞"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "雞崽兒"
-    },
-    "Shenyang": {
-        "1": "雞崽兒"
-    },
-    "Jinan": {
-        "1": "小雞兒"
-    },
-    "Muping": {
-        "1": "小雞兒"
-    },
-    "Luoyang": {
-        "1": "雞娃兒"
-    },
-    "Wanrong": {
-        "1": "雞娃"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "雞娃兒",
-        "2": "雞娃子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "雞娃兒",
-        "2": "雞雞"
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": "雞娃娃",
-        "2": "雞娃子"
-    },
-    "Lanzhou": {
-        "1": "雞娃子"
-    },
-    "Ürümqi": {
-        "1": "雞娃子"
-    },
-    "Wuhan": {
-        "1": "小雞",
-        "2": "雞娃",
-        "3": "小雞娃",
-        "4": "小雞子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "小雞兒",
-        "2": "小雞",
-        "3": "雞娃兒",
-        "4": "雞娃子",
-        "5": "雞崽崽",
-        "6": "小雞娃兒"
-    },
-    "Guiyang": {
-        "1": "小雞兒",
-        "2": "雞兒",
-        "3": "小雞崽",
-        "4": "雞崽"
-    },
-    "Liuzhou": {
-        "1": "雞崽"
-    },
-    "Kunming": {
-        "1": "小雞"
-    },
-    "Yangzhou": {
-        "1": "小雞子",
-        "2": "小羊雞子"
-    },
-    "Nanjing": {
-        "1": "小秧雞",
-        "2": "小雞",
-        "3": "絨雞:suburbs"
-    },
-    "Hefei": {
-        "1": "小雞"
-    },
-    "Nantong": {
-        "1": "小雞兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "小雞兒",
-        "2": "小雞",
-        "3": "雞娃子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "小雞兒"
-    },
-    "Suzhou": {
-        "1": "小雞"
-    },
-    "Hangzhou": {
-        "1": "小雞兒"
-    },
-    "Shanghai": {
-        "1": "小雞"
-    },
-    "Chongming": {
-        "1": "小雞"
-    },
-    "Wenzhou": {
-        "1": "雞兒"
-    },
-    "Danyang": {
-        "1": "小雞"
-    },
-    "Jinhua": {
-        "1": "小雞",
-        "2": "小雞兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "小雞"
-    },
-    "Changsha": {
-        "1": "雞崽子"
-    },
-    "Shuangfeng": {
-        "1": "雞崽基"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "雞崽唧"
-    },
-    "Nanchang": {
-        "1": "雞崽子"
-    },
-    "Lichuan": {
-        "1": "雞崽兒"
-    },
-    "Pingxiang": {
-        "1": "雞崽子"
-    },
-    "Meixian": {
-        "1": "細雞仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "尒雞子",
-        "2": "雞子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "雞子",
-        "2": "細雞子"
-    },
-    "Liudui": {
-        "1": "雞㸰仔",
-        "2": "細雞子"
-    },
-    "Hsinchu": {
-        "1": "雞子",
-        "2": "細雞子"
-    },
-    "Dongshi": {
-        "1": "雞子",
-        "2": "細雞子"
-    },
-    "Raoping": {
-        "1": "雞子",
-        "2": "細雞子"
-    },
-    "Yunlin": {
-        "1": "雞么"
-    },
-    "Hong Kong-H": {
-        "1": "雞仔"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "細雞"
-    },
-    "Guangzhou": {
-        "1": "雞仔"
-    },
-    "Hong Kong": {
-        "1": "雞仔"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "雞仔"
-    },
-    "HK Weitou": {
-        "1": "雞仔"
-    },
-    "Taishan": {
-        "1": "雞仔"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "雞仔"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "雞崽",
-        "2": "細雞"
-    },
-    "Xiamen": {
-        "1": "雞仔囝",
-        "2": "雞仔",
-        "3": "雞桃"
-    },
-    "Quanzhou": {
-        "1": "雞仔",
-        "2": "雞豚仔"
-    },
-    "Zhangzhou": {
-        "1": "雞仔囝",
-        "2": "雞仔",
-        "3": "雞桃",
-        "4": "雞桃仔"
-    },
-    "Taipei": {
-        "1": "雞仔囝"
-    },
-    "Kaohsiung": {
-        "1": "雞仔囝"
-    },
-    "Tainan": {
-        "1": "雞仔囝"
-    },
-    "Taichung": {
-        "1": "雞仔囝"
-    },
-    "Wuqi": {
-        "1": "雞仔囝"
-    },
-    "Hsinchu-MN": {
-        "1": "雞仔囝"
-    },
-    "Taitung": {
-        "1": "雞仔囝"
-    },
-    "Lukang": {
-        "1": "雞仔囝"
-    },
-    "Sanxia": {
-        "1": "雞仔囝"
-    },
-    "Yilan": {
-        "1": "雞仔囝"
-    },
-    "Kinmen": {
-        "1": "雞仔囝"
-    },
-    "Magong": {
-        "1": "雞仔囝"
-    },
-    "Malaysia-MN": {
-        "1": "雞囝"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "雞囝"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "雞囝"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "雞囝"
-    },
-    "Fuqing": {
-        "1": "雞囝"
-    },
-    "Matsu": {
-        "1": "雞囝"
-    },
-    "Jian'ou": {
-        "1": "雞仔"
-    }
+    "Classical": [
+        "雛",
+        "雞子"
+    ],
+    "Formal": [
+        "雛雞"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "小雞兒"
+    ],
+    "Taiwan": [
+        "小雞"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "雞崽兒"
+    ],
+    "Shenyang": [
+        "雞崽兒"
+    ],
+    "Jinan": [
+        "小雞兒"
+    ],
+    "Muping": [
+        "小雞兒"
+    ],
+    "Luoyang": [
+        "雞娃兒"
+    ],
+    "Wanrong": [
+        "雞娃"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "雞娃兒",
+        "雞娃子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "雞娃兒",
+        "雞雞"
+    ],
+    "Xuzhou": [],
+    "Yinchuan": [
+        "雞娃娃",
+        "雞娃子"
+    ],
+    "Lanzhou": [
+        "雞娃子"
+    ],
+    "Ürümqi": [
+        "雞娃子"
+    ],
+    "Wuhan": [
+        "小雞",
+        "雞娃",
+        "小雞娃",
+        "小雞子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "小雞兒",
+        "小雞",
+        "雞娃兒",
+        "雞娃子",
+        "雞崽崽",
+        "小雞娃兒"
+    ],
+    "Guiyang": [
+        "小雞兒",
+        "雞兒",
+        "小雞崽",
+        "雞崽"
+    ],
+    "Liuzhou": [
+        "雞崽"
+    ],
+    "Kunming": [
+        "小雞"
+    ],
+    "Yangzhou": [
+        "小雞子",
+        "小羊雞子"
+    ],
+    "Nanjing": [
+        "小秧雞",
+        "小雞",
+        "絨雞:suburbs"
+    ],
+    "Hefei": [
+        "小雞"
+    ],
+    "Nantong": [
+        "小雞兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "小雞兒",
+        "小雞",
+        "雞娃子"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "小雞兒"
+    ],
+    "Suzhou": [
+        "小雞"
+    ],
+    "Hangzhou": [
+        "小雞兒"
+    ],
+    "Shanghai": [
+        "小雞"
+    ],
+    "Chongming": [
+        "小雞"
+    ],
+    "Wenzhou": [
+        "雞兒"
+    ],
+    "Danyang": [
+        "小雞"
+    ],
+    "Jinhua": [
+        "小雞",
+        "小雞兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "小雞"
+    ],
+    "Changsha": [
+        "雞崽子"
+    ],
+    "Shuangfeng": [
+        "雞崽基"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "雞崽唧"
+    ],
+    "Nanchang": [
+        "雞崽子"
+    ],
+    "Lichuan": [
+        "雞崽兒"
+    ],
+    "Pingxiang": [
+        "雞崽子"
+    ],
+    "Meixian": [
+        "細雞仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "尒雞子",
+        "雞子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "雞子",
+        "細雞子"
+    ],
+    "Liudui": [
+        "雞㸰仔",
+        "細雞子"
+    ],
+    "Hsinchu": [
+        "雞子",
+        "細雞子"
+    ],
+    "Dongshi": [
+        "雞子",
+        "細雞子"
+    ],
+    "Raoping": [
+        "雞子",
+        "細雞子"
+    ],
+    "Yunlin": [
+        "雞么"
+    ],
+    "Hong Kong-H": [
+        "雞仔"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "細雞"
+    ],
+    "Guangzhou": [
+        "雞仔"
+    ],
+    "Hong Kong": [
+        "雞仔"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "雞仔"
+    ],
+    "HK Weitou": [
+        "雞仔"
+    ],
+    "Taishan": [
+        "雞仔"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "雞仔"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "雞崽",
+        "細雞"
+    ],
+    "Xiamen": [
+        "雞仔囝",
+        "雞仔",
+        "雞桃"
+    ],
+    "Quanzhou": [
+        "雞仔",
+        "雞豚仔"
+    ],
+    "Zhangzhou": [
+        "雞仔囝",
+        "雞仔",
+        "雞桃",
+        "雞桃仔"
+    ],
+    "Taipei": [
+        "雞仔囝"
+    ],
+    "Kaohsiung": [
+        "雞仔囝"
+    ],
+    "Tainan": [
+        "雞仔囝"
+    ],
+    "Taichung": [
+        "雞仔囝"
+    ],
+    "Wuqi": [
+        "雞仔囝"
+    ],
+    "Hsinchu-MN": [
+        "雞仔囝"
+    ],
+    "Taitung": [
+        "雞仔囝"
+    ],
+    "Lukang": [
+        "雞仔囝"
+    ],
+    "Sanxia": [
+        "雞仔囝"
+    ],
+    "Yilan": [
+        "雞仔囝"
+    ],
+    "Kinmen": [
+        "雞仔囝"
+    ],
+    "Magong": [
+        "雞仔囝"
+    ],
+    "Malaysia-MN": [
+        "雞囝"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "雞囝"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "雞囝"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [
+        "雞囝"
+    ],
+    "Fuqing": [
+        "雞囝"
+    ],
+    "Matsu": [
+        "雞囝"
+    ],
+    "Jian'ou": [
+        "雞仔"
+    ]
 }

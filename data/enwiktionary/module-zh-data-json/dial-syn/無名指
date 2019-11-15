@@ -1,485 +1,367 @@
 {
     "meaning": "ring finger",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "無名指"
-    },
-    "Taiwan": {
-        "1": "無名指"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "無名指"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "無名指"
-    },
-    "Ulan Hot": {
-        "1": "無名指"
-    },
-    "Tongliao": {
-        "1": "無名指"
-    },
-    "Chifeng": {
-        "1": "無名指"
-    },
-    "Bayanhot": {
-        "1": "無名指"
-    },
-    "Jinan": {
-        "1": "無名指"
-    },
-    "Muping": {
-        "1": "無名兒指"
-    },
-    "Luoyang": {
-        "1": "無名指",
-        "2": "四拇指頭"
-    },
-    "Wanrong": {
-        "1": "四面手圪頭",
-        "2": "四面面"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "四門指頭"
-    },
-    "Qingdao": {
-        "1": "無名指"
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "四指",
-        "2": "四拇指頭",
-        "3": "四拇哥兒"
-    },
-    "Xuzhou": {
-        "1": "無名指"
-    },
-    "Yinchuan": {
-        "1": "無名指"
-    },
-    "Lanzhou": {
-        "1": "四指"
-    },
-    "Ürümqi": {
-        "1": "四拇指頭"
-    },
-    "Wuhan": {
-        "1": "四指甲"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "四指拇兒",
-        "2": "無名指"
-    },
-    "Guiyang": {
-        "1": "四指拇"
-    },
-    "Guilin": {
-        "1": "四指媽"
-    },
-    "Liuzhou": {
-        "1": "四指",
-        "2": "無名指"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "四麻指"
-    },
-    "Nanjing": {
-        "1": "四指抹頭",
-        "2": "四指頭",
-        "3": "四馬指",
-        "4": "荷花葉"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "四拇指頭"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "四拇指頭"
-    },
-    "Baochang": {
-        "1": "無名指"
-    },
-    "Jining": {
-        "1": "無名指"
-    },
-    "Hohhot": {
-        "1": "四拇哥兒"
-    },
-    "Baotou": {
-        "1": "無名指"
-    },
-    "Dongsheng": {
-        "1": "無名指"
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": "無名指"
-    },
-    "Suzhou": {
-        "1": "無名節頭",
-        "2": "要好看"
-    },
-    "Hangzhou": {
-        "1": "無名指"
-    },
-    "Shanghai": {
-        "1": "無名指",
-        "2": "黃狼節頭"
-    },
-    "Chongming": {
-        "1": "四節頭"
-    },
-    "Wenzhou": {
-        "1": "無名指"
-    },
-    "Danyang": {
-        "1": "四拇指頭"
-    },
-    "Jinhua": {
-        "1": "無名指"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "無名指"
-    },
-    "Changsha": {
-        "1": "四指腦",
-        "2": "四指拇"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": "無名指"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "四手節"
-    },
-    "Pingxiang": {
-        "1": "第四隻手指腦"
-    },
-    "Meixian": {
-        "1": "四手指"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "無名指"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "無名指",
-        "2": "細手指"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "無名指",
-        "2": "矮㑁指",
-        "3": "蘸藥指"
-    },
-    "Liudui": {
-        "1": "無名指",
-        "2": "矮㑁指",
-        "3": "蘸藥指"
-    },
-    "Hsinchu": {
-        "1": "無名指"
-    },
-    "Dongshi": {
-        "1": "無名指"
-    },
-    "Raoping": {
-        "1": "無名指",
-        "2": "矮㑁指",
-        "3": "蘸藥指"
-    },
-    "Yunlin": {
-        "1": "尾二指"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": "無名指"
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": "無名指"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "無名指"
-    },
-    "Guangzhou": {
-        "1": "無名指",
-        "2": "四指"
-    },
-    "Hong Kong": {
-        "1": "無名指"
-    },
-    "Shunde": {
-        "1": "無名指"
-    },
-    "Foshan": {
-        "1": "無名指",
-        "2": "四指"
-    },
-    "Zhongshan": {
-        "1": "四指"
-    },
-    "Dongguan": {
-        "1": "無名指"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "無名指",
-        "2": "尾二"
-    },
-    "Doumen": {
-        "1": "四指"
-    },
-    "Kaiping": {
-        "1": "無名指"
-    },
-    "Shaoguan": {
-        "1": "無名指"
-    },
-    "Yunfu": {
-        "1": "無名指"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "無名指"
-    },
-    "Lianjiang": {
-        "1": "無名指"
-    },
-    "Nanning": {
-        "1": "無名指",
-        "2": "四指"
-    },
-    "Wuzhou": {
-        "1": "無名指",
-        "2": "四指"
-    },
-    "Yulin": {
-        "1": "無名指"
-    },
-    "Hepu": {
-        "1": "典人指"
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "無名指"
-    },
-    "Guilin-P": {
-        "1": "無名指"
-    },
-    "Xiamen": {
-        "1": "䆀指",
-        "2": "尾二指"
-    },
-    "Quanzhou": {
-        "1": "尾二指",
-        "2": "佬仔指"
-    },
-    "Zhangzhou": {
-        "1": "佬仔指"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": "尾二指"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": "愛媠"
-    },
-    "Yilan": {
-        "1": "尾仔二指",
-        "2": "尾仔第二指"
-    },
-    "Kinmen": {
-        "1": "佬仔"
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "四指仔"
-    },
-    "Pingnan": {
-        "1": "無名指"
-    },
-    "Chaozhou": {
-        "1": "狐狸指"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "煞尾第二指"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "第四手囝"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "無名指"
-    },
-    "Fuqing": {
-        "1": "尾二指",
-        "2": "無名指"
-    },
-    "Matsu": {
-        "1": "無名指"
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "無名指"
+    ],
+    "Taiwan": [
+        "無名指"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "無名指"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "無名指"
+    ],
+    "Ulan Hot": [
+        "無名指"
+    ],
+    "Tongliao": [
+        "無名指"
+    ],
+    "Chifeng": [
+        "無名指"
+    ],
+    "Bayanhot": [
+        "無名指"
+    ],
+    "Jinan": [
+        "無名指"
+    ],
+    "Muping": [
+        "無名兒指"
+    ],
+    "Luoyang": [
+        "無名指",
+        "四拇指頭"
+    ],
+    "Wanrong": [
+        "四面手圪頭",
+        "四面面"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "四門指頭"
+    ],
+    "Qingdao": [
+        "無名指"
+    ],
+    "Zhengzhou": [],
+    "Xining": [
+        "四指",
+        "四拇指頭",
+        "四拇哥兒"
+    ],
+    "Xuzhou": [
+        "無名指"
+    ],
+    "Yinchuan": [
+        "無名指"
+    ],
+    "Lanzhou": [
+        "四指"
+    ],
+    "Ürümqi": [
+        "四拇指頭"
+    ],
+    "Wuhan": [
+        "四指甲"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "四指拇兒",
+        "無名指"
+    ],
+    "Guiyang": [
+        "四指拇"
+    ],
+    "Guilin": [
+        "四指媽"
+    ],
+    "Liuzhou": [
+        "四指",
+        "無名指"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "四麻指"
+    ],
+    "Nanjing": [
+        "四指抹頭",
+        "四指頭",
+        "四馬指",
+        "荷花葉"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "四拇指頭"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "四拇指頭"
+    ],
+    "Baochang": [
+        "無名指"
+    ],
+    "Jining": [
+        "無名指"
+    ],
+    "Hohhot": [
+        "四拇哥兒"
+    ],
+    "Baotou": [
+        "無名指"
+    ],
+    "Dongsheng": [
+        "無名指"
+    ],
+    "Linhe": [],
+    "Haibowan": [
+        "無名指"
+    ],
+    "Suzhou": [
+        "無名節頭",
+        "要好看"
+    ],
+    "Hangzhou": [
+        "無名指"
+    ],
+    "Shanghai": [
+        "無名指",
+        "黃狼節頭"
+    ],
+    "Chongming": [
+        "四節頭"
+    ],
+    "Wenzhou": [
+        "無名指"
+    ],
+    "Danyang": [
+        "四拇指頭"
+    ],
+    "Jinhua": [
+        "無名指"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "無名指"
+    ],
+    "Changsha": [
+        "四指腦",
+        "四指拇"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [
+        "無名指"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "四手節"
+    ],
+    "Pingxiang": [
+        "第四隻手指腦"
+    ],
+    "Meixian": [
+        "四手指"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "無名指"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "無名指",
+        "細手指"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "無名指",
+        "矮㑁指",
+        "蘸藥指"
+    ],
+    "Liudui": [
+        "無名指",
+        "矮㑁指",
+        "蘸藥指"
+    ],
+    "Hsinchu": [
+        "無名指"
+    ],
+    "Dongshi": [
+        "無名指"
+    ],
+    "Raoping": [
+        "無名指",
+        "矮㑁指",
+        "蘸藥指"
+    ],
+    "Yunlin": [
+        "尾二指"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [
+        "無名指"
+    ],
+    "Senai": [],
+    "Singkawang": [
+        "無名指"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "無名指"
+    ],
+    "Guangzhou": [
+        "無名指",
+        "四指"
+    ],
+    "Hong Kong": [
+        "無名指"
+    ],
+    "Shunde": [
+        "無名指"
+    ],
+    "Foshan": [
+        "無名指",
+        "四指"
+    ],
+    "Zhongshan": [
+        "四指"
+    ],
+    "Dongguan": [
+        "無名指"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "無名指",
+        "尾二"
+    ],
+    "Doumen": [
+        "四指"
+    ],
+    "Kaiping": [
+        "無名指"
+    ],
+    "Shaoguan": [
+        "無名指"
+    ],
+    "Yunfu": [
+        "無名指"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "無名指"
+    ],
+    "Lianjiang": [
+        "無名指"
+    ],
+    "Nanning": [
+        "無名指",
+        "四指"
+    ],
+    "Wuzhou": [
+        "無名指",
+        "四指"
+    ],
+    "Yulin": [
+        "無名指"
+    ],
+    "Hepu": [
+        "典人指"
+    ],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "無名指"
+    ],
+    "Guilin-P": [
+        "無名指"
+    ],
+    "Xiamen": [
+        "䆀指",
+        "尾二指"
+    ],
+    "Quanzhou": [
+        "尾二指",
+        "佬仔指"
+    ],
+    "Zhangzhou": [
+        "佬仔指"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [
+        "尾二指"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [
+        "愛媠"
+    ],
+    "Yilan": [
+        "尾仔二指",
+        "尾仔第二指"
+    ],
+    "Kinmen": [
+        "佬仔"
+    ],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Yongfu": [
+        "四指仔"
+    ],
+    "Pingnan": [
+        "無名指"
+    ],
+    "Chaozhou": [
+        "狐狸指"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "煞尾第二指"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "第四手囝"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "無名指"
+    ],
+    "Fuqing": [
+        "尾二指",
+        "無名指"
+    ],
+    "Matsu": [
+        "無名指"
+    ],
+    "Jian'ou": []
 }

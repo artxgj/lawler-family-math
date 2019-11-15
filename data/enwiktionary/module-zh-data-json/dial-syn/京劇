@@ -1,373 +1,235 @@
 {
     "meaning": "Peking opera",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "京劇",
-        "2": "京戲"
-    },
-    "Taiwan": {
-        "1": "國劇",
-        "2": "京劇",
-        "3": "平劇",
-        "4": "京戲"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "京戲"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "京劇"
-    },
-    "Muping": {
-        "1": "京劇"
-    },
-    "Luoyang": {
-        "1": "京劇"
-    },
-    "Wanrong": {
-        "1": "京劇"
-    },
-    "Xi'an": {
-        "1": "京劇"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "京戲"
-    },
-    "Xuzhou": {
-        "1": "京戲",
-        "2": "大戲",
-        "3": "二黃戲:dated"
-    },
-    "Yinchuan": {
-        "1": "京戲"
-    },
-    "Lanzhou": {
-        "1": "京戲"
-    },
-    "Ürümqi": {
-        "1": "京戲"
-    },
-    "Wuhan": {
-        "1": "京戲"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "京戲"
-    },
-    "Guiyang": {
-        "1": "京劇",
-        "2": "京戲"
-    },
-    "Liuzhou": {
-        "1": "京戲",
-        "2": "京劇"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "大戲"
-    },
-    "Nanjing": {
-        "1": "京戲"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "京戲"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "京劇"
-    },
-    "Suzhou": {
-        "1": "京戲",
-        "2": "大戲:dated"
-    },
-    "Hangzhou": {
-        "1": "京戲"
-    },
-    "Shanghai": {
-        "1": "京戲",
-        "2": "大戲:dated"
-    },
-    "Chongming": {
-        "1": "京戲"
-    },
-    "Wenzhou": {
-        "1": "京戲"
-    },
-    "Danyang": {
-        "1": "京戲",
-        "2": "大戲"
-    },
-    "Jinhua": {
-        "1": "京劇"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "京戲"
-    },
-    "Changsha": {
-        "1": "京戲"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "京戲"
-    },
-    "Nanchang": {
-        "1": "京戲"
-    },
-    "Lichuan": {
-        "1": "京戲"
-    },
-    "Pingxiang": {
-        "1": "京戲"
-    },
-    "Meixian": {
-        "1": "京劇"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "京劇",
-        "2": "京戲"
-    },
-    "Guangzhou": {
-        "1": "京劇"
-    },
-    "Hong Kong": {
-        "1": "京劇"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "京劇"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "京劇"
-    },
-    "Xiamen": {
-        "1": "京劇",
-        "2": "京班:dated",
-        "3": "大班:dated",
-        "4": "正音:dated"
-    },
-    "Quanzhou": {
-        "1": "京劇",
-        "2": "京班:dated",
-        "3": "大班:dated"
-    },
-    "Zhangzhou": {
-        "1": "京劇",
-        "2": "京班:dated",
-        "3": "大班:dated",
-        "4": "正音:dated"
-    },
-    "Taipei": {
-        "1": "京戲",
-        "2": "正音"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "京戲"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "京戲"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "京戲"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "京劇",
+        "京戲"
+    ],
+    "Taiwan": [
+        "國劇",
+        "京劇",
+        "平劇",
+        "京戲"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "京戲"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "京劇"
+    ],
+    "Muping": [
+        "京劇"
+    ],
+    "Luoyang": [
+        "京劇"
+    ],
+    "Wanrong": [
+        "京劇"
+    ],
+    "Xi'an": [
+        "京劇"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "京戲"
+    ],
+    "Xuzhou": [
+        "京戲",
+        "大戲",
+        "二黃戲:dated"
+    ],
+    "Yinchuan": [
+        "京戲"
+    ],
+    "Lanzhou": [
+        "京戲"
+    ],
+    "Ürümqi": [
+        "京戲"
+    ],
+    "Wuhan": [
+        "京戲"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "京戲"
+    ],
+    "Guiyang": [
+        "京劇",
+        "京戲"
+    ],
+    "Liuzhou": [
+        "京戲",
+        "京劇"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "大戲"
+    ],
+    "Nanjing": [
+        "京戲"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "京戲"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "京劇"
+    ],
+    "Suzhou": [
+        "京戲",
+        "大戲:dated"
+    ],
+    "Hangzhou": [
+        "京戲"
+    ],
+    "Shanghai": [
+        "京戲",
+        "大戲:dated"
+    ],
+    "Chongming": [
+        "京戲"
+    ],
+    "Wenzhou": [
+        "京戲"
+    ],
+    "Danyang": [
+        "京戲",
+        "大戲"
+    ],
+    "Jinhua": [
+        "京劇"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "京戲"
+    ],
+    "Changsha": [
+        "京戲"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "京戲"
+    ],
+    "Nanchang": [
+        "京戲"
+    ],
+    "Lichuan": [
+        "京戲"
+    ],
+    "Pingxiang": [
+        "京戲"
+    ],
+    "Meixian": [
+        "京劇"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "京劇",
+        "京戲"
+    ],
+    "Guangzhou": [
+        "京劇"
+    ],
+    "Hong Kong": [
+        "京劇"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "京劇"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [
+        "京劇"
+    ],
+    "Xiamen": [
+        "京劇",
+        "京班:dated",
+        "大班:dated",
+        "正音:dated"
+    ],
+    "Quanzhou": [
+        "京劇",
+        "京班:dated",
+        "大班:dated"
+    ],
+    "Zhangzhou": [
+        "京劇",
+        "京班:dated",
+        "大班:dated",
+        "正音:dated"
+    ],
+    "Taipei": [
+        "京戲",
+        "正音"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "京戲"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [
+        "京戲"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "京戲"
+    ]
 }

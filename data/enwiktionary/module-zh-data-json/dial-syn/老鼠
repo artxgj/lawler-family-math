@@ -1,826 +1,722 @@
 {
     "meaning": "mouse; rat",
     "note": "",
-    "Classical": {
-        "1": "鼠"
-    },
-    "Formal": {
-        "1": "老鼠"
-    },
-    "Taxonomic": {
-        "1": "鼠"
-    },
-    "Beijing": {
-        "1": "耗子"
-    },
-    "Taiwan": {
-        "1": "老鼠"
-    },
-    "Tianjin": {
-        "1": "耗子"
-    },
-    "Harbin": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Shenyang": {
-        "1": "耗子"
-    },
-    "Hailar": {
-        "1": "耗子"
-    },
-    "Ulan Hot": {
-        "1": "耗子"
-    },
-    "Tongliao": {
-        "1": "耗子"
-    },
-    "Chifeng": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Bayanhot": {
-        "1": "老鼠"
-    },
-    "Jinan": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Muping": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Luoyang": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Wanrong": {
-        "1": "老鼠"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "老鼠"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "老鼠"
-    },
-    "Xining": {
-        "1": "老鼠"
-    },
-    "Xuzhou": {
-        "1": "老鼠"
-    },
-    "Yinchuan": {
-        "1": "老鼠"
-    },
-    "Lanzhou": {
-        "1": "老鼠子"
-    },
-    "Ürümqi": {
-        "1": "老鼠"
-    },
-    "Wuhan": {
-        "1": "老鼠",
-        "2": "高大爹:dated, euphemistic",
-        "3": "客人:dated, euphemistic"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "耗子"
-    },
-    "Guiyang": {
-        "1": "耗子"
-    },
-    "Guilin": {
-        "1": "老鼠"
-    },
-    "Liuzhou": {
-        "1": "老鼠",
-        "2": "耗子"
-    },
-    "Kunming": {
-        "1": "老鼠"
-    },
-    "Yangzhou": {
-        "1": "老鼠"
-    },
-    "Nanjing": {
-        "1": "老鼠",
-        "2": "小耳朵"
-    },
-    "Hefei": {
-        "1": "老鼠",
-        "2": "老鼠子"
-    },
-    "Nantong": {
-        "1": "老鼠"
-    },
-    "Malaysia-M": {
-        "1": "老鼠"
-    },
-    "Singapore-M": {
-        "1": "老鼠"
-    },
-    "Gansu-DG": {
-        "1": "老鼠"
-    },
-    "Shaanxi-DG": {
-        "1": "老鼠"
-    },
-    "Taiyuan": {
-        "1": "老鼠",
-        "2": "𪕸兒",
-        "3": "耗子"
-    },
-    "Pingyao": {
-        "1": "𪕸兒"
-    },
-    "Xinzhou": {
-        "1": "𪕸兒",
-        "2": "耗子"
-    },
-    "Baochang": {
-        "1": "耗子"
-    },
-    "Jining": {
-        "1": "老鼠"
-    },
-    "Hohhot": {
-        "1": "耗子"
-    },
-    "Baotou": {
-        "1": "老鼠"
-    },
-    "Dongsheng": {
-        "1": "老鼠"
-    },
-    "Linhe": {
-        "1": "老鼠"
-    },
-    "Haibowan": {
-        "1": "老鼠"
-    },
-    "Shanghai": {
-        "1": "老蟲",
-        "2": "老鼠"
-    },
-    "Suzhou": {
-        "1": "老蟲",
-        "2": "老鼠",
-        "3": "夜裡大人:humorous"
-    },
-    "Wuxi": {
-        "1": "老蟲"
-    },
-    "Hangzhou": {
-        "1": "老鼠"
-    },
-    "Chongming": {
-        "1": "老鼠",
-        "2": "老蟲"
-    },
-    "Wenzhou": {
-        "1": "老鼠"
-    },
-    "Danyang": {
-        "1": "老鼠"
-    },
-    "Jinhua": {
-        "1": "老鼠"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "老鼠"
-    },
-    "Changsha": {
-        "1": "老鼠子",
-        "2": "高客:dated, euphemistic",
-        "3": "高客子:dated, euphemistic"
-    },
-    "Shuangfeng": {
-        "1": "老鼠子",
-        "2": "高客:euphemistic"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "老鼠子"
-    },
-    "Quanzhou-X": {
-        "1": "老鼠"
-    },
-    "Nanchang": {
-        "1": "老鼠",
-        "2": "財神:euphemistic"
-    },
-    "Lichuan": {
-        "1": "老鼠"
-    },
-    "Pingxiang": {
-        "1": "老鼠子",
-        "2": "老鼠"
-    },
-    "Meixian": {
-        "1": "老鼠"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "老鼠"
-    },
-    "Huizhou-SK": {
-        "1": "老鼠"
-    },
-    "Huizhou-HL": {
-        "1": "老鼠"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "老鼠",
-        "2": "老鼠仔"
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "老鼠"
-    },
-    "Longmen-PL": {
-        "1": "老鼠"
-    },
-    "Longmen-LX": {
-        "1": "老鼠"
-    },
-    "Boluo": {
-        "1": "老鼠"
-    },
-    "Shenzhen-H": {
-        "1": "老鼠"
-    },
-    "Zengcheng-ZG": {
-        "1": "老鼠"
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "老鼠"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": "老鼠"
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": "老鼠"
-    },
-    "Zijin-GZ": {
-        "1": "老鼠"
-    },
-    "Longchuan-TC": {
-        "1": "老鼠"
-    },
-    "Longchuan-SD": {
-        "1": "老鼠"
-    },
-    "Heping-LZ": {
-        "1": "老鼠"
-    },
-    "Lianping-ZX": {
-        "1": "老鼠"
-    },
-    "Lianping-LJ": {
-        "1": "老鼠"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": "老鼠"
-    },
-    "Xinfeng-DX": {
-        "1": "老鼠"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "老鼠"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "老鼠"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "了猬"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "老鼠"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "老鼠"
-    },
-    "Shangyou": {
-        "1": "老鼠"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "老鼠"
-    },
-    "Liudui": {
-        "1": "老鼠"
-    },
-    "Hsinchu": {
-        "1": "老鼠"
-    },
-    "Dongshi": {
-        "1": "老鼠"
-    },
-    "Raoping": {
-        "1": "老鼠"
-    },
-    "Yunlin": {
-        "1": "老鼠"
-    },
-    "Hong Kong-H": {
-        "1": "老鼠"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "老鼠"
-    },
-    "Senai": {
-        "1": "老鼠"
-    },
-    "Singkawang": {
-        "1": "老鼠"
-    },
-    "Jixi": {
-        "1": "老鼠"
-    },
-    "Shexian": {
-        "1": "老鼠"
-    },
-    "Tunxi": {
-        "1": "老鼠"
-    },
-    "Xiuning": {
-        "1": "老伯"
-    },
-    "Yixian": {
-        "1": "老鼠"
-    },
-    "Qimen": {
-        "1": "老鼠"
-    },
-    "Wuyuan": {
-        "1": "老鼠"
-    },
-    "Fuliang": {
-        "1": "老鼠"
-    },
-    "Dexing": {
-        "1": "老鼠"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "老鼠"
-    },
-    "Hong Kong": {
-        "1": "老鼠"
-    },
-    "HK Weitou": {
-        "1": "老鼠"
-    },
-    "Kam Tin": {
-        "1": "老鼠"
-    },
-    "Ting Kok": {
-        "1": "老鼠"
-    },
-    "Tung Ping Chau": {
-        "1": "老鼠"
-    },
-    "Macau": {
-        "1": "老鼠"
-    },
-    "Panyu": {
-        "1": "老鼠"
-    },
-    "Huadu": {
-        "1": "老鼠"
-    },
-    "Conghua": {
-        "1": "老鼠"
-    },
-    "Zengcheng": {
-        "1": "老鼠"
-    },
-    "Foshan": {
-        "1": "老鼠"
-    },
-    "Nanhai": {
-        "1": "老鼠"
-    },
-    "Shunde": {
-        "1": "老鼠"
-    },
-    "Sanshui": {
-        "1": "老鼠"
-    },
-    "Gaoming": {
-        "1": "老鼠"
-    },
-    "Zhongshan": {
-        "1": "老鼠"
-    },
-    "Zhuhai": {
-        "1": "老鼠"
-    },
-    "Doumen-T": {
-        "1": "老鼠"
-    },
-    "Doumen-S": {
-        "1": "老鼠"
-    },
-    "Jiangmen": {
-        "1": "老鼠"
-    },
-    "Xinhui": {
-        "1": "老鼠"
-    },
-    "Taishan": {
-        "1": "老鼠"
-    },
-    "Kaiping": {
-        "1": "老鼠"
-    },
-    "Enping": {
-        "1": "老鼠"
-    },
-    "Heshan": {
-        "1": "老鼠"
-    },
-    "Dongguan": {
-        "1": "老鼠"
-    },
-    "Bao'an": {
-        "1": "老鼠"
-    },
-    "Dapeng": {
-        "1": "老鼠"
-    },
-    "Shaoguan": {
-        "1": "老鼠"
-    },
-    "Yunfu": {
-        "1": "老鼠"
-    },
-    "Yangjiang": {
-        "1": "老鼠"
-    },
-    "Xinyi": {
-        "1": "老鼠"
-    },
-    "Lianjiang": {
-        "1": "老鼠"
-    },
-    "Nanning": {
-        "1": "老鼠"
-    },
-    "Wuzhou": {
-        "1": "老鼠"
-    },
-    "Yulin": {
-        "1": "老鼠"
-    },
-    "Hepu": {
-        "1": "老鼠"
-    },
-    "Danzhou": {
-        "1": "老鼠"
-    },
-    "Kuala Lumpur": {
-        "1": "老鼠"
-    },
-    "Ho Chi Minh City": {
-        "1": "老鼠"
-    },
-    "Nanning-P": {
-        "1": "老鼠"
-    },
-    "Guilin-P": {
-        "1": "老鼠子"
-    },
-    "Xiamen": {
-        "1": "鳥鼠",
-        "2": "鼠"
-    },
-    "Tong'an": {
-        "1": "鳥鼠"
-    },
-    "Quanzhou": {
-        "1": "老鼠",
-        "2": "鼠"
-    },
-    "Jinjiang": {
-        "1": "老鼠"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": "老鼠"
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "鳥鼠",
-        "2": "鼠"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": "鳥鼠"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": "鳥鼠"
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": "鳥鼠"
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "鳥鼠"
-    },
-    "Taipei": {
-        "1": "鳥鼠"
-    },
-    "Kaohsiung": {
-        "1": "鳥鼠"
-    },
-    "Tainan": {
-        "1": "鳥鼠仔",
-        "2": "鳥鼠"
-    },
-    "Taichung": {
-        "1": "鳥鼠"
-    },
-    "Wuqi": {
-        "1": "鳥鼠"
-    },
-    "Hsinchu-MN": {
-        "1": "鳥鼠"
-    },
-    "Taitung": {
-        "1": "鳥鼠"
-    },
-    "Lukang": {
-        "1": "鳥鼠"
-    },
-    "Sanxia": {
-        "1": "鳥鼠"
-    },
-    "Yilan": {
-        "1": "鳥鼠",
-        "2": "鳥鼠仔"
-    },
-    "Kinmen": {
-        "1": "鳥鼠"
-    },
-    "Magong": {
-        "1": "鳥鼠"
-    },
-    "Malaysia-MN": {
-        "1": "鳥鼠"
-    },
-    "Singapore-MN": {
-        "1": "鳥鼠"
-    },
-    "Philippine-MN": {
-        "1": "老鼠"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": "老鼠"
-    },
-    "Yongfu": {
-        "1": "老鼠"
-    },
-    "Datian": {
-        "1": "鼠母"
-    },
-    "Pingnan": {
-        "1": "老鼠"
-    },
-    "Chaozhou": {
-        "1": "貓鼠"
-    },
-    "Shantou": {
-        "1": "貓鼠"
-    },
-    "Haifeng": {
-        "1": "貓鼠"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "貓鼠"
-    },
-    "Wenchang": {
-        "1": "貓鼠",
-        "2": "老鼠"
-    },
-    "Haikou": {
-        "1": "貓鼠"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "老鼠"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "老鼠",
-        "2": "尖尖喙:euphemistic"
-    },
-    "Changle": {
-        "1": "老鼠"
-    },
-    "Fuqing": {
-        "1": "老鼠"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "老鼠"
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "老鼠"
-    },
-    "Jian'ou": {
-        "1": "老鼠"
-    },
-    "Dikou": {
-        "1": "老鼠"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "老鼠"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "老鼠"
-    },
-    "Fu'an-She": {
-        "1": "老鼠"
-    },
-    "Fuding-She": {
-        "1": "老鼠"
-    },
-    "Luoyuan-She": {
-        "1": "老鼠"
-    },
-    "Sanming-She": {
-        "1": "老鼠"
-    },
-    "Shunchang-She": {
-        "1": "老鼠"
-    },
-    "Hua'an-She": {
-        "1": "老鼠"
-    },
-    "Guixi-She": {
-        "1": "老鼠"
-    },
-    "Cangnan-She": {
-        "1": "老鼠"
-    },
-    "Jingning-She": {
-        "1": "老鼠"
-    },
-    "Lishui-She": {
-        "1": "老鼠"
-    },
-    "Longyou-She": {
-        "1": "老鼠"
-    },
-    "Chaozhou-She": {
-        "1": "老鼠"
-    },
-    "Fengshun-She": {
-        "1": "老鼠"
-    }
+    "Classical": [
+        "鼠"
+    ],
+    "Formal": [
+        "老鼠"
+    ],
+    "Taxonomic": [
+        "鼠"
+    ],
+    "Beijing": [
+        "耗子"
+    ],
+    "Taiwan": [
+        "老鼠"
+    ],
+    "Tianjin": [
+        "耗子"
+    ],
+    "Harbin": [
+        "老鼠",
+        "耗子"
+    ],
+    "Shenyang": [
+        "耗子"
+    ],
+    "Hailar": [
+        "耗子"
+    ],
+    "Ulan Hot": [
+        "耗子"
+    ],
+    "Tongliao": [
+        "耗子"
+    ],
+    "Chifeng": [
+        "老鼠",
+        "耗子"
+    ],
+    "Bayanhot": [
+        "老鼠"
+    ],
+    "Jinan": [
+        "老鼠",
+        "耗子"
+    ],
+    "Muping": [
+        "老鼠",
+        "耗子"
+    ],
+    "Luoyang": [
+        "老鼠",
+        "耗子"
+    ],
+    "Wanrong": [
+        "老鼠"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "老鼠"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "老鼠"
+    ],
+    "Xining": [
+        "老鼠"
+    ],
+    "Xuzhou": [
+        "老鼠"
+    ],
+    "Yinchuan": [
+        "老鼠"
+    ],
+    "Lanzhou": [
+        "老鼠子"
+    ],
+    "Ürümqi": [
+        "老鼠"
+    ],
+    "Wuhan": [
+        "老鼠",
+        "高大爹:dated, euphemistic",
+        "客人:dated, euphemistic"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "耗子"
+    ],
+    "Guiyang": [
+        "耗子"
+    ],
+    "Guilin": [
+        "老鼠"
+    ],
+    "Liuzhou": [
+        "老鼠",
+        "耗子"
+    ],
+    "Kunming": [
+        "老鼠"
+    ],
+    "Yangzhou": [
+        "老鼠"
+    ],
+    "Nanjing": [
+        "老鼠",
+        "小耳朵"
+    ],
+    "Hefei": [
+        "老鼠",
+        "老鼠子"
+    ],
+    "Nantong": [
+        "老鼠"
+    ],
+    "Malaysia-M": [
+        "老鼠"
+    ],
+    "Singapore-M": [
+        "老鼠"
+    ],
+    "Gansu-DG": [
+        "老鼠"
+    ],
+    "Shaanxi-DG": [
+        "老鼠"
+    ],
+    "Taiyuan": [
+        "老鼠",
+        "𪕸兒",
+        "耗子"
+    ],
+    "Pingyao": [
+        "𪕸兒"
+    ],
+    "Xinzhou": [
+        "𪕸兒",
+        "耗子"
+    ],
+    "Baochang": [
+        "耗子"
+    ],
+    "Jining": [
+        "老鼠"
+    ],
+    "Hohhot": [
+        "耗子"
+    ],
+    "Baotou": [
+        "老鼠"
+    ],
+    "Dongsheng": [
+        "老鼠"
+    ],
+    "Linhe": [
+        "老鼠"
+    ],
+    "Haibowan": [
+        "老鼠"
+    ],
+    "Shanghai": [
+        "老蟲",
+        "老鼠"
+    ],
+    "Suzhou": [
+        "老蟲",
+        "老鼠",
+        "夜裡大人:humorous"
+    ],
+    "Wuxi": [
+        "老蟲"
+    ],
+    "Hangzhou": [
+        "老鼠"
+    ],
+    "Chongming": [
+        "老鼠",
+        "老蟲"
+    ],
+    "Wenzhou": [
+        "老鼠"
+    ],
+    "Danyang": [
+        "老鼠"
+    ],
+    "Jinhua": [
+        "老鼠"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "老鼠"
+    ],
+    "Changsha": [
+        "老鼠子",
+        "高客:dated, euphemistic",
+        "高客子:dated, euphemistic"
+    ],
+    "Shuangfeng": [
+        "老鼠子",
+        "高客:euphemistic"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "老鼠子"
+    ],
+    "Quanzhou-X": [
+        "老鼠"
+    ],
+    "Nanchang": [
+        "老鼠",
+        "財神:euphemistic"
+    ],
+    "Lichuan": [
+        "老鼠"
+    ],
+    "Pingxiang": [
+        "老鼠子",
+        "老鼠"
+    ],
+    "Meixian": [
+        "老鼠"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "老鼠"
+    ],
+    "Huizhou-SK": [
+        "老鼠"
+    ],
+    "Huizhou-HL": [
+        "老鼠"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "老鼠",
+        "老鼠仔"
+    ],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "老鼠"
+    ],
+    "Longmen-PL": [
+        "老鼠"
+    ],
+    "Longmen-LX": [
+        "老鼠"
+    ],
+    "Boluo": [
+        "老鼠"
+    ],
+    "Shenzhen-H": [
+        "老鼠"
+    ],
+    "Zengcheng-ZG": [
+        "老鼠"
+    ],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "老鼠"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [
+        "老鼠"
+    ],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [
+        "老鼠"
+    ],
+    "Zijin-GZ": [
+        "老鼠"
+    ],
+    "Longchuan-TC": [
+        "老鼠"
+    ],
+    "Longchuan-SD": [
+        "老鼠"
+    ],
+    "Heping-LZ": [
+        "老鼠"
+    ],
+    "Lianping-ZX": [
+        "老鼠"
+    ],
+    "Lianping-LJ": [
+        "老鼠"
+    ],
+    "Qujiang": [],
+    "Xinfeng-MT": [
+        "老鼠"
+    ],
+    "Xinfeng-DX": [
+        "老鼠"
+    ],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "老鼠"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "老鼠"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [
+        "了猬"
+    ],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "老鼠"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "老鼠"
+    ],
+    "Shangyou": [
+        "老鼠"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "老鼠"
+    ],
+    "Liudui": [
+        "老鼠"
+    ],
+    "Hsinchu": [
+        "老鼠"
+    ],
+    "Dongshi": [
+        "老鼠"
+    ],
+    "Raoping": [
+        "老鼠"
+    ],
+    "Yunlin": [
+        "老鼠"
+    ],
+    "Hong Kong-H": [
+        "老鼠"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "老鼠"
+    ],
+    "Senai": [
+        "老鼠"
+    ],
+    "Singkawang": [
+        "老鼠"
+    ],
+    "Jixi": [
+        "老鼠"
+    ],
+    "Shexian": [
+        "老鼠"
+    ],
+    "Tunxi": [
+        "老鼠"
+    ],
+    "Xiuning": [
+        "老伯"
+    ],
+    "Yixian": [
+        "老鼠"
+    ],
+    "Qimen": [
+        "老鼠"
+    ],
+    "Wuyuan": [
+        "老鼠"
+    ],
+    "Fuliang": [
+        "老鼠"
+    ],
+    "Dexing": [
+        "老鼠"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "老鼠"
+    ],
+    "Hong Kong": [
+        "老鼠"
+    ],
+    "HK Weitou": [
+        "老鼠"
+    ],
+    "Kam Tin": [
+        "老鼠"
+    ],
+    "Ting Kok": [
+        "老鼠"
+    ],
+    "Tung Ping Chau": [
+        "老鼠"
+    ],
+    "Macau": [
+        "老鼠"
+    ],
+    "Panyu": [
+        "老鼠"
+    ],
+    "Huadu": [
+        "老鼠"
+    ],
+    "Conghua": [
+        "老鼠"
+    ],
+    "Zengcheng": [
+        "老鼠"
+    ],
+    "Foshan": [
+        "老鼠"
+    ],
+    "Nanhai": [
+        "老鼠"
+    ],
+    "Shunde": [
+        "老鼠"
+    ],
+    "Sanshui": [
+        "老鼠"
+    ],
+    "Gaoming": [
+        "老鼠"
+    ],
+    "Zhongshan": [
+        "老鼠"
+    ],
+    "Zhuhai": [
+        "老鼠"
+    ],
+    "Doumen-T": [
+        "老鼠"
+    ],
+    "Doumen-S": [
+        "老鼠"
+    ],
+    "Jiangmen": [
+        "老鼠"
+    ],
+    "Xinhui": [
+        "老鼠"
+    ],
+    "Taishan": [
+        "老鼠"
+    ],
+    "Kaiping": [
+        "老鼠"
+    ],
+    "Enping": [
+        "老鼠"
+    ],
+    "Heshan": [
+        "老鼠"
+    ],
+    "Dongguan": [
+        "老鼠"
+    ],
+    "Bao'an": [
+        "老鼠"
+    ],
+    "Dapeng": [
+        "老鼠"
+    ],
+    "Shaoguan": [
+        "老鼠"
+    ],
+    "Yunfu": [
+        "老鼠"
+    ],
+    "Yangjiang": [
+        "老鼠"
+    ],
+    "Xinyi": [
+        "老鼠"
+    ],
+    "Lianjiang": [
+        "老鼠"
+    ],
+    "Nanning": [
+        "老鼠"
+    ],
+    "Wuzhou": [
+        "老鼠"
+    ],
+    "Yulin": [
+        "老鼠"
+    ],
+    "Hepu": [
+        "老鼠"
+    ],
+    "Danzhou": [
+        "老鼠"
+    ],
+    "Kuala Lumpur": [
+        "老鼠"
+    ],
+    "Ho Chi Minh City": [
+        "老鼠"
+    ],
+    "Nanning-P": [
+        "老鼠"
+    ],
+    "Guilin-P": [
+        "老鼠子"
+    ],
+    "Xiamen": [
+        "鳥鼠",
+        "鼠"
+    ],
+    "Tong'an": [
+        "鳥鼠"
+    ],
+    "Quanzhou": [
+        "老鼠",
+        "鼠"
+    ],
+    "Jinjiang": [
+        "老鼠"
+    ],
+    "Nan'an": [],
+    "Shishi": [
+        "老鼠"
+    ],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "鳥鼠",
+        "鼠"
+    ],
+    "Longhai": [],
+    "Changtai": [
+        "鳥鼠"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [
+        "鳥鼠"
+    ],
+    "Zhangpu": [],
+    "Yunxiao": [
+        "鳥鼠"
+    ],
+    "Zhao'an": [],
+    "Dongshan": [
+        "鳥鼠"
+    ],
+    "Taipei": [
+        "鳥鼠"
+    ],
+    "Kaohsiung": [
+        "鳥鼠"
+    ],
+    "Tainan": [
+        "鳥鼠仔",
+        "鳥鼠"
+    ],
+    "Taichung": [
+        "鳥鼠"
+    ],
+    "Wuqi": [
+        "鳥鼠"
+    ],
+    "Hsinchu-MN": [
+        "鳥鼠"
+    ],
+    "Taitung": [
+        "鳥鼠"
+    ],
+    "Lukang": [
+        "鳥鼠"
+    ],
+    "Sanxia": [
+        "鳥鼠"
+    ],
+    "Yilan": [
+        "鳥鼠",
+        "鳥鼠仔"
+    ],
+    "Kinmen": [
+        "鳥鼠"
+    ],
+    "Magong": [
+        "鳥鼠"
+    ],
+    "Malaysia-MN": [
+        "鳥鼠"
+    ],
+    "Singapore-MN": [
+        "鳥鼠"
+    ],
+    "Philippine-MN": [
+        "老鼠"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [
+        "老鼠"
+    ],
+    "Yongfu": [
+        "老鼠"
+    ],
+    "Datian": [
+        "鼠母"
+    ],
+    "Pingnan": [
+        "老鼠"
+    ],
+    "Chaozhou": [
+        "貓鼠"
+    ],
+    "Shantou": [
+        "貓鼠"
+    ],
+    "Haifeng": [
+        "貓鼠"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "貓鼠"
+    ],
+    "Wenchang": [
+        "貓鼠",
+        "老鼠"
+    ],
+    "Haikou": [
+        "貓鼠"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "老鼠"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "老鼠",
+        "尖尖喙:euphemistic"
+    ],
+    "Changle": [
+        "老鼠"
+    ],
+    "Fuqing": [
+        "老鼠"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [
+        "老鼠"
+    ],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "老鼠"
+    ],
+    "Jian'ou": [
+        "老鼠"
+    ],
+    "Dikou": [
+        "老鼠"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "老鼠"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "老鼠"
+    ],
+    "Fu'an-She": [
+        "老鼠"
+    ],
+    "Fuding-She": [
+        "老鼠"
+    ],
+    "Luoyuan-She": [
+        "老鼠"
+    ],
+    "Sanming-She": [
+        "老鼠"
+    ],
+    "Shunchang-She": [
+        "老鼠"
+    ],
+    "Hua'an-She": [
+        "老鼠"
+    ],
+    "Guixi-She": [
+        "老鼠"
+    ],
+    "Cangnan-She": [
+        "老鼠"
+    ],
+    "Jingning-She": [
+        "老鼠"
+    ],
+    "Lishui-She": [
+        "老鼠"
+    ],
+    "Longyou-She": [
+        "老鼠"
+    ],
+    "Chaozhou-She": [
+        "老鼠"
+    ],
+    "Fengshun-She": [
+        "老鼠"
+    ]
 }

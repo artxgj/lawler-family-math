@@ -1,378 +1,278 @@
 {
     "meaning": "soy milk",
     "note": "",
-    "Classical": {
-        "1": "豆乳"
-    },
-    "Formal": {
-        "1": "豆漿",
-        "2": "豆腐漿",
-        "3": "豆乳"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "豆漿"
-    },
-    "Taiwan": {
-        "1": "豆漿"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "豆汁兒",
-        "2": "豆漿"
-    },
-    "Muping": {
-        "1": "豆漿",
-        "2": "豆腐漿"
-    },
-    "Luoyang": {
-        "1": "豆漿"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "豆漿"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "豆汁兒",
-        "2": "豆汁",
-        "3": "豆漿"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "豆漿"
-    },
-    "Ürümqi": {
-        "1": "豆漿"
-    },
-    "Wuhan": {
-        "1": "豆漿"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "豆漿"
-    },
-    "Guiyang": {
-        "1": "豆漿"
-    },
-    "Liuzhou": {
-        "1": "豆漿"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "豆腐漿",
-        "2": "豆漿"
-    },
-    "Nanjing": {
-        "1": "豆漿"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "豆漿"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "豆漿"
-    },
-    "Suzhou": {
-        "1": "豆腐漿"
-    },
-    "Hangzhou": {
-        "1": "漿兒",
-        "2": "豆腐漿:dated"
-    },
-    "Shanghai": {
-        "1": "豆腐漿",
-        "2": "豆漿"
-    },
-    "Chongming": {
-        "1": "豆腐漿"
-    },
-    "Wenzhou": {
-        "1": "豆漿"
-    },
-    "Danyang": {
-        "1": "豆汁",
-        "2": "豆漿"
-    },
-    "Jinhua": {
-        "1": "漿"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "豆腐漿"
-    },
-    "Changsha": {
-        "1": "豆漿"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "豆漿"
-    },
-    "Nanchang": {
-        "1": "豆漿"
-    },
-    "Lichuan": {
-        "1": "豆漿"
-    },
-    "Pingxiang": {
-        "1": "豆漿"
-    },
-    "Meixian": {
-        "1": "豆腐漿"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "豆漿"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "豆乳",
-        "2": "豆漿"
-    },
-    "Liudui": {
-        "1": "豆乳"
-    },
-    "Hsinchu": {
-        "1": "豆乳",
-        "2": "豆漿"
-    },
-    "Dongshi": {
-        "1": "豆乳",
-        "2": "豆漿"
-    },
-    "Raoping": {
-        "1": "豆乳",
-        "2": "豆漿"
-    },
-    "Yunlin": {
-        "1": "豆乳"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "豆腐漿"
-    },
-    "Guangzhou": {
-        "1": "豆漿",
-        "2": "豆奶"
-    },
-    "Hong Kong": {
-        "1": "豆漿",
-        "2": "豆奶"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "豆漿"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "豆漿"
-    },
-    "Xiamen": {
-        "1": "豆奶"
-    },
-    "Quanzhou": {
-        "1": "豆奶"
-    },
-    "Zhangzhou": {
-        "1": "豆奶"
-    },
-    "Taipei": {
-        "1": "豆奶"
-    },
-    "Kaohsiung": {
-        "1": "豆奶"
-    },
-    "Tainan": {
-        "1": "豆奶"
-    },
-    "Taichung": {
-        "1": "豆奶"
-    },
-    "Wuqi": {
-        "1": "豆奶"
-    },
-    "Taitung": {
-        "1": "豆奶"
-    },
-    "Hsinchu-MN": {
-        "1": "豆奶"
-    },
-    "Lukang": {
-        "1": "豆奶"
-    },
-    "Sanxia": {
-        "1": "豆奶"
-    },
-    "Yilan": {
-        "1": "豆奶"
-    },
-    "Kinmen": {
-        "1": "豆奶"
-    },
-    "Magong": {
-        "1": "豆奶"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": "豆花水",
-        "2": "豆奶"
-    },
-    "Philippine-MN": {
-        "1": "豆奶"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "豆奶"
-    },
-    "Leizhou": {
-        "1": "豆奶"
-    },
-    "Fuzhou": {
-        "1": "豆腐漿",
-        "2": "豆漿"
-    },
-    "Fuqing": {
-        "1": "腐奶",
-        "2": "豆漿"
-    },
-    "Matsu": {
-        "1": "豆腐漿",
-        "2": "豆漿"
-    },
-    "Jian'ou": {
-        "1": "豆腐娘"
-    }
+    "Classical": [
+        "豆乳"
+    ],
+    "Formal": [
+        "豆漿",
+        "豆腐漿",
+        "豆乳"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "豆漿"
+    ],
+    "Taiwan": [
+        "豆漿"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "豆汁兒",
+        "豆漿"
+    ],
+    "Muping": [
+        "豆漿",
+        "豆腐漿"
+    ],
+    "Luoyang": [
+        "豆漿"
+    ],
+    "Wanrong": [],
+    "Xi'an": [
+        "豆漿"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "豆汁兒",
+        "豆汁",
+        "豆漿"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "豆漿"
+    ],
+    "Ürümqi": [
+        "豆漿"
+    ],
+    "Wuhan": [
+        "豆漿"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "豆漿"
+    ],
+    "Guiyang": [
+        "豆漿"
+    ],
+    "Liuzhou": [
+        "豆漿"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "豆腐漿",
+        "豆漿"
+    ],
+    "Nanjing": [
+        "豆漿"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "豆漿"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "豆漿"
+    ],
+    "Suzhou": [
+        "豆腐漿"
+    ],
+    "Hangzhou": [
+        "漿兒",
+        "豆腐漿:dated"
+    ],
+    "Shanghai": [
+        "豆腐漿",
+        "豆漿"
+    ],
+    "Chongming": [
+        "豆腐漿"
+    ],
+    "Wenzhou": [
+        "豆漿"
+    ],
+    "Danyang": [
+        "豆汁",
+        "豆漿"
+    ],
+    "Jinhua": [
+        "漿"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "豆腐漿"
+    ],
+    "Changsha": [
+        "豆漿"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "豆漿"
+    ],
+    "Nanchang": [
+        "豆漿"
+    ],
+    "Lichuan": [
+        "豆漿"
+    ],
+    "Pingxiang": [
+        "豆漿"
+    ],
+    "Meixian": [
+        "豆腐漿"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "豆漿"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "豆乳",
+        "豆漿"
+    ],
+    "Liudui": [
+        "豆乳"
+    ],
+    "Hsinchu": [
+        "豆乳",
+        "豆漿"
+    ],
+    "Dongshi": [
+        "豆乳",
+        "豆漿"
+    ],
+    "Raoping": [
+        "豆乳",
+        "豆漿"
+    ],
+    "Yunlin": [
+        "豆乳"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "豆腐漿"
+    ],
+    "Guangzhou": [
+        "豆漿",
+        "豆奶"
+    ],
+    "Hong Kong": [
+        "豆漿",
+        "豆奶"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "豆漿"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [
+        "豆漿"
+    ],
+    "Xiamen": [
+        "豆奶"
+    ],
+    "Quanzhou": [
+        "豆奶"
+    ],
+    "Zhangzhou": [
+        "豆奶"
+    ],
+    "Taipei": [
+        "豆奶"
+    ],
+    "Kaohsiung": [
+        "豆奶"
+    ],
+    "Tainan": [
+        "豆奶"
+    ],
+    "Taichung": [
+        "豆奶"
+    ],
+    "Wuqi": [
+        "豆奶"
+    ],
+    "Taitung": [
+        "豆奶"
+    ],
+    "Hsinchu-MN": [
+        "豆奶"
+    ],
+    "Lukang": [
+        "豆奶"
+    ],
+    "Sanxia": [
+        "豆奶"
+    ],
+    "Yilan": [
+        "豆奶"
+    ],
+    "Kinmen": [
+        "豆奶"
+    ],
+    "Magong": [
+        "豆奶"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "豆花水",
+        "豆奶"
+    ],
+    "Philippine-MN": [
+        "豆奶"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "豆奶"
+    ],
+    "Leizhou": [
+        "豆奶"
+    ],
+    "Fuzhou": [
+        "豆腐漿",
+        "豆漿"
+    ],
+    "Fuqing": [
+        "腐奶",
+        "豆漿"
+    ],
+    "Matsu": [
+        "豆腐漿",
+        "豆漿"
+    ],
+    "Jian'ou": [
+        "豆腐娘"
+    ]
 }

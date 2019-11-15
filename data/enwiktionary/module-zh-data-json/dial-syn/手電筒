@@ -1,560 +1,368 @@
 {
     "meaning": "flashlight; torch",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "手電筒"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "手電筒",
-        "2": "手電",
-        "3": "電棒兒"
-    },
-    "Taiwan": {
-        "1": "手電筒",
-        "2": "電筒"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "電棒兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "電棒子",
-        "2": "手電"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "電棒兒",
-        "2": "電筒"
-    },
-    "Wanrong": {
-        "1": "手電"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "手電"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "手電",
-        "2": "電棒子",
-        "3": "電棒"
-    },
-    "Yinchuan": {
-        "1": "手電"
-    },
-    "Lanzhou": {
-        "1": "手電"
-    },
-    "Ürümqi": {
-        "1": "電把子"
-    },
-    "Wuhan": {
-        "1": "電棒",
-        "2": "手電筒",
-        "3": "電筒"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "電棒",
-        "2": "手電筒",
-        "3": "電筒"
-    },
-    "Guiyang": {
-        "1": "電筒",
-        "2": "手電"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "電筒"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "手電筒",
-        "2": "電筒"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "電棒子",
-        "2": "電棒",
-        "3": "手電",
-        "4": "電筒"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "電棒兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "手電筒",
-        "2": "電筒"
-    },
-    "Suzhou": {
-        "1": "電筒",
-        "2": "手電筒"
-    },
-    "Wuxi": {
-        "1": "電筒"
-    },
-    "Hangzhou": {
-        "1": "電筒",
-        "2": "手電筒"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "手電筒",
-        "2": "電筒"
-    },
-    "Danyang": {
-        "1": "手電筒",
-        "2": "電筒"
-    },
-    "Jinhua": {
-        "1": "電筒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "電光燈",
-        "2": "電筒"
-    },
-    "Changsha": {
-        "1": "手電筒",
-        "2": "手電"
-    },
-    "Shuangfeng": {
-        "1": "手電",
-        "2": "電光"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "電筒",
-        "2": "手電"
-    },
-    "Lichuan": {
-        "1": "電筒"
-    },
-    "Pingxiang": {
-        "1": "手電"
-    },
-    "Meixian": {
-        "1": "電筒"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "手電筒",
-        "2": "手電仔",
-        "3": "手電筒仔",
-        "4": "懷中電燈"
-    },
-    "Liudui": {
-        "1": "電池仔",
-        "2": "手電筒仔",
-        "3": "懷中電燈"
-    },
-    "Hsinchu": {
-        "1": "手電",
-        "2": "手電筒",
-        "3": "手電筒仔",
-        "4": "懷中電燈"
-    },
-    "Dongshi": {
-        "1": "手電",
-        "2": "手電筒",
-        "3": "懷中電燈"
-    },
-    "Raoping": {
-        "1": "手電筒",
-        "2": "手電",
-        "3": "手擎仔",
-        "4": "懷中電燈"
-    },
-    "Yunlin": {
-        "1": "手電",
-        "2": "懷中電燈"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "電火",
-        "2": "電筒"
-    },
-    "Guangzhou": {
-        "1": "電筒"
-    },
-    "Hong Kong": {
-        "1": "電筒"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "手電筒",
-        "2": "手電",
-        "3": "電火"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "電筒"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "手電"
-    },
-    "Quanzhou": {
-        "1": "手電"
-    },
-    "Zhangzhou": {
-        "1": "手電",
-        "2": "電火"
-    },
-    "Taipei": {
-        "1": "手電"
-    },
-    "Kaohsiung": {
-        "1": "手電仔",
-        "2": "手電"
-    },
-    "Tainan": {
-        "1": "手電",
-        "2": "手燈仔"
-    },
-    "Taichung": {
-        "1": "手電仔"
-    },
-    "Wuqi": {
-        "1": "手電仔"
-    },
-    "Hsinchu-MN": {
-        "1": "手電"
-    },
-    "Taitung": {
-        "1": "手電仔"
-    },
-    "Lukang": {
-        "1": "手電火",
-        "2": "手電仔"
-    },
-    "Sanxia": {
-        "1": "手電仔"
-    },
-    "Yilan": {
-        "1": "手電",
-        "2": "手電仔"
-    },
-    "Kinmen": {
-        "1": "手電"
-    },
-    "Magong": {
-        "1": "手電"
-    },
-    "Malaysia-MN": {
-        "1": "手電"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "手電"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "手燈"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "手電",
-        "2": "手電筒"
-    },
-    "Changle": {
-        "1": "手電"
-    },
-    "Fuqing": {
-        "1": "手電"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "手電"
-    },
-    "Gutian": {
-        "1": "手電"
-    },
-    "Fu'an": {
-        "1": "手電"
-    },
-    "Ningde": {
-        "1": "手電"
-    },
-    "Shouning": {
-        "1": "手電"
-    },
-    "Zhouning": {
-        "1": "手電"
-    },
-    "Fuding": {
-        "1": "手電"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "手電",
-        "2": "手電筒"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "手電筒"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "手電筒",
+        "手電",
+        "電棒兒"
+    ],
+    "Taiwan": [
+        "手電筒",
+        "電筒"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "電棒兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "電棒子",
+        "手電"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "電棒兒",
+        "電筒"
+    ],
+    "Wanrong": [
+        "手電"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "手電"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "手電",
+        "電棒子",
+        "電棒"
+    ],
+    "Yinchuan": [
+        "手電"
+    ],
+    "Lanzhou": [
+        "手電"
+    ],
+    "Ürümqi": [
+        "電把子"
+    ],
+    "Wuhan": [
+        "電棒",
+        "手電筒",
+        "電筒"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "電棒",
+        "手電筒",
+        "電筒"
+    ],
+    "Guiyang": [
+        "電筒",
+        "手電"
+    ],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "電筒"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "手電筒",
+        "電筒"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "電棒子",
+        "電棒",
+        "手電",
+        "電筒"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "電棒兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "手電筒",
+        "電筒"
+    ],
+    "Suzhou": [
+        "電筒",
+        "手電筒"
+    ],
+    "Wuxi": [
+        "電筒"
+    ],
+    "Hangzhou": [
+        "電筒",
+        "手電筒"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "手電筒",
+        "電筒"
+    ],
+    "Danyang": [
+        "手電筒",
+        "電筒"
+    ],
+    "Jinhua": [
+        "電筒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "電光燈",
+        "電筒"
+    ],
+    "Changsha": [
+        "手電筒",
+        "手電"
+    ],
+    "Shuangfeng": [
+        "手電",
+        "電光"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "電筒",
+        "手電"
+    ],
+    "Lichuan": [
+        "電筒"
+    ],
+    "Pingxiang": [
+        "手電"
+    ],
+    "Meixian": [
+        "電筒"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "手電筒",
+        "手電仔",
+        "手電筒仔",
+        "懷中電燈"
+    ],
+    "Liudui": [
+        "電池仔",
+        "手電筒仔",
+        "懷中電燈"
+    ],
+    "Hsinchu": [
+        "手電",
+        "手電筒",
+        "手電筒仔",
+        "懷中電燈"
+    ],
+    "Dongshi": [
+        "手電",
+        "手電筒",
+        "懷中電燈"
+    ],
+    "Raoping": [
+        "手電筒",
+        "手電",
+        "手擎仔",
+        "懷中電燈"
+    ],
+    "Yunlin": [
+        "手電",
+        "懷中電燈"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "電火",
+        "電筒"
+    ],
+    "Guangzhou": [
+        "電筒"
+    ],
+    "Hong Kong": [
+        "電筒"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "手電筒",
+        "手電",
+        "電火"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "電筒"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "手電"
+    ],
+    "Quanzhou": [
+        "手電"
+    ],
+    "Zhangzhou": [
+        "手電",
+        "電火"
+    ],
+    "Taipei": [
+        "手電"
+    ],
+    "Kaohsiung": [
+        "手電仔",
+        "手電"
+    ],
+    "Tainan": [
+        "手電",
+        "手燈仔"
+    ],
+    "Taichung": [
+        "手電仔"
+    ],
+    "Wuqi": [
+        "手電仔"
+    ],
+    "Hsinchu-MN": [
+        "手電"
+    ],
+    "Taitung": [
+        "手電仔"
+    ],
+    "Lukang": [
+        "手電火",
+        "手電仔"
+    ],
+    "Sanxia": [
+        "手電仔"
+    ],
+    "Yilan": [
+        "手電",
+        "手電仔"
+    ],
+    "Kinmen": [
+        "手電"
+    ],
+    "Magong": [
+        "手電"
+    ],
+    "Malaysia-MN": [
+        "手電"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "手電"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "手燈"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "手電",
+        "手電筒"
+    ],
+    "Changle": [
+        "手電"
+    ],
+    "Fuqing": [
+        "手電"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "手電"
+    ],
+    "Gutian": [
+        "手電"
+    ],
+    "Fu'an": [
+        "手電"
+    ],
+    "Ningde": [
+        "手電"
+    ],
+    "Shouning": [
+        "手電"
+    ],
+    "Zhouning": [
+        "手電"
+    ],
+    "Fuding": [
+        "手電"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "手電",
+        "手電筒"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

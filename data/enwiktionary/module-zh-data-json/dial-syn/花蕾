@@ -1,390 +1,250 @@
 {
     "meaning": "flower bud",
     "note": "",
-    "Classical": {
-        "1": "蕾",
-        "2": "花蕾",
-        "3": "花芽",
-        "4": "蓓蕾"
-    },
-    "Formal": {
-        "1": "花蕾",
-        "2": "蓓蕾"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "花骨朵兒"
-    },
-    "Taiwan": {
-        "1": "花蕾"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "花骨朵兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "花骨朵"
-    },
-    "Muping": {
-        "1": "花骨朵兒"
-    },
-    "Luoyang": {
-        "1": "花骨朵兒"
-    },
-    "Wanrong": {
-        "1": "花骨都"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "花骨都兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "花骨都"
-    },
-    "Xuzhou": {
-        "1": "花骨朵",
-        "2": "花蕾"
-    },
-    "Yinchuan": {
-        "1": "花苞",
-        "2": "花骨都"
-    },
-    "Lanzhou": {
-        "1": "花骨都"
-    },
-    "Ürümqi": {
-        "1": "花骨都"
-    },
-    "Wuhan": {
-        "1": "花苞子",
-        "2": "苞子",
-        "3": "花朵子",
-        "4": "朵子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "花骨朵兒",
-        "2": "花苞苞兒",
-        "3": "花苞苞"
-    },
-    "Guiyang": {
-        "1": "花果果"
-    },
-    "Liuzhou": {
-        "1": "花苞",
-        "2": "菇苞"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "花朵子",
-        "2": "朵子"
-    },
-    "Nanjing": {
-        "1": "花骨都",
-        "2": "花朵子"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "花骨都"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "花兒骨朵兒",
-        "2": "骨朵兒"
-    },
-    "Suzhou": {
-        "1": "花紐頭"
-    },
-    "Hangzhou": {
-        "1": "蘌頭"
-    },
-    "Shanghai": {
-        "1": "蕊頭"
-    },
-    "Chongming": {
-        "1": "花蕊頭"
-    },
-    "Wenzhou": {
-        "1": "蕊"
-    },
-    "Danyang": {
-        "1": "花苞苞",
-        "2": "苞苞"
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "花蕊頭",
-        "2": "蕊頭"
-    },
-    "Changsha": {
-        "1": "花苞子"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "花苞子"
-    },
-    "Nanchang": {
-        "1": "花苞"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": "花苞"
-    },
-    "Meixian": {
-        "1": "花蕾"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "花蕊"
-    },
-    "Guangzhou": {
-        "1": "花冧"
-    },
-    "Hong Kong": {
-        "1": "花冧"
-    },
-    "Shunde": {
-        "1": "花冧"
-    },
-    "Foshan": {
-        "1": "花冧"
-    },
-    "Zhongshan": {
-        "1": "花冧"
-    },
-    "Dongguan": {
-        "1": "花蕾"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "花蕾"
-    },
-    "Doumen": {
-        "1": "花蕾"
-    },
-    "Kaiping": {
-        "1": "花蕾"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "花骨朵"
-    },
-    "Xiamen": {
-        "1": "花莓"
-    },
-    "Quanzhou": {
-        "1": "花莓"
-    },
-    "Zhangzhou": {
-        "1": "花莓"
-    },
-    "Taipei": {
-        "1": "花莓"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "花蕊"
-    },
-    "Fuqing": {
-        "1": "花蕊"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "花蕾"
-    }
+    "Classical": [
+        "蕾",
+        "花蕾",
+        "花芽",
+        "蓓蕾"
+    ],
+    "Formal": [
+        "花蕾",
+        "蓓蕾"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "花骨朵兒"
+    ],
+    "Taiwan": [
+        "花蕾"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "花骨朵兒"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "花骨朵"
+    ],
+    "Muping": [
+        "花骨朵兒"
+    ],
+    "Luoyang": [
+        "花骨朵兒"
+    ],
+    "Wanrong": [
+        "花骨都"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "花骨都兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "花骨都"
+    ],
+    "Xuzhou": [
+        "花骨朵",
+        "花蕾"
+    ],
+    "Yinchuan": [
+        "花苞",
+        "花骨都"
+    ],
+    "Lanzhou": [
+        "花骨都"
+    ],
+    "Ürümqi": [
+        "花骨都"
+    ],
+    "Wuhan": [
+        "花苞子",
+        "苞子",
+        "花朵子",
+        "朵子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "花骨朵兒",
+        "花苞苞兒",
+        "花苞苞"
+    ],
+    "Guiyang": [
+        "花果果"
+    ],
+    "Liuzhou": [
+        "花苞",
+        "菇苞"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "花朵子",
+        "朵子"
+    ],
+    "Nanjing": [
+        "花骨都",
+        "花朵子"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "花骨都"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "花兒骨朵兒",
+        "骨朵兒"
+    ],
+    "Suzhou": [
+        "花紐頭"
+    ],
+    "Hangzhou": [
+        "蘌頭"
+    ],
+    "Shanghai": [
+        "蕊頭"
+    ],
+    "Chongming": [
+        "花蕊頭"
+    ],
+    "Wenzhou": [
+        "蕊"
+    ],
+    "Danyang": [
+        "花苞苞",
+        "苞苞"
+    ],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "花蕊頭",
+        "蕊頭"
+    ],
+    "Changsha": [
+        "花苞子"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "花苞子"
+    ],
+    "Nanchang": [
+        "花苞"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [
+        "花苞"
+    ],
+    "Meixian": [
+        "花蕾"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "花蕊"
+    ],
+    "Guangzhou": [
+        "花冧"
+    ],
+    "Hong Kong": [
+        "花冧"
+    ],
+    "Shunde": [
+        "花冧"
+    ],
+    "Foshan": [
+        "花冧"
+    ],
+    "Zhongshan": [
+        "花冧"
+    ],
+    "Dongguan": [
+        "花蕾"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "花蕾"
+    ],
+    "Doumen": [
+        "花蕾"
+    ],
+    "Kaiping": [
+        "花蕾"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "花骨朵"
+    ],
+    "Xiamen": [
+        "花莓"
+    ],
+    "Quanzhou": [
+        "花莓"
+    ],
+    "Zhangzhou": [
+        "花莓"
+    ],
+    "Taipei": [
+        "花莓"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "花蕊"
+    ],
+    "Fuqing": [
+        "花蕊"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "花蕾"
+    ]
 }

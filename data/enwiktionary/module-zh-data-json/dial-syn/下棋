@@ -1,396 +1,316 @@
 {
     "meaning": "to play chess",
     "note": "",
-    "Classical": {
-        "1": "弈棋",
-        "2": "對弈",
-        "3": "行棋"
-    },
-    "Formal": {
-        "1": "下棋",
-        "2": "對弈"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "下棋"
-    },
-    "Taiwan": {
-        "1": "下棋"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "下棋"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "下棋"
-    },
-    "Muping": {
-        "1": "下棋"
-    },
-    "Luoyang": {
-        "1": "下棋"
-    },
-    "Wanrong": {
-        "1": "下棋"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "下棋"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "下棋"
-    },
-    "Xuzhou": {
-        "1": "來棋",
-        "2": "下棋"
-    },
-    "Yinchuan": {
-        "1": "下棋"
-    },
-    "Lanzhou": {
-        "1": "下棋"
-    },
-    "Ürümqi": {
-        "1": "下棋"
-    },
-    "Wuhan": {
-        "1": "下棋",
-        "2": "走棋"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "下棋"
-    },
-    "Guiyang": {
-        "1": "下棋"
-    },
-    "Liuzhou": {
-        "1": "動棋",
-        "2": "下棋"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "下棋"
-    },
-    "Nanjing": {
-        "1": "下棋"
-    },
-    "Hefei": {
-        "1": "下棋"
-    },
-    "Nantong": {
-        "1": "著棋"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "下棋"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "下棋"
-    },
-    "Suzhou": {
-        "1": "著棋"
-    },
-    "Hangzhou": {
-        "1": "下棋",
-        "2": "走棋"
-    },
-    "Shanghai": {
-        "1": "著棋"
-    },
-    "Chongming": {
-        "1": "著棋"
-    },
-    "Wenzhou": {
-        "1": "著棋",
-        "2": "走棋"
-    },
-    "Danyang": {
-        "1": "走棋",
-        "2": "著棋"
-    },
-    "Jinhua": {
-        "1": "走棋",
-        "2": "著棋"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "著棋",
-        "2": "著棋子"
-    },
-    "Changsha": {
-        "1": "下棋",
-        "2": "走棋",
-        "3": "動棋"
-    },
-    "Shuangfeng": {
-        "1": "動棋"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "下棋",
-        "2": "動棋"
-    },
-    "Nanchang": {
-        "1": "走棋",
-        "2": "下棋"
-    },
-    "Lichuan": {
-        "1": "走棋"
-    },
-    "Pingxiang": {
-        "1": "捉棋",
-        "2": "動棋"
-    },
-    "Meixian": {
-        "1": "捉棋仔",
-        "2": "捉棋"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "著棋"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "著棋"
-    },
-    "Yudu": {
-        "1": "動棋"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "行棋仔",
-        "2": "捉棋子"
-    },
-    "Liudui": {
-        "1": "捉棋仔"
-    },
-    "Hsinchu": {
-        "1": "行棋仔",
-        "2": "捉棋子"
-    },
-    "Dongshi": {
-        "1": "行棋"
-    },
-    "Raoping": {
-        "1": "行棋仔",
-        "2": "行棋",
-        "3": "捉棋子"
-    },
-    "Yunlin": {
-        "1": "行棋"
-    },
-    "Hong Kong-H": {
-        "1": "捉棋"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "下棋"
-    },
-    "Guangzhou": {
-        "1": "捉棋"
-    },
-    "Hong Kong": {
-        "1": "捉棋"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "尺棋"
-    },
-    "HK Weitou": {
-        "1": "捉棋"
-    },
-    "Taishan": {
-        "1": "作棋"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "下棋"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "喐棋",
-        "2": "動棋"
-    },
-    "Xiamen": {
-        "1": "行棋"
-    },
-    "Quanzhou": {
-        "1": "行棋"
-    },
-    "Zhangzhou": {
-        "1": "行棋"
-    },
-    "Taipei": {
-        "1": "行棋"
-    },
-    "Kaohsiung": {
-        "1": "行棋"
-    },
-    "Tainan": {
-        "1": "行棋"
-    },
-    "Taichung": {
-        "1": "行棋"
-    },
-    "Wuqi": {
-        "1": "行棋"
-    },
-    "Hsinchu-MN": {
-        "1": "行棋"
-    },
-    "Taitung": {
-        "1": "行棋"
-    },
-    "Lukang": {
-        "1": "行棋"
-    },
-    "Sanxia": {
-        "1": "行棋"
-    },
-    "Yilan": {
-        "1": "行棋"
-    },
-    "Kinmen": {
-        "1": "行棋"
-    },
-    "Magong": {
-        "1": "行棋"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "行棋"
-    },
-    "Chaozhou": {
-        "1": "行棋",
-        "2": "著棋"
-    },
-    "Shantou": {
-        "1": "行棋"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "走棋",
-        "2": "落棋"
-    },
-    "Leizhou": {
-        "1": "走棋"
-    },
-    "Fuzhou": {
-        "1": "行棋"
-    },
-    "Fuqing": {
-        "1": "行棋"
-    },
-    "Matsu": {
-        "1": "行棋"
-    },
-    "Jian'ou": {
-        "1": "下棋",
-        "2": "行棋",
-        "3": "動棋"
-    }
+    "Classical": [
+        "弈棋",
+        "對弈",
+        "行棋"
+    ],
+    "Formal": [
+        "下棋",
+        "對弈"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "下棋"
+    ],
+    "Taiwan": [
+        "下棋"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "下棋"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "下棋"
+    ],
+    "Muping": [
+        "下棋"
+    ],
+    "Luoyang": [
+        "下棋"
+    ],
+    "Wanrong": [
+        "下棋"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "下棋"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "下棋"
+    ],
+    "Xuzhou": [
+        "來棋",
+        "下棋"
+    ],
+    "Yinchuan": [
+        "下棋"
+    ],
+    "Lanzhou": [
+        "下棋"
+    ],
+    "Ürümqi": [
+        "下棋"
+    ],
+    "Wuhan": [
+        "下棋",
+        "走棋"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "下棋"
+    ],
+    "Guiyang": [
+        "下棋"
+    ],
+    "Liuzhou": [
+        "動棋",
+        "下棋"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "下棋"
+    ],
+    "Nanjing": [
+        "下棋"
+    ],
+    "Hefei": [
+        "下棋"
+    ],
+    "Nantong": [
+        "著棋"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "下棋"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "下棋"
+    ],
+    "Suzhou": [
+        "著棋"
+    ],
+    "Hangzhou": [
+        "下棋",
+        "走棋"
+    ],
+    "Shanghai": [
+        "著棋"
+    ],
+    "Chongming": [
+        "著棋"
+    ],
+    "Wenzhou": [
+        "著棋",
+        "走棋"
+    ],
+    "Danyang": [
+        "走棋",
+        "著棋"
+    ],
+    "Jinhua": [
+        "走棋",
+        "著棋"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "著棋",
+        "著棋子"
+    ],
+    "Changsha": [
+        "下棋",
+        "走棋",
+        "動棋"
+    ],
+    "Shuangfeng": [
+        "動棋"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "下棋",
+        "動棋"
+    ],
+    "Nanchang": [
+        "走棋",
+        "下棋"
+    ],
+    "Lichuan": [
+        "走棋"
+    ],
+    "Pingxiang": [
+        "捉棋",
+        "動棋"
+    ],
+    "Meixian": [
+        "捉棋仔",
+        "捉棋"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [
+        "著棋"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "著棋"
+    ],
+    "Yudu": [
+        "動棋"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "行棋仔",
+        "捉棋子"
+    ],
+    "Liudui": [
+        "捉棋仔"
+    ],
+    "Hsinchu": [
+        "行棋仔",
+        "捉棋子"
+    ],
+    "Dongshi": [
+        "行棋"
+    ],
+    "Raoping": [
+        "行棋仔",
+        "行棋",
+        "捉棋子"
+    ],
+    "Yunlin": [
+        "行棋"
+    ],
+    "Hong Kong-H": [
+        "捉棋"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "下棋"
+    ],
+    "Guangzhou": [
+        "捉棋"
+    ],
+    "Hong Kong": [
+        "捉棋"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "尺棋"
+    ],
+    "HK Weitou": [
+        "捉棋"
+    ],
+    "Taishan": [
+        "作棋"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "下棋"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "喐棋",
+        "動棋"
+    ],
+    "Xiamen": [
+        "行棋"
+    ],
+    "Quanzhou": [
+        "行棋"
+    ],
+    "Zhangzhou": [
+        "行棋"
+    ],
+    "Taipei": [
+        "行棋"
+    ],
+    "Kaohsiung": [
+        "行棋"
+    ],
+    "Tainan": [
+        "行棋"
+    ],
+    "Taichung": [
+        "行棋"
+    ],
+    "Wuqi": [
+        "行棋"
+    ],
+    "Hsinchu-MN": [
+        "行棋"
+    ],
+    "Taitung": [
+        "行棋"
+    ],
+    "Lukang": [
+        "行棋"
+    ],
+    "Sanxia": [
+        "行棋"
+    ],
+    "Yilan": [
+        "行棋"
+    ],
+    "Kinmen": [
+        "行棋"
+    ],
+    "Magong": [
+        "行棋"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "行棋"
+    ],
+    "Chaozhou": [
+        "行棋",
+        "著棋"
+    ],
+    "Shantou": [
+        "行棋"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "走棋",
+        "落棋"
+    ],
+    "Leizhou": [
+        "走棋"
+    ],
+    "Fuzhou": [
+        "行棋"
+    ],
+    "Fuqing": [
+        "行棋"
+    ],
+    "Matsu": [
+        "行棋"
+    ],
+    "Jian'ou": [
+        "下棋",
+        "行棋",
+        "動棋"
+    ]
 }

@@ -1,368 +1,214 @@
 {
     "meaning": "to look",
     "note": "",
-    "Classical": {
-        "1": "視"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "看",
-        "2": "瞧",
-        "3": "瞅"
-    },
-    "Taiwan": {
-        "1": "看"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "看"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "看"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "看",
-        "2": "睄",
-        "3": "瞄"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "看",
-        "2": "𧢭"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "看",
-        "2": "望"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "看",
-        "2": "望"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "看",
-        "2": "瞭"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "看",
-        "2": "望"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "看"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "眙",
-        "2": "張"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "看"
-    },
-    "Shuangfeng": {
-        "1": "看",
-        "2": "相"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "看",
-        "2": "相"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "看",
-        "2": "睞"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "看"
-    },
-    "Liudui": {
-        "1": "看"
-    },
-    "Hsinchu": {
-        "1": "看"
-    },
-    "Dongshi": {
-        "1": "看"
-    },
-    "Raoping": {
-        "1": "䀴"
-    },
-    "Yunlin": {
-        "1": "䀴"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "看"
-    },
-    "Guangzhou": {
-        "1": "睇",
-        "2": "望"
-    },
-    "Hong Kong": {
-        "1": "睇",
-        "2": "望"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "睇",
-        "2": "望"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "看",
-        "2": "睇",
-        "3": "瞄"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "看"
-    },
-    "Quanzhou": {
-        "1": "看"
-    },
-    "Zhangzhou": {
-        "1": "看"
-    },
-    "Taipei": {
-        "1": "看"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "睇"
-    },
-    "Shantou": {
-        "1": "睇"
-    },
-    "Haifeng": {
-        "1": "睇"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "望"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "看",
-        "2": "覷"
-    },
-    "Jian'ou": {
-        "1": "覷"
-    }
+    "Classical": [
+        "視"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "看",
+        "瞧",
+        "瞅"
+    ],
+    "Taiwan": [
+        "看"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "看"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "看"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "看",
+        "睄",
+        "瞄"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "看",
+        "𧢭"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "看",
+        "望"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "看",
+        "望"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "看",
+        "瞭"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "看",
+        "望"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "看"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "眙",
+        "張"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "看"
+    ],
+    "Shuangfeng": [
+        "看",
+        "相"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "看",
+        "相"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "看",
+        "睞"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "看"
+    ],
+    "Liudui": [
+        "看"
+    ],
+    "Hsinchu": [
+        "看"
+    ],
+    "Dongshi": [
+        "看"
+    ],
+    "Raoping": [
+        "䀴"
+    ],
+    "Yunlin": [
+        "䀴"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "看"
+    ],
+    "Guangzhou": [
+        "睇",
+        "望"
+    ],
+    "Hong Kong": [
+        "睇",
+        "望"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "睇",
+        "望"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "看",
+        "睇",
+        "瞄"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "看"
+    ],
+    "Quanzhou": [
+        "看"
+    ],
+    "Zhangzhou": [
+        "看"
+    ],
+    "Taipei": [
+        "看"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "睇"
+    ],
+    "Shantou": [
+        "睇"
+    ],
+    "Haifeng": [
+        "睇"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "望"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [
+        "看",
+        "覷"
+    ],
+    "Jian'ou": [
+        "覷"
+    ]
 }

@@ -1,761 +1,495 @@
 {
     "meaning": "lunar eclipse",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "月食"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Taiwan": {
-        "1": "月食"
-    },
-    "Tianjin": {
-        "1": "月食"
-    },
-    "Harbin": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Shenyang": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Hailar": {
-        "1": "月食"
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": "月食",
-        "2": "天狗吃月"
-    },
-    "Bayanhot": {
-        "1": "月食"
-    },
-    "Jinan": {
-        "1": "月食"
-    },
-    "Muping": {
-        "1": "月子食"
-    },
-    "Luoyang": {
-        "1": "月食",
-        "2": "狗吃月亮",
-        "3": "黑煞神吃月亮"
-    },
-    "Wanrong": {
-        "1": "金蛤蟆吃月爺"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Qingdao": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Zhengzhou": {
-        "1": "月食"
-    },
-    "Xining": {
-        "1": "天狗吃月亮"
-    },
-    "Xuzhou": {
-        "1": "月食",
-        "2": "月子食",
-        "3": "天狗吃月亮"
-    },
-    "Yinchuan": {
-        "1": "月食",
-        "2": "月亮遭難",
-        "3": "月亮叫天狗吃"
-    },
-    "Lanzhou": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Ürümqi": {
-        "1": "月食",
-        "2": "天狗吃月亮",
-        "3": "天狗吃月"
-    },
-    "Wuhan": {
-        "1": "月食",
-        "2": "天狗吃月:dated"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "月食",
-        "2": "天狗吃月亮",
-        "3": "天狗吃月"
-    },
-    "Guiyang": {
-        "1": "月食",
-        "2": "天狗吃月亮",
-        "3": "天狗吃月"
-    },
-    "Guilin": {
-        "1": "天狗吃月亮"
-    },
-    "Liuzhou": {
-        "1": "月食",
-        "2": "天狗吃月"
-    },
-    "Kunming": {
-        "1": "月食",
-        "2": "天狗吃月亮"
-    },
-    "Yangzhou": {
-        "1": "月食"
-    },
-    "Nanjing": {
-        "1": "月食",
-        "2": "糊月亮",
-        "3": "糊月",
-        "4": "天狗吞月",
-        "5": "吞月:suburbs"
-    },
-    "Hefei": {
-        "1": "月食"
-    },
-    "Nantong": {
-        "1": "月食",
-        "2": "野亮子吃家亮子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "月食",
-        "2": "月亮有災難"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "月爺爺受難"
-    },
-    "Baochang": {
-        "1": "月食"
-    },
-    "Jining": {
-        "1": "月食"
-    },
-    "Hohhot": {
-        "1": "月食",
-        "2": "狗吃月亮"
-    },
-    "Baotou": {
-        "1": "月食"
-    },
-    "Dongsheng": {
-        "1": "月食"
-    },
-    "Linhe": {
-        "1": "月食"
-    },
-    "Haibowan": {
-        "1": "天狗吃月亮"
-    },
-    "Shanghai": {
-        "1": "月食",
-        "2": "天狗吃月亮",
-        "3": "野月吃家月:dated"
-    },
-    "Suzhou": {
-        "1": "野月亮吃家月亮"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "天狗吃月亮"
-    },
-    "Chongming": {
-        "1": "天狗吃月亮"
-    },
-    "Wenzhou": {
-        "1": "月光佛匄天狗吃爻"
-    },
-    "Danyang": {
-        "1": "天狗吞月亮",
-        "2": "吞月亮"
-    },
-    "Jinhua": {
-        "1": "天狗吃月"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "天狗吃月亮",
-        "2": "天狗拖月亮"
-    },
-    "Changsha": {
-        "1": "西狗吃月",
-        "2": "天狗吃月"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": "西狗吃月"
-    },
-    "Loudi": {
-        "1": "月食",
-        "2": "天狗吃月"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "天狗吃月"
-    },
-    "Lichuan": {
-        "1": "天狗吃月"
-    },
-    "Pingxiang": {
-        "1": "天狗食月"
-    },
-    "Meixian": {
-        "1": "天狗食月",
-        "2": "月食"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "天狗食月"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "天狗食月"
-    },
-    "Shangyou": {
-        "1": "天狗食月"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "天狗食月",
-        "2": "月蝕"
-    },
-    "Liudui": {
-        "1": "天狗食月",
-        "2": "月蝕"
-    },
-    "Hsinchu": {
-        "1": "天狗食月",
-        "2": "月蝕"
-    },
-    "Dongshi": {
-        "1": "天狗食月",
-        "2": "月蝕"
-    },
-    "Raoping": {
-        "1": "天狗食月",
-        "2": "月食"
-    },
-    "Yunlin": {
-        "1": "天狗食月",
-        "2": "月蝕",
-        "3": "月食"
-    },
-    "Hong Kong-H": {
-        "1": "天狗食月"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "天狗食月",
-        "2": "月食"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "天狗吃月",
-        "2": "月食"
-    },
-    "Shexian": {
-        "1": "月食",
-        "2": "天狗吃月"
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "月食"
-    },
-    "Hong Kong": {
-        "1": "月食"
-    },
-    "HK Weitou": {
-        "1": "天狗吃月"
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": "天狗食月"
-    },
-    "Tung Ping Chau": {
-        "1": "天狗食月"
-    },
-    "Macau": {
-        "1": ""
-    },
-    "Panyu": {
-        "1": ""
-    },
-    "Huadu": {
-        "1": ""
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Nanhai": {
-        "1": ""
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Sanshui": {
-        "1": ""
-    },
-    "Gaoming": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Zhuhai": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": ""
-    },
-    "Jiangmen": {
-        "1": ""
-    },
-    "Xinhui": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Enping": {
-        "1": ""
-    },
-    "Heshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "月食",
-        "2": "天狗食月"
-    },
-    "Bao'an": {
-        "1": ""
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "天狗食月"
-    },
-    "Ho Chi Minh City": {
-        "1": "天狗食月"
-    },
-    "Nanning-P": {
-        "1": "月食",
-        "2": "蠄蟧吞月",
-        "3": "天狗吃月"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "月熄"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "月熄"
-    },
-    "Jinjiang": {
-        "1": "月熄"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "熄月"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "月熄"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "熄月"
-    },
-    "Kaohsiung": {
-        "1": "熄月"
-    },
-    "Tainan": {
-        "1": "天狗食月",
-        "2": "熄月"
-    },
-    "Taichung": {
-        "1": "天狗食月"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "熄月"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "熄月"
-    },
-    "Sanxia": {
-        "1": "熄月"
-    },
-    "Yilan": {
-        "1": "熄月"
-    },
-    "Kinmen": {
-        "1": "月熄"
-    },
-    "Magong": {
-        "1": "熄月",
-        "2": "天狗食月"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": "月熄"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "天狗食月"
-    },
-    "Datian": {
-        "1": "月熄"
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": "天狗食月",
-        "2": "月食"
-    },
-    "Johor Bahru": {
-        "1": "天狗食月",
-        "2": "月食"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "含貓食月",
-        "2": "月食"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "月熄",
-        "2": "天狗食月"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "月熄"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "天狗饁月"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "月食"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Taiwan": [
+        "月食"
+    ],
+    "Tianjin": [
+        "月食"
+    ],
+    "Harbin": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Shenyang": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Hailar": [
+        "月食"
+    ],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [
+        "月食",
+        "天狗吃月"
+    ],
+    "Bayanhot": [
+        "月食"
+    ],
+    "Jinan": [
+        "月食"
+    ],
+    "Muping": [
+        "月子食"
+    ],
+    "Luoyang": [
+        "月食",
+        "狗吃月亮",
+        "黑煞神吃月亮"
+    ],
+    "Wanrong": [
+        "金蛤蟆吃月爺"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Qingdao": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Zhengzhou": [
+        "月食"
+    ],
+    "Xining": [
+        "天狗吃月亮"
+    ],
+    "Xuzhou": [
+        "月食",
+        "月子食",
+        "天狗吃月亮"
+    ],
+    "Yinchuan": [
+        "月食",
+        "月亮遭難",
+        "月亮叫天狗吃"
+    ],
+    "Lanzhou": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Ürümqi": [
+        "月食",
+        "天狗吃月亮",
+        "天狗吃月"
+    ],
+    "Wuhan": [
+        "月食",
+        "天狗吃月:dated"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "月食",
+        "天狗吃月亮",
+        "天狗吃月"
+    ],
+    "Guiyang": [
+        "月食",
+        "天狗吃月亮",
+        "天狗吃月"
+    ],
+    "Guilin": [
+        "天狗吃月亮"
+    ],
+    "Liuzhou": [
+        "月食",
+        "天狗吃月"
+    ],
+    "Kunming": [
+        "月食",
+        "天狗吃月亮"
+    ],
+    "Yangzhou": [
+        "月食"
+    ],
+    "Nanjing": [
+        "月食",
+        "糊月亮",
+        "糊月",
+        "天狗吞月",
+        "吞月:suburbs"
+    ],
+    "Hefei": [
+        "月食"
+    ],
+    "Nantong": [
+        "月食",
+        "野亮子吃家亮子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "月食",
+        "月亮有災難"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "月爺爺受難"
+    ],
+    "Baochang": [
+        "月食"
+    ],
+    "Jining": [
+        "月食"
+    ],
+    "Hohhot": [
+        "月食",
+        "狗吃月亮"
+    ],
+    "Baotou": [
+        "月食"
+    ],
+    "Dongsheng": [
+        "月食"
+    ],
+    "Linhe": [
+        "月食"
+    ],
+    "Haibowan": [
+        "天狗吃月亮"
+    ],
+    "Shanghai": [
+        "月食",
+        "天狗吃月亮",
+        "野月吃家月:dated"
+    ],
+    "Suzhou": [
+        "野月亮吃家月亮"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "天狗吃月亮"
+    ],
+    "Chongming": [
+        "天狗吃月亮"
+    ],
+    "Wenzhou": [
+        "月光佛匄天狗吃爻"
+    ],
+    "Danyang": [
+        "天狗吞月亮",
+        "吞月亮"
+    ],
+    "Jinhua": [
+        "天狗吃月"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "天狗吃月亮",
+        "天狗拖月亮"
+    ],
+    "Changsha": [
+        "西狗吃月",
+        "天狗吃月"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [
+        "西狗吃月"
+    ],
+    "Loudi": [
+        "月食",
+        "天狗吃月"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "天狗吃月"
+    ],
+    "Lichuan": [
+        "天狗吃月"
+    ],
+    "Pingxiang": [
+        "天狗食月"
+    ],
+    "Meixian": [
+        "天狗食月",
+        "月食"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "天狗食月"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "天狗食月"
+    ],
+    "Shangyou": [
+        "天狗食月"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "天狗食月",
+        "月蝕"
+    ],
+    "Liudui": [
+        "天狗食月",
+        "月蝕"
+    ],
+    "Hsinchu": [
+        "天狗食月",
+        "月蝕"
+    ],
+    "Dongshi": [
+        "天狗食月",
+        "月蝕"
+    ],
+    "Raoping": [
+        "天狗食月",
+        "月食"
+    ],
+    "Yunlin": [
+        "天狗食月",
+        "月蝕",
+        "月食"
+    ],
+    "Hong Kong-H": [
+        "天狗食月"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "天狗食月",
+        "月食"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "天狗吃月",
+        "月食"
+    ],
+    "Shexian": [
+        "月食",
+        "天狗吃月"
+    ],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "月食"
+    ],
+    "Hong Kong": [
+        "月食"
+    ],
+    "HK Weitou": [
+        "天狗吃月"
+    ],
+    "Kam Tin": [],
+    "Ting Kok": [
+        "天狗食月"
+    ],
+    "Tung Ping Chau": [
+        "天狗食月"
+    ],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [
+        "月食",
+        "天狗食月"
+    ],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "天狗食月"
+    ],
+    "Ho Chi Minh City": [
+        "天狗食月"
+    ],
+    "Nanning-P": [
+        "月食",
+        "蠄蟧吞月",
+        "天狗吃月"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "月熄"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "月熄"
+    ],
+    "Jinjiang": [
+        "月熄"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "熄月"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "月熄"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "熄月"
+    ],
+    "Kaohsiung": [
+        "熄月"
+    ],
+    "Tainan": [
+        "天狗食月",
+        "熄月"
+    ],
+    "Taichung": [
+        "天狗食月"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "熄月"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "熄月"
+    ],
+    "Sanxia": [
+        "熄月"
+    ],
+    "Yilan": [
+        "熄月"
+    ],
+    "Kinmen": [
+        "月熄"
+    ],
+    "Magong": [
+        "熄月",
+        "天狗食月"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "月熄"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "天狗食月"
+    ],
+    "Datian": [
+        "月熄"
+    ],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [
+        "天狗食月",
+        "月食"
+    ],
+    "Johor Bahru": [
+        "天狗食月",
+        "月食"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "含貓食月",
+        "月食"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "月熄",
+        "天狗食月"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "月熄"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "天狗饁月"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

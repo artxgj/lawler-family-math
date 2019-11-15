@@ -1,541 +1,503 @@
 {
     "meaning": "breast",
     "note": "",
-    "Classical": {
-        "1": "乳"
-    },
-    "Formal": {
-        "1": "乳房"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "咂兒",
-        "2": "咂咂兒",
-        "3": "咂兒咂兒",
-        "4": "媽媽",
-        "5": "奶膀子",
-        "6": "奶子"
-    },
-    "Taiwan": {
-        "1": "奶子",
-        "2": "咪咪:slang",
-        "3": "長輩:slang"
-    },
-    "Tianjin": {
-        "1": "個個"
-    },
-    "Harbin": {
-        "1": "奶子",
-        "2": "奶膀子",
-        "3": "咂兒",
-        "4": "咂咂兒",
-        "5": "媽兒媽兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "咂咂兒"
-    },
-    "Ulan Hot": {
-        "1": "咂兒",
-        "2": "奶頭",
-        "3": "媽媽"
-    },
-    "Tongliao": {
-        "1": "咂兒",
-        "2": "奶頭"
-    },
-    "Chifeng": {
-        "1": "乳房"
-    },
-    "Baochang": {
-        "1": "奶"
-    },
-    "Bayanhot": {
-        "1": "高高",
-        "2": "奶頭"
-    },
-    "Jinan": {
-        "1": "媽媽",
-        "2": "奶"
-    },
-    "Muping": {
-        "1": "奶子"
-    },
-    "Luoyang": {
-        "1": "奶"
-    },
-    "Wanrong": {
-        "1": "奶"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "奶頭",
-        "2": "奶"
-    },
-    "Qingdao": {
-        "1": "奶子"
-    },
-    "Zhengzhou": {
-        "1": "媽"
-    },
-    "Xining": {
-        "1": "奶頭"
-    },
-    "Xuzhou": {
-        "1": "媽媽"
-    },
-    "Yinchuan": {
-        "1": "高高"
-    },
-    "Lanzhou": {
-        "1": "苶苶"
-    },
-    "Ürümqi": {
-        "1": "奶子",
-        "2": "高高"
-    },
-    "Wuhan": {
-        "1": "媽",
-        "2": "媽媽",
-        "3": "奶"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "奶奶",
-        "2": "包子:humorous"
-    },
-    "Guiyang": {
-        "1": "咪咪",
-        "2": "奶"
-    },
-    "Guilin": {
-        "1": "奶"
-    },
-    "Liuzhou": {
-        "1": "奶"
-    },
-    "Kunming": {
-        "1": "奶"
-    },
-    "Yangzhou": {
-        "1": "奶子"
-    },
-    "Nanjing": {
-        "1": "奶兒",
-        "2": "奶子"
-    },
-    "Hefei": {
-        "1": "奶頭"
-    },
-    "Nantong": {
-        "1": "奶子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "奶",
-        "2": "奶奶"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "奶",
-        "2": "奶奶",
-        "3": "奶牛",
-        "4": "奶牛牛"
-    },
-    "Jining": {
-        "1": "奶"
-    },
-    "Hohhot": {
-        "1": "牛牛"
-    },
-    "Baotou": {
-        "1": "奶"
-    },
-    "Dongsheng": {
-        "1": "奶"
-    },
-    "Linhe": {
-        "1": "奶頭"
-    },
-    "Haibowan": {
-        "1": "奶頭"
-    },
-    "Suzhou": {
-        "1": "奶奶"
-    },
-    "Hangzhou": {
-        "1": "奶奶"
-    },
-    "Shanghai": {
-        "1": "奶",
-        "2": "奶奶"
-    },
-    "Chongming": {
-        "1": "奶"
-    },
-    "Wenzhou": {
-        "1": "奶奶",
-        "2": "奶"
-    },
-    "Danyang": {
-        "1": "奶奶"
-    },
-    "Jinhua": {
-        "1": "奶",
-        "2": "奶窠"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "奶奶脯",
-        "2": "奶脯",
-        "3": "奶奶"
-    },
-    "Changsha": {
-        "1": "奶子",
-        "2": "奶",
-        "3": "奶唧唧:childish",
-        "4": "唧唧:childish"
-    },
-    "Shuangfeng": {
-        "1": "奶婆"
-    },
-    "Xiangtan": {
-        "1": "奶痣婆"
-    },
-    "Loudi": {
-        "1": "奶婆"
-    },
-    "Quanzhou-X": {
-        "1": "奶婆",
-        "2": "奶"
-    },
-    "Nanchang": {
-        "1": "奶"
-    },
-    "Lichuan": {
-        "1": "奶"
-    },
-    "Pingxiang": {
-        "1": "奶"
-    },
-    "Meixian": {
-        "1": "乳菇"
-    },
-    "Xingning": {
-        "1": "乳菇",
-        "2": "乳"
-    },
-    "Huidong": {
-        "1": "乳菇",
-        "2": "乳"
-    },
-    "Qujiang": {
-        "1": "乳"
-    },
-    "Xiaosanjiang": {
-        "1": "乳房",
-        "2": "乳"
-    },
-    "Luchuan": {
-        "1": "乳"
-    },
-    "Changting": {
-        "1": "乳"
-    },
-    "Pingyu": {
-        "1": "乳菇"
-    },
-    "Wuping": {
-        "1": "乳菇"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "乳菇"
-    },
-    "Yudu": {
-        "1": "奶"
-    },
-    "Ruijin": {
-        "1": "乳"
-    },
-    "Shicheng": {
-        "1": "乳菇",
-        "2": "乳"
-    },
-    "Shangyou": {
-        "1": "波"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "乳菇"
-    },
-    "Liudui": {
-        "1": "乳菇"
-    },
-    "Hsinchu": {
-        "1": "乳菇"
-    },
-    "Dongshi": {
-        "1": "乳菇"
-    },
-    "Raoping": {
-        "1": "乳菇"
-    },
-    "Yunlin": {
-        "1": "乳"
-    },
-    "Hong Kong-H": {
-        "1": "乳菇"
-    },
-    "Sabah": {
-        "1": "乳"
-    },
-    "Senai": {
-        "1": "乳菇"
-    },
-    "Singkawang": {
-        "1": "乳",
-        "2": "乳菇"
-    },
-    "Shexian": {
-        "1": "奶",
-        "2": "媽"
-    },
-    "Tunxi": {
-        "1": "奶"
-    },
-    "Jixi": {
-        "1": "奶",
-        "2": "奶脯"
-    },
-    "Guangzhou": {
-        "1": "𢆡"
-    },
-    "Hong Kong": {
-        "1": "𢆡",
-        "2": "波"
-    },
-    "Shunde": {
-        "1": "乳房"
-    },
-    "Foshan": {
-        "1": "𢆡"
-    },
-    "Zhongshan": {
-        "1": "𢆡"
-    },
-    "Dongguan": {
-        "1": "𢆡",
-        "2": "奶"
-    },
-    "HK Weitou": {
-        "1": "媽仔"
-    },
-    "Taishan": {
-        "1": "𢆡"
-    },
-    "Doumen": {
-        "1": "𢆡",
-        "2": "奄"
-    },
-    "Kaiping": {
-        "1": "𢆡"
-    },
-    "Shaoguan": {
-        "1": "奶"
-    },
-    "Yunfu": {
-        "1": "𢆡"
-    },
-    "Yangjiang": {
-        "1": "𢆡"
-    },
-    "Xinyi": {
-        "1": "𢆡"
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "奶"
-    },
-    "Wuzhou": {
-        "1": "奶"
-    },
-    "Yulin": {
-        "1": "𢆡"
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "𢆡",
-        "2": "奶"
-    },
-    "Nanning-P": {
-        "1": "奶頭"
-    },
-    "Guilin-P": {
-        "1": "奶"
-    },
-    "Xiamen": {
-        "1": "奶",
-        "2": "奶仔"
-    },
-    "Quanzhou": {
-        "1": "奶",
-        "2": "奶仔"
-    },
-    "Zhangzhou": {
-        "1": "奶",
-        "2": "奶仔"
-    },
-    "Taipei": {
-        "1": "奶"
-    },
-    "Kaohsiung": {
-        "1": "奶"
-    },
-    "Tainan": {
-        "1": "奶"
-    },
-    "Taichung": {
-        "1": "奶"
-    },
-    "Wuqi": {
-        "1": "奶"
-    },
-    "Hsinchu-MN": {
-        "1": "奶"
-    },
-    "Taitung": {
-        "1": "奶"
-    },
-    "Lukang": {
-        "1": "奶"
-    },
-    "Sanxia": {
-        "1": "奶仔"
-    },
-    "Yilan": {
-        "1": "奶"
-    },
-    "Kinmen": {
-        "1": "奶"
-    },
-    "Magong": {
-        "1": "奶"
-    },
-    "Malaysia-MN": {
-        "1": "奶"
-    },
-    "Singapore-MN": {
-        "1": "奶",
-        "2": "奶仔"
-    },
-    "Philippine-MN": {
-        "1": "奶仔"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "奶"
-    },
-    "Chaozhou": {
-        "1": "奶"
-    },
-    "Shantou": {
-        "1": "奶"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "奶"
-    },
-    "Wenchang": {
-        "1": "奶"
-    },
-    "Haikou": {
-        "1": "奶"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "奶"
-    },
-    "Xianyou": {
-        "1": "奶"
-    },
-    "Fuzhou": {
-        "1": "奶奶",
-        "2": "奶"
-    },
-    "Changle": {
-        "1": "奶奶"
-    },
-    "Fuqing": {
-        "1": "奶奶"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "奶"
-    },
-    "Gutian": {
-        "1": "奶"
-    },
-    "Fu'an": {
-        "1": "奶"
-    },
-    "Ningde": {
-        "1": "奶"
-    },
-    "Shouning": {
-        "1": "奶"
-    },
-    "Zhouning": {
-        "1": "奶"
-    },
-    "Fuding": {
-        "1": "奶"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "奶",
-        "2": "奶脬",
-        "3": "奶座"
-    }
+    "Classical": [
+        "乳"
+    ],
+    "Formal": [
+        "乳房"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "咂兒",
+        "咂咂兒",
+        "咂兒咂兒",
+        "媽媽",
+        "奶膀子",
+        "奶子"
+    ],
+    "Taiwan": [
+        "奶子",
+        "咪咪:slang",
+        "長輩:slang"
+    ],
+    "Tianjin": [
+        "個個"
+    ],
+    "Harbin": [
+        "奶子",
+        "奶膀子",
+        "咂兒",
+        "咂咂兒",
+        "媽兒媽兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "咂咂兒"
+    ],
+    "Ulan Hot": [
+        "咂兒",
+        "奶頭",
+        "媽媽"
+    ],
+    "Tongliao": [
+        "咂兒",
+        "奶頭"
+    ],
+    "Chifeng": [
+        "乳房"
+    ],
+    "Baochang": [
+        "奶"
+    ],
+    "Bayanhot": [
+        "高高",
+        "奶頭"
+    ],
+    "Jinan": [
+        "媽媽",
+        "奶"
+    ],
+    "Muping": [
+        "奶子"
+    ],
+    "Luoyang": [
+        "奶"
+    ],
+    "Wanrong": [
+        "奶"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "奶頭",
+        "奶"
+    ],
+    "Qingdao": [
+        "奶子"
+    ],
+    "Zhengzhou": [
+        "媽"
+    ],
+    "Xining": [
+        "奶頭"
+    ],
+    "Xuzhou": [
+        "媽媽"
+    ],
+    "Yinchuan": [
+        "高高"
+    ],
+    "Lanzhou": [
+        "苶苶"
+    ],
+    "Ürümqi": [
+        "奶子",
+        "高高"
+    ],
+    "Wuhan": [
+        "媽",
+        "媽媽",
+        "奶"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "奶奶",
+        "包子:humorous"
+    ],
+    "Guiyang": [
+        "咪咪",
+        "奶"
+    ],
+    "Guilin": [
+        "奶"
+    ],
+    "Liuzhou": [
+        "奶"
+    ],
+    "Kunming": [
+        "奶"
+    ],
+    "Yangzhou": [
+        "奶子"
+    ],
+    "Nanjing": [
+        "奶兒",
+        "奶子"
+    ],
+    "Hefei": [
+        "奶頭"
+    ],
+    "Nantong": [
+        "奶子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "奶",
+        "奶奶"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "奶",
+        "奶奶",
+        "奶牛",
+        "奶牛牛"
+    ],
+    "Jining": [
+        "奶"
+    ],
+    "Hohhot": [
+        "牛牛"
+    ],
+    "Baotou": [
+        "奶"
+    ],
+    "Dongsheng": [
+        "奶"
+    ],
+    "Linhe": [
+        "奶頭"
+    ],
+    "Haibowan": [
+        "奶頭"
+    ],
+    "Suzhou": [
+        "奶奶"
+    ],
+    "Hangzhou": [
+        "奶奶"
+    ],
+    "Shanghai": [
+        "奶",
+        "奶奶"
+    ],
+    "Chongming": [
+        "奶"
+    ],
+    "Wenzhou": [
+        "奶奶",
+        "奶"
+    ],
+    "Danyang": [
+        "奶奶"
+    ],
+    "Jinhua": [
+        "奶",
+        "奶窠"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "奶奶脯",
+        "奶脯",
+        "奶奶"
+    ],
+    "Changsha": [
+        "奶子",
+        "奶",
+        "奶唧唧:childish",
+        "唧唧:childish"
+    ],
+    "Shuangfeng": [
+        "奶婆"
+    ],
+    "Xiangtan": [
+        "奶痣婆"
+    ],
+    "Loudi": [
+        "奶婆"
+    ],
+    "Quanzhou-X": [
+        "奶婆",
+        "奶"
+    ],
+    "Nanchang": [
+        "奶"
+    ],
+    "Lichuan": [
+        "奶"
+    ],
+    "Pingxiang": [
+        "奶"
+    ],
+    "Meixian": [
+        "乳菇"
+    ],
+    "Xingning": [
+        "乳菇",
+        "乳"
+    ],
+    "Huidong": [
+        "乳菇",
+        "乳"
+    ],
+    "Qujiang": [
+        "乳"
+    ],
+    "Xiaosanjiang": [
+        "乳房",
+        "乳"
+    ],
+    "Luchuan": [
+        "乳"
+    ],
+    "Changting": [
+        "乳"
+    ],
+    "Pingyu": [
+        "乳菇"
+    ],
+    "Wuping": [
+        "乳菇"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "乳菇"
+    ],
+    "Yudu": [
+        "奶"
+    ],
+    "Ruijin": [
+        "乳"
+    ],
+    "Shicheng": [
+        "乳菇",
+        "乳"
+    ],
+    "Shangyou": [
+        "波"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "乳菇"
+    ],
+    "Liudui": [
+        "乳菇"
+    ],
+    "Hsinchu": [
+        "乳菇"
+    ],
+    "Dongshi": [
+        "乳菇"
+    ],
+    "Raoping": [
+        "乳菇"
+    ],
+    "Yunlin": [
+        "乳"
+    ],
+    "Hong Kong-H": [
+        "乳菇"
+    ],
+    "Sabah": [
+        "乳"
+    ],
+    "Senai": [
+        "乳菇"
+    ],
+    "Singkawang": [
+        "乳",
+        "乳菇"
+    ],
+    "Shexian": [
+        "奶",
+        "媽"
+    ],
+    "Tunxi": [
+        "奶"
+    ],
+    "Jixi": [
+        "奶",
+        "奶脯"
+    ],
+    "Guangzhou": [
+        "𢆡"
+    ],
+    "Hong Kong": [
+        "𢆡",
+        "波"
+    ],
+    "Shunde": [
+        "乳房"
+    ],
+    "Foshan": [
+        "𢆡"
+    ],
+    "Zhongshan": [
+        "𢆡"
+    ],
+    "Dongguan": [
+        "𢆡",
+        "奶"
+    ],
+    "HK Weitou": [
+        "媽仔"
+    ],
+    "Taishan": [
+        "𢆡"
+    ],
+    "Doumen": [
+        "𢆡",
+        "奄"
+    ],
+    "Kaiping": [
+        "𢆡"
+    ],
+    "Shaoguan": [
+        "奶"
+    ],
+    "Yunfu": [
+        "𢆡"
+    ],
+    "Yangjiang": [
+        "𢆡"
+    ],
+    "Xinyi": [
+        "𢆡"
+    ],
+    "Lianjiang": [],
+    "Nanning": [
+        "奶"
+    ],
+    "Wuzhou": [
+        "奶"
+    ],
+    "Yulin": [
+        "𢆡"
+    ],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "𢆡",
+        "奶"
+    ],
+    "Nanning-P": [
+        "奶頭"
+    ],
+    "Guilin-P": [
+        "奶"
+    ],
+    "Xiamen": [
+        "奶",
+        "奶仔"
+    ],
+    "Quanzhou": [
+        "奶",
+        "奶仔"
+    ],
+    "Zhangzhou": [
+        "奶",
+        "奶仔"
+    ],
+    "Taipei": [
+        "奶"
+    ],
+    "Kaohsiung": [
+        "奶"
+    ],
+    "Tainan": [
+        "奶"
+    ],
+    "Taichung": [
+        "奶"
+    ],
+    "Wuqi": [
+        "奶"
+    ],
+    "Hsinchu-MN": [
+        "奶"
+    ],
+    "Taitung": [
+        "奶"
+    ],
+    "Lukang": [
+        "奶"
+    ],
+    "Sanxia": [
+        "奶仔"
+    ],
+    "Yilan": [
+        "奶"
+    ],
+    "Kinmen": [
+        "奶"
+    ],
+    "Magong": [
+        "奶"
+    ],
+    "Malaysia-MN": [
+        "奶"
+    ],
+    "Singapore-MN": [
+        "奶",
+        "奶仔"
+    ],
+    "Philippine-MN": [
+        "奶仔"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "奶"
+    ],
+    "Chaozhou": [
+        "奶"
+    ],
+    "Shantou": [
+        "奶"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "奶"
+    ],
+    "Wenchang": [
+        "奶"
+    ],
+    "Haikou": [
+        "奶"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "奶"
+    ],
+    "Xianyou": [
+        "奶"
+    ],
+    "Fuzhou": [
+        "奶奶",
+        "奶"
+    ],
+    "Changle": [
+        "奶奶"
+    ],
+    "Fuqing": [
+        "奶奶"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "奶"
+    ],
+    "Gutian": [
+        "奶"
+    ],
+    "Fu'an": [
+        "奶"
+    ],
+    "Ningde": [
+        "奶"
+    ],
+    "Shouning": [
+        "奶"
+    ],
+    "Zhouning": [
+        "奶"
+    ],
+    "Fuding": [
+        "奶"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "奶",
+        "奶脬",
+        "奶座"
+    ]
 }

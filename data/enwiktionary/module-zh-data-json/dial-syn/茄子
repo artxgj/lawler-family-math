@@ -1,896 +1,800 @@
 {
     "meaning": "eggplant; aubergine",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "茄子"
-    },
-    "Taxonomic": {
-        "1": "茄"
-    },
-    "Beijing": {
-        "1": "茄子"
-    },
-    "Taiwan": {
-        "1": "茄子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "茄子"
-    },
-    "Shenyang": {
-        "1": "茄子"
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "茄子"
-    },
-    "Muping": {
-        "1": "茄子"
-    },
-    "Luoyang": {
-        "1": "茄子"
-    },
-    "Wanrong": {
-        "1": "茄子"
-    },
-    "Xi'an": {
-        "1": "茄子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "茄子"
-    },
-    "Xining": {
-        "1": "茄子"
-    },
-    "Xuzhou": {
-        "1": "茄子"
-    },
-    "Yinchuan": {
-        "1": "茄子"
-    },
-    "Lanzhou": {
-        "1": "茄子"
-    },
-    "Ürümqi": {
-        "1": "茄子"
-    },
-    "Wuhan": {
-        "1": "茄子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "茄子"
-    },
-    "Guiyang": {
-        "1": "茄子"
-    },
-    "Guilin": {
-        "1": "茄子"
-    },
-    "Liuzhou": {
-        "1": "茄子"
-    },
-    "Kunming": {
-        "1": "茄子"
-    },
-    "Yangzhou": {
-        "1": "茄子"
-    },
-    "Nanjing": {
-        "1": "茄子"
-    },
-    "Hefei": {
-        "1": "茄子"
-    },
-    "Nantong": {
-        "1": "茄兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "茄子"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "茄子"
-    },
-    "Pingyao": {
-        "1": "茄子"
-    },
-    "Xinzhou": {
-        "1": "茄子"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "茄子"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "落蘇",
-        "2": "茄子"
-    },
-    "Suzhou": {
-        "1": "茄子"
-    },
-    "Wuxi": {
-        "1": "茄子"
-    },
-    "Hangzhou": {
-        "1": "茄兒",
-        "2": "茄子"
-    },
-    "Chongming": {
-        "1": "茄子",
-        "2": "茄落蘇"
-    },
-    "Wenzhou": {
-        "1": "茄兒",
-        "2": "落茄"
-    },
-    "Danyang": {
-        "1": "茄子"
-    },
-    "Jinhua": {
-        "1": "落蘇",
-        "2": "茄子"
-    },
-    "Tangxi": {
-        "1": "落蘇"
-    },
-    "Ningbo": {
-        "1": "茄",
-        "2": "茄子"
-    },
-    "Changsha": {
-        "1": "茄子"
-    },
-    "Shuangfeng": {
-        "1": "茄子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "茄子"
-    },
-    "Quanzhou-X": {
-        "1": "茄子"
-    },
-    "Nanchang": {
-        "1": "茄子"
-    },
-    "Lichuan": {
-        "1": "茄仔"
-    },
-    "Pingxiang": {
-        "1": "紫瓜"
-    },
-    "Meixian": {
-        "1": "吊菜仔",
-        "2": "吊菜",
-        "3": "茄仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "茄",
-        "2": "矮瓜"
-    },
-    "Huizhou-SK": {
-        "1": "茄"
-    },
-    "Huizhou-HL": {
-        "1": "茄"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "茄仔"
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "茄"
-    },
-    "Longmen-PL": {
-        "1": "茄哩"
-    },
-    "Longmen-LX": {
-        "1": "茄"
-    },
-    "Boluo": {
-        "1": "茄"
-    },
-    "Shenzhen-H": {
-        "1": "茄仔",
-        "2": "矮瓜"
-    },
-    "Zengcheng-ZG": {
-        "1": "茄"
-    },
-    "Zhongshan-WGS": {
-        "1": "茄"
-    },
-    "Zhongshan-NLHS": {
-        "1": "茄"
-    },
-    "Wuhua-SZ": {
-        "1": "吊菜"
-    },
-    "Wuhua-HC": {
-        "1": "吊菜",
-        "2": "茄哩"
-    },
-    "Wuhua-CB": {
-        "1": "茄哩"
-    },
-    "Wuhua-MY": {
-        "1": "茄哩"
-    },
-    "Heyuan": {
-        "1": "茄咧",
-        "2": "茄"
-    },
-    "Zijin-GZ": {
-        "1": "茄"
-    },
-    "Longchuan-TC": {
-        "1": "茄哎"
-    },
-    "Longchuan-SD": {
-        "1": "茄"
-    },
-    "Heping-LZ": {
-        "1": "茄蒂"
-    },
-    "Lianping-ZX": {
-        "1": "茄"
-    },
-    "Lianping-LJ": {
-        "1": "茄"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": "吊菜"
-    },
-    "Xinfeng-DX": {
-        "1": "吊菜",
-        "2": "茄"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": "茄子"
-    },
-    "Conghua-H": {
-        "1": "吊菜"
-    },
-    "Jiexi": {
-        "1": "茄"
-    },
-    "Luchuan-LC": {
-        "1": "矮瓜"
-    },
-    "Luchuan-DQ": {
-        "1": "矮瓜"
-    },
-    "Changting": {
-        "1": "茄"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "茄"
-    },
-    "Yudu": {
-        "1": "茄子",
-        "2": "吊菜子",
-        "3": "吊菜"
-    },
-    "Ruijin": {
-        "1": "茄子"
-    },
-    "Shicheng": {
-        "1": "茄子"
-    },
-    "Shangyou": {
-        "1": "茄兒"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "吊菜仔",
-        "2": "茄仔"
-    },
-    "Liudui": {
-        "1": "吊菜仔",
-        "2": "茄仔"
-    },
-    "Hsinchu": {
-        "1": "茄仔",
-        "2": "吊菜仔"
-    },
-    "Dongshi": {
-        "1": "吊菜",
-        "2": "茄"
-    },
-    "Raoping": {
-        "1": "茄"
-    },
-    "Yunlin": {
-        "1": "茄"
-    },
-    "Hong Kong-H": {
-        "1": "矮瓜",
-        "2": "茄菜"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "矮瓜"
-    },
-    "Senai": {
-        "1": "矮瓜"
-    },
-    "Singkawang": {
-        "1": "吊菜"
-    },
-    "Jixi": {
-        "1": "茄"
-    },
-    "Shexian": {
-        "1": "落蘇",
-        "2": "茄兒"
-    },
-    "Tunxi": {
-        "1": "落蘇"
-    },
-    "Xiuning": {
-        "1": "落蘇"
-    },
-    "Yixian": {
-        "1": "茄"
-    },
-    "Qimen": {
-        "1": "茄吶"
-    },
-    "Wuyuan": {
-        "1": "落蘇"
-    },
-    "Fuliang": {
-        "1": "落蘇"
-    },
-    "Dexing": {
-        "1": "落蘇"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "羅絲"
-    },
-    "Guangzhou": {
-        "1": "矮瓜",
-        "2": "茄瓜"
-    },
-    "Hong Kong": {
-        "1": "矮瓜",
-        "2": "茄瓜"
-    },
-    "HK Weitou": {
-        "1": "矮瓜"
-    },
-    "Kam Tin": {
-        "1": "矮瓜"
-    },
-    "Ting Kok": {
-        "1": "茄仔"
-    },
-    "Tung Ping Chau": {
-        "1": "茄仔"
-    },
-    "Macau": {
-        "1": "矮瓜"
-    },
-    "Panyu": {
-        "1": "矮瓜"
-    },
-    "Huadu": {
-        "1": "矮瓜"
-    },
-    "Conghua": {
-        "1": "矮瓜"
-    },
-    "Zengcheng": {
-        "1": "茄"
-    },
-    "Foshan": {
-        "1": "矮瓜"
-    },
-    "Nanhai": {
-        "1": "矮瓜"
-    },
-    "Shunde": {
-        "1": "矮瓜"
-    },
-    "Sanshui": {
-        "1": "矮瓜"
-    },
-    "Gaoming": {
-        "1": "矮瓜"
-    },
-    "Zhongshan": {
-        "1": "矮瓜"
-    },
-    "Zhuhai": {
-        "1": "矮瓜"
-    },
-    "Doumen-T": {
-        "1": "矮瓜"
-    },
-    "Doumen-S": {
-        "1": "矮瓜"
-    },
-    "Jiangmen": {
-        "1": "矮瓜"
-    },
-    "Xinhui": {
-        "1": "矮瓜",
-        "2": "茄"
-    },
-    "Taishan": {
-        "1": "茄"
-    },
-    "Kaiping": {
-        "1": "茄",
-        "2": "矮瓜"
-    },
-    "Enping": {
-        "1": "矮瓜"
-    },
-    "Heshan": {
-        "1": "矮瓜"
-    },
-    "Dongguan": {
-        "1": "矮瓜",
-        "2": "茄"
-    },
-    "Bao'an": {
-        "1": "茄"
-    },
-    "Dapeng": {
-        "1": "茄仔"
-    },
-    "Qingyuan": {
-        "1": "矮瓜"
-    },
-    "Fogang": {
-        "1": "矮瓜",
-        "2": "茄仔"
-    },
-    "Yingde": {
-        "1": "矮瓜"
-    },
-    "Yangshan": {
-        "1": "矮瓜"
-    },
-    "Lianshan": {
-        "1": "茄子"
-    },
-    "Lianzhou": {
-        "1": "茄子"
-    },
-    "Shaoguan": {
-        "1": "矮瓜"
-    },
-    "Qujiang-C": {
-        "1": "矮瓜"
-    },
-    "Renhua": {
-        "1": "矮瓜",
-        "2": "茄子"
-    },
-    "Lechang": {
-        "1": "矮瓜"
-    },
-    "Gaoyao": {
-        "1": "矮瓜"
-    },
-    "Sihui": {
-        "1": "矮瓜"
-    },
-    "Guangning": {
-        "1": "矮瓜"
-    },
-    "Deqing": {
-        "1": "矮瓜"
-    },
-    "Huaiji": {
-        "1": "矮瓜"
-    },
-    "Fengkai": {
-        "1": "矮瓜"
-    },
-    "Yunfu": {
-        "1": "矮瓜"
-    },
-    "Xinxing": {
-        "1": "矮瓜"
-    },
-    "Luoding": {
-        "1": "矮瓜"
-    },
-    "Yunan": {
-        "1": "矮瓜"
-    },
-    "Yangjiang": {
-        "1": "茄子"
-    },
-    "Xinyi": {
-        "1": "矮瓜"
-    },
-    "Zhanjiang": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": "矮瓜",
-        "2": "茄子"
-    },
-    "Wuchuan": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "茄瓜"
-    },
-    "Wuzhou": {
-        "1": "矮瓜"
-    },
-    "Yulin": {
-        "1": "茄子"
-    },
-    "Hepu": {
-        "1": "矮瓜"
-    },
-    "Danzhou": {
-        "1": "茄"
-    },
-    "Kuala Lumpur": {
-        "1": "矮瓜"
-    },
-    "Ho Chi Minh City": {
-        "1": "矮瓜"
-    },
-    "Nanning-P": {
-        "1": "茄瓜"
-    },
-    "Guilin-P": {
-        "1": "茄子"
-    },
-    "Xiamen": {
-        "1": "茄"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "紅菜",
-        "2": "茄"
-    },
-    "Jinjiang": {
-        "1": "紅菜"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": "紅菜"
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "茄"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "茄仔",
-        "2": "茄"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": "茄仔"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "茄仔"
-    },
-    "Taipei": {
-        "1": "茄"
-    },
-    "Kaohsiung": {
-        "1": "茄仔",
-        "2": "紅菜"
-    },
-    "Tainan": {
-        "1": "茄仔",
-        "2": "紅菜"
-    },
-    "Taichung": {
-        "1": "茄",
-        "2": "紅皮菜"
-    },
-    "Wuqi": {
-        "1": "紅皮菜"
-    },
-    "Hsinchu-MN": {
-        "1": "茄"
-    },
-    "Taitung": {
-        "1": "茄仔"
-    },
-    "Lukang": {
-        "1": "紅茄"
-    },
-    "Sanxia": {
-        "1": "茄仔"
-    },
-    "Yilan": {
-        "1": "茄"
-    },
-    "Kinmen": {
-        "1": "茄"
-    },
-    "Magong": {
-        "1": "茄",
-        "2": "茄仔"
-    },
-    "Malaysia-MN": {
-        "1": "茄"
-    },
-    "Singapore-MN": {
-        "1": "茄"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "茄仔"
-    },
-    "Zhangping": {
-        "1": "茄"
-    },
-    "Yongfu": {
-        "1": "茄"
-    },
-    "Datian": {
-        "1": "茄"
-    },
-    "Pingnan": {
-        "1": "茄子"
-    },
-    "Chaozhou": {
-        "1": "茄"
-    },
-    "Shantou": {
-        "1": "茄"
-    },
-    "Haifeng": {
-        "1": "落蘇"
-    },
-    "Thailand-MN-T": {
-        "1": "茄"
-    },
-    "Johor Bahru": {
-        "1": "茄"
-    },
-    "Wenchang": {
-        "1": "茄",
-        "2": "牛𡳞茄"
-    },
-    "Haikou": {
-        "1": "茄"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "茄"
-    },
-    "Xianyou": {
-        "1": "茄"
-    },
-    "Shaxi": {
-        "1": "茄"
-    },
-    "Sanxiang": {
-        "1": "茄"
-    },
-    "Fuzhou": {
-        "1": "紫菜"
-    },
-    "Changle": {
-        "1": "茄白菜"
-    },
-    "Fuqing": {
-        "1": "紫匏"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "紫菜"
-    },
-    "Gutian": {
-        "1": "紫菜"
-    },
-    "Fu'an": {
-        "1": "紫菜"
-    },
-    "Ningde": {
-        "1": "紫菜"
-    },
-    "Shouning": {
-        "1": "紫菜"
-    },
-    "Zhouning": {
-        "1": "紫菜"
-    },
-    "Fuding": {
-        "1": "茄囝"
-    },
-    "Matsu": {
-        "1": "茄"
-    },
-    "Jian'ou": {
-        "1": "茄"
-    },
-    "Dikou": {
-        "1": "茄"
-    },
-    "Songxi": {
-        "1": "茄"
-    },
-    "Zhenghe": {
-        "1": "茄"
-    },
-    "Zhenqian": {
-        "1": "茄"
-    },
-    "Jianyang": {
-        "1": "茄"
-    },
-    "Wuyishan": {
-        "1": "茄"
-    },
-    "Shibei": {
-        "1": "茄仔",
-        "2": "茄"
-    },
-    "Fu'an-She": {
-        "1": "茄仔"
-    },
-    "Fuding-She": {
-        "1": "茄仔"
-    },
-    "Luoyuan-She": {
-        "1": "茄"
-    },
-    "Sanming-She": {
-        "1": "茄仔"
-    },
-    "Shunchang-She": {
-        "1": "茄仔"
-    },
-    "Hua'an-She": {
-        "1": "茄仔"
-    },
-    "Guixi-She": {
-        "1": "茄仔"
-    },
-    "Cangnan-She": {
-        "1": "茄"
-    },
-    "Jingning-She": {
-        "1": "茄"
-    },
-    "Lishui-She": {
-        "1": "茄"
-    },
-    "Longyou-She": {
-        "1": "茄"
-    },
-    "Chaozhou-She": {
-        "1": "茄仔"
-    },
-    "Fengshun-She": {
-        "1": "茄仔"
-    }
+    "Classical": [],
+    "Formal": [
+        "茄子"
+    ],
+    "Taxonomic": [
+        "茄"
+    ],
+    "Beijing": [
+        "茄子"
+    ],
+    "Taiwan": [
+        "茄子"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "茄子"
+    ],
+    "Shenyang": [
+        "茄子"
+    ],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "茄子"
+    ],
+    "Muping": [
+        "茄子"
+    ],
+    "Luoyang": [
+        "茄子"
+    ],
+    "Wanrong": [
+        "茄子"
+    ],
+    "Xi'an": [
+        "茄子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "茄子"
+    ],
+    "Xining": [
+        "茄子"
+    ],
+    "Xuzhou": [
+        "茄子"
+    ],
+    "Yinchuan": [
+        "茄子"
+    ],
+    "Lanzhou": [
+        "茄子"
+    ],
+    "Ürümqi": [
+        "茄子"
+    ],
+    "Wuhan": [
+        "茄子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "茄子"
+    ],
+    "Guiyang": [
+        "茄子"
+    ],
+    "Guilin": [
+        "茄子"
+    ],
+    "Liuzhou": [
+        "茄子"
+    ],
+    "Kunming": [
+        "茄子"
+    ],
+    "Yangzhou": [
+        "茄子"
+    ],
+    "Nanjing": [
+        "茄子"
+    ],
+    "Hefei": [
+        "茄子"
+    ],
+    "Nantong": [
+        "茄兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "茄子"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "茄子"
+    ],
+    "Pingyao": [
+        "茄子"
+    ],
+    "Xinzhou": [
+        "茄子"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "茄子"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "落蘇",
+        "茄子"
+    ],
+    "Suzhou": [
+        "茄子"
+    ],
+    "Wuxi": [
+        "茄子"
+    ],
+    "Hangzhou": [
+        "茄兒",
+        "茄子"
+    ],
+    "Chongming": [
+        "茄子",
+        "茄落蘇"
+    ],
+    "Wenzhou": [
+        "茄兒",
+        "落茄"
+    ],
+    "Danyang": [
+        "茄子"
+    ],
+    "Jinhua": [
+        "落蘇",
+        "茄子"
+    ],
+    "Tangxi": [
+        "落蘇"
+    ],
+    "Ningbo": [
+        "茄",
+        "茄子"
+    ],
+    "Changsha": [
+        "茄子"
+    ],
+    "Shuangfeng": [
+        "茄子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "茄子"
+    ],
+    "Quanzhou-X": [
+        "茄子"
+    ],
+    "Nanchang": [
+        "茄子"
+    ],
+    "Lichuan": [
+        "茄仔"
+    ],
+    "Pingxiang": [
+        "紫瓜"
+    ],
+    "Meixian": [
+        "吊菜仔",
+        "吊菜",
+        "茄仔"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "茄",
+        "矮瓜"
+    ],
+    "Huizhou-SK": [
+        "茄"
+    ],
+    "Huizhou-HL": [
+        "茄"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "茄仔"
+    ],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "茄"
+    ],
+    "Longmen-PL": [
+        "茄哩"
+    ],
+    "Longmen-LX": [
+        "茄"
+    ],
+    "Boluo": [
+        "茄"
+    ],
+    "Shenzhen-H": [
+        "茄仔",
+        "矮瓜"
+    ],
+    "Zengcheng-ZG": [
+        "茄"
+    ],
+    "Zhongshan-WGS": [
+        "茄"
+    ],
+    "Zhongshan-NLHS": [
+        "茄"
+    ],
+    "Wuhua-SZ": [
+        "吊菜"
+    ],
+    "Wuhua-HC": [
+        "吊菜",
+        "茄哩"
+    ],
+    "Wuhua-CB": [
+        "茄哩"
+    ],
+    "Wuhua-MY": [
+        "茄哩"
+    ],
+    "Heyuan": [
+        "茄咧",
+        "茄"
+    ],
+    "Zijin-GZ": [
+        "茄"
+    ],
+    "Longchuan-TC": [
+        "茄哎"
+    ],
+    "Longchuan-SD": [
+        "茄"
+    ],
+    "Heping-LZ": [
+        "茄蒂"
+    ],
+    "Lianping-ZX": [
+        "茄"
+    ],
+    "Lianping-LJ": [
+        "茄"
+    ],
+    "Qujiang": [],
+    "Xinfeng-MT": [
+        "吊菜"
+    ],
+    "Xinfeng-DX": [
+        "吊菜",
+        "茄"
+    ],
+    "Xiaosanjiang": [],
+    "Liannan": [
+        "茄子"
+    ],
+    "Conghua-H": [
+        "吊菜"
+    ],
+    "Jiexi": [
+        "茄"
+    ],
+    "Luchuan-LC": [
+        "矮瓜"
+    ],
+    "Luchuan-DQ": [
+        "矮瓜"
+    ],
+    "Changting": [
+        "茄"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [
+        "茄"
+    ],
+    "Yudu": [
+        "茄子",
+        "吊菜子",
+        "吊菜"
+    ],
+    "Ruijin": [
+        "茄子"
+    ],
+    "Shicheng": [
+        "茄子"
+    ],
+    "Shangyou": [
+        "茄兒"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "吊菜仔",
+        "茄仔"
+    ],
+    "Liudui": [
+        "吊菜仔",
+        "茄仔"
+    ],
+    "Hsinchu": [
+        "茄仔",
+        "吊菜仔"
+    ],
+    "Dongshi": [
+        "吊菜",
+        "茄"
+    ],
+    "Raoping": [
+        "茄"
+    ],
+    "Yunlin": [
+        "茄"
+    ],
+    "Hong Kong-H": [
+        "矮瓜",
+        "茄菜"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "矮瓜"
+    ],
+    "Senai": [
+        "矮瓜"
+    ],
+    "Singkawang": [
+        "吊菜"
+    ],
+    "Jixi": [
+        "茄"
+    ],
+    "Shexian": [
+        "落蘇",
+        "茄兒"
+    ],
+    "Tunxi": [
+        "落蘇"
+    ],
+    "Xiuning": [
+        "落蘇"
+    ],
+    "Yixian": [
+        "茄"
+    ],
+    "Qimen": [
+        "茄吶"
+    ],
+    "Wuyuan": [
+        "落蘇"
+    ],
+    "Fuliang": [
+        "落蘇"
+    ],
+    "Dexing": [
+        "落蘇"
+    ],
+    "Jingde": [],
+    "Zhanda": [
+        "羅絲"
+    ],
+    "Guangzhou": [
+        "矮瓜",
+        "茄瓜"
+    ],
+    "Hong Kong": [
+        "矮瓜",
+        "茄瓜"
+    ],
+    "HK Weitou": [
+        "矮瓜"
+    ],
+    "Kam Tin": [
+        "矮瓜"
+    ],
+    "Ting Kok": [
+        "茄仔"
+    ],
+    "Tung Ping Chau": [
+        "茄仔"
+    ],
+    "Macau": [
+        "矮瓜"
+    ],
+    "Panyu": [
+        "矮瓜"
+    ],
+    "Huadu": [
+        "矮瓜"
+    ],
+    "Conghua": [
+        "矮瓜"
+    ],
+    "Zengcheng": [
+        "茄"
+    ],
+    "Foshan": [
+        "矮瓜"
+    ],
+    "Nanhai": [
+        "矮瓜"
+    ],
+    "Shunde": [
+        "矮瓜"
+    ],
+    "Sanshui": [
+        "矮瓜"
+    ],
+    "Gaoming": [
+        "矮瓜"
+    ],
+    "Zhongshan": [
+        "矮瓜"
+    ],
+    "Zhuhai": [
+        "矮瓜"
+    ],
+    "Doumen-T": [
+        "矮瓜"
+    ],
+    "Doumen-S": [
+        "矮瓜"
+    ],
+    "Jiangmen": [
+        "矮瓜"
+    ],
+    "Xinhui": [
+        "矮瓜",
+        "茄"
+    ],
+    "Taishan": [
+        "茄"
+    ],
+    "Kaiping": [
+        "茄",
+        "矮瓜"
+    ],
+    "Enping": [
+        "矮瓜"
+    ],
+    "Heshan": [
+        "矮瓜"
+    ],
+    "Dongguan": [
+        "矮瓜",
+        "茄"
+    ],
+    "Bao'an": [
+        "茄"
+    ],
+    "Dapeng": [
+        "茄仔"
+    ],
+    "Qingyuan": [
+        "矮瓜"
+    ],
+    "Fogang": [
+        "矮瓜",
+        "茄仔"
+    ],
+    "Yingde": [
+        "矮瓜"
+    ],
+    "Yangshan": [
+        "矮瓜"
+    ],
+    "Lianshan": [
+        "茄子"
+    ],
+    "Lianzhou": [
+        "茄子"
+    ],
+    "Shaoguan": [
+        "矮瓜"
+    ],
+    "Qujiang-C": [
+        "矮瓜"
+    ],
+    "Renhua": [
+        "矮瓜",
+        "茄子"
+    ],
+    "Lechang": [
+        "矮瓜"
+    ],
+    "Gaoyao": [
+        "矮瓜"
+    ],
+    "Sihui": [
+        "矮瓜"
+    ],
+    "Guangning": [
+        "矮瓜"
+    ],
+    "Deqing": [
+        "矮瓜"
+    ],
+    "Huaiji": [
+        "矮瓜"
+    ],
+    "Fengkai": [
+        "矮瓜"
+    ],
+    "Yunfu": [
+        "矮瓜"
+    ],
+    "Xinxing": [
+        "矮瓜"
+    ],
+    "Luoding": [
+        "矮瓜"
+    ],
+    "Yunan": [
+        "矮瓜"
+    ],
+    "Yangjiang": [
+        "茄子"
+    ],
+    "Xinyi": [
+        "矮瓜"
+    ],
+    "Zhanjiang": [],
+    "Lianjiang": [
+        "矮瓜",
+        "茄子"
+    ],
+    "Wuchuan": [],
+    "Nanning": [
+        "茄瓜"
+    ],
+    "Wuzhou": [
+        "矮瓜"
+    ],
+    "Yulin": [
+        "茄子"
+    ],
+    "Hepu": [
+        "矮瓜"
+    ],
+    "Danzhou": [
+        "茄"
+    ],
+    "Kuala Lumpur": [
+        "矮瓜"
+    ],
+    "Ho Chi Minh City": [
+        "矮瓜"
+    ],
+    "Nanning-P": [
+        "茄瓜"
+    ],
+    "Guilin-P": [
+        "茄子"
+    ],
+    "Xiamen": [
+        "茄"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "紅菜",
+        "茄"
+    ],
+    "Jinjiang": [
+        "紅菜"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [
+        "紅菜"
+    ],
+    "Anxi": [],
+    "Yongchun": [
+        "茄"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "茄仔",
+        "茄"
+    ],
+    "Longhai": [],
+    "Changtai": [
+        "茄仔"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "茄仔"
+    ],
+    "Taipei": [
+        "茄"
+    ],
+    "Kaohsiung": [
+        "茄仔",
+        "紅菜"
+    ],
+    "Tainan": [
+        "茄仔",
+        "紅菜"
+    ],
+    "Taichung": [
+        "茄",
+        "紅皮菜"
+    ],
+    "Wuqi": [
+        "紅皮菜"
+    ],
+    "Hsinchu-MN": [
+        "茄"
+    ],
+    "Taitung": [
+        "茄仔"
+    ],
+    "Lukang": [
+        "紅茄"
+    ],
+    "Sanxia": [
+        "茄仔"
+    ],
+    "Yilan": [
+        "茄"
+    ],
+    "Kinmen": [
+        "茄"
+    ],
+    "Magong": [
+        "茄",
+        "茄仔"
+    ],
+    "Malaysia-MN": [
+        "茄"
+    ],
+    "Singapore-MN": [
+        "茄"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [
+        "茄仔"
+    ],
+    "Zhangping": [
+        "茄"
+    ],
+    "Yongfu": [
+        "茄"
+    ],
+    "Datian": [
+        "茄"
+    ],
+    "Pingnan": [
+        "茄子"
+    ],
+    "Chaozhou": [
+        "茄"
+    ],
+    "Shantou": [
+        "茄"
+    ],
+    "Haifeng": [
+        "落蘇"
+    ],
+    "Thailand-MN-T": [
+        "茄"
+    ],
+    "Johor Bahru": [
+        "茄"
+    ],
+    "Wenchang": [
+        "茄",
+        "牛𡳞茄"
+    ],
+    "Haikou": [
+        "茄"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "茄"
+    ],
+    "Xianyou": [
+        "茄"
+    ],
+    "Shaxi": [
+        "茄"
+    ],
+    "Sanxiang": [
+        "茄"
+    ],
+    "Fuzhou": [
+        "紫菜"
+    ],
+    "Changle": [
+        "茄白菜"
+    ],
+    "Fuqing": [
+        "紫匏"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "紫菜"
+    ],
+    "Gutian": [
+        "紫菜"
+    ],
+    "Fu'an": [
+        "紫菜"
+    ],
+    "Ningde": [
+        "紫菜"
+    ],
+    "Shouning": [
+        "紫菜"
+    ],
+    "Zhouning": [
+        "紫菜"
+    ],
+    "Fuding": [
+        "茄囝"
+    ],
+    "Matsu": [
+        "茄"
+    ],
+    "Jian'ou": [
+        "茄"
+    ],
+    "Dikou": [
+        "茄"
+    ],
+    "Songxi": [
+        "茄"
+    ],
+    "Zhenghe": [
+        "茄"
+    ],
+    "Zhenqian": [
+        "茄"
+    ],
+    "Jianyang": [
+        "茄"
+    ],
+    "Wuyishan": [
+        "茄"
+    ],
+    "Shibei": [
+        "茄仔",
+        "茄"
+    ],
+    "Fu'an-She": [
+        "茄仔"
+    ],
+    "Fuding-She": [
+        "茄仔"
+    ],
+    "Luoyuan-She": [
+        "茄"
+    ],
+    "Sanming-She": [
+        "茄仔"
+    ],
+    "Shunchang-She": [
+        "茄仔"
+    ],
+    "Hua'an-She": [
+        "茄仔"
+    ],
+    "Guixi-She": [
+        "茄仔"
+    ],
+    "Cangnan-She": [
+        "茄"
+    ],
+    "Jingning-She": [
+        "茄"
+    ],
+    "Lishui-She": [
+        "茄"
+    ],
+    "Longyou-She": [
+        "茄"
+    ],
+    "Chaozhou-She": [
+        "茄仔"
+    ],
+    "Fengshun-She": [
+        "茄仔"
+    ]
 }

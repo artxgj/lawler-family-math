@@ -1,448 +1,330 @@
 {
     "meaning": "table",
     "note": "",
-    "Classical": {
-        "1": "桌"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "桌子"
-    },
-    "Taiwan": {
-        "1": "桌子"
-    },
-    "Tianjin": {
-        "1": "桌子"
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "桌子"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "桌子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "桌子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "桌子"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "桌子"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "桌子"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "桌子",
-        "2": "檯子"
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "桌子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "檯子"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "檯子"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "桌"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "桌子"
-    },
-    "Shuangfeng": {
-        "1": "桌子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "桌子"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "桌仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "檯"
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "檯"
-    },
-    "Shenzhen-H": {
-        "1": "檯"
-    },
-    "Zhongshan-NLHS": {
-        "1": "桌"
-    },
-    "Heyuan": {
-        "1": "桌"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": "檯桌"
-    },
-    "Conghua-H": {
-        "1": "檯"
-    },
-    "Jiexi": {
-        "1": "桌"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "桌子"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "桌子"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "桌"
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "桌仔"
-    },
-    "Liudui": {
-        "1": "桌仔"
-    },
-    "Hsinchu": {
-        "1": "桌仔"
-    },
-    "Dongshi": {
-        "1": "桌"
-    },
-    "Raoping": {
-        "1": "桌仔",
-        "2": "桌"
-    },
-    "Yunlin": {
-        "1": "桌"
-    },
-    "Hong Kong-H": {
-        "1": "檯"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "檯"
-    },
-    "Hong Kong": {
-        "1": "檯"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": "檯"
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": "檯"
-    },
-    "Panyu": {
-        "1": "檯"
-    },
-    "Huadu": {
-        "1": "檯"
-    },
-    "Conghua": {
-        "1": "檯"
-    },
-    "Zengcheng": {
-        "1": "檯"
-    },
-    "Foshan": {
-        "1": "檯"
-    },
-    "Nanhai": {
-        "1": "檯"
-    },
-    "Shunde": {
-        "1": "檯"
-    },
-    "Sanshui": {
-        "1": "檯"
-    },
-    "Gaoming": {
-        "1": "檯"
-    },
-    "Zhongshan": {
-        "1": "檯"
-    },
-    "Zhuhai": {
-        "1": "檯"
-    },
-    "Doumen-T": {
-        "1": "檯"
-    },
-    "Doumen-S": {
-        "1": "檯"
-    },
-    "Jiangmen": {
-        "1": "檯"
-    },
-    "Xinhui": {
-        "1": "檯"
-    },
-    "Taishan": {
-        "1": "檯"
-    },
-    "Kaiping": {
-        "1": "檯"
-    },
-    "Enping": {
-        "1": "檯"
-    },
-    "Heshan": {
-        "1": "檯"
-    },
-    "Dongguan": {
-        "1": "檯頭"
-    },
-    "Bao'an": {
-        "1": "檯"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "檯"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "桌",
-        "2": "桌仔"
-    },
-    "Quanzhou": {
-        "1": "桌",
-        "2": "桌仔"
-    },
-    "Zhangzhou": {
-        "1": "桌"
-    },
-    "Taipei": {
-        "1": "桌仔"
-    },
-    "Kaohsiung": {
-        "1": "桌仔"
-    },
-    "Tainan": {
-        "1": "桌仔"
-    },
-    "Taichung": {
-        "1": "桌仔"
-    },
-    "Yilan": {
-        "1": "桌仔"
-    },
-    "Lukang": {
-        "1": "桌仔"
-    },
-    "Sanxia": {
-        "1": "桌仔"
-    },
-    "Kinmen": {
-        "1": "桌"
-    },
-    "Magong": {
-        "1": "桌"
-    },
-    "Hsinchu-MN": {
-        "1": "桌仔"
-    },
-    "Malaysia-MN": {
-        "1": "桌",
-        "2": "桌頂"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "桌"
-    },
-    "Chaozhou": {
-        "1": "床"
-    },
-    "Shantou": {
-        "1": "床"
-    },
-    "Haifeng": {
-        "1": "床",
-        "2": "床頭"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "床"
-    },
-    "Leizhou": {
-        "1": "床"
-    },
-    "Putian": {
-        "1": "床"
-    },
-    "Xianyou": {
-        "1": "床"
-    },
-    "Fuzhou": {
-        "1": "桌"
-    },
-    "Jian'ou": {
-        "1": "桌"
-    }
+    "Classical": [
+        "桌"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "桌子"
+    ],
+    "Taiwan": [
+        "桌子"
+    ],
+    "Tianjin": [
+        "桌子"
+    ],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "桌子"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "桌子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "桌子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "桌子"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "桌子"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "桌子"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "桌子",
+        "檯子"
+    ],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "桌子"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "檯子"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "檯子"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "桌"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "桌子"
+    ],
+    "Shuangfeng": [
+        "桌子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "桌子"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "桌仔"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "檯"
+    ],
+    "Huidong": [],
+    "Dongguan-H": [
+        "檯"
+    ],
+    "Shenzhen-H": [
+        "檯"
+    ],
+    "Zhongshan-NLHS": [
+        "桌"
+    ],
+    "Heyuan": [
+        "桌"
+    ],
+    "Qujiang": [],
+    "Liannan": [
+        "檯桌"
+    ],
+    "Conghua-H": [
+        "檯"
+    ],
+    "Jiexi": [
+        "桌"
+    ],
+    "Xiaosanjiang": [],
+    "Changting": [
+        "桌子"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "桌子"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "桌"
+    ],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "桌仔"
+    ],
+    "Liudui": [
+        "桌仔"
+    ],
+    "Hsinchu": [
+        "桌仔"
+    ],
+    "Dongshi": [
+        "桌"
+    ],
+    "Raoping": [
+        "桌仔",
+        "桌"
+    ],
+    "Yunlin": [
+        "桌"
+    ],
+    "Hong Kong-H": [
+        "檯"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "檯"
+    ],
+    "Hong Kong": [
+        "檯"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [
+        "檯"
+    ],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "檯"
+    ],
+    "Panyu": [
+        "檯"
+    ],
+    "Huadu": [
+        "檯"
+    ],
+    "Conghua": [
+        "檯"
+    ],
+    "Zengcheng": [
+        "檯"
+    ],
+    "Foshan": [
+        "檯"
+    ],
+    "Nanhai": [
+        "檯"
+    ],
+    "Shunde": [
+        "檯"
+    ],
+    "Sanshui": [
+        "檯"
+    ],
+    "Gaoming": [
+        "檯"
+    ],
+    "Zhongshan": [
+        "檯"
+    ],
+    "Zhuhai": [
+        "檯"
+    ],
+    "Doumen-T": [
+        "檯"
+    ],
+    "Doumen-S": [
+        "檯"
+    ],
+    "Jiangmen": [
+        "檯"
+    ],
+    "Xinhui": [
+        "檯"
+    ],
+    "Taishan": [
+        "檯"
+    ],
+    "Kaiping": [
+        "檯"
+    ],
+    "Enping": [
+        "檯"
+    ],
+    "Heshan": [
+        "檯"
+    ],
+    "Dongguan": [
+        "檯頭"
+    ],
+    "Bao'an": [
+        "檯"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "檯"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "桌",
+        "桌仔"
+    ],
+    "Quanzhou": [
+        "桌",
+        "桌仔"
+    ],
+    "Zhangzhou": [
+        "桌"
+    ],
+    "Taipei": [
+        "桌仔"
+    ],
+    "Kaohsiung": [
+        "桌仔"
+    ],
+    "Tainan": [
+        "桌仔"
+    ],
+    "Taichung": [
+        "桌仔"
+    ],
+    "Yilan": [
+        "桌仔"
+    ],
+    "Lukang": [
+        "桌仔"
+    ],
+    "Sanxia": [
+        "桌仔"
+    ],
+    "Kinmen": [
+        "桌"
+    ],
+    "Magong": [
+        "桌"
+    ],
+    "Hsinchu-MN": [
+        "桌仔"
+    ],
+    "Malaysia-MN": [
+        "桌",
+        "桌頂"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "桌"
+    ],
+    "Chaozhou": [
+        "床"
+    ],
+    "Shantou": [
+        "床"
+    ],
+    "Haifeng": [
+        "床",
+        "床頭"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "床"
+    ],
+    "Leizhou": [
+        "床"
+    ],
+    "Putian": [
+        "床"
+    ],
+    "Xianyou": [
+        "床"
+    ],
+    "Fuzhou": [
+        "桌"
+    ],
+    "Jian'ou": [
+        "桌"
+    ]
 }

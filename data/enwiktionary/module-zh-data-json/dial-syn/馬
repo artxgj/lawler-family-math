@@ -1,394 +1,280 @@
 {
     "meaning": "horse",
     "note": "",
-    "Classical": {
-        "1": "馬"
-    },
-    "Formal": {
-        "1": "馬"
-    },
-    "Taxonomic": {
-        "1": "馬"
-    },
-    "Beijing": {
-        "1": "馬"
-    },
-    "Taiwan": {
-        "1": "馬"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "馬"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "馬"
-    },
-    "Muping": {
-        "1": "馬"
-    },
-    "Luoyang": {
-        "1": "馬"
-    },
-    "Wanrong": {
-        "1": "馬"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "馬"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "馬",
-        "2": "達冒兒馬"
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": "馬"
-    },
-    "Lanzhou": {
-        "1": "馬"
-    },
-    "Ürümqi": {
-        "1": "馬"
-    },
-    "Wuhan": {
-        "1": "馬"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "馬"
-    },
-    "Guiyang": {
-        "1": "馬",
-        "2": "馬兒"
-    },
-    "Liuzhou": {
-        "1": "馬"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "馬"
-    },
-    "Nanjing": {
-        "1": "馬"
-    },
-    "Hefei": {
-        "1": "馬"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "馬兒",
-        "2": "馬"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "馬"
-    },
-    "Hangzhou": {
-        "1": "馬"
-    },
-    "Shanghai": {
-        "1": "馬"
-    },
-    "Chongming": {
-        "1": "馬"
-    },
-    "Wenzhou": {
-        "1": "馬"
-    },
-    "Danyang": {
-        "1": "馬"
-    },
-    "Jinhua": {
-        "1": "馬"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "馬"
-    },
-    "Changsha": {
-        "1": "馬"
-    },
-    "Shuangfeng": {
-        "1": "馬"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "馬"
-    },
-    "Nanchang": {
-        "1": "馬"
-    },
-    "Lichuan": {
-        "1": "馬"
-    },
-    "Pingxiang": {
-        "1": "馬"
-    },
-    "Meixian": {
-        "1": "馬"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "馬"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "馬仔"
-    },
-    "Liudui": {
-        "1": "馬仔"
-    },
-    "Hsinchu": {
-        "1": "馬"
-    },
-    "Dongshi": {
-        "1": "馬"
-    },
-    "Raoping": {
-        "1": "馬"
-    },
-    "Yunlin": {
-        "1": "馬"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "馬"
-    },
-    "Guangzhou": {
-        "1": "馬"
-    },
-    "Hong Kong": {
-        "1": "馬"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "馬"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "馬"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "馬"
-    },
-    "Quanzhou": {
-        "1": "馬"
-    },
-    "Zhangzhou": {
-        "1": "馬"
-    },
-    "Taipei": {
-        "1": "馬"
-    },
-    "Kaohsiung": {
-        "1": "馬"
-    },
-    "Tainan": {
-        "1": "馬"
-    },
-    "Taichung": {
-        "1": "馬"
-    },
-    "Wuqi": {
-        "1": "馬"
-    },
-    "Hsinchu-MN": {
-        "1": "馬"
-    },
-    "Taitung": {
-        "1": "馬"
-    },
-    "Lukang": {
-        "1": "馬"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "馬"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "馬"
-    },
-    "Malaysia-MN": {
-        "1": "馬"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "馬"
-    },
-    "Chaozhou": {
-        "1": "馬"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "馬"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "馬"
-    },
-    "Leizhou": {
-        "1": "馬"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "馬"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "馬"
-    },
-    "Jian'ou": {
-        "1": "馬"
-    }
+    "Classical": [
+        "馬"
+    ],
+    "Formal": [
+        "馬"
+    ],
+    "Taxonomic": [
+        "馬"
+    ],
+    "Beijing": [
+        "馬"
+    ],
+    "Taiwan": [
+        "馬"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "馬"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "馬"
+    ],
+    "Muping": [
+        "馬"
+    ],
+    "Luoyang": [
+        "馬"
+    ],
+    "Wanrong": [
+        "馬"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "馬"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "馬",
+        "達冒兒馬"
+    ],
+    "Xuzhou": [],
+    "Yinchuan": [
+        "馬"
+    ],
+    "Lanzhou": [
+        "馬"
+    ],
+    "Ürümqi": [
+        "馬"
+    ],
+    "Wuhan": [
+        "馬"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "馬"
+    ],
+    "Guiyang": [
+        "馬",
+        "馬兒"
+    ],
+    "Liuzhou": [
+        "馬"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "馬"
+    ],
+    "Nanjing": [
+        "馬"
+    ],
+    "Hefei": [
+        "馬"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "馬兒",
+        "馬"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "馬"
+    ],
+    "Hangzhou": [
+        "馬"
+    ],
+    "Shanghai": [
+        "馬"
+    ],
+    "Chongming": [
+        "馬"
+    ],
+    "Wenzhou": [
+        "馬"
+    ],
+    "Danyang": [
+        "馬"
+    ],
+    "Jinhua": [
+        "馬"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "馬"
+    ],
+    "Changsha": [
+        "馬"
+    ],
+    "Shuangfeng": [
+        "馬"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "馬"
+    ],
+    "Nanchang": [
+        "馬"
+    ],
+    "Lichuan": [
+        "馬"
+    ],
+    "Pingxiang": [
+        "馬"
+    ],
+    "Meixian": [
+        "馬"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "馬"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "馬仔"
+    ],
+    "Liudui": [
+        "馬仔"
+    ],
+    "Hsinchu": [
+        "馬"
+    ],
+    "Dongshi": [
+        "馬"
+    ],
+    "Raoping": [
+        "馬"
+    ],
+    "Yunlin": [
+        "馬"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "馬"
+    ],
+    "Guangzhou": [
+        "馬"
+    ],
+    "Hong Kong": [
+        "馬"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "馬"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "馬"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "馬"
+    ],
+    "Quanzhou": [
+        "馬"
+    ],
+    "Zhangzhou": [
+        "馬"
+    ],
+    "Taipei": [
+        "馬"
+    ],
+    "Kaohsiung": [
+        "馬"
+    ],
+    "Tainan": [
+        "馬"
+    ],
+    "Taichung": [
+        "馬"
+    ],
+    "Wuqi": [
+        "馬"
+    ],
+    "Hsinchu-MN": [
+        "馬"
+    ],
+    "Taitung": [
+        "馬"
+    ],
+    "Lukang": [
+        "馬"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "馬"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "馬"
+    ],
+    "Malaysia-MN": [
+        "馬"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "馬"
+    ],
+    "Chaozhou": [
+        "馬"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "馬"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "馬"
+    ],
+    "Leizhou": [
+        "馬"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "馬"
+    ],
+    "Fuqing": [],
+    "Matsu": [
+        "馬"
+    ],
+    "Jian'ou": [
+        "馬"
+    ]
 }

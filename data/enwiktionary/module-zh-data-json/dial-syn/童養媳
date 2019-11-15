@@ -1,520 +1,332 @@
 {
     "meaning": "child bride",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "童養媳"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "團圓媳婦兒"
-    },
-    "Taiwan": {
-        "1": "童養媳"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "小媳婦兒",
-        "2": "團圓媳婦兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "團養子媳婦"
-    },
-    "Muping": {
-        "1": "童養媳"
-    },
-    "Luoyang": {
-        "1": "囤養媳婦兒"
-    },
-    "Wanrong": {
-        "1": "童養媳婦"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "囤養媳"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "團兒媳婦"
-    },
-    "Yinchuan": {
-        "1": "團媳婦子"
-    },
-    "Lanzhou": {
-        "1": "童養媳婦子"
-    },
-    "Ürümqi": {
-        "1": "童養媳兒"
-    },
-    "Wuhan": {
-        "1": "小媳婦"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "小接媳婦兒",
-        "2": "童養媳"
-    },
-    "Guiyang": {
-        "1": "童養媳"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "小媳婦"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "小媳婦子",
-        "2": "小媳婦"
-    },
-    "Nanjing": {
-        "1": "秧媳婦"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "童養媳婦兒"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "童養子媳婦兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "養新婦"
-    },
-    "Suzhou": {
-        "1": "養新婦"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "養媳婦兒"
-    },
-    "Chongming": {
-        "1": "養新婦"
-    },
-    "Wenzhou": {
-        "1": "新婦兒"
-    },
-    "Danyang": {
-        "1": "養新婦"
-    },
-    "Jinhua": {
-        "1": "小新婦兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "養生新婦",
-        "2": "養生"
-    },
-    "Changsha": {
-        "1": "細媳婦"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "細媳婦"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "童娘子"
-    },
-    "Lichuan": {
-        "1": "屯養新婦"
-    },
-    "Pingxiang": {
-        "1": "細新婦"
-    },
-    "Meixian": {
-        "1": "細心臼仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "食奶新婦",
-        "2": "食奶女子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "細心臼仔",
-        "2": "花囤女"
-    },
-    "Liudui": {
-        "1": "細心臼仔",
-        "2": "花囤女"
-    },
-    "Hsinchu": {
-        "1": "細心臼仔",
-        "2": "花囤女"
-    },
-    "Dongshi": {
-        "1": "細心臼"
-    },
-    "Raoping": {
-        "1": "細新婦仔",
-        "2": "花囤女"
-    },
-    "Yunlin": {
-        "1": "新婦子"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "細新婦"
-    },
-    "Guangzhou": {
-        "1": "新婦仔"
-    },
-    "Hong Kong": {
-        "1": "新婦仔"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "新婦仔"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "童養媳"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "新婦仔"
-    },
-    "Quanzhou": {
-        "1": "新婦仔"
-    },
-    "Zhangzhou": {
-        "1": "新婦仔"
-    },
-    "Taipei": {
-        "1": "新婦仔"
-    },
-    "Kaohsiung": {
-        "1": "新婦仔"
-    },
-    "Tainan": {
-        "1": "新婦仔"
-    },
-    "Taichung": {
-        "1": "新婦仔"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "新婦仔"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "新婦仔育"
-    },
-    "Sanxia": {
-        "1": "新婦仔"
-    },
-    "Yilan": {
-        "1": "新婦仔"
-    },
-    "Kinmen": {
-        "1": "新婦仔"
-    },
-    "Magong": {
-        "1": "新婦仔"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "飼新婦"
-    },
-    "Leizhou": {
-        "1": "新婦囝"
-    },
-    "Putian": {
-        "1": "新婦囝"
-    },
-    "Xianyou": {
-        "1": "新婦囝"
-    },
-    "Fuzhou": {
-        "1": "新婦囝"
-    },
-    "Changle": {
-        "1": "新婦囝"
-    },
-    "Fuqing": {
-        "1": "新婦囝"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "新婦囝"
-    },
-    "Gutian": {
-        "1": "新婦囝"
-    },
-    "Fu'an": {
-        "1": "新婦囝"
-    },
-    "Ningde": {
-        "1": "新婦囝"
-    },
-    "Shouning": {
-        "1": "新婦囝"
-    },
-    "Zhouning": {
-        "1": "新婦囝"
-    },
-    "Fuding": {
-        "1": "新婦囝"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "新婦仔"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "童養媳"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "團圓媳婦兒"
+    ],
+    "Taiwan": [
+        "童養媳"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "小媳婦兒",
+        "團圓媳婦兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "團養子媳婦"
+    ],
+    "Muping": [
+        "童養媳"
+    ],
+    "Luoyang": [
+        "囤養媳婦兒"
+    ],
+    "Wanrong": [
+        "童養媳婦"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "囤養媳"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "團兒媳婦"
+    ],
+    "Yinchuan": [
+        "團媳婦子"
+    ],
+    "Lanzhou": [
+        "童養媳婦子"
+    ],
+    "Ürümqi": [
+        "童養媳兒"
+    ],
+    "Wuhan": [
+        "小媳婦"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "小接媳婦兒",
+        "童養媳"
+    ],
+    "Guiyang": [
+        "童養媳"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "小媳婦"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "小媳婦子",
+        "小媳婦"
+    ],
+    "Nanjing": [
+        "秧媳婦"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "童養媳婦兒"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "童養子媳婦兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "養新婦"
+    ],
+    "Suzhou": [
+        "養新婦"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "養媳婦兒"
+    ],
+    "Chongming": [
+        "養新婦"
+    ],
+    "Wenzhou": [
+        "新婦兒"
+    ],
+    "Danyang": [
+        "養新婦"
+    ],
+    "Jinhua": [
+        "小新婦兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "養生新婦",
+        "養生"
+    ],
+    "Changsha": [
+        "細媳婦"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "細媳婦"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "童娘子"
+    ],
+    "Lichuan": [
+        "屯養新婦"
+    ],
+    "Pingxiang": [
+        "細新婦"
+    ],
+    "Meixian": [
+        "細心臼仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "食奶新婦",
+        "食奶女子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "細心臼仔",
+        "花囤女"
+    ],
+    "Liudui": [
+        "細心臼仔",
+        "花囤女"
+    ],
+    "Hsinchu": [
+        "細心臼仔",
+        "花囤女"
+    ],
+    "Dongshi": [
+        "細心臼"
+    ],
+    "Raoping": [
+        "細新婦仔",
+        "花囤女"
+    ],
+    "Yunlin": [
+        "新婦子"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "細新婦"
+    ],
+    "Guangzhou": [
+        "新婦仔"
+    ],
+    "Hong Kong": [
+        "新婦仔"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "新婦仔"
+    ],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "童養媳"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "新婦仔"
+    ],
+    "Quanzhou": [
+        "新婦仔"
+    ],
+    "Zhangzhou": [
+        "新婦仔"
+    ],
+    "Taipei": [
+        "新婦仔"
+    ],
+    "Kaohsiung": [
+        "新婦仔"
+    ],
+    "Tainan": [
+        "新婦仔"
+    ],
+    "Taichung": [
+        "新婦仔"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "新婦仔"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "新婦仔育"
+    ],
+    "Sanxia": [
+        "新婦仔"
+    ],
+    "Yilan": [
+        "新婦仔"
+    ],
+    "Kinmen": [
+        "新婦仔"
+    ],
+    "Magong": [
+        "新婦仔"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "飼新婦"
+    ],
+    "Leizhou": [
+        "新婦囝"
+    ],
+    "Putian": [
+        "新婦囝"
+    ],
+    "Xianyou": [
+        "新婦囝"
+    ],
+    "Fuzhou": [
+        "新婦囝"
+    ],
+    "Changle": [
+        "新婦囝"
+    ],
+    "Fuqing": [
+        "新婦囝"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "新婦囝"
+    ],
+    "Gutian": [
+        "新婦囝"
+    ],
+    "Fu'an": [
+        "新婦囝"
+    ],
+    "Ningde": [
+        "新婦囝"
+    ],
+    "Shouning": [
+        "新婦囝"
+    ],
+    "Zhouning": [
+        "新婦囝"
+    ],
+    "Fuding": [
+        "新婦囝"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "新婦仔"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

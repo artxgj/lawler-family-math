@@ -1,800 +1,494 @@
 {
     "meaning": "iron (for pressing clothes)",
     "note": "",
-    "Classical": {
-        "1": "熨斗",
-        "2": "火斗",
-        "3": "金斗",
-        "4": "鈷鉧"
-    },
-    "Formal": {
-        "1": "熨斗"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "熨斗兒"
-    },
-    "Taiwan": {
-        "1": "熨斗"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "熨斗兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "熨斗"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "熨斗"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "熨斗"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "熨斗"
-    },
-    "Xuzhou": {
-        "1": "熨斗"
-    },
-    "Yinchuan": {
-        "1": "熨斗"
-    },
-    "Lanzhou": {
-        "1": "熨斗"
-    },
-    "Ürümqi": {
-        "1": "熨斗"
-    },
-    "Wuhan": {
-        "1": "熨斗"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "熨斗"
-    },
-    "Guiyang": {
-        "1": "熨斗"
-    },
-    "Guilin": {
-        "1": "燙斗"
-    },
-    "Liuzhou": {
-        "1": "燙斗"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "熨斗"
-    },
-    "Nanjing": {
-        "1": "熨斗"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "熨斗"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "熨斗"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "熨斗"
-    },
-    "Suzhou": {
-        "1": "熨斗"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "熨斗"
-    },
-    "Chongming": {
-        "1": "熨斗"
-    },
-    "Wenzhou": {
-        "1": "燙斗"
-    },
-    "Danyang": {
-        "1": "熨斗"
-    },
-    "Jinhua": {
-        "1": "燙斗"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "熨斗"
-    },
-    "Changsha": {
-        "1": "熨斗"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "熨斗"
-    },
-    "Quanzhou-X": {
-        "1": "燙斗"
-    },
-    "Nanchang": {
-        "1": "熨斗"
-    },
-    "Lichuan": {
-        "1": "熨斗"
-    },
-    "Pingxiang": {
-        "1": "熨斗",
-        "2": "燙斗"
-    },
-    "Meixian": {
-        "1": "燙斗"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "燙斗"
-    },
-    "Huizhou-SK": {
-        "1": "燙斗"
-    },
-    "Huizhou-HL": {
-        "1": "燙斗"
-    },
-    "Huiyang": {
-        "1": "燙斗"
-    },
-    "Huidong-PS": {
-        "1": "燙斗"
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": ""
-    },
-    "Longmen-PL": {
-        "1": "燙斗"
-    },
-    "Longmen-LX": {
-        "1": "燙斗"
-    },
-    "Boluo": {
-        "1": "燙斗"
-    },
-    "Shenzhen-H": {
-        "1": ""
-    },
-    "Zengcheng-ZG": {
-        "1": "燙斗"
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": ""
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": "燙斗"
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": "燙斗"
-    },
-    "Zijin-GZ": {
-        "1": "燙斗"
-    },
-    "Longchuan-TC": {
-        "1": "燙斗"
-    },
-    "Longchuan-SD": {
-        "1": "燙斗"
-    },
-    "Heping-LZ": {
-        "1": "燙斗"
-    },
-    "Lianping-ZX": {
-        "1": "燙斗"
-    },
-    "Lianping-LJ": {
-        "1": "燙斗"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": "燙斗"
-    },
-    "Xinfeng-DX": {
-        "1": "燙斗"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": ""
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "熨斗"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "熨斗"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "熨斗"
-    },
-    "Liudui": {
-        "1": "熨斗"
-    },
-    "Hsinchu": {
-        "1": "熨斗"
-    },
-    "Dongshi": {
-        "1": "熨斗"
-    },
-    "Raoping": {
-        "1": "熨斗"
-    },
-    "Yunlin": {
-        "1": "熨斗"
-    },
-    "Hong Kong-H": {
-        "1": "燙斗"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "燙斗"
-    },
-    "Senai": {
-        "1": "燙斗"
-    },
-    "Singkawang": {
-        "1": "燙斗"
-    },
-    "Jixi": {
-        "1": "燙斗"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "燙斗"
-    },
-    "Hong Kong": {
-        "1": "燙斗"
-    },
-    "HK Weitou": {
-        "1": "燙斗"
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": "燙斗"
-    },
-    "Tung Ping Chau": {
-        "1": "燙斗"
-    },
-    "Macau": {
-        "1": ""
-    },
-    "Panyu": {
-        "1": ""
-    },
-    "Huadu": {
-        "1": ""
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Nanhai": {
-        "1": ""
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Sanshui": {
-        "1": ""
-    },
-    "Gaoming": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Zhuhai": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": ""
-    },
-    "Jiangmen": {
-        "1": ""
-    },
-    "Xinhui": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "燙斗"
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Enping": {
-        "1": ""
-    },
-    "Heshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "燙斗"
-    },
-    "Bao'an": {
-        "1": ""
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "燙斗"
-    },
-    "Wuzhou": {
-        "1": "燙斗"
-    },
-    "Yulin": {
-        "1": "燙斗"
-    },
-    "Hepu": {
-        "1": "燙斗"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "燙斗"
-    },
-    "Ho Chi Minh City": {
-        "1": "燙斗"
-    },
-    "Nanning-P": {
-        "1": "燙斗"
-    },
-    "Guilin-P": {
-        "1": "熨斗"
-    },
-    "Xiamen": {
-        "1": "熨斗"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "熨斗"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "熨斗"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "熨斗"
-    },
-    "Taipei": {
-        "1": "熨斗"
-    },
-    "Kaohsiung": {
-        "1": "熨斗"
-    },
-    "Tainan": {
-        "1": "熨斗"
-    },
-    "Taichung": {
-        "1": "熨斗"
-    },
-    "Wuqi": {
-        "1": "熨斗"
-    },
-    "Hsinchu-MN": {
-        "1": "熨斗"
-    },
-    "Taitung": {
-        "1": "熨斗"
-    },
-    "Lukang": {
-        "1": "熨斗"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "熨斗"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "熨斗"
-    },
-    "Malaysia-MN": {
-        "1": "熨斗"
-    },
-    "Singapore-MN": {
-        "1": "熨斗"
-    },
-    "Philippine-MN": {
-        "1": "熨斗"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "熨斗"
-    },
-    "Shantou": {
-        "1": "熨斗"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "熨斗"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "燙斗"
-    },
-    "Leizhou": {
-        "1": "燙斗"
-    },
-    "Putian": {
-        "1": "熨斗"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "熨斗"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "熨斗"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "熨斗"
-    },
-    "Jian'ou": {
-        "1": "熨斗"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "熨斗",
+        "火斗",
+        "金斗",
+        "鈷鉧"
+    ],
+    "Formal": [
+        "熨斗"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "熨斗兒"
+    ],
+    "Taiwan": [
+        "熨斗"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "熨斗兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "熨斗"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "熨斗"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "熨斗"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "熨斗"
+    ],
+    "Xuzhou": [
+        "熨斗"
+    ],
+    "Yinchuan": [
+        "熨斗"
+    ],
+    "Lanzhou": [
+        "熨斗"
+    ],
+    "Ürümqi": [
+        "熨斗"
+    ],
+    "Wuhan": [
+        "熨斗"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "熨斗"
+    ],
+    "Guiyang": [
+        "熨斗"
+    ],
+    "Guilin": [
+        "燙斗"
+    ],
+    "Liuzhou": [
+        "燙斗"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "熨斗"
+    ],
+    "Nanjing": [
+        "熨斗"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "熨斗"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "熨斗"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "熨斗"
+    ],
+    "Suzhou": [
+        "熨斗"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "熨斗"
+    ],
+    "Chongming": [
+        "熨斗"
+    ],
+    "Wenzhou": [
+        "燙斗"
+    ],
+    "Danyang": [
+        "熨斗"
+    ],
+    "Jinhua": [
+        "燙斗"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "熨斗"
+    ],
+    "Changsha": [
+        "熨斗"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "熨斗"
+    ],
+    "Quanzhou-X": [
+        "燙斗"
+    ],
+    "Nanchang": [
+        "熨斗"
+    ],
+    "Lichuan": [
+        "熨斗"
+    ],
+    "Pingxiang": [
+        "熨斗",
+        "燙斗"
+    ],
+    "Meixian": [
+        "燙斗"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "燙斗"
+    ],
+    "Huizhou-SK": [
+        "燙斗"
+    ],
+    "Huizhou-HL": [
+        "燙斗"
+    ],
+    "Huiyang": [
+        "燙斗"
+    ],
+    "Huidong-PS": [
+        "燙斗"
+    ],
+    "Huidong-DL": [],
+    "Dongguan-H": [],
+    "Longmen-PL": [
+        "燙斗"
+    ],
+    "Longmen-LX": [
+        "燙斗"
+    ],
+    "Boluo": [
+        "燙斗"
+    ],
+    "Shenzhen-H": [],
+    "Zengcheng-ZG": [
+        "燙斗"
+    ],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [
+        "燙斗"
+    ],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [
+        "燙斗"
+    ],
+    "Zijin-GZ": [
+        "燙斗"
+    ],
+    "Longchuan-TC": [
+        "燙斗"
+    ],
+    "Longchuan-SD": [
+        "燙斗"
+    ],
+    "Heping-LZ": [
+        "燙斗"
+    ],
+    "Lianping-ZX": [
+        "燙斗"
+    ],
+    "Lianping-LJ": [
+        "燙斗"
+    ],
+    "Qujiang": [],
+    "Xinfeng-MT": [
+        "燙斗"
+    ],
+    "Xinfeng-DX": [
+        "燙斗"
+    ],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "熨斗"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "熨斗"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "熨斗"
+    ],
+    "Liudui": [
+        "熨斗"
+    ],
+    "Hsinchu": [
+        "熨斗"
+    ],
+    "Dongshi": [
+        "熨斗"
+    ],
+    "Raoping": [
+        "熨斗"
+    ],
+    "Yunlin": [
+        "熨斗"
+    ],
+    "Hong Kong-H": [
+        "燙斗"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "燙斗"
+    ],
+    "Senai": [
+        "燙斗"
+    ],
+    "Singkawang": [
+        "燙斗"
+    ],
+    "Jixi": [
+        "燙斗"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "燙斗"
+    ],
+    "Hong Kong": [
+        "燙斗"
+    ],
+    "HK Weitou": [
+        "燙斗"
+    ],
+    "Kam Tin": [],
+    "Ting Kok": [
+        "燙斗"
+    ],
+    "Tung Ping Chau": [
+        "燙斗"
+    ],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [
+        "燙斗"
+    ],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [
+        "燙斗"
+    ],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "燙斗"
+    ],
+    "Wuzhou": [
+        "燙斗"
+    ],
+    "Yulin": [
+        "燙斗"
+    ],
+    "Hepu": [
+        "燙斗"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "燙斗"
+    ],
+    "Ho Chi Minh City": [
+        "燙斗"
+    ],
+    "Nanning-P": [
+        "燙斗"
+    ],
+    "Guilin-P": [
+        "熨斗"
+    ],
+    "Xiamen": [
+        "熨斗"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "熨斗"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "熨斗"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "熨斗"
+    ],
+    "Taipei": [
+        "熨斗"
+    ],
+    "Kaohsiung": [
+        "熨斗"
+    ],
+    "Tainan": [
+        "熨斗"
+    ],
+    "Taichung": [
+        "熨斗"
+    ],
+    "Wuqi": [
+        "熨斗"
+    ],
+    "Hsinchu-MN": [
+        "熨斗"
+    ],
+    "Taitung": [
+        "熨斗"
+    ],
+    "Lukang": [
+        "熨斗"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "熨斗"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "熨斗"
+    ],
+    "Malaysia-MN": [
+        "熨斗"
+    ],
+    "Singapore-MN": [
+        "熨斗"
+    ],
+    "Philippine-MN": [
+        "熨斗"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "熨斗"
+    ],
+    "Shantou": [
+        "熨斗"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "熨斗"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "燙斗"
+    ],
+    "Leizhou": [
+        "燙斗"
+    ],
+    "Putian": [
+        "熨斗"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "熨斗"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "熨斗"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "熨斗"
+    ],
+    "Jian'ou": [
+        "熨斗"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

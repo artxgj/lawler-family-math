@@ -1,686 +1,650 @@
 {
     "meaning": "chopsticks",
     "note": "",
-    "Classical": {
-        "1": "箸",
-        "2": "梜"
-    },
-    "Formal": {
-        "1": "筷子"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "筷子"
-    },
-    "Taiwan": {
-        "1": "筷子"
-    },
-    "Tianjin": {
-        "1": "筷子"
-    },
-    "Harbin": {
-        "1": "筷子"
-    },
-    "Shenyang": {
-        "1": "筷子"
-    },
-    "Hailar": {
-        "1": "筷子"
-    },
-    "Ulan Hot": {
-        "1": "筷子"
-    },
-    "Tongliao": {
-        "1": "筷子"
-    },
-    "Chifeng": {
-        "1": "筷子"
-    },
-    "Bayanhot": {
-        "1": "筷子"
-    },
-    "Jinan": {
-        "1": "筷子"
-    },
-    "Muping": {
-        "1": "筷子"
-    },
-    "Luoyang": {
-        "1": "筷子"
-    },
-    "Wanrong": {
-        "1": "筷子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "筷子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "筷子"
-    },
-    "Xining": {
-        "1": "筷子",
-        "2": "箸兒"
-    },
-    "Xuzhou": {
-        "1": "筷子"
-    },
-    "Yinchuan": {
-        "1": "筷子"
-    },
-    "Lanzhou": {
-        "1": "筷子"
-    },
-    "Ürümqi": {
-        "1": "筷子"
-    },
-    "Wuhan": {
-        "1": "筷子"
-    },
-    "Huanggang": {
-        "1": "筷子"
-    },
-    "Chengdu": {
-        "1": "筷子",
-        "2": "檺杆",
-        "3": "箸子"
-    },
-    "Guiyang": {
-        "1": "筷子"
-    },
-    "Guilin": {
-        "1": "筷子"
-    },
-    "Liuzhou": {
-        "1": "筷子",
-        "2": "筷條"
-    },
-    "Kunming": {
-        "1": "筷兒"
-    },
-    "Yangzhou": {
-        "1": "筷子"
-    },
-    "Nanjing": {
-        "1": "筷兒",
-        "2": "筷子"
-    },
-    "Hefei": {
-        "1": "筷子"
-    },
-    "Nantong": {
-        "1": "筷兒"
-    },
-    "Malaysia-M": {
-        "1": "筷子"
-    },
-    "Singapore-M": {
-        "1": "筷子"
-    },
-    "Gansu-DG": {
-        "1": "筷子"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "筷子"
-    },
-    "Pingyao": {
-        "1": "筷子"
-    },
-    "Xinzhou": {
-        "1": "筷子"
-    },
-    "Baochang": {
-        "1": "筷子"
-    },
-    "Jining": {
-        "1": "筷子"
-    },
-    "Hohhot": {
-        "1": "筷子"
-    },
-    "Baotou": {
-        "1": "筷子"
-    },
-    "Dongsheng": {
-        "1": "筷子"
-    },
-    "Linhe": {
-        "1": "筷子"
-    },
-    "Haibowan": {
-        "1": "筷子"
-    },
-    "Shanghai": {
-        "1": "筷",
-        "2": "筷子"
-    },
-    "Suzhou": {
-        "1": "筷兒",
-        "2": "筷"
-    },
-    "Wuxi": {
-        "1": "筷子",
-        "2": "筷"
-    },
-    "Hangzhou": {
-        "1": "筷兒",
-        "2": "筷子"
-    },
-    "Chongming": {
-        "1": "筷"
-    },
-    "Wenzhou": {
-        "1": "箸"
-    },
-    "Danyang": {
-        "1": "筷"
-    },
-    "Jinhua": {
-        "1": "箸",
-        "2": "筷子"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "筷"
-    },
-    "Changsha": {
-        "1": "筷子"
-    },
-    "Shuangfeng": {
-        "1": "筷子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "筷子"
-    },
-    "Quanzhou-X": {
-        "1": "筷子"
-    },
-    "Nanchang": {
-        "1": "筷子"
-    },
-    "Lichuan": {
-        "1": "箸"
-    },
-    "Pingxiang": {
-        "1": "筷子"
-    },
-    "Meixian": {
-        "1": "箸",
-        "2": "筷仔",
-        "3": "筷隻",
-        "4": "箸隻"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "筷箸",
-        "2": "筷"
-    },
-    "Changting": {
-        "1": "筷子"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "筷子"
-    },
-    "Liancheng": {
-        "1": "箸隻",
-        "2": "筷子"
-    },
-    "Ninghua": {
-        "1": "箸隻"
-    },
-    "Yudu": {
-        "1": "筷子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "箸隻"
-    },
-    "Shangyou": {
-        "1": "筷子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "筷仔"
-    },
-    "Liudui": {
-        "1": "筷仔"
-    },
-    "Hsinchu": {
-        "1": "箸",
-        "2": "筷仔"
-    },
-    "Dongshi": {
-        "1": "筷",
-        "2": "箸"
-    },
-    "Raoping": {
-        "1": "箸"
-    },
-    "Yunlin": {
-        "1": "箸"
-    },
-    "Hong Kong-H": {
-        "1": "筷子"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "筷哩"
-    },
-    "Senai": {
-        "1": "筷嫲"
-    },
-    "Singkawang": {
-        "1": "筷"
-    },
-    "Jixi": {
-        "1": "筷"
-    },
-    "Shexian": {
-        "1": "筷"
-    },
-    "Tunxi": {
-        "1": "筷兒"
-    },
-    "Xiuning": {
-        "1": "筷兒"
-    },
-    "Yixian": {
-        "1": "筷兒"
-    },
-    "Qimen": {
-        "1": "筷子"
-    },
-    "Wuyuan": {
-        "1": "筷",
-        "2": "筷子"
-    },
-    "Fuliang": {
-        "1": "筷子"
-    },
-    "Dexing": {
-        "1": "筷子"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "筷子"
-    },
-    "Hong Kong": {
-        "1": "筷子"
-    },
-    "Shunde": {
-        "1": "筷子"
-    },
-    "Foshan": {
-        "1": "筷子"
-    },
-    "Zhongshan": {
-        "1": "筷子"
-    },
-    "Dongguan": {
-        "1": "筷子"
-    },
-    "HK Weitou": {
-        "1": "筷子",
-        "2": "箸"
-    },
-    "Doumen-T": {
-        "1": "筷子"
-    },
-    "Doumen-S": {
-        "1": "筷子"
-    },
-    "Taishan": {
-        "1": "筷子"
-    },
-    "Kaiping": {
-        "1": "筷"
-    },
-    "Shaoguan": {
-        "1": "筷子"
-    },
-    "Yunfu": {
-        "1": "筷子"
-    },
-    "Yangjiang": {
-        "1": "筷子"
-    },
-    "Xinyi": {
-        "1": "筷",
-        "2": "筷箸"
-    },
-    "Lianjiang": {
-        "1": "箸",
-        "2": "筷箸"
-    },
-    "Nanning": {
-        "1": "筷子",
-        "2": "筷手"
-    },
-    "Wuzhou": {
-        "1": "筷子"
-    },
-    "Yulin": {
-        "1": "筷子"
-    },
-    "Hepu": {
-        "1": "筷箸"
-    },
-    "Danzhou": {
-        "1": "箸"
-    },
-    "Kuala Lumpur": {
-        "1": "筷子"
-    },
-    "Ho Chi Minh City": {
-        "1": "筷子"
-    },
-    "Nanning-P": {
-        "1": "筷子"
-    },
-    "Guilin-P": {
-        "1": "筷子"
-    },
-    "Xiamen": {
-        "1": "箸",
-        "2": "箸奇",
-        "3": "箸雙",
-        "4": "奇箸"
-    },
-    "Tong'an": {
-        "1": "箸"
-    },
-    "Quanzhou": {
-        "1": "箸",
-        "2": "箸奇"
-    },
-    "Jinjiang": {
-        "1": "箸"
-    },
-    "Nan'an": {
-        "1": "箸"
-    },
-    "Shishi": {
-        "1": "箸"
-    },
-    "Hui'an": {
-        "1": "奇箸"
-    },
-    "Anxi": {
-        "1": "箸"
-    },
-    "Yongchun": {
-        "1": "箸"
-    },
-    "Dehua": {
-        "1": "箸"
-    },
-    "Zhangzhou": {
-        "1": "箸",
-        "2": "箸奇",
-        "3": "奇箸"
-    },
-    "Longhai": {
-        "1": "箸"
-    },
-    "Changtai": {
-        "1": "箸"
-    },
-    "Hua'an": {
-        "1": "箸"
-    },
-    "Nanjing-MN": {
-        "1": "箸"
-    },
-    "Pinghe": {
-        "1": "箸"
-    },
-    "Zhangpu": {
-        "1": "箸"
-    },
-    "Yunxiao": {
-        "1": "箸"
-    },
-    "Zhao'an": {
-        "1": "箸"
-    },
-    "Dongshan": {
-        "1": "箸"
-    },
-    "Taipei": {
-        "1": "箸"
-    },
-    "Kaohsiung": {
-        "1": "箸"
-    },
-    "Tainan": {
-        "1": "箸"
-    },
-    "Taichung": {
-        "1": "箸"
-    },
-    "Wuqi": {
-        "1": "箸"
-    },
-    "Hsinchu-MN": {
-        "1": "箸"
-    },
-    "Taitung": {
-        "1": "箸"
-    },
-    "Lukang": {
-        "1": "箸"
-    },
-    "Sanxia": {
-        "1": "箸"
-    },
-    "Yilan": {
-        "1": "箸"
-    },
-    "Kinmen": {
-        "1": "箸"
-    },
-    "Magong": {
-        "1": "箸"
-    },
-    "Malaysia-MN": {
-        "1": "箸"
-    },
-    "Singapore-MN": {
-        "1": "箸"
-    },
-    "Philippine-MN": {
-        "1": "箸"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "箸雙",
-        "2": "箸"
-    },
-    "Zhangping": {
-        "1": "箸雙"
-    },
-    "Yongfu": {
-        "1": "箸雙"
-    },
-    "Datian": {
-        "1": "箸"
-    },
-    "Pingnan": {
-        "1": "筷子"
-    },
-    "Chaozhou": {
-        "1": "箸"
-    },
-    "Shantou": {
-        "1": "箸"
-    },
-    "Haifeng": {
-        "1": "箸"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "箸"
-    },
-    "Wenchang": {
-        "1": "糜箸",
-        "2": "箸"
-    },
-    "Haikou": {
-        "1": "糜箸",
-        "2": "箸"
-    },
-    "Leizhou": {
-        "1": "糜箸",
-        "2": "箸"
-    },
-    "Putian": {
-        "1": "箸"
-    },
-    "Xianyou": {
-        "1": "箸"
-    },
-    "Fuzhou": {
-        "1": "箸"
-    },
-    "Changle": {
-        "1": "箸"
-    },
-    "Fuqing": {
-        "1": "箸"
-    },
-    "Pingtan": {
-        "1": "箸"
-    },
-    "Yongtai": {
-        "1": "箸"
-    },
-    "Gutian": {
-        "1": "箸"
-    },
-    "Fu'an": {
-        "1": "箸"
-    },
-    "Ningde": {
-        "1": "籌",
-        "2": "箸"
-    },
-    "Shouning": {
-        "1": "箸"
-    },
-    "Zhouning": {
-        "1": "箸"
-    },
-    "Fuding": {
-        "1": "飯箸"
-    },
-    "Matsu": {
-        "1": "箸"
-    },
-    "Jian'ou": {
-        "1": "箸"
-    },
-    "Dikou": {
-        "1": "飯箸"
-    },
-    "Songxi": {
-        "1": "箸"
-    },
-    "Zhenghe": {
-        "1": "箸"
-    },
-    "Zhenqian": {
-        "1": "概手"
-    },
-    "Jianyang": {
-        "1": "箸"
-    },
-    "Wuyishan": {
-        "1": "箸"
-    },
-    "Shibei": {
-        "1": "箸"
-    },
-    "Fu'an-She": {
-        "1": "飯箸"
-    },
-    "Fuding-She": {
-        "1": "飯箸"
-    },
-    "Luoyuan-She": {
-        "1": "飯箸"
-    },
-    "Sanming-She": {
-        "1": "箸"
-    },
-    "Shunchang-She": {
-        "1": "箸"
-    },
-    "Hua'an-She": {
-        "1": "箸"
-    },
-    "Guixi-She": {
-        "1": "箸"
-    },
-    "Cangnan-She": {
-        "1": "飯箸"
-    },
-    "Jingning-She": {
-        "1": "飯箸"
-    },
-    "Lishui-She": {
-        "1": "飯箸"
-    },
-    "Longyou-She": {
-        "1": "飯箸"
-    },
-    "Chaozhou-She": {
-        "1": "箸"
-    },
-    "Fengshun-She": {
-        "1": "箸"
-    }
+    "Classical": [
+        "箸",
+        "梜"
+    ],
+    "Formal": [
+        "筷子"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "筷子"
+    ],
+    "Taiwan": [
+        "筷子"
+    ],
+    "Tianjin": [
+        "筷子"
+    ],
+    "Harbin": [
+        "筷子"
+    ],
+    "Shenyang": [
+        "筷子"
+    ],
+    "Hailar": [
+        "筷子"
+    ],
+    "Ulan Hot": [
+        "筷子"
+    ],
+    "Tongliao": [
+        "筷子"
+    ],
+    "Chifeng": [
+        "筷子"
+    ],
+    "Bayanhot": [
+        "筷子"
+    ],
+    "Jinan": [
+        "筷子"
+    ],
+    "Muping": [
+        "筷子"
+    ],
+    "Luoyang": [
+        "筷子"
+    ],
+    "Wanrong": [
+        "筷子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "筷子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "筷子"
+    ],
+    "Xining": [
+        "筷子",
+        "箸兒"
+    ],
+    "Xuzhou": [
+        "筷子"
+    ],
+    "Yinchuan": [
+        "筷子"
+    ],
+    "Lanzhou": [
+        "筷子"
+    ],
+    "Ürümqi": [
+        "筷子"
+    ],
+    "Wuhan": [
+        "筷子"
+    ],
+    "Huanggang": [
+        "筷子"
+    ],
+    "Chengdu": [
+        "筷子",
+        "檺杆",
+        "箸子"
+    ],
+    "Guiyang": [
+        "筷子"
+    ],
+    "Guilin": [
+        "筷子"
+    ],
+    "Liuzhou": [
+        "筷子",
+        "筷條"
+    ],
+    "Kunming": [
+        "筷兒"
+    ],
+    "Yangzhou": [
+        "筷子"
+    ],
+    "Nanjing": [
+        "筷兒",
+        "筷子"
+    ],
+    "Hefei": [
+        "筷子"
+    ],
+    "Nantong": [
+        "筷兒"
+    ],
+    "Malaysia-M": [
+        "筷子"
+    ],
+    "Singapore-M": [
+        "筷子"
+    ],
+    "Gansu-DG": [
+        "筷子"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "筷子"
+    ],
+    "Pingyao": [
+        "筷子"
+    ],
+    "Xinzhou": [
+        "筷子"
+    ],
+    "Baochang": [
+        "筷子"
+    ],
+    "Jining": [
+        "筷子"
+    ],
+    "Hohhot": [
+        "筷子"
+    ],
+    "Baotou": [
+        "筷子"
+    ],
+    "Dongsheng": [
+        "筷子"
+    ],
+    "Linhe": [
+        "筷子"
+    ],
+    "Haibowan": [
+        "筷子"
+    ],
+    "Shanghai": [
+        "筷",
+        "筷子"
+    ],
+    "Suzhou": [
+        "筷兒",
+        "筷"
+    ],
+    "Wuxi": [
+        "筷子",
+        "筷"
+    ],
+    "Hangzhou": [
+        "筷兒",
+        "筷子"
+    ],
+    "Chongming": [
+        "筷"
+    ],
+    "Wenzhou": [
+        "箸"
+    ],
+    "Danyang": [
+        "筷"
+    ],
+    "Jinhua": [
+        "箸",
+        "筷子"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "筷"
+    ],
+    "Changsha": [
+        "筷子"
+    ],
+    "Shuangfeng": [
+        "筷子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "筷子"
+    ],
+    "Quanzhou-X": [
+        "筷子"
+    ],
+    "Nanchang": [
+        "筷子"
+    ],
+    "Lichuan": [
+        "箸"
+    ],
+    "Pingxiang": [
+        "筷子"
+    ],
+    "Meixian": [
+        "箸",
+        "筷仔",
+        "筷隻",
+        "箸隻"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "筷箸",
+        "筷"
+    ],
+    "Changting": [
+        "筷子"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "筷子"
+    ],
+    "Liancheng": [
+        "箸隻",
+        "筷子"
+    ],
+    "Ninghua": [
+        "箸隻"
+    ],
+    "Yudu": [
+        "筷子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "箸隻"
+    ],
+    "Shangyou": [
+        "筷子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "筷仔"
+    ],
+    "Liudui": [
+        "筷仔"
+    ],
+    "Hsinchu": [
+        "箸",
+        "筷仔"
+    ],
+    "Dongshi": [
+        "筷",
+        "箸"
+    ],
+    "Raoping": [
+        "箸"
+    ],
+    "Yunlin": [
+        "箸"
+    ],
+    "Hong Kong-H": [
+        "筷子"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "筷哩"
+    ],
+    "Senai": [
+        "筷嫲"
+    ],
+    "Singkawang": [
+        "筷"
+    ],
+    "Jixi": [
+        "筷"
+    ],
+    "Shexian": [
+        "筷"
+    ],
+    "Tunxi": [
+        "筷兒"
+    ],
+    "Xiuning": [
+        "筷兒"
+    ],
+    "Yixian": [
+        "筷兒"
+    ],
+    "Qimen": [
+        "筷子"
+    ],
+    "Wuyuan": [
+        "筷",
+        "筷子"
+    ],
+    "Fuliang": [
+        "筷子"
+    ],
+    "Dexing": [
+        "筷子"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "筷子"
+    ],
+    "Hong Kong": [
+        "筷子"
+    ],
+    "Shunde": [
+        "筷子"
+    ],
+    "Foshan": [
+        "筷子"
+    ],
+    "Zhongshan": [
+        "筷子"
+    ],
+    "Dongguan": [
+        "筷子"
+    ],
+    "HK Weitou": [
+        "筷子",
+        "箸"
+    ],
+    "Doumen-T": [
+        "筷子"
+    ],
+    "Doumen-S": [
+        "筷子"
+    ],
+    "Taishan": [
+        "筷子"
+    ],
+    "Kaiping": [
+        "筷"
+    ],
+    "Shaoguan": [
+        "筷子"
+    ],
+    "Yunfu": [
+        "筷子"
+    ],
+    "Yangjiang": [
+        "筷子"
+    ],
+    "Xinyi": [
+        "筷",
+        "筷箸"
+    ],
+    "Lianjiang": [
+        "箸",
+        "筷箸"
+    ],
+    "Nanning": [
+        "筷子",
+        "筷手"
+    ],
+    "Wuzhou": [
+        "筷子"
+    ],
+    "Yulin": [
+        "筷子"
+    ],
+    "Hepu": [
+        "筷箸"
+    ],
+    "Danzhou": [
+        "箸"
+    ],
+    "Kuala Lumpur": [
+        "筷子"
+    ],
+    "Ho Chi Minh City": [
+        "筷子"
+    ],
+    "Nanning-P": [
+        "筷子"
+    ],
+    "Guilin-P": [
+        "筷子"
+    ],
+    "Xiamen": [
+        "箸",
+        "箸奇",
+        "箸雙",
+        "奇箸"
+    ],
+    "Tong'an": [
+        "箸"
+    ],
+    "Quanzhou": [
+        "箸",
+        "箸奇"
+    ],
+    "Jinjiang": [
+        "箸"
+    ],
+    "Nan'an": [
+        "箸"
+    ],
+    "Shishi": [
+        "箸"
+    ],
+    "Hui'an": [
+        "奇箸"
+    ],
+    "Anxi": [
+        "箸"
+    ],
+    "Yongchun": [
+        "箸"
+    ],
+    "Dehua": [
+        "箸"
+    ],
+    "Zhangzhou": [
+        "箸",
+        "箸奇",
+        "奇箸"
+    ],
+    "Longhai": [
+        "箸"
+    ],
+    "Changtai": [
+        "箸"
+    ],
+    "Hua'an": [
+        "箸"
+    ],
+    "Nanjing-MN": [
+        "箸"
+    ],
+    "Pinghe": [
+        "箸"
+    ],
+    "Zhangpu": [
+        "箸"
+    ],
+    "Yunxiao": [
+        "箸"
+    ],
+    "Zhao'an": [
+        "箸"
+    ],
+    "Dongshan": [
+        "箸"
+    ],
+    "Taipei": [
+        "箸"
+    ],
+    "Kaohsiung": [
+        "箸"
+    ],
+    "Tainan": [
+        "箸"
+    ],
+    "Taichung": [
+        "箸"
+    ],
+    "Wuqi": [
+        "箸"
+    ],
+    "Hsinchu-MN": [
+        "箸"
+    ],
+    "Taitung": [
+        "箸"
+    ],
+    "Lukang": [
+        "箸"
+    ],
+    "Sanxia": [
+        "箸"
+    ],
+    "Yilan": [
+        "箸"
+    ],
+    "Kinmen": [
+        "箸"
+    ],
+    "Magong": [
+        "箸"
+    ],
+    "Malaysia-MN": [
+        "箸"
+    ],
+    "Singapore-MN": [
+        "箸"
+    ],
+    "Philippine-MN": [
+        "箸"
+    ],
+    "Medan": [],
+    "Longyan": [
+        "箸雙",
+        "箸"
+    ],
+    "Zhangping": [
+        "箸雙"
+    ],
+    "Yongfu": [
+        "箸雙"
+    ],
+    "Datian": [
+        "箸"
+    ],
+    "Pingnan": [
+        "筷子"
+    ],
+    "Chaozhou": [
+        "箸"
+    ],
+    "Shantou": [
+        "箸"
+    ],
+    "Haifeng": [
+        "箸"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "箸"
+    ],
+    "Wenchang": [
+        "糜箸",
+        "箸"
+    ],
+    "Haikou": [
+        "糜箸",
+        "箸"
+    ],
+    "Leizhou": [
+        "糜箸",
+        "箸"
+    ],
+    "Putian": [
+        "箸"
+    ],
+    "Xianyou": [
+        "箸"
+    ],
+    "Fuzhou": [
+        "箸"
+    ],
+    "Changle": [
+        "箸"
+    ],
+    "Fuqing": [
+        "箸"
+    ],
+    "Pingtan": [
+        "箸"
+    ],
+    "Yongtai": [
+        "箸"
+    ],
+    "Gutian": [
+        "箸"
+    ],
+    "Fu'an": [
+        "箸"
+    ],
+    "Ningde": [
+        "籌",
+        "箸"
+    ],
+    "Shouning": [
+        "箸"
+    ],
+    "Zhouning": [
+        "箸"
+    ],
+    "Fuding": [
+        "飯箸"
+    ],
+    "Matsu": [
+        "箸"
+    ],
+    "Jian'ou": [
+        "箸"
+    ],
+    "Dikou": [
+        "飯箸"
+    ],
+    "Songxi": [
+        "箸"
+    ],
+    "Zhenghe": [
+        "箸"
+    ],
+    "Zhenqian": [
+        "概手"
+    ],
+    "Jianyang": [
+        "箸"
+    ],
+    "Wuyishan": [
+        "箸"
+    ],
+    "Shibei": [
+        "箸"
+    ],
+    "Fu'an-She": [
+        "飯箸"
+    ],
+    "Fuding-She": [
+        "飯箸"
+    ],
+    "Luoyuan-She": [
+        "飯箸"
+    ],
+    "Sanming-She": [
+        "箸"
+    ],
+    "Shunchang-She": [
+        "箸"
+    ],
+    "Hua'an-She": [
+        "箸"
+    ],
+    "Guixi-She": [
+        "箸"
+    ],
+    "Cangnan-She": [
+        "飯箸"
+    ],
+    "Jingning-She": [
+        "飯箸"
+    ],
+    "Lishui-She": [
+        "飯箸"
+    ],
+    "Longyou-She": [
+        "飯箸"
+    ],
+    "Chaozhou-She": [
+        "箸"
+    ],
+    "Fengshun-She": [
+        "箸"
+    ]
 }

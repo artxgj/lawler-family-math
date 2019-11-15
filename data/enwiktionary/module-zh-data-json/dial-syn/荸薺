@@ -1,722 +1,590 @@
 {
     "meaning": "Chinese water chestnut",
     "note": "",
-    "Classical": {
-        "1": "芍",
-        "2": "鳧茈",
-        "3": "鳧茨",
-        "4": "烏芋"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "荸薺"
-    },
-    "Beijing": {
-        "1": "荸薺"
-    },
-    "Taiwan": {
-        "1": "荸薺"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "荸薺"
-    },
-    "Shenyang": {
-        "1": "荸薺"
-    },
-    "Hailar": {
-        "1": "荸薺"
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": "地梨兒"
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "荸薺"
-    },
-    "Muping": {
-        "1": "地梨兒"
-    },
-    "Luoyang": {
-        "1": "荸西"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "荸薺"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "荸薺"
-    },
-    "Xining": {
-        "1": "荸薺"
-    },
-    "Xuzhou": {
-        "1": "荸薺"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "荸薺"
-    },
-    "Ürümqi": {
-        "1": "荸薺"
-    },
-    "Wuhan": {
-        "1": "荸薺"
-    },
-    "Huanggang": {
-        "1": "荸薺"
-    },
-    "Chengdu": {
-        "1": "慈姑兒"
-    },
-    "Guiyang": {
-        "1": "荸薺"
-    },
-    "Guilin": {
-        "1": "馬蹄"
-    },
-    "Liuzhou": {
-        "1": "馬蹄",
-        "2": "蒲薺",
-        "3": "蒲慈:dated"
-    },
-    "Kunming": {
-        "1": "荸薺"
-    },
-    "Yangzhou": {
-        "1": "荸薺"
-    },
-    "Nanjing": {
-        "1": "荸薺"
-    },
-    "Hefei": {
-        "1": "蒲球"
-    },
-    "Nantong": {
-        "1": "荸薺"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "荸薺"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": "地梨"
-    },
-    "Hohhot": {
-        "1": "地梨兒"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "荸薺",
-        "2": "地栗"
-    },
-    "Suzhou": {
-        "1": "荸薺"
-    },
-    "Wuxi": {
-        "1": "荸薺"
-    },
-    "Hangzhou": {
-        "1": "荸薺"
-    },
-    "Chongming": {
-        "1": "地栗"
-    },
-    "Wenzhou": {
-        "1": "荸薺"
-    },
-    "Danyang": {
-        "1": "荸薺"
-    },
-    "Jinhua": {
-        "1": "蒲薺"
-    },
-    "Tangxi": {
-        "1": "糖蒲薺"
-    },
-    "Ningbo": {
-        "1": "蒲薺",
-        "2": "地栗"
-    },
-    "Changsha": {
-        "1": "荸薺",
-        "2": "荸薺子",
-        "3": "慈姑子"
-    },
-    "Shuangfeng": {
-        "1": "慈姑子"
-    },
-    "Xiangtan": {
-        "1": "慈姑子"
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "荸救"
-    },
-    "Lichuan": {
-        "1": "馬絲"
-    },
-    "Pingxiang": {
-        "1": "慈姑"
-    },
-    "Meixian": {
-        "1": "馬薺",
-        "2": "馬蹄"
-    },
-    "Xingning": {
-        "1": "馬薺"
-    },
-    "Huidong": {
-        "1": "馬薺",
-        "2": "馬蹄"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": "馬蹄"
-    },
-    "Luchuan": {
-        "1": "馬蹄"
-    },
-    "Changting": {
-        "1": "馬薺"
-    },
-    "Pingyu": {
-        "1": "馬薺"
-    },
-    "Wuping": {
-        "1": "馬薺"
-    },
-    "Liancheng": {
-        "1": "馬薺"
-    },
-    "Ninghua": {
-        "1": "馬薺"
-    },
-    "Yudu": {
-        "1": "馬薺",
-        "2": "馬薺子"
-    },
-    "Ruijin": {
-        "1": "馬薺"
-    },
-    "Shicheng": {
-        "1": "馬薺"
-    },
-    "Shangyou": {
-        "1": "荸薺"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "馬薺"
-    },
-    "Liudui": {
-        "1": "馬薺"
-    },
-    "Hsinchu": {
-        "1": "馬薺"
-    },
-    "Dongshi": {
-        "1": "馬薺",
-        "2": "脆薯"
-    },
-    "Raoping": {
-        "1": "馬薺"
-    },
-    "Yunlin": {
-        "1": "馬薺"
-    },
-    "Hong Kong-H": {
-        "1": "馬蹄"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "馬蹄"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "荸薺"
-    },
-    "Shexian": {
-        "1": "荸薺"
-    },
-    "Tunxi": {
-        "1": "荸薺"
-    },
-    "Xiuning": {
-        "1": "荸薺"
-    },
-    "Yixian": {
-        "1": "荸薺"
-    },
-    "Qimen": {
-        "1": "荸薺"
-    },
-    "Wuyuan": {
-        "1": "蒲薺"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "馬蹄"
-    },
-    "Hong Kong": {
-        "1": "馬蹄"
-    },
-    "HK Weitou": {
-        "1": "馬蹄"
-    },
-    "Kam Tin": {
-        "1": "馬蹄"
-    },
-    "Ting Kok": {
-        "1": "馬蹄"
-    },
-    "Tung Ping Chau": {
-        "1": "馬蹄"
-    },
-    "Macau": {
-        "1": "馬蹄"
-    },
-    "Panyu": {
-        "1": "馬蹄"
-    },
-    "Huadu": {
-        "1": "馬蹄"
-    },
-    "Conghua": {
-        "1": "馬蹄"
-    },
-    "Zengcheng": {
-        "1": "馬蹄"
-    },
-    "Foshan": {
-        "1": "馬蹄"
-    },
-    "Nanhai": {
-        "1": "馬蹄"
-    },
-    "Shunde": {
-        "1": "馬蹄"
-    },
-    "Sanshui": {
-        "1": "馬蹄"
-    },
-    "Gaoming": {
-        "1": "馬蹄"
-    },
-    "Zhongshan": {
-        "1": "馬蹄"
-    },
-    "Zhuhai": {
-        "1": "馬蹄"
-    },
-    "Doumen-T": {
-        "1": "馬蹄"
-    },
-    "Doumen-S": {
-        "1": "馬薺"
-    },
-    "Jiangmen": {
-        "1": "馬薺"
-    },
-    "Xinhui": {
-        "1": "馬薺"
-    },
-    "Taishan": {
-        "1": "馬薺"
-    },
-    "Kaiping": {
-        "1": "馬薺"
-    },
-    "Enping": {
-        "1": "馬薺"
-    },
-    "Heshan": {
-        "1": "馬蹄"
-    },
-    "Dongguan": {
-        "1": "田薺",
-        "2": "馬蹄"
-    },
-    "Bao'an": {
-        "1": "馬蹄"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "馬蹄"
-    },
-    "Yunfu": {
-        "1": "馬蹄"
-    },
-    "Yangjiang": {
-        "1": "馬蹄子"
-    },
-    "Xinyi": {
-        "1": "馬蹄子"
-    },
-    "Lianjiang": {
-        "1": "馬蹄子"
-    },
-    "Nanning": {
-        "1": "馬蹄"
-    },
-    "Wuzhou": {
-        "1": "馬蹄"
-    },
-    "Yulin": {
-        "1": "馬蹄"
-    },
-    "Hepu": {
-        "1": "馬蹄"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "馬蹄"
-    },
-    "Ho Chi Minh City": {
-        "1": "馬蹄"
-    },
-    "Nanning-P": {
-        "1": "馬蹄"
-    },
-    "Guilin-P": {
-        "1": "荸薺"
-    },
-    "Xiamen": {
-        "1": "馬薺"
-    },
-    "Tong'an": {
-        "1": "馬薺"
-    },
-    "Quanzhou": {
-        "1": "馬薺"
-    },
-    "Jinjiang": {
-        "1": "馬薺"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "馬薺"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "田藕"
-    },
-    "Longhai": {
-        "1": "田薺仔"
-    },
-    "Changtai": {
-        "1": "田藕"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": "馬薺"
-    },
-    "Zhangpu": {
-        "1": "田藕"
-    },
-    "Yunxiao": {
-        "1": "薺蔥"
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "馬薺蔥"
-    },
-    "Taipei": {
-        "1": "馬薺"
-    },
-    "Kaohsiung": {
-        "1": "馬薺"
-    },
-    "Tainan": {
-        "1": "馬薺"
-    },
-    "Taichung": {
-        "1": "馬薺"
-    },
-    "Wuqi": {
-        "1": "馬薺"
-    },
-    "Hsinchu-MN": {
-        "1": "馬薺"
-    },
-    "Taitung": {
-        "1": "馬薺"
-    },
-    "Lukang": {
-        "1": "馬薺"
-    },
-    "Sanxia": {
-        "1": "馬薺"
-    },
-    "Yilan": {
-        "1": "馬薺"
-    },
-    "Kinmen": {
-        "1": "馬薺"
-    },
-    "Magong": {
-        "1": "馬薺"
-    },
-    "Malaysia-MN": {
-        "1": "馬蹄"
-    },
-    "Singapore-MN": {
-        "1": "馬薺",
-        "2": "錢蔥"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "田藕"
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": "荸薺"
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "錢蔥"
-    },
-    "Shantou": {
-        "1": "錢蔥"
-    },
-    "Haifeng": {
-        "1": "馬蹄"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "錢蔥"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "馬蹄子"
-    },
-    "Leizhou": {
-        "1": "馬蹄子"
-    },
-    "Putian": {
-        "1": "莓薺"
-    },
-    "Xianyou": {
-        "1": "莓薺"
-    },
-    "Fuzhou": {
-        "1": "莓薺"
-    },
-    "Changle": {
-        "1": "莓薺"
-    },
-    "Fuqing": {
-        "1": "莓薺"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "莓薺"
-    },
-    "Gutian": {
-        "1": "莓薺"
-    },
-    "Fu'an": {
-        "1": "薺栗"
-    },
-    "Ningde": {
-        "1": "莓薺"
-    },
-    "Shouning": {
-        "1": "水薺"
-    },
-    "Zhouning": {
-        "1": "莓薺"
-    },
-    "Fuding": {
-        "1": "莓薺"
-    },
-    "Matsu": {
-        "1": "莓薺"
-    },
-    "Jian'ou": {
-        "1": "莓薺"
-    },
-    "Dikou": {
-        "1": "莓薺"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "莓薺",
-        "2": "網薺"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "蠓薺"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "芍",
+        "鳧茈",
+        "鳧茨",
+        "烏芋"
+    ],
+    "Formal": [],
+    "Taxonomic": [
+        "荸薺"
+    ],
+    "Beijing": [
+        "荸薺"
+    ],
+    "Taiwan": [
+        "荸薺"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "荸薺"
+    ],
+    "Shenyang": [
+        "荸薺"
+    ],
+    "Hailar": [
+        "荸薺"
+    ],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [
+        "地梨兒"
+    ],
+    "Bayanhot": [],
+    "Jinan": [
+        "荸薺"
+    ],
+    "Muping": [
+        "地梨兒"
+    ],
+    "Luoyang": [
+        "荸西"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "荸薺"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "荸薺"
+    ],
+    "Xining": [
+        "荸薺"
+    ],
+    "Xuzhou": [
+        "荸薺"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "荸薺"
+    ],
+    "Ürümqi": [
+        "荸薺"
+    ],
+    "Wuhan": [
+        "荸薺"
+    ],
+    "Huanggang": [
+        "荸薺"
+    ],
+    "Chengdu": [
+        "慈姑兒"
+    ],
+    "Guiyang": [
+        "荸薺"
+    ],
+    "Guilin": [
+        "馬蹄"
+    ],
+    "Liuzhou": [
+        "馬蹄",
+        "蒲薺",
+        "蒲慈:dated"
+    ],
+    "Kunming": [
+        "荸薺"
+    ],
+    "Yangzhou": [
+        "荸薺"
+    ],
+    "Nanjing": [
+        "荸薺"
+    ],
+    "Hefei": [
+        "蒲球"
+    ],
+    "Nantong": [
+        "荸薺"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "荸薺"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [
+        "地梨"
+    ],
+    "Hohhot": [
+        "地梨兒"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "荸薺",
+        "地栗"
+    ],
+    "Suzhou": [
+        "荸薺"
+    ],
+    "Wuxi": [
+        "荸薺"
+    ],
+    "Hangzhou": [
+        "荸薺"
+    ],
+    "Chongming": [
+        "地栗"
+    ],
+    "Wenzhou": [
+        "荸薺"
+    ],
+    "Danyang": [
+        "荸薺"
+    ],
+    "Jinhua": [
+        "蒲薺"
+    ],
+    "Tangxi": [
+        "糖蒲薺"
+    ],
+    "Ningbo": [
+        "蒲薺",
+        "地栗"
+    ],
+    "Changsha": [
+        "荸薺",
+        "荸薺子",
+        "慈姑子"
+    ],
+    "Shuangfeng": [
+        "慈姑子"
+    ],
+    "Xiangtan": [
+        "慈姑子"
+    ],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "荸救"
+    ],
+    "Lichuan": [
+        "馬絲"
+    ],
+    "Pingxiang": [
+        "慈姑"
+    ],
+    "Meixian": [
+        "馬薺",
+        "馬蹄"
+    ],
+    "Xingning": [
+        "馬薺"
+    ],
+    "Huidong": [
+        "馬薺",
+        "馬蹄"
+    ],
+    "Qujiang": [],
+    "Xiaosanjiang": [
+        "馬蹄"
+    ],
+    "Luchuan": [
+        "馬蹄"
+    ],
+    "Changting": [
+        "馬薺"
+    ],
+    "Pingyu": [
+        "馬薺"
+    ],
+    "Wuping": [
+        "馬薺"
+    ],
+    "Liancheng": [
+        "馬薺"
+    ],
+    "Ninghua": [
+        "馬薺"
+    ],
+    "Yudu": [
+        "馬薺",
+        "馬薺子"
+    ],
+    "Ruijin": [
+        "馬薺"
+    ],
+    "Shicheng": [
+        "馬薺"
+    ],
+    "Shangyou": [
+        "荸薺"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "馬薺"
+    ],
+    "Liudui": [
+        "馬薺"
+    ],
+    "Hsinchu": [
+        "馬薺"
+    ],
+    "Dongshi": [
+        "馬薺",
+        "脆薯"
+    ],
+    "Raoping": [
+        "馬薺"
+    ],
+    "Yunlin": [
+        "馬薺"
+    ],
+    "Hong Kong-H": [
+        "馬蹄"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "馬蹄"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "荸薺"
+    ],
+    "Shexian": [
+        "荸薺"
+    ],
+    "Tunxi": [
+        "荸薺"
+    ],
+    "Xiuning": [
+        "荸薺"
+    ],
+    "Yixian": [
+        "荸薺"
+    ],
+    "Qimen": [
+        "荸薺"
+    ],
+    "Wuyuan": [
+        "蒲薺"
+    ],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "馬蹄"
+    ],
+    "Hong Kong": [
+        "馬蹄"
+    ],
+    "HK Weitou": [
+        "馬蹄"
+    ],
+    "Kam Tin": [
+        "馬蹄"
+    ],
+    "Ting Kok": [
+        "馬蹄"
+    ],
+    "Tung Ping Chau": [
+        "馬蹄"
+    ],
+    "Macau": [
+        "馬蹄"
+    ],
+    "Panyu": [
+        "馬蹄"
+    ],
+    "Huadu": [
+        "馬蹄"
+    ],
+    "Conghua": [
+        "馬蹄"
+    ],
+    "Zengcheng": [
+        "馬蹄"
+    ],
+    "Foshan": [
+        "馬蹄"
+    ],
+    "Nanhai": [
+        "馬蹄"
+    ],
+    "Shunde": [
+        "馬蹄"
+    ],
+    "Sanshui": [
+        "馬蹄"
+    ],
+    "Gaoming": [
+        "馬蹄"
+    ],
+    "Zhongshan": [
+        "馬蹄"
+    ],
+    "Zhuhai": [
+        "馬蹄"
+    ],
+    "Doumen-T": [
+        "馬蹄"
+    ],
+    "Doumen-S": [
+        "馬薺"
+    ],
+    "Jiangmen": [
+        "馬薺"
+    ],
+    "Xinhui": [
+        "馬薺"
+    ],
+    "Taishan": [
+        "馬薺"
+    ],
+    "Kaiping": [
+        "馬薺"
+    ],
+    "Enping": [
+        "馬薺"
+    ],
+    "Heshan": [
+        "馬蹄"
+    ],
+    "Dongguan": [
+        "田薺",
+        "馬蹄"
+    ],
+    "Bao'an": [
+        "馬蹄"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "馬蹄"
+    ],
+    "Yunfu": [
+        "馬蹄"
+    ],
+    "Yangjiang": [
+        "馬蹄子"
+    ],
+    "Xinyi": [
+        "馬蹄子"
+    ],
+    "Lianjiang": [
+        "馬蹄子"
+    ],
+    "Nanning": [
+        "馬蹄"
+    ],
+    "Wuzhou": [
+        "馬蹄"
+    ],
+    "Yulin": [
+        "馬蹄"
+    ],
+    "Hepu": [
+        "馬蹄"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "馬蹄"
+    ],
+    "Ho Chi Minh City": [
+        "馬蹄"
+    ],
+    "Nanning-P": [
+        "馬蹄"
+    ],
+    "Guilin-P": [
+        "荸薺"
+    ],
+    "Xiamen": [
+        "馬薺"
+    ],
+    "Tong'an": [
+        "馬薺"
+    ],
+    "Quanzhou": [
+        "馬薺"
+    ],
+    "Jinjiang": [
+        "馬薺"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "馬薺"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "田藕"
+    ],
+    "Longhai": [
+        "田薺仔"
+    ],
+    "Changtai": [
+        "田藕"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [
+        "馬薺"
+    ],
+    "Zhangpu": [
+        "田藕"
+    ],
+    "Yunxiao": [
+        "薺蔥"
+    ],
+    "Zhao'an": [],
+    "Dongshan": [
+        "馬薺蔥"
+    ],
+    "Taipei": [
+        "馬薺"
+    ],
+    "Kaohsiung": [
+        "馬薺"
+    ],
+    "Tainan": [
+        "馬薺"
+    ],
+    "Taichung": [
+        "馬薺"
+    ],
+    "Wuqi": [
+        "馬薺"
+    ],
+    "Hsinchu-MN": [
+        "馬薺"
+    ],
+    "Taitung": [
+        "馬薺"
+    ],
+    "Lukang": [
+        "馬薺"
+    ],
+    "Sanxia": [
+        "馬薺"
+    ],
+    "Yilan": [
+        "馬薺"
+    ],
+    "Kinmen": [
+        "馬薺"
+    ],
+    "Magong": [
+        "馬薺"
+    ],
+    "Malaysia-MN": [
+        "馬蹄"
+    ],
+    "Singapore-MN": [
+        "馬薺",
+        "錢蔥"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [
+        "田藕"
+    ],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [
+        "荸薺"
+    ],
+    "Pingnan": [],
+    "Chaozhou": [
+        "錢蔥"
+    ],
+    "Shantou": [
+        "錢蔥"
+    ],
+    "Haifeng": [
+        "馬蹄"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "錢蔥"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "馬蹄子"
+    ],
+    "Leizhou": [
+        "馬蹄子"
+    ],
+    "Putian": [
+        "莓薺"
+    ],
+    "Xianyou": [
+        "莓薺"
+    ],
+    "Fuzhou": [
+        "莓薺"
+    ],
+    "Changle": [
+        "莓薺"
+    ],
+    "Fuqing": [
+        "莓薺"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "莓薺"
+    ],
+    "Gutian": [
+        "莓薺"
+    ],
+    "Fu'an": [
+        "薺栗"
+    ],
+    "Ningde": [
+        "莓薺"
+    ],
+    "Shouning": [
+        "水薺"
+    ],
+    "Zhouning": [
+        "莓薺"
+    ],
+    "Fuding": [
+        "莓薺"
+    ],
+    "Matsu": [
+        "莓薺"
+    ],
+    "Jian'ou": [
+        "莓薺"
+    ],
+    "Dikou": [
+        "莓薺"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "莓薺",
+        "網薺"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "蠓薺"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

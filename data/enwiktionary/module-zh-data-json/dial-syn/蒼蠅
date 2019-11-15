@@ -1,463 +1,439 @@
 {
     "meaning": "fly (insect)",
     "note": "",
-    "Classical": {
-        "1": "蠅"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "蠅"
-    },
-    "Beijing": {
-        "1": "蒼蠅"
-    },
-    "Taiwan": {
-        "1": "蒼蠅"
-    },
-    "Tianjin": {
-        "1": "蒼蠅"
-    },
-    "Harbin": {
-        "1": "蒼蠅",
-        "2": "蠅子"
-    },
-    "Shenyang": {
-        "1": "蒼蠅",
-        "2": "蠅子"
-    },
-    "Hailar": {
-        "1": "蠅子"
-    },
-    "Ulan Hot": {
-        "1": "蠅子"
-    },
-    "Tongliao": {
-        "1": "蠅子"
-    },
-    "Chifeng": {
-        "1": "蒼蠅"
-    },
-    "Baochang": {
-        "1": "蠅子"
-    },
-    "Bayanhot": {
-        "1": "蒼蠅"
-    },
-    "Jinan": {
-        "1": "蠅子",
-        "2": "蒼蠅"
-    },
-    "Muping": {
-        "1": "蒼蠅"
-    },
-    "Luoyang": {
-        "1": "蒼蠅"
-    },
-    "Wanrong": {
-        "1": "蠅子"
-    },
-    "Ronghe": {
-        "1": "蠅母"
-    },
-    "Xi'an": {
-        "1": "蠅子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "蠅"
-    },
-    "Xining": {
-        "1": "蒼蠅"
-    },
-    "Xuzhou": {
-        "1": "蠅子"
-    },
-    "Yinchuan": {
-        "1": "蒼蠅"
-    },
-    "Lanzhou": {
-        "1": "蒼蠅"
-    },
-    "Ürümqi": {
-        "1": "蒼蠅"
-    },
-    "Wuhan": {
-        "1": "蒼蠅"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蒼蠅兒",
-        "2": "蒼蠅子",
-        "3": "蒼蠅"
-    },
-    "Guiyang": {
-        "1": "蚊子"
-    },
-    "Guilin": {
-        "1": "蒼蠅"
-    },
-    "Liuzhou": {
-        "1": "蒼蠅"
-    },
-    "Kunming": {
-        "1": "蒼蠅"
-    },
-    "Yangzhou": {
-        "1": "蒼蠅"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "蒼蠅"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "蒼蠅"
-    },
-    "Singapore-M": {
-        "1": "蒼蠅"
-    },
-    "Taiyuan": {
-        "1": "蠅子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "蠅子"
-    },
-    "Jining": {
-        "1": "蒼蠅"
-    },
-    "Hohhot": {
-        "1": "蠅子"
-    },
-    "Baotou": {
-        "1": "蒼蠅"
-    },
-    "Dongsheng": {
-        "1": "蒼蠅"
-    },
-    "Linhe": {
-        "1": "蒼蠅"
-    },
-    "Haibowan": {
-        "1": "蒼蠅"
-    },
-    "Suzhou": {
-        "1": "蒼蠅"
-    },
-    "Hangzhou": {
-        "1": "蒼蠅"
-    },
-    "Shanghai": {
-        "1": "蒼蠅"
-    },
-    "Chongming": {
-        "1": "蒼蠅"
-    },
-    "Wenzhou": {
-        "1": "蒼蠅"
-    },
-    "Danyang": {
-        "1": "蒼蠅"
-    },
-    "Jinhua": {
-        "1": "蒼蠅"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蒼蠅"
-    },
-    "Changsha": {
-        "1": "蚊子"
-    },
-    "Shuangfeng": {
-        "1": "蚊子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "青藍蚊"
-    },
-    "Quanzhou-X": {
-        "1": "蚊蟲"
-    },
-    "Nanchang": {
-        "1": "蒼蠅"
-    },
-    "Lichuan": {
-        "1": "蠅仔",
-        "2": "蒼蠅"
-    },
-    "Pingxiang": {
-        "1": "蚊子"
-    },
-    "Meixian": {
-        "1": "烏蠅"
-    },
-    "Xingning": {
-        "1": "烏蠅"
-    },
-    "Huidong": {
-        "1": "烏蠅"
-    },
-    "Qujiang": {
-        "1": "烏蠅"
-    },
-    "Xiaosanjiang": {
-        "1": "烏蠅"
-    },
-    "Luchuan": {
-        "1": "烏蠅"
-    },
-    "Changting": {
-        "1": "烏蠅"
-    },
-    "Pingyu": {
-        "1": "烏蠅"
-    },
-    "Wuping": {
-        "1": "烏蠅"
-    },
-    "Liancheng": {
-        "1": "烏蠅"
-    },
-    "Ninghua": {
-        "1": "烏蠅"
-    },
-    "Yudu": {
-        "1": "烏蠅"
-    },
-    "Ruijin": {
-        "1": "烏蠅"
-    },
-    "Shicheng": {
-        "1": "烏蠅"
-    },
-    "Shangyou": {
-        "1": "烏蠅"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "烏蠅"
-    },
-    "Liudui": {
-        "1": "烏蠅"
-    },
-    "Hsinchu": {
-        "1": "烏蠅"
-    },
-    "Dongshi": {
-        "1": "烏蠅"
-    },
-    "Raoping": {
-        "1": "烏蠅"
-    },
-    "Yunlin": {
-        "1": "烏蠅"
-    },
-    "Hong Kong-H": {
-        "1": "烏蠅"
-    },
-    "Sabah": {
-        "1": "烏蠅"
-    },
-    "Senai": {
-        "1": "烏蠅"
-    },
-    "Singkawang": {
-        "1": "烏蠅"
-    },
-    "Shexian": {
-        "1": "蒼蠅"
-    },
-    "Tunxi": {
-        "1": "蒼蠅"
-    },
-    "Jixi": {
-        "1": "蒼蠅"
-    },
-    "Guangzhou": {
-        "1": "烏蠅"
-    },
-    "Hong Kong": {
-        "1": "烏蠅"
-    },
-    "Shunde": {
-        "1": "烏蠅"
-    },
-    "Foshan": {
-        "1": "烏蠅"
-    },
-    "Zhongshan": {
-        "1": "烏蠅"
-    },
-    "Dongguan": {
-        "1": "姑蠅"
-    },
-    "HK Weitou": {
-        "1": "烏蠅"
-    },
-    "Taishan": {
-        "1": "禾蠅"
-    },
-    "Doumen": {
-        "1": "烏蠅",
-        "2": "臭蠅"
-    },
-    "Kaiping": {
-        "1": "禾蠅"
-    },
-    "Shaoguan": {
-        "1": "烏蠅"
-    },
-    "Yunfu": {
-        "1": "烏蠅"
-    },
-    "Yangjiang": {
-        "1": "蚊子"
-    },
-    "Xinyi": {
-        "1": "蚊蠅",
-        "2": "烏蠅"
-    },
-    "Lianjiang": {
-        "1": "蚊蠅"
-    },
-    "Nanning": {
-        "1": "蚊蠅",
-        "2": "烏蠅"
-    },
-    "Wuzhou": {
-        "1": "烏蠅"
-    },
-    "Yulin": {
-        "1": "蚊蠅"
-    },
-    "Hepu": {
-        "1": "蒼蠅",
-        "2": "烏蠅"
-    },
-    "Kuala Lumpur": {
-        "1": "烏蠅"
-    },
-    "Nanning-P": {
-        "1": "蒼蠅",
-        "2": "飯蚊子",
-        "3": "蚊子"
-    },
-    "Guilin-P": {
-        "1": "蜢子"
-    },
-    "Xiamen": {
-        "1": "胡蠅"
-    },
-    "Quanzhou": {
-        "1": "胡蠅"
-    },
-    "Zhangzhou": {
-        "1": "胡蠅"
-    },
-    "Taipei": {
-        "1": "胡蠅"
-    },
-    "Kaohsiung": {
-        "1": "胡蠅"
-    },
-    "Tainan": {
-        "1": "胡蠅"
-    },
-    "Taichung": {
-        "1": "胡蠅"
-    },
-    "Wuqi": {
-        "1": "胡蠅"
-    },
-    "Hsinchu-MN": {
-        "1": "胡蠅"
-    },
-    "Taitung": {
-        "1": "胡蠅"
-    },
-    "Lukang": {
-        "1": "胡蠅"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "胡蠅"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "胡蠅"
-    },
-    "Malaysia-MN": {
-        "1": "胡蠅"
-    },
-    "Singapore-MN": {
-        "1": "胡蠅"
-    },
-    "Philippine-MN": {
-        "1": "胡蠅"
-    },
-    "Pingnan": {
-        "1": "胡蠅"
-    },
-    "Chaozhou": {
-        "1": "胡蠅"
-    },
-    "Shantou": {
-        "1": "胡蠅"
-    },
-    "Haifeng": {
-        "1": "胡蠅"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "胡蠅"
-    },
-    "Haikou": {
-        "1": "胡蠅"
-    },
-    "Leizhou": {
-        "1": "胡蠅"
-    },
-    "Putian": {
-        "1": "胡蠅"
-    },
-    "Xianyou": {
-        "1": "胡蠅"
-    },
-    "Fuzhou": {
-        "1": "蒲蠅"
-    },
-    "Fuqing": {
-        "1": "蒲蠅"
-    },
-    "Matsu": {
-        "1": "蒲蠅"
-    },
-    "Jian'ou": {
-        "1": "蠅"
-    }
+    "Classical": [
+        "蠅"
+    ],
+    "Formal": [],
+    "Taxonomic": [
+        "蠅"
+    ],
+    "Beijing": [
+        "蒼蠅"
+    ],
+    "Taiwan": [
+        "蒼蠅"
+    ],
+    "Tianjin": [
+        "蒼蠅"
+    ],
+    "Harbin": [
+        "蒼蠅",
+        "蠅子"
+    ],
+    "Shenyang": [
+        "蒼蠅",
+        "蠅子"
+    ],
+    "Hailar": [
+        "蠅子"
+    ],
+    "Ulan Hot": [
+        "蠅子"
+    ],
+    "Tongliao": [
+        "蠅子"
+    ],
+    "Chifeng": [
+        "蒼蠅"
+    ],
+    "Baochang": [
+        "蠅子"
+    ],
+    "Bayanhot": [
+        "蒼蠅"
+    ],
+    "Jinan": [
+        "蠅子",
+        "蒼蠅"
+    ],
+    "Muping": [
+        "蒼蠅"
+    ],
+    "Luoyang": [
+        "蒼蠅"
+    ],
+    "Wanrong": [
+        "蠅子"
+    ],
+    "Ronghe": [
+        "蠅母"
+    ],
+    "Xi'an": [
+        "蠅子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "蠅"
+    ],
+    "Xining": [
+        "蒼蠅"
+    ],
+    "Xuzhou": [
+        "蠅子"
+    ],
+    "Yinchuan": [
+        "蒼蠅"
+    ],
+    "Lanzhou": [
+        "蒼蠅"
+    ],
+    "Ürümqi": [
+        "蒼蠅"
+    ],
+    "Wuhan": [
+        "蒼蠅"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蒼蠅兒",
+        "蒼蠅子",
+        "蒼蠅"
+    ],
+    "Guiyang": [
+        "蚊子"
+    ],
+    "Guilin": [
+        "蒼蠅"
+    ],
+    "Liuzhou": [
+        "蒼蠅"
+    ],
+    "Kunming": [
+        "蒼蠅"
+    ],
+    "Yangzhou": [
+        "蒼蠅"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "蒼蠅"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "蒼蠅"
+    ],
+    "Singapore-M": [
+        "蒼蠅"
+    ],
+    "Taiyuan": [
+        "蠅子"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "蠅子"
+    ],
+    "Jining": [
+        "蒼蠅"
+    ],
+    "Hohhot": [
+        "蠅子"
+    ],
+    "Baotou": [
+        "蒼蠅"
+    ],
+    "Dongsheng": [
+        "蒼蠅"
+    ],
+    "Linhe": [
+        "蒼蠅"
+    ],
+    "Haibowan": [
+        "蒼蠅"
+    ],
+    "Suzhou": [
+        "蒼蠅"
+    ],
+    "Hangzhou": [
+        "蒼蠅"
+    ],
+    "Shanghai": [
+        "蒼蠅"
+    ],
+    "Chongming": [
+        "蒼蠅"
+    ],
+    "Wenzhou": [
+        "蒼蠅"
+    ],
+    "Danyang": [
+        "蒼蠅"
+    ],
+    "Jinhua": [
+        "蒼蠅"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蒼蠅"
+    ],
+    "Changsha": [
+        "蚊子"
+    ],
+    "Shuangfeng": [
+        "蚊子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "青藍蚊"
+    ],
+    "Quanzhou-X": [
+        "蚊蟲"
+    ],
+    "Nanchang": [
+        "蒼蠅"
+    ],
+    "Lichuan": [
+        "蠅仔",
+        "蒼蠅"
+    ],
+    "Pingxiang": [
+        "蚊子"
+    ],
+    "Meixian": [
+        "烏蠅"
+    ],
+    "Xingning": [
+        "烏蠅"
+    ],
+    "Huidong": [
+        "烏蠅"
+    ],
+    "Qujiang": [
+        "烏蠅"
+    ],
+    "Xiaosanjiang": [
+        "烏蠅"
+    ],
+    "Luchuan": [
+        "烏蠅"
+    ],
+    "Changting": [
+        "烏蠅"
+    ],
+    "Pingyu": [
+        "烏蠅"
+    ],
+    "Wuping": [
+        "烏蠅"
+    ],
+    "Liancheng": [
+        "烏蠅"
+    ],
+    "Ninghua": [
+        "烏蠅"
+    ],
+    "Yudu": [
+        "烏蠅"
+    ],
+    "Ruijin": [
+        "烏蠅"
+    ],
+    "Shicheng": [
+        "烏蠅"
+    ],
+    "Shangyou": [
+        "烏蠅"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "烏蠅"
+    ],
+    "Liudui": [
+        "烏蠅"
+    ],
+    "Hsinchu": [
+        "烏蠅"
+    ],
+    "Dongshi": [
+        "烏蠅"
+    ],
+    "Raoping": [
+        "烏蠅"
+    ],
+    "Yunlin": [
+        "烏蠅"
+    ],
+    "Hong Kong-H": [
+        "烏蠅"
+    ],
+    "Sabah": [
+        "烏蠅"
+    ],
+    "Senai": [
+        "烏蠅"
+    ],
+    "Singkawang": [
+        "烏蠅"
+    ],
+    "Shexian": [
+        "蒼蠅"
+    ],
+    "Tunxi": [
+        "蒼蠅"
+    ],
+    "Jixi": [
+        "蒼蠅"
+    ],
+    "Guangzhou": [
+        "烏蠅"
+    ],
+    "Hong Kong": [
+        "烏蠅"
+    ],
+    "Shunde": [
+        "烏蠅"
+    ],
+    "Foshan": [
+        "烏蠅"
+    ],
+    "Zhongshan": [
+        "烏蠅"
+    ],
+    "Dongguan": [
+        "姑蠅"
+    ],
+    "HK Weitou": [
+        "烏蠅"
+    ],
+    "Taishan": [
+        "禾蠅"
+    ],
+    "Doumen": [
+        "烏蠅",
+        "臭蠅"
+    ],
+    "Kaiping": [
+        "禾蠅"
+    ],
+    "Shaoguan": [
+        "烏蠅"
+    ],
+    "Yunfu": [
+        "烏蠅"
+    ],
+    "Yangjiang": [
+        "蚊子"
+    ],
+    "Xinyi": [
+        "蚊蠅",
+        "烏蠅"
+    ],
+    "Lianjiang": [
+        "蚊蠅"
+    ],
+    "Nanning": [
+        "蚊蠅",
+        "烏蠅"
+    ],
+    "Wuzhou": [
+        "烏蠅"
+    ],
+    "Yulin": [
+        "蚊蠅"
+    ],
+    "Hepu": [
+        "蒼蠅",
+        "烏蠅"
+    ],
+    "Kuala Lumpur": [
+        "烏蠅"
+    ],
+    "Nanning-P": [
+        "蒼蠅",
+        "飯蚊子",
+        "蚊子"
+    ],
+    "Guilin-P": [
+        "蜢子"
+    ],
+    "Xiamen": [
+        "胡蠅"
+    ],
+    "Quanzhou": [
+        "胡蠅"
+    ],
+    "Zhangzhou": [
+        "胡蠅"
+    ],
+    "Taipei": [
+        "胡蠅"
+    ],
+    "Kaohsiung": [
+        "胡蠅"
+    ],
+    "Tainan": [
+        "胡蠅"
+    ],
+    "Taichung": [
+        "胡蠅"
+    ],
+    "Wuqi": [
+        "胡蠅"
+    ],
+    "Hsinchu-MN": [
+        "胡蠅"
+    ],
+    "Taitung": [
+        "胡蠅"
+    ],
+    "Lukang": [
+        "胡蠅"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "胡蠅"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "胡蠅"
+    ],
+    "Malaysia-MN": [
+        "胡蠅"
+    ],
+    "Singapore-MN": [
+        "胡蠅"
+    ],
+    "Philippine-MN": [
+        "胡蠅"
+    ],
+    "Pingnan": [
+        "胡蠅"
+    ],
+    "Chaozhou": [
+        "胡蠅"
+    ],
+    "Shantou": [
+        "胡蠅"
+    ],
+    "Haifeng": [
+        "胡蠅"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "胡蠅"
+    ],
+    "Haikou": [
+        "胡蠅"
+    ],
+    "Leizhou": [
+        "胡蠅"
+    ],
+    "Putian": [
+        "胡蠅"
+    ],
+    "Xianyou": [
+        "胡蠅"
+    ],
+    "Fuzhou": [
+        "蒲蠅"
+    ],
+    "Fuqing": [
+        "蒲蠅"
+    ],
+    "Matsu": [
+        "蒲蠅"
+    ],
+    "Jian'ou": [
+        "蠅"
+    ]
 }

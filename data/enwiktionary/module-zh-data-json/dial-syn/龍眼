@@ -1,834 +1,668 @@
 {
     "meaning": "longan",
     "note": "",
-    "Classical": {
-        "1": "龍眼",
-        "2": "龍目",
-        "3": "荔枝奴",
-        "4": "亞荔枝",
-        "5": "驪珠",
-        "6": "圓眼",
-        "7": "益智",
-        "8": "燕卵",
-        "9": "蜜脾",
-        "10": "鮫淚",
-        "11": "川彈子"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "龍眼"
-    },
-    "Beijing": {
-        "1": "桂圓"
-    },
-    "Taiwan": {
-        "1": "龍眼"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "桂圓"
-    },
-    "Shenyang": {
-        "1": "桂圓"
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "桂圓"
-    },
-    "Muping": {
-        "1": "龍眼"
-    },
-    "Luoyang": {
-        "1": "桂圓"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "圓圓"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "桂圓兒"
-    },
-    "Xuzhou": {
-        "1": "龍眼",
-        "2": "龍眼兒",
-        "3": "桂圓"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "桂圓",
-        "2": "圓圓"
-    },
-    "Ürümqi": {
-        "1": "桂圓"
-    },
-    "Wuhan": {
-        "1": "桂圓"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "圓圓兒",
-        "2": "桂圓",
-        "3": "桂圓兒",
-        "4": "龍眼",
-        "5": "龍眼兒"
-    },
-    "Guiyang": {
-        "1": "桂圓",
-        "2": "圓圓"
-    },
-    "Guilin": {
-        "1": "桂圓"
-    },
-    "Liuzhou": {
-        "1": "龍眼",
-        "2": "龍眼果",
-        "3": "桂圓"
-    },
-    "Kunming": {
-        "1": "桂圓"
-    },
-    "Yangzhou": {
-        "1": "圓眼"
-    },
-    "Nanjing": {
-        "1": "桂圓"
-    },
-    "Hefei": {
-        "1": "圓圓"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "龍眼"
-    },
-    "Singapore-M": {
-        "1": "龍眼"
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "桂圓",
-        "2": "龍眼"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "桂圓"
-    },
-    "Suzhou": {
-        "1": "桂圓"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "桂圓"
-    },
-    "Chongming": {
-        "1": "桂圓"
-    },
-    "Wenzhou": {
-        "1": "圓眼",
-        "2": "魁圓"
-    },
-    "Danyang": {
-        "1": "泡圓",
-        "2": "桂圓"
-    },
-    "Jinhua": {
-        "1": "桂圓"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "桂圓"
-    },
-    "Changsha": {
-        "1": "桂圓"
-    },
-    "Shuangfeng": {
-        "1": "桂圓",
-        "2": "泡圓"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "泡圓",
-        "2": "桂圓"
-    },
-    "Quanzhou-X": {
-        "1": "龍眼"
-    },
-    "Nanchang": {
-        "1": "桂圓",
-        "2": "泡圓"
-    },
-    "Lichuan": {
-        "1": "頂圓"
-    },
-    "Pingxiang": {
-        "1": "桂圓",
-        "2": "福圓"
-    },
-    "Meixian": {
-        "1": "牛眼",
-        "2": "牛眼仔",
-        "3": "龍眼"
-    },
-    "Xingning": {
-        "1": "牛眼哩"
-    },
-    "Huizhou": {
-        "1": "龍眼"
-    },
-    "Huizhou-SK": {
-        "1": "龍眼"
-    },
-    "Huizhou-HL": {
-        "1": "龍眼"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "龍眼"
-    },
-    "Huidong-DL": {
-        "1": "龍眼"
-    },
-    "Dongguan-H": {
-        "1": "龍眼"
-    },
-    "Longmen-PL": {
-        "1": "龍眼仔"
-    },
-    "Longmen-LX": {
-        "1": "龍眼"
-    },
-    "Boluo": {
-        "1": "龍眼"
-    },
-    "Shenzhen-H": {
-        "1": "龍眼"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "龍眼"
-    },
-    "Wuhua-SZ": {
-        "1": "龍眼"
-    },
-    "Wuhua-HC": {
-        "1": "龍眼"
-    },
-    "Wuhua-CB": {
-        "1": "龍眼"
-    },
-    "Wuhua-MY": {
-        "1": "牛眼"
-    },
-    "Heyuan": {
-        "1": "龍眼"
-    },
-    "Zijin-GZ": {
-        "1": "龍眼"
-    },
-    "Longchuan-TC": {
-        "1": "果哎"
-    },
-    "Longchuan-SD": {
-        "1": "果哎"
-    },
-    "Heping-LZ": {
-        "1": "龍眼"
-    },
-    "Lianping-ZX": {
-        "1": "龍眼"
-    },
-    "Lianping-LJ": {
-        "1": "龍眼"
-    },
-    "Qujiang": {
-        "1": "圓肉"
-    },
-    "Xinfeng-MT": {
-        "1": "龍眼"
-    },
-    "Xinfeng-DX": {
-        "1": "龍眼"
-    },
-    "Xiaosanjiang": {
-        "1": "龍眼果"
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "龍眼"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "龍眼"
-    },
-    "Changting": {
-        "1": "圓眼"
-    },
-    "Pingyu": {
-        "1": "龍眼"
-    },
-    "Wuping": {
-        "1": "龍眼"
-    },
-    "Liancheng": {
-        "1": "龍眼"
-    },
-    "Ninghua": {
-        "1": "泡圓"
-    },
-    "Yudu": {
-        "1": "泡圓",
-        "2": "林眼子"
-    },
-    "Ruijin": {
-        "1": "圓眼"
-    },
-    "Shicheng": {
-        "1": "泡圓"
-    },
-    "Shangyou": {
-        "1": "泡圓"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "牛眼"
-    },
-    "Liudui": {
-        "1": "牛眼"
-    },
-    "Hsinchu": {
-        "1": "牛眼"
-    },
-    "Dongshi": {
-        "1": "牛眼"
-    },
-    "Raoping": {
-        "1": "牛眼"
-    },
-    "Yunlin": {
-        "1": "牛眼"
-    },
-    "Hong Kong-H": {
-        "1": "龍眼"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "龍眼"
-    },
-    "Singkawang": {
-        "1": "龍眼"
-    },
-    "Jixi": {
-        "1": "桂圓"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "龍眼",
-        "2": "圓眼"
-    },
-    "Hong Kong": {
-        "1": "龍眼"
-    },
-    "HK Weitou": {
-        "1": "龍眼"
-    },
-    "Kam Tin": {
-        "1": "龍眼"
-    },
-    "Ting Kok": {
-        "1": "龍眼"
-    },
-    "Tung Ping Chau": {
-        "1": "龍眼仔"
-    },
-    "Macau": {
-        "1": "龍眼"
-    },
-    "Panyu": {
-        "1": "龍眼"
-    },
-    "Huadu": {
-        "1": "龍眼"
-    },
-    "Conghua": {
-        "1": "圓眼"
-    },
-    "Zengcheng": {
-        "1": "龍眼"
-    },
-    "Foshan": {
-        "1": "龍眼"
-    },
-    "Nanhai": {
-        "1": "龍眼"
-    },
-    "Shunde": {
-        "1": "龍眼"
-    },
-    "Sanshui": {
-        "1": "龍眼"
-    },
-    "Gaoming": {
-        "1": "龍眼"
-    },
-    "Zhongshan": {
-        "1": "龍眼"
-    },
-    "Zhuhai": {
-        "1": "龍眼"
-    },
-    "Doumen-T": {
-        "1": "龍眼"
-    },
-    "Doumen-S": {
-        "1": "龍眼"
-    },
-    "Jiangmen": {
-        "1": "龍眼"
-    },
-    "Xinhui": {
-        "1": "龍眼"
-    },
-    "Taishan": {
-        "1": "圓眼"
-    },
-    "Kaiping": {
-        "1": "榕眼"
-    },
-    "Enping": {
-        "1": "龍眼"
-    },
-    "Heshan": {
-        "1": "龍眼"
-    },
-    "Dongguan": {
-        "1": "龍眼"
-    },
-    "Bao'an": {
-        "1": "龍眼"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "龍眼"
-    },
-    "Yunfu": {
-        "1": "榕眼"
-    },
-    "Yangjiang": {
-        "1": "魚眼",
-        "2": "龍眼"
-    },
-    "Xinyi": {
-        "1": "龍眼"
-    },
-    "Lianjiang": {
-        "1": "龍眼"
-    },
-    "Nanning": {
-        "1": "龍眼"
-    },
-    "Wuzhou": {
-        "1": "龍眼"
-    },
-    "Yulin": {
-        "1": "龍眼子"
-    },
-    "Hepu": {
-        "1": "龍眼"
-    },
-    "Danzhou": {
-        "1": "龍眼"
-    },
-    "Kuala Lumpur": {
-        "1": "龍眼"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "龍眼"
-    },
-    "Guilin-P": {
-        "1": "龍眼"
-    },
-    "Xiamen": {
-        "1": "龍眼"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "龍眼"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "龍眼"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "龍眼"
-    },
-    "Taipei": {
-        "1": "龍眼"
-    },
-    "Kaohsiung": {
-        "1": "龍眼"
-    },
-    "Tainan": {
-        "1": "龍眼"
-    },
-    "Taichung": {
-        "1": "龍眼"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "龍眼"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "龍眼"
-    },
-    "Sanxia": {
-        "1": "龍眼"
-    },
-    "Yilan": {
-        "1": "龍眼"
-    },
-    "Kinmen": {
-        "1": "龍眼"
-    },
-    "Magong": {
-        "1": "龍眼"
-    },
-    "Malaysia-MN": {
-        "1": "龍眼"
-    },
-    "Singapore-MN": {
-        "1": "龍眼"
-    },
-    "Philippine-MN": {
-        "1": "龍眼"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "龍眼"
-    },
-    "Datian": {
-        "1": "龍眼"
-    },
-    "Pingnan": {
-        "1": "龍眼"
-    },
-    "Chaozhou": {
-        "1": "肉眼"
-    },
-    "Shantou": {
-        "1": "肉眼"
-    },
-    "Haifeng": {
-        "1": "肉眼"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "龍眼"
-    },
-    "Wenchang": {
-        "1": "龍眼"
-    },
-    "Haikou": {
-        "1": "龍眼"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "龍眼"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Shaxi": {
-        "1": "龍眼"
-    },
-    "Sanxiang": {
-        "1": "龍眼"
-    },
-    "Fuzhou": {
-        "1": "龍眼"
-    },
-    "Changle": {
-        "1": "龍眼"
-    },
-    "Fuqing": {
-        "1": "龍眼"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "龍眼"
-    },
-    "Gutian": {
-        "1": "龍眼"
-    },
-    "Fu'an": {
-        "1": "龍眼"
-    },
-    "Ningde": {
-        "1": "龍眼"
-    },
-    "Shouning": {
-        "1": "寶圓"
-    },
-    "Zhouning": {
-        "1": "寶圓"
-    },
-    "Fuding": {
-        "1": "寶圓"
-    },
-    "Matsu": {
-        "1": "龍眼"
-    },
-    "Jian'ou": {
-        "1": "龍眼"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "龍眼"
-    },
-    "Fuding-She": {
-        "1": "寶圓"
-    },
-    "Luoyuan-She": {
-        "1": "龍眼"
-    },
-    "Sanming-She": {
-        "1": "龍眼"
-    },
-    "Shunchang-She": {
-        "1": "龍眼"
-    },
-    "Hua'an-She": {
-        "1": "龍眼"
-    },
-    "Guixi-She": {
-        "1": "龍眼"
-    },
-    "Cangnan-She": {
-        "1": "龍眼"
-    },
-    "Jingning-She": {
-        "1": "龍眼"
-    },
-    "Lishui-She": {
-        "1": "桂圓"
-    },
-    "Longyou-She": {
-        "1": "桂圓"
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "龍眼",
+        "龍目",
+        "荔枝奴",
+        "亞荔枝",
+        "驪珠",
+        "圓眼",
+        "益智",
+        "燕卵",
+        "蜜脾",
+        "鮫淚",
+        "川彈子"
+    ],
+    "Formal": [],
+    "Taxonomic": [
+        "龍眼"
+    ],
+    "Beijing": [
+        "桂圓"
+    ],
+    "Taiwan": [
+        "龍眼"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "桂圓"
+    ],
+    "Shenyang": [
+        "桂圓"
+    ],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "桂圓"
+    ],
+    "Muping": [
+        "龍眼"
+    ],
+    "Luoyang": [
+        "桂圓"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "圓圓"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "桂圓兒"
+    ],
+    "Xuzhou": [
+        "龍眼",
+        "龍眼兒",
+        "桂圓"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "桂圓",
+        "圓圓"
+    ],
+    "Ürümqi": [
+        "桂圓"
+    ],
+    "Wuhan": [
+        "桂圓"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "圓圓兒",
+        "桂圓",
+        "桂圓兒",
+        "龍眼",
+        "龍眼兒"
+    ],
+    "Guiyang": [
+        "桂圓",
+        "圓圓"
+    ],
+    "Guilin": [
+        "桂圓"
+    ],
+    "Liuzhou": [
+        "龍眼",
+        "龍眼果",
+        "桂圓"
+    ],
+    "Kunming": [
+        "桂圓"
+    ],
+    "Yangzhou": [
+        "圓眼"
+    ],
+    "Nanjing": [
+        "桂圓"
+    ],
+    "Hefei": [
+        "圓圓"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "龍眼"
+    ],
+    "Singapore-M": [
+        "龍眼"
+    ],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "桂圓",
+        "龍眼"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "桂圓"
+    ],
+    "Suzhou": [
+        "桂圓"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "桂圓"
+    ],
+    "Chongming": [
+        "桂圓"
+    ],
+    "Wenzhou": [
+        "圓眼",
+        "魁圓"
+    ],
+    "Danyang": [
+        "泡圓",
+        "桂圓"
+    ],
+    "Jinhua": [
+        "桂圓"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "桂圓"
+    ],
+    "Changsha": [
+        "桂圓"
+    ],
+    "Shuangfeng": [
+        "桂圓",
+        "泡圓"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "泡圓",
+        "桂圓"
+    ],
+    "Quanzhou-X": [
+        "龍眼"
+    ],
+    "Nanchang": [
+        "桂圓",
+        "泡圓"
+    ],
+    "Lichuan": [
+        "頂圓"
+    ],
+    "Pingxiang": [
+        "桂圓",
+        "福圓"
+    ],
+    "Meixian": [
+        "牛眼",
+        "牛眼仔",
+        "龍眼"
+    ],
+    "Xingning": [
+        "牛眼哩"
+    ],
+    "Huizhou": [
+        "龍眼"
+    ],
+    "Huizhou-SK": [
+        "龍眼"
+    ],
+    "Huizhou-HL": [
+        "龍眼"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "龍眼"
+    ],
+    "Huidong-DL": [
+        "龍眼"
+    ],
+    "Dongguan-H": [
+        "龍眼"
+    ],
+    "Longmen-PL": [
+        "龍眼仔"
+    ],
+    "Longmen-LX": [
+        "龍眼"
+    ],
+    "Boluo": [
+        "龍眼"
+    ],
+    "Shenzhen-H": [
+        "龍眼"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "龍眼"
+    ],
+    "Wuhua-SZ": [
+        "龍眼"
+    ],
+    "Wuhua-HC": [
+        "龍眼"
+    ],
+    "Wuhua-CB": [
+        "龍眼"
+    ],
+    "Wuhua-MY": [
+        "牛眼"
+    ],
+    "Heyuan": [
+        "龍眼"
+    ],
+    "Zijin-GZ": [
+        "龍眼"
+    ],
+    "Longchuan-TC": [
+        "果哎"
+    ],
+    "Longchuan-SD": [
+        "果哎"
+    ],
+    "Heping-LZ": [
+        "龍眼"
+    ],
+    "Lianping-ZX": [
+        "龍眼"
+    ],
+    "Lianping-LJ": [
+        "龍眼"
+    ],
+    "Qujiang": [
+        "圓肉"
+    ],
+    "Xinfeng-MT": [
+        "龍眼"
+    ],
+    "Xinfeng-DX": [
+        "龍眼"
+    ],
+    "Xiaosanjiang": [
+        "龍眼果"
+    ],
+    "Liannan": [],
+    "Conghua-H": [
+        "龍眼"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "龍眼"
+    ],
+    "Changting": [
+        "圓眼"
+    ],
+    "Pingyu": [
+        "龍眼"
+    ],
+    "Wuping": [
+        "龍眼"
+    ],
+    "Liancheng": [
+        "龍眼"
+    ],
+    "Ninghua": [
+        "泡圓"
+    ],
+    "Yudu": [
+        "泡圓",
+        "林眼子"
+    ],
+    "Ruijin": [
+        "圓眼"
+    ],
+    "Shicheng": [
+        "泡圓"
+    ],
+    "Shangyou": [
+        "泡圓"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "牛眼"
+    ],
+    "Liudui": [
+        "牛眼"
+    ],
+    "Hsinchu": [
+        "牛眼"
+    ],
+    "Dongshi": [
+        "牛眼"
+    ],
+    "Raoping": [
+        "牛眼"
+    ],
+    "Yunlin": [
+        "牛眼"
+    ],
+    "Hong Kong-H": [
+        "龍眼"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "龍眼"
+    ],
+    "Singkawang": [
+        "龍眼"
+    ],
+    "Jixi": [
+        "桂圓"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "龍眼",
+        "圓眼"
+    ],
+    "Hong Kong": [
+        "龍眼"
+    ],
+    "HK Weitou": [
+        "龍眼"
+    ],
+    "Kam Tin": [
+        "龍眼"
+    ],
+    "Ting Kok": [
+        "龍眼"
+    ],
+    "Tung Ping Chau": [
+        "龍眼仔"
+    ],
+    "Macau": [
+        "龍眼"
+    ],
+    "Panyu": [
+        "龍眼"
+    ],
+    "Huadu": [
+        "龍眼"
+    ],
+    "Conghua": [
+        "圓眼"
+    ],
+    "Zengcheng": [
+        "龍眼"
+    ],
+    "Foshan": [
+        "龍眼"
+    ],
+    "Nanhai": [
+        "龍眼"
+    ],
+    "Shunde": [
+        "龍眼"
+    ],
+    "Sanshui": [
+        "龍眼"
+    ],
+    "Gaoming": [
+        "龍眼"
+    ],
+    "Zhongshan": [
+        "龍眼"
+    ],
+    "Zhuhai": [
+        "龍眼"
+    ],
+    "Doumen-T": [
+        "龍眼"
+    ],
+    "Doumen-S": [
+        "龍眼"
+    ],
+    "Jiangmen": [
+        "龍眼"
+    ],
+    "Xinhui": [
+        "龍眼"
+    ],
+    "Taishan": [
+        "圓眼"
+    ],
+    "Kaiping": [
+        "榕眼"
+    ],
+    "Enping": [
+        "龍眼"
+    ],
+    "Heshan": [
+        "龍眼"
+    ],
+    "Dongguan": [
+        "龍眼"
+    ],
+    "Bao'an": [
+        "龍眼"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "龍眼"
+    ],
+    "Yunfu": [
+        "榕眼"
+    ],
+    "Yangjiang": [
+        "魚眼",
+        "龍眼"
+    ],
+    "Xinyi": [
+        "龍眼"
+    ],
+    "Lianjiang": [
+        "龍眼"
+    ],
+    "Nanning": [
+        "龍眼"
+    ],
+    "Wuzhou": [
+        "龍眼"
+    ],
+    "Yulin": [
+        "龍眼子"
+    ],
+    "Hepu": [
+        "龍眼"
+    ],
+    "Danzhou": [
+        "龍眼"
+    ],
+    "Kuala Lumpur": [
+        "龍眼"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "龍眼"
+    ],
+    "Guilin-P": [
+        "龍眼"
+    ],
+    "Xiamen": [
+        "龍眼"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "龍眼"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "龍眼"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "龍眼"
+    ],
+    "Taipei": [
+        "龍眼"
+    ],
+    "Kaohsiung": [
+        "龍眼"
+    ],
+    "Tainan": [
+        "龍眼"
+    ],
+    "Taichung": [
+        "龍眼"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "龍眼"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "龍眼"
+    ],
+    "Sanxia": [
+        "龍眼"
+    ],
+    "Yilan": [
+        "龍眼"
+    ],
+    "Kinmen": [
+        "龍眼"
+    ],
+    "Magong": [
+        "龍眼"
+    ],
+    "Malaysia-MN": [
+        "龍眼"
+    ],
+    "Singapore-MN": [
+        "龍眼"
+    ],
+    "Philippine-MN": [
+        "龍眼"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "龍眼"
+    ],
+    "Datian": [
+        "龍眼"
+    ],
+    "Pingnan": [
+        "龍眼"
+    ],
+    "Chaozhou": [
+        "肉眼"
+    ],
+    "Shantou": [
+        "肉眼"
+    ],
+    "Haifeng": [
+        "肉眼"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "龍眼"
+    ],
+    "Wenchang": [
+        "龍眼"
+    ],
+    "Haikou": [
+        "龍眼"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "龍眼"
+    ],
+    "Xianyou": [],
+    "Shaxi": [
+        "龍眼"
+    ],
+    "Sanxiang": [
+        "龍眼"
+    ],
+    "Fuzhou": [
+        "龍眼"
+    ],
+    "Changle": [
+        "龍眼"
+    ],
+    "Fuqing": [
+        "龍眼"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "龍眼"
+    ],
+    "Gutian": [
+        "龍眼"
+    ],
+    "Fu'an": [
+        "龍眼"
+    ],
+    "Ningde": [
+        "龍眼"
+    ],
+    "Shouning": [
+        "寶圓"
+    ],
+    "Zhouning": [
+        "寶圓"
+    ],
+    "Fuding": [
+        "寶圓"
+    ],
+    "Matsu": [
+        "龍眼"
+    ],
+    "Jian'ou": [
+        "龍眼"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "龍眼"
+    ],
+    "Fuding-She": [
+        "寶圓"
+    ],
+    "Luoyuan-She": [
+        "龍眼"
+    ],
+    "Sanming-She": [
+        "龍眼"
+    ],
+    "Shunchang-She": [
+        "龍眼"
+    ],
+    "Hua'an-She": [
+        "龍眼"
+    ],
+    "Guixi-She": [
+        "龍眼"
+    ],
+    "Cangnan-She": [
+        "龍眼"
+    ],
+    "Jingning-She": [
+        "龍眼"
+    ],
+    "Lishui-She": [
+        "桂圓"
+    ],
+    "Longyou-She": [
+        "桂圓"
+    ],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

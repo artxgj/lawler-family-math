@@ -1,677 +1,583 @@
 {
     "meaning": "rainbow",
     "note": "",
-    "Classical": {
-        "1": "虹",
-        "2": "螮蝀",
-        "3": "雩",
-        "4": "隮"
-    },
-    "Formal": {
-        "1": "彩虹",
-        "2": "虹"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "虹"
-    },
-    "Taiwan": {
-        "1": "彩虹"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "虹"
-    },
-    "Shenyang": {
-        "1": "虹"
-    },
-    "Hailar": {
-        "1": "彩虹"
-    },
-    "Ulan Hot": {
-        "1": "七彩虹"
-    },
-    "Tongliao": {
-        "1": "彩虹"
-    },
-    "Chifeng": {
-        "1": "虹"
-    },
-    "Bayanhot": {
-        "1": "彩虹",
-        "2": "虹"
-    },
-    "Jinan": {
-        "1": "虹"
-    },
-    "Muping": {
-        "1": "虹"
-    },
-    "Luoyang": {
-        "1": "虹"
-    },
-    "Wanrong": {
-        "1": "虹"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "虹"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "虹"
-    },
-    "Xining": {
-        "1": "虹"
-    },
-    "Xuzhou": {
-        "1": "虹"
-    },
-    "Yinchuan": {
-        "1": "虹"
-    },
-    "Lanzhou": {
-        "1": "虹"
-    },
-    "Ürümqi": {
-        "1": "虹"
-    },
-    "Wuhan": {
-        "1": "虹"
-    },
-    "Huanggang": {
-        "1": "虹"
-    },
-    "Chengdu": {
-        "1": "虹"
-    },
-    "Guiyang": {
-        "1": "虹"
-    },
-    "Guilin": {
-        "1": "虹"
-    },
-    "Liuzhou": {
-        "1": "虹",
-        "2": "彩虹"
-    },
-    "Kunming": {
-        "1": "虹"
-    },
-    "Yangzhou": {
-        "1": "虹"
-    },
-    "Nanjing": {
-        "1": "虹"
-    },
-    "Hefei": {
-        "1": "虹"
-    },
-    "Nantong": {
-        "1": "鱟",
-        "2": "虹"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "虹"
-    },
-    "Shaanxi-DG": {
-        "1": "虹"
-    },
-    "Taiyuan": {
-        "1": "虹"
-    },
-    "Pingyao": {
-        "1": "虹"
-    },
-    "Xinzhou": {
-        "1": "虹"
-    },
-    "Baochang": {
-        "1": "虹"
-    },
-    "Jining": {
-        "1": "虹"
-    },
-    "Hohhot": {
-        "1": "虹"
-    },
-    "Baotou": {
-        "1": "虹"
-    },
-    "Dongsheng": {
-        "1": "虹"
-    },
-    "Linhe": {
-        "1": "虹"
-    },
-    "Haibowan": {
-        "1": "虹"
-    },
-    "Shanghai": {
-        "1": "虹",
-        "2": "彩虹",
-        "3": "鱟:dated"
-    },
-    "Suzhou": {
-        "1": "鱟",
-        "2": "彩虹",
-        "3": "虹"
-    },
-    "Wuxi": {
-        "1": "彩虹",
-        "2": "虹",
-        "3": "鱟"
-    },
-    "Hangzhou": {
-        "1": "鱟",
-        "2": "彩虹"
-    },
-    "Chongming": {
-        "1": "鱟"
-    },
-    "Wenzhou": {
-        "1": "鱟"
-    },
-    "Danyang": {
-        "1": "虹"
-    },
-    "Jinhua": {
-        "1": "鱟",
-        "2": "彩虹"
-    },
-    "Tangxi": {
-        "1": "熯"
-    },
-    "Ningbo": {
-        "1": "鱟",
-        "2": "虹"
-    },
-    "Changsha": {
-        "1": "虹"
-    },
-    "Shuangfeng": {
-        "1": "虹"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "虹"
-    },
-    "Quanzhou-X": {
-        "1": "彩虹"
-    },
-    "Nanchang": {
-        "1": "虹"
-    },
-    "Lichuan": {
-        "1": "天虹",
-        "2": "天吊"
-    },
-    "Pingxiang": {
-        "1": "虹"
-    },
-    "Meixian": {
-        "1": "天弓"
-    },
-    "Xingning": {
-        "1": "天弓"
-    },
-    "Huidong": {
-        "1": "天弓"
-    },
-    "Qujiang": {
-        "1": "天弓"
-    },
-    "Xiaosanjiang": {
-        "1": "龍"
-    },
-    "Luchuan": {
-        "1": "天公降水"
-    },
-    "Changting": {
-        "1": "虹"
-    },
-    "Pingyu": {
-        "1": "天弓"
-    },
-    "Wuping": {
-        "1": "天弓"
-    },
-    "Liancheng": {
-        "1": "虹"
-    },
-    "Ninghua": {
-        "1": "虹"
-    },
-    "Yudu": {
-        "1": "虹"
-    },
-    "Ruijin": {
-        "1": "虹"
-    },
-    "Shicheng": {
-        "1": "虹"
-    },
-    "Shangyou": {
-        "1": "虹"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "天弓",
-        "2": "虹"
-    },
-    "Liudui": {
-        "1": "天弓"
-    },
-    "Hsinchu": {
-        "1": "虹"
-    },
-    "Dongshi": {
-        "1": "天弓"
-    },
-    "Raoping": {
-        "1": "虹"
-    },
-    "Yunlin": {
-        "1": "虹"
-    },
-    "Hong Kong-H": {
-        "1": "天弓"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "天弓"
-    },
-    "Senai": {
-        "1": "天弓",
-        "2": "彩虹"
-    },
-    "Singkawang": {
-        "1": "天弓"
-    },
-    "Jixi": {
-        "1": "日頭紅虹",
-        "2": "虹"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": "虹"
-    },
-    "Qimen": {
-        "1": "虹"
-    },
-    "Wuyuan": {
-        "1": "虹"
-    },
-    "Fuliang": {
-        "1": "虹"
-    },
-    "Dexing": {
-        "1": "彩虹"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "虹"
-    },
-    "Guangzhou": {
-        "1": "虹",
-        "2": "天虹",
-        "3": "龍拱"
-    },
-    "Hong Kong": {
-        "1": "天虹",
-        "2": "彩虹"
-    },
-    "Shunde": {
-        "1": "拱篷"
-    },
-    "Foshan": {
-        "1": "鑊耳龍"
-    },
-    "Zhongshan": {
-        "1": "虹拱"
-    },
-    "Dongguan": {
-        "1": "虹"
-    },
-    "HK Weitou": {
-        "1": "天弓"
-    },
-    "Doumen-T": {
-        "1": "龍孔"
-    },
-    "Doumen-S": {
-        "1": "龍孔"
-    },
-    "Taishan": {
-        "1": "鑊耳"
-    },
-    "Kaiping": {
-        "1": "鑊耳龍"
-    },
-    "Shaoguan": {
-        "1": "虹"
-    },
-    "Yunfu": {
-        "1": "龍"
-    },
-    "Yangjiang": {
-        "1": "破篷"
-    },
-    "Xinyi": {
-        "1": "湴更"
-    },
-    "Lianjiang": {
-        "1": "虹"
-    },
-    "Nanning": {
-        "1": "虹"
-    },
-    "Wuzhou": {
-        "1": "彩虹"
-    },
-    "Yulin": {
-        "1": "龐虹"
-    },
-    "Hepu": {
-        "1": "天虹"
-    },
-    "Danzhou": {
-        "1": "天虹"
-    },
-    "Kuala Lumpur": {
-        "1": "彩虹",
-        "2": "彩龍"
-    },
-    "Ho Chi Minh City": {
-        "1": "彩虹"
-    },
-    "Nanning-P": {
-        "1": "虹"
-    },
-    "Guilin-P": {
-        "1": "虹"
-    },
-    "Xiamen": {
-        "1": "虹"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "虹"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "虹"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "虹"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": "虹"
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "虹"
-    },
-    "Taipei": {
-        "1": "虹"
-    },
-    "Kaohsiung": {
-        "1": "虹"
-    },
-    "Tainan": {
-        "1": "虹"
-    },
-    "Taichung": {
-        "1": "虹"
-    },
-    "Wuqi": {
-        "1": "虹"
-    },
-    "Hsinchu-MN": {
-        "1": "虹"
-    },
-    "Taitung": {
-        "1": "虹"
-    },
-    "Lukang": {
-        "1": "虹"
-    },
-    "Sanxia": {
-        "1": "虹"
-    },
-    "Yilan": {
-        "1": "虹"
-    },
-    "Kinmen": {
-        "1": "虹"
-    },
-    "Magong": {
-        "1": "虹"
-    },
-    "Malaysia-MN": {
-        "1": "虹"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "天虹"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "虹"
-    },
-    "Chaozhou": {
-        "1": "虹"
-    },
-    "Shantou": {
-        "1": "虹"
-    },
-    "Haifeng": {
-        "1": "虹"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "虹"
-    },
-    "Wenchang": {
-        "1": "虹"
-    },
-    "Haikou": {
-        "1": "虹"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "虹"
-    },
-    "Xianyou": {
-        "1": "虹"
-    },
-    "Fuzhou": {
-        "1": "虹"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "虹"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": "虹"
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "虹"
-    },
-    "Jian'ou": {
-        "1": "虹"
-    },
-    "Dikou": {
-        "1": "虹"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "虹"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "虹",
-        "2": "攔溪仔:dated"
-    },
-    "Fu'an-She": {
-        "1": "交龍"
-    },
-    "Fuding-She": {
-        "1": "交龍"
-    },
-    "Luoyuan-She": {
-        "1": "交龍"
-    },
-    "Sanming-She": {
-        "1": "交龍"
-    },
-    "Shunchang-She": {
-        "1": "交龍"
-    },
-    "Hua'an-She": {
-        "1": "交龍"
-    },
-    "Guixi-She": {
-        "1": "交龍"
-    },
-    "Cangnan-She": {
-        "1": "交龍"
-    },
-    "Jingning-She": {
-        "1": "交龍"
-    },
-    "Lishui-She": {
-        "1": "交龍"
-    },
-    "Longyou-She": {
-        "1": "交龍"
-    },
-    "Chaozhou-She": {
-        "1": "交龍"
-    },
-    "Fengshun-She": {
-        "1": "交龍"
-    }
+    "Classical": [
+        "虹",
+        "螮蝀",
+        "雩",
+        "隮"
+    ],
+    "Formal": [
+        "彩虹",
+        "虹"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "虹"
+    ],
+    "Taiwan": [
+        "彩虹"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "虹"
+    ],
+    "Shenyang": [
+        "虹"
+    ],
+    "Hailar": [
+        "彩虹"
+    ],
+    "Ulan Hot": [
+        "七彩虹"
+    ],
+    "Tongliao": [
+        "彩虹"
+    ],
+    "Chifeng": [
+        "虹"
+    ],
+    "Bayanhot": [
+        "彩虹",
+        "虹"
+    ],
+    "Jinan": [
+        "虹"
+    ],
+    "Muping": [
+        "虹"
+    ],
+    "Luoyang": [
+        "虹"
+    ],
+    "Wanrong": [
+        "虹"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "虹"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "虹"
+    ],
+    "Xining": [
+        "虹"
+    ],
+    "Xuzhou": [
+        "虹"
+    ],
+    "Yinchuan": [
+        "虹"
+    ],
+    "Lanzhou": [
+        "虹"
+    ],
+    "Ürümqi": [
+        "虹"
+    ],
+    "Wuhan": [
+        "虹"
+    ],
+    "Huanggang": [
+        "虹"
+    ],
+    "Chengdu": [
+        "虹"
+    ],
+    "Guiyang": [
+        "虹"
+    ],
+    "Guilin": [
+        "虹"
+    ],
+    "Liuzhou": [
+        "虹",
+        "彩虹"
+    ],
+    "Kunming": [
+        "虹"
+    ],
+    "Yangzhou": [
+        "虹"
+    ],
+    "Nanjing": [
+        "虹"
+    ],
+    "Hefei": [
+        "虹"
+    ],
+    "Nantong": [
+        "鱟",
+        "虹"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "虹"
+    ],
+    "Shaanxi-DG": [
+        "虹"
+    ],
+    "Taiyuan": [
+        "虹"
+    ],
+    "Pingyao": [
+        "虹"
+    ],
+    "Xinzhou": [
+        "虹"
+    ],
+    "Baochang": [
+        "虹"
+    ],
+    "Jining": [
+        "虹"
+    ],
+    "Hohhot": [
+        "虹"
+    ],
+    "Baotou": [
+        "虹"
+    ],
+    "Dongsheng": [
+        "虹"
+    ],
+    "Linhe": [
+        "虹"
+    ],
+    "Haibowan": [
+        "虹"
+    ],
+    "Shanghai": [
+        "虹",
+        "彩虹",
+        "鱟:dated"
+    ],
+    "Suzhou": [
+        "鱟",
+        "彩虹",
+        "虹"
+    ],
+    "Wuxi": [
+        "彩虹",
+        "虹",
+        "鱟"
+    ],
+    "Hangzhou": [
+        "鱟",
+        "彩虹"
+    ],
+    "Chongming": [
+        "鱟"
+    ],
+    "Wenzhou": [
+        "鱟"
+    ],
+    "Danyang": [
+        "虹"
+    ],
+    "Jinhua": [
+        "鱟",
+        "彩虹"
+    ],
+    "Tangxi": [
+        "熯"
+    ],
+    "Ningbo": [
+        "鱟",
+        "虹"
+    ],
+    "Changsha": [
+        "虹"
+    ],
+    "Shuangfeng": [
+        "虹"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "虹"
+    ],
+    "Quanzhou-X": [
+        "彩虹"
+    ],
+    "Nanchang": [
+        "虹"
+    ],
+    "Lichuan": [
+        "天虹",
+        "天吊"
+    ],
+    "Pingxiang": [
+        "虹"
+    ],
+    "Meixian": [
+        "天弓"
+    ],
+    "Xingning": [
+        "天弓"
+    ],
+    "Huidong": [
+        "天弓"
+    ],
+    "Qujiang": [
+        "天弓"
+    ],
+    "Xiaosanjiang": [
+        "龍"
+    ],
+    "Luchuan": [
+        "天公降水"
+    ],
+    "Changting": [
+        "虹"
+    ],
+    "Pingyu": [
+        "天弓"
+    ],
+    "Wuping": [
+        "天弓"
+    ],
+    "Liancheng": [
+        "虹"
+    ],
+    "Ninghua": [
+        "虹"
+    ],
+    "Yudu": [
+        "虹"
+    ],
+    "Ruijin": [
+        "虹"
+    ],
+    "Shicheng": [
+        "虹"
+    ],
+    "Shangyou": [
+        "虹"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "天弓",
+        "虹"
+    ],
+    "Liudui": [
+        "天弓"
+    ],
+    "Hsinchu": [
+        "虹"
+    ],
+    "Dongshi": [
+        "天弓"
+    ],
+    "Raoping": [
+        "虹"
+    ],
+    "Yunlin": [
+        "虹"
+    ],
+    "Hong Kong-H": [
+        "天弓"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "天弓"
+    ],
+    "Senai": [
+        "天弓",
+        "彩虹"
+    ],
+    "Singkawang": [
+        "天弓"
+    ],
+    "Jixi": [
+        "日頭紅虹",
+        "虹"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [
+        "虹"
+    ],
+    "Qimen": [
+        "虹"
+    ],
+    "Wuyuan": [
+        "虹"
+    ],
+    "Fuliang": [
+        "虹"
+    ],
+    "Dexing": [
+        "彩虹"
+    ],
+    "Jingde": [],
+    "Zhanda": [
+        "虹"
+    ],
+    "Guangzhou": [
+        "虹",
+        "天虹",
+        "龍拱"
+    ],
+    "Hong Kong": [
+        "天虹",
+        "彩虹"
+    ],
+    "Shunde": [
+        "拱篷"
+    ],
+    "Foshan": [
+        "鑊耳龍"
+    ],
+    "Zhongshan": [
+        "虹拱"
+    ],
+    "Dongguan": [
+        "虹"
+    ],
+    "HK Weitou": [
+        "天弓"
+    ],
+    "Doumen-T": [
+        "龍孔"
+    ],
+    "Doumen-S": [
+        "龍孔"
+    ],
+    "Taishan": [
+        "鑊耳"
+    ],
+    "Kaiping": [
+        "鑊耳龍"
+    ],
+    "Shaoguan": [
+        "虹"
+    ],
+    "Yunfu": [
+        "龍"
+    ],
+    "Yangjiang": [
+        "破篷"
+    ],
+    "Xinyi": [
+        "湴更"
+    ],
+    "Lianjiang": [
+        "虹"
+    ],
+    "Nanning": [
+        "虹"
+    ],
+    "Wuzhou": [
+        "彩虹"
+    ],
+    "Yulin": [
+        "龐虹"
+    ],
+    "Hepu": [
+        "天虹"
+    ],
+    "Danzhou": [
+        "天虹"
+    ],
+    "Kuala Lumpur": [
+        "彩虹",
+        "彩龍"
+    ],
+    "Ho Chi Minh City": [
+        "彩虹"
+    ],
+    "Nanning-P": [
+        "虹"
+    ],
+    "Guilin-P": [
+        "虹"
+    ],
+    "Xiamen": [
+        "虹"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "虹"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "虹"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "虹"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [
+        "虹"
+    ],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "虹"
+    ],
+    "Taipei": [
+        "虹"
+    ],
+    "Kaohsiung": [
+        "虹"
+    ],
+    "Tainan": [
+        "虹"
+    ],
+    "Taichung": [
+        "虹"
+    ],
+    "Wuqi": [
+        "虹"
+    ],
+    "Hsinchu-MN": [
+        "虹"
+    ],
+    "Taitung": [
+        "虹"
+    ],
+    "Lukang": [
+        "虹"
+    ],
+    "Sanxia": [
+        "虹"
+    ],
+    "Yilan": [
+        "虹"
+    ],
+    "Kinmen": [
+        "虹"
+    ],
+    "Magong": [
+        "虹"
+    ],
+    "Malaysia-MN": [
+        "虹"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "天虹"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "虹"
+    ],
+    "Chaozhou": [
+        "虹"
+    ],
+    "Shantou": [
+        "虹"
+    ],
+    "Haifeng": [
+        "虹"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "虹"
+    ],
+    "Wenchang": [
+        "虹"
+    ],
+    "Haikou": [
+        "虹"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "虹"
+    ],
+    "Xianyou": [
+        "虹"
+    ],
+    "Fuzhou": [
+        "虹"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "虹"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [
+        "虹"
+    ],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "虹"
+    ],
+    "Jian'ou": [
+        "虹"
+    ],
+    "Dikou": [
+        "虹"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "虹"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "虹",
+        "攔溪仔:dated"
+    ],
+    "Fu'an-She": [
+        "交龍"
+    ],
+    "Fuding-She": [
+        "交龍"
+    ],
+    "Luoyuan-She": [
+        "交龍"
+    ],
+    "Sanming-She": [
+        "交龍"
+    ],
+    "Shunchang-She": [
+        "交龍"
+    ],
+    "Hua'an-She": [
+        "交龍"
+    ],
+    "Guixi-She": [
+        "交龍"
+    ],
+    "Cangnan-She": [
+        "交龍"
+    ],
+    "Jingning-She": [
+        "交龍"
+    ],
+    "Lishui-She": [
+        "交龍"
+    ],
+    "Longyou-She": [
+        "交龍"
+    ],
+    "Chaozhou-She": [
+        "交龍"
+    ],
+    "Fengshun-She": [
+        "交龍"
+    ]
 }

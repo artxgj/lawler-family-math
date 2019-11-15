@@ -1,512 +1,412 @@
 {
     "meaning": "dog",
     "note": "",
-    "Classical": {
-        "1": "犬"
-    },
-    "Formal": {
-        "1": "犬"
-    },
-    "Taxonomic": {
-        "1": "犬"
-    },
-    "Beijing": {
-        "1": "狗"
-    },
-    "Taiwan": {
-        "1": "狗"
-    },
-    "Tianjin": {
-        "1": "狗"
-    },
-    "Harbin": {
-        "1": "狗"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "狗"
-    },
-    "Muping": {
-        "1": "狗子",
-        "2": "狗"
-    },
-    "Luoyang": {
-        "1": "狗"
-    },
-    "Wanrong": {
-        "1": "狗"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "狗"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "狗"
-    },
-    "Xuzhou": {
-        "1": "狗"
-    },
-    "Yinchuan": {
-        "1": "狗"
-    },
-    "Lanzhou": {
-        "1": "狗"
-    },
-    "Ürümqi": {
-        "1": "狗"
-    },
-    "Wuhan": {
-        "1": "狗子",
-        "2": "狗狗:childish",
-        "3": "來富:dated"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "狗"
-    },
-    "Guiyang": {
-        "1": "狗"
-    },
-    "Guilin": {
-        "1": "狗"
-    },
-    "Liuzhou": {
-        "1": "狗"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "狗",
-        "2": "狗子"
-    },
-    "Nanjing": {
-        "1": "狗"
-    },
-    "Hefei": {
-        "1": "狗"
-    },
-    "Nantong": {
-        "1": "狗子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "狗兒",
-        "2": "狗"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "狗"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "狗"
-    },
-    "Hangzhou": {
-        "1": "狗"
-    },
-    "Shanghai": {
-        "1": "狗",
-        "2": "汪汪狗:childish"
-    },
-    "Chongming": {
-        "1": "狗"
-    },
-    "Wenzhou": {
-        "1": "狗",
-        "2": "𡀿𡀿:childish"
-    },
-    "Danyang": {
-        "1": "狗子"
-    },
-    "Jinhua": {
-        "1": "狗"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "狗"
-    },
-    "Shuangfeng": {
-        "1": "狗"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "狗"
-    },
-    "Quanzhou-X": {
-        "1": "狗"
-    },
-    "Nanchang": {
-        "1": "狗"
-    },
-    "Lichuan": {
-        "1": "狗"
-    },
-    "Pingxiang": {
-        "1": "狗"
-    },
-    "Meixian": {
-        "1": "狗"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "狗"
-    },
-    "Changting": {
-        "1": "狗"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "狗子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "狗仔"
-    },
-    "Liudui": {
-        "1": "狗仔"
-    },
-    "Hsinchu": {
-        "1": "狗",
-        "2": "狗仔"
-    },
-    "Dongshi": {
-        "1": "狗"
-    },
-    "Raoping": {
-        "1": "狗"
-    },
-    "Yunlin": {
-        "1": "狗"
-    },
-    "Hong Kong-H": {
-        "1": "狗"
-    },
-    "Sabah": {
-        "1": "狗"
-    },
-    "Senai": {
-        "1": "狗"
-    },
-    "Singkawang": {
-        "1": "狗"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "狗"
-    },
-    "Guangzhou": {
-        "1": "狗"
-    },
-    "Hong Kong": {
-        "1": "狗"
-    },
-    "Shunde": {
-        "1": "狗"
-    },
-    "Foshan": {
-        "1": "狗"
-    },
-    "Zhongshan": {
-        "1": "狗"
-    },
-    "Dongguan": {
-        "1": "狗"
-    },
-    "HK Weitou": {
-        "1": "狗"
-    },
-    "Taishan": {
-        "1": "狗"
-    },
-    "Doumen": {
-        "1": "狗"
-    },
-    "Kaiping": {
-        "1": "狗"
-    },
-    "Shaoguan": {
-        "1": "狗"
-    },
-    "Yunfu": {
-        "1": "狗"
-    },
-    "Yangjiang": {
-        "1": "狗"
-    },
-    "Xinyi": {
-        "1": "狗"
-    },
-    "Lianjiang": {
-        "1": "狗"
-    },
-    "Nanning": {
-        "1": "狗"
-    },
-    "Wuzhou": {
-        "1": "狗"
-    },
-    "Yulin": {
-        "1": "狗"
-    },
-    "Hepu": {
-        "1": "狗"
-    },
-    "Kuala Lumpur": {
-        "1": "狗"
-    },
-    "Nanning-P": {
-        "1": "狗"
-    },
-    "Guilin-P": {
-        "1": "狗"
-    },
-    "Xiamen": {
-        "1": "狗"
-    },
-    "Quanzhou": {
-        "1": "狗"
-    },
-    "Zhangzhou": {
-        "1": "狗"
-    },
-    "Taipei": {
-        "1": "狗"
-    },
-    "Kaohsiung": {
-        "1": "狗"
-    },
-    "Tainan": {
-        "1": "狗仔"
-    },
-    "Taichung": {
-        "1": "狗"
-    },
-    "Wuqi": {
-        "1": "狗"
-    },
-    "Hsinchu-MN": {
-        "1": "狗"
-    },
-    "Taitung": {
-        "1": "狗"
-    },
-    "Lukang": {
-        "1": "狗"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "狗"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "狗"
-    },
-    "Malaysia-MN": {
-        "1": "狗"
-    },
-    "Singapore-MN": {
-        "1": "狗"
-    },
-    "Philippine-MN": {
-        "1": "狗"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "狗"
-    },
-    "Chaozhou": {
-        "1": "狗"
-    },
-    "Shantou": {
-        "1": "狗"
-    },
-    "Haifeng": {
-        "1": "狗"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "狗"
-    },
-    "Haikou": {
-        "1": "狗"
-    },
-    "Leizhou": {
-        "1": "狗"
-    },
-    "Putian": {
-        "1": "狗"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "犬",
-        "2": "犬囝"
-    },
-    "Changle": {
-        "1": "犬"
-    },
-    "Fuqing": {
-        "1": "犬"
-    },
-    "Pingtan": {
-        "1": "犬"
-    },
-    "Yongtai": {
-        "1": "犬"
-    },
-    "Gutian": {
-        "1": "犬"
-    },
-    "Fu'an": {
-        "1": "犬"
-    },
-    "Ningde": {
-        "1": "犬"
-    },
-    "Shouning": {
-        "1": "犬"
-    },
-    "Zhouning": {
-        "1": "犬"
-    },
-    "Fuding": {
-        "1": "犬"
-    },
-    "Matsu": {
-        "1": "犬"
-    },
-    "Jian'ou": {
-        "1": "狗仔",
-        "2": "狗"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [
+        "犬"
+    ],
+    "Formal": [
+        "犬"
+    ],
+    "Taxonomic": [
+        "犬"
+    ],
+    "Beijing": [
+        "狗"
+    ],
+    "Taiwan": [
+        "狗"
+    ],
+    "Tianjin": [
+        "狗"
+    ],
+    "Harbin": [
+        "狗"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "狗"
+    ],
+    "Muping": [
+        "狗子",
+        "狗"
+    ],
+    "Luoyang": [
+        "狗"
+    ],
+    "Wanrong": [
+        "狗"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "狗"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "狗"
+    ],
+    "Xuzhou": [
+        "狗"
+    ],
+    "Yinchuan": [
+        "狗"
+    ],
+    "Lanzhou": [
+        "狗"
+    ],
+    "Ürümqi": [
+        "狗"
+    ],
+    "Wuhan": [
+        "狗子",
+        "狗狗:childish",
+        "來富:dated"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "狗"
+    ],
+    "Guiyang": [
+        "狗"
+    ],
+    "Guilin": [
+        "狗"
+    ],
+    "Liuzhou": [
+        "狗"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "狗",
+        "狗子"
+    ],
+    "Nanjing": [
+        "狗"
+    ],
+    "Hefei": [
+        "狗"
+    ],
+    "Nantong": [
+        "狗子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "狗兒",
+        "狗"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "狗"
+    ],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "狗"
+    ],
+    "Hangzhou": [
+        "狗"
+    ],
+    "Shanghai": [
+        "狗",
+        "汪汪狗:childish"
+    ],
+    "Chongming": [
+        "狗"
+    ],
+    "Wenzhou": [
+        "狗",
+        "𡀿𡀿:childish"
+    ],
+    "Danyang": [
+        "狗子"
+    ],
+    "Jinhua": [
+        "狗"
+    ],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "狗"
+    ],
+    "Shuangfeng": [
+        "狗"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "狗"
+    ],
+    "Quanzhou-X": [
+        "狗"
+    ],
+    "Nanchang": [
+        "狗"
+    ],
+    "Lichuan": [
+        "狗"
+    ],
+    "Pingxiang": [
+        "狗"
+    ],
+    "Meixian": [
+        "狗"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "狗"
+    ],
+    "Changting": [
+        "狗"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "狗子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "狗仔"
+    ],
+    "Liudui": [
+        "狗仔"
+    ],
+    "Hsinchu": [
+        "狗",
+        "狗仔"
+    ],
+    "Dongshi": [
+        "狗"
+    ],
+    "Raoping": [
+        "狗"
+    ],
+    "Yunlin": [
+        "狗"
+    ],
+    "Hong Kong-H": [
+        "狗"
+    ],
+    "Sabah": [
+        "狗"
+    ],
+    "Senai": [
+        "狗"
+    ],
+    "Singkawang": [
+        "狗"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "狗"
+    ],
+    "Guangzhou": [
+        "狗"
+    ],
+    "Hong Kong": [
+        "狗"
+    ],
+    "Shunde": [
+        "狗"
+    ],
+    "Foshan": [
+        "狗"
+    ],
+    "Zhongshan": [
+        "狗"
+    ],
+    "Dongguan": [
+        "狗"
+    ],
+    "HK Weitou": [
+        "狗"
+    ],
+    "Taishan": [
+        "狗"
+    ],
+    "Doumen": [
+        "狗"
+    ],
+    "Kaiping": [
+        "狗"
+    ],
+    "Shaoguan": [
+        "狗"
+    ],
+    "Yunfu": [
+        "狗"
+    ],
+    "Yangjiang": [
+        "狗"
+    ],
+    "Xinyi": [
+        "狗"
+    ],
+    "Lianjiang": [
+        "狗"
+    ],
+    "Nanning": [
+        "狗"
+    ],
+    "Wuzhou": [
+        "狗"
+    ],
+    "Yulin": [
+        "狗"
+    ],
+    "Hepu": [
+        "狗"
+    ],
+    "Kuala Lumpur": [
+        "狗"
+    ],
+    "Nanning-P": [
+        "狗"
+    ],
+    "Guilin-P": [
+        "狗"
+    ],
+    "Xiamen": [
+        "狗"
+    ],
+    "Quanzhou": [
+        "狗"
+    ],
+    "Zhangzhou": [
+        "狗"
+    ],
+    "Taipei": [
+        "狗"
+    ],
+    "Kaohsiung": [
+        "狗"
+    ],
+    "Tainan": [
+        "狗仔"
+    ],
+    "Taichung": [
+        "狗"
+    ],
+    "Wuqi": [
+        "狗"
+    ],
+    "Hsinchu-MN": [
+        "狗"
+    ],
+    "Taitung": [
+        "狗"
+    ],
+    "Lukang": [
+        "狗"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "狗"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "狗"
+    ],
+    "Malaysia-MN": [
+        "狗"
+    ],
+    "Singapore-MN": [
+        "狗"
+    ],
+    "Philippine-MN": [
+        "狗"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "狗"
+    ],
+    "Chaozhou": [
+        "狗"
+    ],
+    "Shantou": [
+        "狗"
+    ],
+    "Haifeng": [
+        "狗"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "狗"
+    ],
+    "Haikou": [
+        "狗"
+    ],
+    "Leizhou": [
+        "狗"
+    ],
+    "Putian": [
+        "狗"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "犬",
+        "犬囝"
+    ],
+    "Changle": [
+        "犬"
+    ],
+    "Fuqing": [
+        "犬"
+    ],
+    "Pingtan": [
+        "犬"
+    ],
+    "Yongtai": [
+        "犬"
+    ],
+    "Gutian": [
+        "犬"
+    ],
+    "Fu'an": [
+        "犬"
+    ],
+    "Ningde": [
+        "犬"
+    ],
+    "Shouning": [
+        "犬"
+    ],
+    "Zhouning": [
+        "犬"
+    ],
+    "Fuding": [
+        "犬"
+    ],
+    "Matsu": [
+        "犬"
+    ],
+    "Jian'ou": [
+        "狗仔",
+        "狗"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

@@ -1,615 +1,461 @@
 {
     "meaning": "rib",
     "note": "",
-    "Classical": {
-        "1": "肋",
-        "2": "脅"
-    },
-    "Formal": {
-        "1": "肋骨"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "肋巴骨",
-        "2": "肋搭骨",
-        "3": "肋條骨"
-    },
-    "Taiwan": {
-        "1": "肋骨"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "肋巴骨",
-        "2": "肋骨",
-        "3": "肋巴扇子",
-        "4": "肋巴"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "肋條骨"
-    },
-    "Ulan Hot": {
-        "1": "肋條骨"
-    },
-    "Tongliao": {
-        "1": "肋條骨"
-    },
-    "Chifeng": {
-        "1": "肋骨"
-    },
-    "Bayanhot": {
-        "1": "肋巴"
-    },
-    "Jinan": {
-        "1": "肋條骨",
-        "2": "肋條"
-    },
-    "Muping": {
-        "1": "肋巴"
-    },
-    "Luoyang": {
-        "1": "肋巴"
-    },
-    "Wanrong": {
-        "1": "肋肢"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "肋子骨"
-    },
-    "Qingdao": {
-        "1": "肋巴條子",
-        "2": "肋巴骨"
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "肋巴骨",
-        "2": "肋巴"
-    },
-    "Xuzhou": {
-        "1": "肋巴骨"
-    },
-    "Yinchuan": {
-        "1": "肋巴"
-    },
-    "Lanzhou": {
-        "1": "肋巴"
-    },
-    "Ürümqi": {
-        "1": "肋巴骨"
-    },
-    "Wuhan": {
-        "1": "婆羅骨",
-        "2": "排子骨"
-    },
-    "Huanggang": {
-        "1": "排盧骨"
-    },
-    "Chengdu": {
-        "1": "肋巴骨"
-    },
-    "Guiyang": {
-        "1": "肋巴骨"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "肋巴骨",
-        "2": "肋𩩍骨"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "肋身骨",
-        "2": "肋巴骨",
-        "3": "肋骨"
-    },
-    "Nanjing": {
-        "1": "肋幫骨"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "肋膀骨",
-        "2": "肋身骨"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "肋巴骨",
-        "2": "胸杈子"
-    },
-    "Shaanxi-DG": {
-        "1": "肋子"
-    },
-    "Taiyuan": {
-        "1": "肋羅齒"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "肋肢"
-    },
-    "Baochang": {
-        "1": "肋肢"
-    },
-    "Jining": {
-        "1": "肋骨"
-    },
-    "Hohhot": {
-        "1": "肋子"
-    },
-    "Baotou": {
-        "1": "肋骨"
-    },
-    "Dongsheng": {
-        "1": "肋肢"
-    },
-    "Linhe": {
-        "1": "肋肢"
-    },
-    "Haibowan": {
-        "1": "肋條"
-    },
-    "Shanghai": {
-        "1": "肋棚骨"
-    },
-    "Suzhou": {
-        "1": "肋棚骨"
-    },
-    "Wuxi": {
-        "1": "肚棚骨"
-    },
-    "Hangzhou": {
-        "1": "肋棚骨"
-    },
-    "Chongming": {
-        "1": "肋棚骨"
-    },
-    "Wenzhou": {
-        "1": "肚棚骨"
-    },
-    "Danyang": {
-        "1": "肋排骨",
-        "2": "肋骨"
-    },
-    "Jinhua": {
-        "1": "皮子骨"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "肋排骨"
-    },
-    "Changsha": {
-        "1": "肋巴骨",
-        "2": "排肋骨"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "肋巴骨"
-    },
-    "Lichuan": {
-        "1": "排扇骨"
-    },
-    "Pingxiang": {
-        "1": "肋塞骨",
-        "2": "肋塞"
-    },
-    "Meixian": {
-        "1": "掩跛骨",
-        "2": "胸前骨",
-        "3": "肋骨"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "肋骨"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "營坑骨"
-    },
-    "Liancheng": {
-        "1": "演枉骨"
-    },
-    "Ninghua": {
-        "1": "排生骨"
-    },
-    "Yudu": {
-        "1": "排山骨"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "排骨"
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "𩩍籬骨"
-    },
-    "Liudui": {
-        "1": "𩩍籬骨"
-    },
-    "Hsinchu": {
-        "1": "𩩍籬骨"
-    },
-    "Dongshi": {
-        "1": "𩩍籬骨"
-    },
-    "Raoping": {
-        "1": "𩩍琵骨"
-    },
-    "Yunlin": {
-        "1": "排子骨"
-    },
-    "Hong Kong-H": {
-        "1": "肋梗仔"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "肋血骨"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "肋骨",
-        "2": "𩩍骨"
-    },
-    "Hong Kong": {
-        "1": "肋骨",
-        "2": "𩩍骨"
-    },
-    "Shunde": {
-        "1": "肋骨"
-    },
-    "Foshan": {
-        "1": "肋骨"
-    },
-    "Zhongshan": {
-        "1": "肋骨"
-    },
-    "Dongguan": {
-        "1": "肋坑骨",
-        "2": "肋骨"
-    },
-    "HK Weitou": {
-        "1": "𩩍骨"
-    },
-    "Taishan": {
-        "1": "掩仔骨"
-    },
-    "Doumen": {
-        "1": "肋骨"
-    },
-    "Kaiping": {
-        "1": "掩仔骨"
-    },
-    "Shaoguan": {
-        "1": "肋骨"
-    },
-    "Yunfu": {
-        "1": "𩩍骨"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "肋骨"
-    },
-    "Lianjiang": {
-        "1": "肋骨"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "排骨"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "胸坎骨",
-        "2": "𩩍枝骨",
-        "3": "排骨"
-    },
-    "Quanzhou": {
-        "1": "胸坎骨",
-        "2": "𩩍枝骨",
-        "3": "排骨"
-    },
-    "Zhangzhou": {
-        "1": "胸坎骨",
-        "2": "籤仔骨",
-        "3": "排骨"
-    },
-    "Taipei": {
-        "1": "𩩍骨"
-    },
-    "Kaohsiung": {
-        "1": "箅仔骨"
-    },
-    "Tainan": {
-        "1": "箅仔骨"
-    },
-    "Taichung": {
-        "1": "排仔骨"
-    },
-    "Wuqi": {
-        "1": "排仔骨"
-    },
-    "Hsinchu-MN": {
-        "1": "排仔骨"
-    },
-    "Taitung": {
-        "1": "排仔骨"
-    },
-    "Lukang": {
-        "1": "排仔骨"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "排仔骨"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "箅仔骨"
-    },
-    "Malaysia-MN": {
-        "1": "胸坎骨"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "肋骨",
-        "2": "𩩍籬骨"
-    },
-    "Haifeng": {
-        "1": "𩩍籬"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "𩩍籬骨"
-    },
-    "Wenchang": {
-        "1": "肋骨"
-    },
-    "Haikou": {
-        "1": "胸程骨",
-        "2": "胸格骨"
-    },
-    "Leizhou": {
-        "1": "索條骨"
-    },
-    "Putian": {
-        "1": "𩩍骨"
-    },
-    "Xianyou": {
-        "1": "𩩍骨"
-    },
-    "Fuzhou": {
-        "1": "肋條骨",
-        "2": "肋排骨"
-    },
-    "Changle": {
-        "1": "肋排骨"
-    },
-    "Fuqing": {
-        "1": "肋條骨"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "肋排骨"
-    },
-    "Gutian": {
-        "1": "肋排骨"
-    },
-    "Fu'an": {
-        "1": "排骨"
-    },
-    "Ningde": {
-        "1": "排骨"
-    },
-    "Shouning": {
-        "1": "排骨"
-    },
-    "Zhouning": {
-        "1": "脅邊"
-    },
-    "Fuding": {
-        "1": "肋排骨"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "排比骨"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "肋",
+        "脅"
+    ],
+    "Formal": [
+        "肋骨"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "肋巴骨",
+        "肋搭骨",
+        "肋條骨"
+    ],
+    "Taiwan": [
+        "肋骨"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "肋巴骨",
+        "肋骨",
+        "肋巴扇子",
+        "肋巴"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "肋條骨"
+    ],
+    "Ulan Hot": [
+        "肋條骨"
+    ],
+    "Tongliao": [
+        "肋條骨"
+    ],
+    "Chifeng": [
+        "肋骨"
+    ],
+    "Bayanhot": [
+        "肋巴"
+    ],
+    "Jinan": [
+        "肋條骨",
+        "肋條"
+    ],
+    "Muping": [
+        "肋巴"
+    ],
+    "Luoyang": [
+        "肋巴"
+    ],
+    "Wanrong": [
+        "肋肢"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "肋子骨"
+    ],
+    "Qingdao": [
+        "肋巴條子",
+        "肋巴骨"
+    ],
+    "Zhengzhou": [],
+    "Xining": [
+        "肋巴骨",
+        "肋巴"
+    ],
+    "Xuzhou": [
+        "肋巴骨"
+    ],
+    "Yinchuan": [
+        "肋巴"
+    ],
+    "Lanzhou": [
+        "肋巴"
+    ],
+    "Ürümqi": [
+        "肋巴骨"
+    ],
+    "Wuhan": [
+        "婆羅骨",
+        "排子骨"
+    ],
+    "Huanggang": [
+        "排盧骨"
+    ],
+    "Chengdu": [
+        "肋巴骨"
+    ],
+    "Guiyang": [
+        "肋巴骨"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "肋巴骨",
+        "肋𩩍骨"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "肋身骨",
+        "肋巴骨",
+        "肋骨"
+    ],
+    "Nanjing": [
+        "肋幫骨"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "肋膀骨",
+        "肋身骨"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "肋巴骨",
+        "胸杈子"
+    ],
+    "Shaanxi-DG": [
+        "肋子"
+    ],
+    "Taiyuan": [
+        "肋羅齒"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "肋肢"
+    ],
+    "Baochang": [
+        "肋肢"
+    ],
+    "Jining": [
+        "肋骨"
+    ],
+    "Hohhot": [
+        "肋子"
+    ],
+    "Baotou": [
+        "肋骨"
+    ],
+    "Dongsheng": [
+        "肋肢"
+    ],
+    "Linhe": [
+        "肋肢"
+    ],
+    "Haibowan": [
+        "肋條"
+    ],
+    "Shanghai": [
+        "肋棚骨"
+    ],
+    "Suzhou": [
+        "肋棚骨"
+    ],
+    "Wuxi": [
+        "肚棚骨"
+    ],
+    "Hangzhou": [
+        "肋棚骨"
+    ],
+    "Chongming": [
+        "肋棚骨"
+    ],
+    "Wenzhou": [
+        "肚棚骨"
+    ],
+    "Danyang": [
+        "肋排骨",
+        "肋骨"
+    ],
+    "Jinhua": [
+        "皮子骨"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "肋排骨"
+    ],
+    "Changsha": [
+        "肋巴骨",
+        "排肋骨"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "肋巴骨"
+    ],
+    "Lichuan": [
+        "排扇骨"
+    ],
+    "Pingxiang": [
+        "肋塞骨",
+        "肋塞"
+    ],
+    "Meixian": [
+        "掩跛骨",
+        "胸前骨",
+        "肋骨"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "肋骨"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "營坑骨"
+    ],
+    "Liancheng": [
+        "演枉骨"
+    ],
+    "Ninghua": [
+        "排生骨"
+    ],
+    "Yudu": [
+        "排山骨"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "排骨"
+    ],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "𩩍籬骨"
+    ],
+    "Liudui": [
+        "𩩍籬骨"
+    ],
+    "Hsinchu": [
+        "𩩍籬骨"
+    ],
+    "Dongshi": [
+        "𩩍籬骨"
+    ],
+    "Raoping": [
+        "𩩍琵骨"
+    ],
+    "Yunlin": [
+        "排子骨"
+    ],
+    "Hong Kong-H": [
+        "肋梗仔"
+    ],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "肋血骨"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "肋骨",
+        "𩩍骨"
+    ],
+    "Hong Kong": [
+        "肋骨",
+        "𩩍骨"
+    ],
+    "Shunde": [
+        "肋骨"
+    ],
+    "Foshan": [
+        "肋骨"
+    ],
+    "Zhongshan": [
+        "肋骨"
+    ],
+    "Dongguan": [
+        "肋坑骨",
+        "肋骨"
+    ],
+    "HK Weitou": [
+        "𩩍骨"
+    ],
+    "Taishan": [
+        "掩仔骨"
+    ],
+    "Doumen": [
+        "肋骨"
+    ],
+    "Kaiping": [
+        "掩仔骨"
+    ],
+    "Shaoguan": [
+        "肋骨"
+    ],
+    "Yunfu": [
+        "𩩍骨"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "肋骨"
+    ],
+    "Lianjiang": [
+        "肋骨"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "排骨"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "胸坎骨",
+        "𩩍枝骨",
+        "排骨"
+    ],
+    "Quanzhou": [
+        "胸坎骨",
+        "𩩍枝骨",
+        "排骨"
+    ],
+    "Zhangzhou": [
+        "胸坎骨",
+        "籤仔骨",
+        "排骨"
+    ],
+    "Taipei": [
+        "𩩍骨"
+    ],
+    "Kaohsiung": [
+        "箅仔骨"
+    ],
+    "Tainan": [
+        "箅仔骨"
+    ],
+    "Taichung": [
+        "排仔骨"
+    ],
+    "Wuqi": [
+        "排仔骨"
+    ],
+    "Hsinchu-MN": [
+        "排仔骨"
+    ],
+    "Taitung": [
+        "排仔骨"
+    ],
+    "Lukang": [
+        "排仔骨"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "排仔骨"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "箅仔骨"
+    ],
+    "Malaysia-MN": [
+        "胸坎骨"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "肋骨",
+        "𩩍籬骨"
+    ],
+    "Haifeng": [
+        "𩩍籬"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "𩩍籬骨"
+    ],
+    "Wenchang": [
+        "肋骨"
+    ],
+    "Haikou": [
+        "胸程骨",
+        "胸格骨"
+    ],
+    "Leizhou": [
+        "索條骨"
+    ],
+    "Putian": [
+        "𩩍骨"
+    ],
+    "Xianyou": [
+        "𩩍骨"
+    ],
+    "Fuzhou": [
+        "肋條骨",
+        "肋排骨"
+    ],
+    "Changle": [
+        "肋排骨"
+    ],
+    "Fuqing": [
+        "肋條骨"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "肋排骨"
+    ],
+    "Gutian": [
+        "肋排骨"
+    ],
+    "Fu'an": [
+        "排骨"
+    ],
+    "Ningde": [
+        "排骨"
+    ],
+    "Shouning": [
+        "排骨"
+    ],
+    "Zhouning": [
+        "脅邊"
+    ],
+    "Fuding": [
+        "肋排骨"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "排比骨"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

@@ -1,362 +1,224 @@
 {
     "meaning": "car, motor vehicle",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "汽車"
-    },
-    "Taiwan": {
-        "1": "汽車"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "汽車"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "汽車"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "汽車"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "汽車"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "汽車"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "汽車"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "汽車"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "汽車"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "汽車"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "汽車"
-    },
-    "Shuangfeng": {
-        "1": "汽車"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "汽車"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "汽車"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Liudui": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Hsinchu": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Dongshi": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Raoping": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Yunlin": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "汽車",
-        "2": "車"
-    },
-    "Hong Kong": {
-        "1": "汽車",
-        "2": "車"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "汽車"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "汽車"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "汽車",
-        "2": "風車",
-        "3": "大車",
-        "4": "電車:dated"
-    },
-    "Quanzhou": {
-        "1": "汽車",
-        "2": "風車",
-        "3": "大車"
-    },
-    "Zhangzhou": {
-        "1": "汽車",
-        "2": "大車",
-        "3": "電車:dated"
-    },
-    "Taipei": {
-        "1": "自動車"
-    },
-    "Kaohsiung": {
-        "1": "自動車",
-        "2": "動車"
-    },
-    "Tainan": {
-        "1": "自動車"
-    },
-    "Taichung": {
-        "1": "汽車",
-        "2": "自動車"
-    },
-    "Yilan": {
-        "1": "自動車"
-    },
-    "Lukang": {
-        "1": "自動車"
-    },
-    "Sanxia": {
-        "1": "自動車"
-    },
-    "Kinmen": {
-        "1": "汽車"
-    },
-    "Magong": {
-        "1": "自動車",
-        "2": "汽車"
-    },
-    "Hsinchu-MN": {
-        "1": "自動車"
-    },
-    "Malaysia-MN": {
-        "1": "車"
-    },
-    "Singapore-MN": {
-        "1": "風車"
-    },
-    "Philippine-MN": {
-        "1": "風車"
-    },
-    "Chaozhou": {
-        "1": "汽車",
-        "2": "羅里"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "汽車"
-    },
-    "Jian'ou": {
-        "1": "汽車"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Beijing": [
+        "汽車"
+    ],
+    "Taiwan": [
+        "汽車"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "汽車"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "汽車"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "汽車"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "汽車"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "汽車"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "汽車"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "汽車"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "汽車"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "汽車"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "汽車"
+    ],
+    "Shuangfeng": [
+        "汽車"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "汽車"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "汽車"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "汽車",
+        "自動車"
+    ],
+    "Liudui": [
+        "汽車",
+        "自動車"
+    ],
+    "Hsinchu": [
+        "汽車",
+        "自動車"
+    ],
+    "Dongshi": [
+        "汽車",
+        "自動車"
+    ],
+    "Raoping": [
+        "汽車",
+        "自動車"
+    ],
+    "Yunlin": [
+        "汽車",
+        "自動車"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "汽車",
+        "車"
+    ],
+    "Hong Kong": [
+        "汽車",
+        "車"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "汽車"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "汽車"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "汽車",
+        "風車",
+        "大車",
+        "電車:dated"
+    ],
+    "Quanzhou": [
+        "汽車",
+        "風車",
+        "大車"
+    ],
+    "Zhangzhou": [
+        "汽車",
+        "大車",
+        "電車:dated"
+    ],
+    "Taipei": [
+        "自動車"
+    ],
+    "Kaohsiung": [
+        "自動車",
+        "動車"
+    ],
+    "Tainan": [
+        "自動車"
+    ],
+    "Taichung": [
+        "汽車",
+        "自動車"
+    ],
+    "Yilan": [
+        "自動車"
+    ],
+    "Lukang": [
+        "自動車"
+    ],
+    "Sanxia": [
+        "自動車"
+    ],
+    "Kinmen": [
+        "汽車"
+    ],
+    "Magong": [
+        "自動車",
+        "汽車"
+    ],
+    "Hsinchu-MN": [
+        "自動車"
+    ],
+    "Malaysia-MN": [
+        "車"
+    ],
+    "Singapore-MN": [
+        "風車"
+    ],
+    "Philippine-MN": [
+        "風車"
+    ],
+    "Chaozhou": [
+        "汽車",
+        "羅里"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "汽車"
+    ],
+    "Jian'ou": [
+        "汽車"
+    ]
 }

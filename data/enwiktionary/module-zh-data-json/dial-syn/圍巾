@@ -1,524 +1,442 @@
 {
     "meaning": "scarf; muffler",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "圍脖兒"
-    },
-    "Taiwan": {
-        "1": "圍巾"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "圍脖兒"
-    },
-    "Shenyang": {
-        "1": "圍脖兒"
-    },
-    "Hailar": {
-        "1": "圍巾"
-    },
-    "Ulan Hot": {
-        "1": "圍脖"
-    },
-    "Tongliao": {
-        "1": "圍脖"
-    },
-    "Chifeng": {
-        "1": "圍巾"
-    },
-    "Bayanhot": {
-        "1": "圍巾"
-    },
-    "Jinan": {
-        "1": "圍脖",
-        "2": "圍脖子",
-        "3": "圍脖兒",
-        "4": "圍巾"
-    },
-    "Muping": {
-        "1": "圍脖子"
-    },
-    "Luoyang": {
-        "1": "圍脖兒"
-    },
-    "Wanrong": {
-        "1": "圍巾",
-        "2": "圍脖子:long",
-        "3": "頭巾:square"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "圍巾子",
-        "2": "圍巾兒",
-        "3": "圍脖子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "圍脖兒",
-        "2": "圍脖子"
-    },
-    "Xining": {
-        "1": "圍巾"
-    },
-    "Xuzhou": {
-        "1": "圍脖兒"
-    },
-    "Yinchuan": {
-        "1": "圍脖子"
-    },
-    "Lanzhou": {
-        "1": "圍脖子"
-    },
-    "Ürümqi": {
-        "1": "圍脖子"
-    },
-    "Wuhan": {
-        "1": "圍巾"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "圍巾",
-        "2": "項巾"
-    },
-    "Guiyang": {
-        "1": "圍巾"
-    },
-    "Guilin": {
-        "1": "圍巾"
-    },
-    "Liuzhou": {
-        "1": "圍巾"
-    },
-    "Kunming": {
-        "1": "圍巾"
-    },
-    "Yangzhou": {
-        "1": "圍巾"
-    },
-    "Nanjing": {
-        "1": "圍巾"
-    },
-    "Hefei": {
-        "1": "圍領"
-    },
-    "Nantong": {
-        "1": "圍巾"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "圍巾",
-        "2": "圍脖兒",
-        "3": "圍脖"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "圍脖子"
-    },
-    "Baochang": {
-        "1": "毛巾"
-    },
-    "Jining": {
-        "1": "圍巾"
-    },
-    "Hohhot": {
-        "1": "圍脖兒"
-    },
-    "Baotou": {
-        "1": "圍巾"
-    },
-    "Dongsheng": {
-        "1": "圍巾"
-    },
-    "Linhe": {
-        "1": "圍脖子"
-    },
-    "Haibowan": {
-        "1": "圍脖"
-    },
-    "Shanghai": {
-        "1": "圍巾"
-    },
-    "Suzhou": {
-        "1": "圍巾"
-    },
-    "Wuxi": {
-        "1": "圍巾"
-    },
-    "Hangzhou": {
-        "1": "圍巾"
-    },
-    "Chongming": {
-        "1": "圍頸"
-    },
-    "Wenzhou": {
-        "1": "圍巾",
-        "2": "盤巾"
-    },
-    "Danyang": {
-        "1": "圍巾"
-    },
-    "Jinhua": {
-        "1": "圍巾"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "圍巾"
-    },
-    "Changsha": {
-        "1": "圍巾"
-    },
-    "Shuangfeng": {
-        "1": "圍巾"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "圍巾"
-    },
-    "Quanzhou-X": {
-        "1": "圍巾"
-    },
-    "Nanchang": {
-        "1": "圍領"
-    },
-    "Lichuan": {
-        "1": "圍頸"
-    },
-    "Pingxiang": {
-        "1": "圍巾",
-        "2": "圍頸",
-        "3": "撣巾"
-    },
-    "Meixian": {
-        "1": "頸圍"
-    },
-    "Xingning": {
-        "1": "圍頸哩",
-        "2": "圍頸帕"
-    },
-    "Huidong": {
-        "1": "圍巾"
-    },
-    "Qujiang": {
-        "1": "頸圍",
-        "2": "頸巾"
-    },
-    "Xiaosanjiang": {
-        "1": "頸巾"
-    },
-    "Luchuan": {
-        "1": "圍巾",
-        "2": "頸巾"
-    },
-    "Changting": {
-        "1": "頸圍"
-    },
-    "Pingyu": {
-        "1": "圍巾"
-    },
-    "Wuping": {
-        "1": "頸帶"
-    },
-    "Liancheng": {
-        "1": "頸圍"
-    },
-    "Ninghua": {
-        "1": "圍頸",
-        "2": "頸圍"
-    },
-    "Yudu": {
-        "1": "圍巾"
-    },
-    "Ruijin": {
-        "1": "圍頸帕"
-    },
-    "Shicheng": {
-        "1": "圍領"
-    },
-    "Shangyou": {
-        "1": "圍巾"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "頸圍仔"
-    },
-    "Liudui": {
-        "1": "頸圍仔"
-    },
-    "Hsinchu": {
-        "1": "頸圍仔",
-        "2": "頸纏仔"
-    },
-    "Dongshi": {
-        "1": "頸圍",
-        "2": "圍巾"
-    },
-    "Raoping": {
-        "1": "頸圍仔"
-    },
-    "Yunlin": {
-        "1": "圍巾",
-        "2": "頸圍"
-    },
-    "Hong Kong-H": {
-        "1": "頸巾"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "圍巾"
-    },
-    "Guangzhou": {
-        "1": "頸巾"
-    },
-    "Hong Kong": {
-        "1": "頸巾"
-    },
-    "Shunde": {
-        "1": "頸巾"
-    },
-    "Foshan": {
-        "1": "頸巾"
-    },
-    "Zhongshan": {
-        "1": "圍巾"
-    },
-    "Dongguan": {
-        "1": "頸巾"
-    },
-    "HK Weitou": {
-        "1": "頸巾"
-    },
-    "Taishan": {
-        "1": "頸巾"
-    },
-    "Doumen": {
-        "1": "頸巾"
-    },
-    "Kaiping": {
-        "1": "頸巾"
-    },
-    "Shaoguan": {
-        "1": "頸巾"
-    },
-    "Yunfu": {
-        "1": "頭巾"
-    },
-    "Yangjiang": {
-        "1": "頸褸",
-        "2": "頸巾"
-    },
-    "Xinyi": {
-        "1": "頸巾"
-    },
-    "Lianjiang": {
-        "1": "頸巾"
-    },
-    "Nanning": {
-        "1": "褸巾",
-        "2": "頭巾",
-        "3": "頸巾"
-    },
-    "Wuzhou": {
-        "1": "褸頭巾",
-        "2": "頸巾"
-    },
-    "Yulin": {
-        "1": "圍巾",
-        "2": "領巾"
-    },
-    "Hepu": {
-        "1": "圍巾",
-        "2": "頭巾"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "頸巾",
-        "2": "圍巾"
-    },
-    "Nanning-P": {
-        "1": "圍巾",
-        "2": "褸巾"
-    },
-    "Guilin-P": {
-        "1": "圍巾"
-    },
-    "Xiamen": {
-        "1": "領巾",
-        "2": "頷巾"
-    },
-    "Quanzhou": {
-        "1": "領巾"
-    },
-    "Zhangzhou": {
-        "1": "領巾",
-        "2": "頷巾"
-    },
-    "Taipei": {
-        "1": "領巾"
-    },
-    "Kaohsiung": {
-        "1": "袚巾"
-    },
-    "Tainan": {
-        "1": "袚巾"
-    },
-    "Taichung": {
-        "1": "袚巾"
-    },
-    "Wuqi": {
-        "1": "圍巾"
-    },
-    "Hsinchu-MN": {
-        "1": "袚巾"
-    },
-    "Taitung": {
-        "1": "袚巾"
-    },
-    "Lukang": {
-        "1": "袚巾"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "圍巾"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "圍巾"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "圍巾"
-    },
-    "Chaozhou": {
-        "1": "頷盤"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "圍巾"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "披帕"
-    },
-    "Leizhou": {
-        "1": "褸巾"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "圍巾",
-        "2": "領巾"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "領巾",
-        "2": "圍巾"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "圍巾",
-        "2": "領巾"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "圍脖兒"
+    ],
+    "Taiwan": [
+        "圍巾"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "圍脖兒"
+    ],
+    "Shenyang": [
+        "圍脖兒"
+    ],
+    "Hailar": [
+        "圍巾"
+    ],
+    "Ulan Hot": [
+        "圍脖"
+    ],
+    "Tongliao": [
+        "圍脖"
+    ],
+    "Chifeng": [
+        "圍巾"
+    ],
+    "Bayanhot": [
+        "圍巾"
+    ],
+    "Jinan": [
+        "圍脖",
+        "圍脖子",
+        "圍脖兒",
+        "圍巾"
+    ],
+    "Muping": [
+        "圍脖子"
+    ],
+    "Luoyang": [
+        "圍脖兒"
+    ],
+    "Wanrong": [
+        "圍巾",
+        "圍脖子:long",
+        "頭巾:square"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "圍巾子",
+        "圍巾兒",
+        "圍脖子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "圍脖兒",
+        "圍脖子"
+    ],
+    "Xining": [
+        "圍巾"
+    ],
+    "Xuzhou": [
+        "圍脖兒"
+    ],
+    "Yinchuan": [
+        "圍脖子"
+    ],
+    "Lanzhou": [
+        "圍脖子"
+    ],
+    "Ürümqi": [
+        "圍脖子"
+    ],
+    "Wuhan": [
+        "圍巾"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "圍巾",
+        "項巾"
+    ],
+    "Guiyang": [
+        "圍巾"
+    ],
+    "Guilin": [
+        "圍巾"
+    ],
+    "Liuzhou": [
+        "圍巾"
+    ],
+    "Kunming": [
+        "圍巾"
+    ],
+    "Yangzhou": [
+        "圍巾"
+    ],
+    "Nanjing": [
+        "圍巾"
+    ],
+    "Hefei": [
+        "圍領"
+    ],
+    "Nantong": [
+        "圍巾"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "圍巾",
+        "圍脖兒",
+        "圍脖"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "圍脖子"
+    ],
+    "Baochang": [
+        "毛巾"
+    ],
+    "Jining": [
+        "圍巾"
+    ],
+    "Hohhot": [
+        "圍脖兒"
+    ],
+    "Baotou": [
+        "圍巾"
+    ],
+    "Dongsheng": [
+        "圍巾"
+    ],
+    "Linhe": [
+        "圍脖子"
+    ],
+    "Haibowan": [
+        "圍脖"
+    ],
+    "Shanghai": [
+        "圍巾"
+    ],
+    "Suzhou": [
+        "圍巾"
+    ],
+    "Wuxi": [
+        "圍巾"
+    ],
+    "Hangzhou": [
+        "圍巾"
+    ],
+    "Chongming": [
+        "圍頸"
+    ],
+    "Wenzhou": [
+        "圍巾",
+        "盤巾"
+    ],
+    "Danyang": [
+        "圍巾"
+    ],
+    "Jinhua": [
+        "圍巾"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "圍巾"
+    ],
+    "Changsha": [
+        "圍巾"
+    ],
+    "Shuangfeng": [
+        "圍巾"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "圍巾"
+    ],
+    "Quanzhou-X": [
+        "圍巾"
+    ],
+    "Nanchang": [
+        "圍領"
+    ],
+    "Lichuan": [
+        "圍頸"
+    ],
+    "Pingxiang": [
+        "圍巾",
+        "圍頸",
+        "撣巾"
+    ],
+    "Meixian": [
+        "頸圍"
+    ],
+    "Xingning": [
+        "圍頸哩",
+        "圍頸帕"
+    ],
+    "Huidong": [
+        "圍巾"
+    ],
+    "Qujiang": [
+        "頸圍",
+        "頸巾"
+    ],
+    "Xiaosanjiang": [
+        "頸巾"
+    ],
+    "Luchuan": [
+        "圍巾",
+        "頸巾"
+    ],
+    "Changting": [
+        "頸圍"
+    ],
+    "Pingyu": [
+        "圍巾"
+    ],
+    "Wuping": [
+        "頸帶"
+    ],
+    "Liancheng": [
+        "頸圍"
+    ],
+    "Ninghua": [
+        "圍頸",
+        "頸圍"
+    ],
+    "Yudu": [
+        "圍巾"
+    ],
+    "Ruijin": [
+        "圍頸帕"
+    ],
+    "Shicheng": [
+        "圍領"
+    ],
+    "Shangyou": [
+        "圍巾"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "頸圍仔"
+    ],
+    "Liudui": [
+        "頸圍仔"
+    ],
+    "Hsinchu": [
+        "頸圍仔",
+        "頸纏仔"
+    ],
+    "Dongshi": [
+        "頸圍",
+        "圍巾"
+    ],
+    "Raoping": [
+        "頸圍仔"
+    ],
+    "Yunlin": [
+        "圍巾",
+        "頸圍"
+    ],
+    "Hong Kong-H": [
+        "頸巾"
+    ],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "圍巾"
+    ],
+    "Guangzhou": [
+        "頸巾"
+    ],
+    "Hong Kong": [
+        "頸巾"
+    ],
+    "Shunde": [
+        "頸巾"
+    ],
+    "Foshan": [
+        "頸巾"
+    ],
+    "Zhongshan": [
+        "圍巾"
+    ],
+    "Dongguan": [
+        "頸巾"
+    ],
+    "HK Weitou": [
+        "頸巾"
+    ],
+    "Taishan": [
+        "頸巾"
+    ],
+    "Doumen": [
+        "頸巾"
+    ],
+    "Kaiping": [
+        "頸巾"
+    ],
+    "Shaoguan": [
+        "頸巾"
+    ],
+    "Yunfu": [
+        "頭巾"
+    ],
+    "Yangjiang": [
+        "頸褸",
+        "頸巾"
+    ],
+    "Xinyi": [
+        "頸巾"
+    ],
+    "Lianjiang": [
+        "頸巾"
+    ],
+    "Nanning": [
+        "褸巾",
+        "頭巾",
+        "頸巾"
+    ],
+    "Wuzhou": [
+        "褸頭巾",
+        "頸巾"
+    ],
+    "Yulin": [
+        "圍巾",
+        "領巾"
+    ],
+    "Hepu": [
+        "圍巾",
+        "頭巾"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "頸巾",
+        "圍巾"
+    ],
+    "Nanning-P": [
+        "圍巾",
+        "褸巾"
+    ],
+    "Guilin-P": [
+        "圍巾"
+    ],
+    "Xiamen": [
+        "領巾",
+        "頷巾"
+    ],
+    "Quanzhou": [
+        "領巾"
+    ],
+    "Zhangzhou": [
+        "領巾",
+        "頷巾"
+    ],
+    "Taipei": [
+        "領巾"
+    ],
+    "Kaohsiung": [
+        "袚巾"
+    ],
+    "Tainan": [
+        "袚巾"
+    ],
+    "Taichung": [
+        "袚巾"
+    ],
+    "Wuqi": [
+        "圍巾"
+    ],
+    "Hsinchu-MN": [
+        "袚巾"
+    ],
+    "Taitung": [
+        "袚巾"
+    ],
+    "Lukang": [
+        "袚巾"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "圍巾"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "圍巾"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [
+        "圍巾"
+    ],
+    "Chaozhou": [
+        "頷盤"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "圍巾"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "披帕"
+    ],
+    "Leizhou": [
+        "褸巾"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "圍巾",
+        "領巾"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "領巾",
+        "圍巾"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "圍巾",
+        "領巾"
+    ]
 }

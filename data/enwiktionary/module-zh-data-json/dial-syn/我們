@@ -1,858 +1,820 @@
 {
     "meaning": "we",
     "note": "",
-    "Classical": {
-        "1": "我",
-        "2": "吾儕",
-        "3": "我等",
-        "4": "我曹",
-        "5": "我輩"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "我們",
-        "2": "姆們"
-    },
-    "Taiwan": {
-        "1": "我們"
-    },
-    "Tianjin": {
-        "1": "我們"
-    },
-    "Harbin": {
-        "1": "我們"
-    },
-    "Shenyang": {
-        "1": "我們"
-    },
-    "Hailar": {
-        "1": "我們"
-    },
-    "Ulan Hot": {
-        "1": "俺們"
-    },
-    "Tongliao": {
-        "1": "俺們"
-    },
-    "Chifeng": {
-        "1": "我們"
-    },
-    "Bayanhot": {
-        "1": "我們"
-    },
-    "Jinan": {
-        "1": "我們",
-        "2": "俺們",
-        "3": "俺",
-        "4": "俺這夥"
-    },
-    "Muping": {
-        "1": "俺"
-    },
-    "Luoyang": {
-        "1": "我們",
-        "2": "俺們",
-        "3": "俺"
-    },
-    "Wanrong": {
-        "1": "我的",
-        "2": "我"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "俺的",
-        "2": "俺",
-        "3": "我的",
-        "4": "我",
-        "5": "我們"
-    },
-    "Qingdao": {
-        "1": "俺"
-    },
-    "Zhengzhou": {
-        "1": "俺"
-    },
-    "Xining": {
-        "1": "我們"
-    },
-    "Xuzhou": {
-        "1": "俺",
-        "2": "我們"
-    },
-    "Yinchuan": {
-        "1": "卬們"
-    },
-    "Lanzhou": {
-        "1": "我們"
-    },
-    "Ürümqi": {
-        "1": "我們"
-    },
-    "Wuhan": {
-        "1": "我們"
-    },
-    "Huanggang": {
-        "1": "我家"
-    },
-    "Chengdu": {
-        "1": "我們"
-    },
-    "Guiyang": {
-        "1": "我們"
-    },
-    "Guilin": {
-        "1": "我們"
-    },
-    "Liuzhou": {
-        "1": "我們"
-    },
-    "Kunming": {
-        "1": "我們"
-    },
-    "Yangzhou": {
-        "1": "我們",
-        "2": "們",
-        "3": "我輩兒"
-    },
-    "Nanjing": {
-        "1": "我們"
-    },
-    "Hefei": {
-        "1": "我們"
-    },
-    "Nantong": {
-        "1": "我恁",
-        "2": "我倈"
-    },
-    "Malaysia-M": {
-        "1": "我們"
-    },
-    "Singapore-M": {
-        "1": "我們"
-    },
-    "Gansu-DG": {
-        "1": "我們"
-    },
-    "Shaanxi-DG": {
-        "1": "我們"
-    },
-    "Taiyuan": {
-        "1": "我們",
-        "2": "俺們"
-    },
-    "Pingyao": {
-        "1": "我家",
-        "2": "我家們家",
-        "3": "我們"
-    },
-    "Xinzhou": {
-        "1": "俺們",
-        "2": "俺"
-    },
-    "Baochang": {
-        "1": "我們"
-    },
-    "Jining": {
-        "1": "我們"
-    },
-    "Hohhot": {
-        "1": "我們"
-    },
-    "Baotou": {
-        "1": "我們"
-    },
-    "Dongsheng": {
-        "1": "我們"
-    },
-    "Linhe": {
-        "1": "我們"
-    },
-    "Haibowan": {
-        "1": "我們"
-    },
-    "Shanghai": {
-        "1": "阿拉",
-        "2": "我伲:dated",
-        "3": "伲:dated"
-    },
-    "Suzhou": {
-        "1": "伲"
-    },
-    "Wuxi": {
-        "1": "我俚"
-    },
-    "Hangzhou": {
-        "1": "我們"
-    },
-    "Chongming": {
-        "1": "我俚"
-    },
-    "Wenzhou": {
-        "1": "我倈"
-    },
-    "Danyang": {
-        "1": "我己"
-    },
-    "Jinhua": {
-        "1": "我郎",
-        "2": "昂"
-    },
-    "Tangxi": {
-        "1": "我道"
-    },
-    "Ningbo": {
-        "1": "阿拉",
-        "2": "象拉"
-    },
-    "Changsha": {
-        "1": "我們"
-    },
-    "Shuangfeng": {
-        "1": "我俚",
-        "2": "卬俚"
-    },
-    "Xiangtan": {
-        "1": "我人"
-    },
-    "Loudi": {
-        "1": "我俺"
-    },
-    "Quanzhou-X": {
-        "1": "俺"
-    },
-    "Nanchang": {
-        "1": "我個俚",
-        "2": "我等",
-        "3": "我們"
-    },
-    "Lichuan": {
-        "1": "我多"
-    },
-    "Pingxiang": {
-        "1": "我俚",
-        "2": "巷俚"
-    },
-    "Meixian": {
-        "1": "𠊎等人",
-        "2": "𠊎兜人",
-        "3": "𠊎儕"
-    },
-    "Xingning": {
-        "1": "𠊎兜人"
-    },
-    "Huizhou": {
-        "1": "我",
-        "2": "我咧",
-        "3": "我大家",
-        "4": "我茶家"
-    },
-    "Huizhou-SK": {
-        "1": "我",
-        "2": "我咧"
-    },
-    "Huizhou-HL": {
-        "1": "我俚"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "我",
-        "2": "我咧"
-    },
-    "Huidong-DL": {
-        "1": "𠊎兜人"
-    },
-    "Dongguan-H": {
-        "1": "吾兜"
-    },
-    "Longmen-PL": {
-        "1": "我俚"
-    },
-    "Longmen-LX": {
-        "1": "我咧"
-    },
-    "Boluo": {
-        "1": "我",
-        "2": "我齊家"
-    },
-    "Shenzhen-H": {
-        "1": "𠊎兜"
-    },
-    "Zengcheng-ZG": {
-        "1": "吾兜",
-        "2": "𠊎兜"
-    },
-    "Zhongshan-WGS": {
-        "1": "吾哋"
-    },
-    "Zhongshan-NLHS": {
-        "1": "吾哋"
-    },
-    "Wuhua-SZ": {
-        "1": "𠊎兜"
-    },
-    "Wuhua-HC": {
-        "1": "𠊎兜"
-    },
-    "Wuhua-CB": {
-        "1": "𠊎兜"
-    },
-    "Wuhua-MY": {
-        "1": "𠊎兜"
-    },
-    "Heyuan": {
-        "1": "我咧"
-    },
-    "Zijin-GZ": {
-        "1": "我俚"
-    },
-    "Longchuan-TC": {
-        "1": "我咧"
-    },
-    "Longchuan-SD": {
-        "1": "我",
-        "2": "我咧"
-    },
-    "Heping-LZ": {
-        "1": "我哋"
-    },
-    "Lianping-ZX": {
-        "1": "我咧"
-    },
-    "Lianping-LJ": {
-        "1": "我哋"
-    },
-    "Qujiang": {
-        "1": "𠊎俚"
-    },
-    "Xinfeng-MT": {
-        "1": "我根"
-    },
-    "Xinfeng-DX": {
-        "1": "我哋"
-    },
-    "Xiaosanjiang": {
-        "1": "阿俚"
-    },
-    "Liannan": {
-        "1": "𠊎俚"
-    },
-    "Conghua-H": {
-        "1": "𠊎兜"
-    },
-    "Jiexi": {
-        "1": "𠊎兜儕"
-    },
-    "Luchuan-LC": {
-        "1": "𠊎俚"
-    },
-    "Luchuan-DQ": {
-        "1": "我們"
-    },
-    "Changting": {
-        "1": "𠊎儕們",
-        "2": "𠊎儕"
-    },
-    "Pingyu": {
-        "1": "𠊎等人",
-        "2": "𠊎兜"
-    },
-    "Wuping": {
-        "1": "𠊎等人"
-    },
-    "Liancheng": {
-        "1": "𠊎大全"
-    },
-    "Ninghua": {
-        "1": "𠊎人",
-        "2": "𠊎多人"
-    },
-    "Yudu": {
-        "1": "𠊎底"
-    },
-    "Ruijin": {
-        "1": "𠊎班人"
-    },
-    "Shicheng": {
-        "1": "𠊎郎人"
-    },
-    "Shangyou": {
-        "1": "𠊎子人"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "𠊎兜",
-        "2": "𠊎等",
-        "3": "𠊎兜人",
-        "4": "𠊎兜儕",
-        "5": "𠊎這兜"
-    },
-    "Liudui": {
-        "1": "𠊎等",
-        "2": "𠊎等人"
-    },
-    "Hsinchu": {
-        "1": "𠊎兜",
-        "2": "𠊎等",
-        "3": "𠊎兜人",
-        "4": "𠊎兜儕"
-    },
-    "Dongshi": {
-        "1": "吾等",
-        "2": "吾這兜",
-        "3": "吾這兜人"
-    },
-    "Raoping": {
-        "1": "𠊎兜",
-        "2": "𠊎等",
-        "3": "𠊎兜人",
-        "4": "𠊎兜儕"
-    },
-    "Yunlin": {
-        "1": "𠊎人"
-    },
-    "Hong Kong-H": {
-        "1": "𠊎哋"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "𠊎兜"
-    },
-    "Senai": {
-        "1": "吾兜"
-    },
-    "Singkawang": {
-        "1": "𠊎兜儕"
-    },
-    "Jixi": {
-        "1": "我人"
-    },
-    "Shexian": {
-        "1": "我人"
-    },
-    "Tunxi": {
-        "1": "我人"
-    },
-    "Xiuning": {
-        "1": "我人"
-    },
-    "Yixian": {
-        "1": "我儂"
-    },
-    "Qimen": {
-        "1": "我大家"
-    },
-    "Wuyuan": {
-        "1": "俺家",
-        "2": "刷俺"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": "我拉"
-    },
-    "Jingde": {
-        "1": "阿啊"
-    },
-    "Zhanda": {
-        "1": "我些人"
-    },
-    "Guangzhou": {
-        "1": "我哋"
-    },
-    "Hong Kong": {
-        "1": "我哋"
-    },
-    "HK Weitou": {
-        "1": "我哋"
-    },
-    "Kam Tin": {
-        "1": "我哋"
-    },
-    "Ting Kok": {
-        "1": "我哋"
-    },
-    "Tung Ping Chau": {
-        "1": "我俚"
-    },
-    "Macau": {
-        "1": "我哋"
-    },
-    "Panyu": {
-        "1": "我哋"
-    },
-    "Huadu": {
-        "1": "我哋"
-    },
-    "Conghua": {
-        "1": "我啲"
-    },
-    "Zengcheng": {
-        "1": "我班人"
-    },
-    "Foshan": {
-        "1": "我哋"
-    },
-    "Nanhai": {
-        "1": "我哋"
-    },
-    "Shunde": {
-        "1": "我哋"
-    },
-    "Sanshui": {
-        "1": "我哋"
-    },
-    "Gaoming": {
-        "1": "我哋"
-    },
-    "Zhongshan": {
-        "1": "我哋"
-    },
-    "Zhuhai": {
-        "1": "我哋"
-    },
-    "Doumen-T": {
-        "1": "我哋"
-    },
-    "Doumen-S": {
-        "1": "偔"
-    },
-    "Jiangmen": {
-        "1": "偔"
-    },
-    "Xinhui": {
-        "1": "偔"
-    },
-    "Taishan": {
-        "1": "我"
-    },
-    "Kaiping": {
-        "1": "我"
-    },
-    "Enping": {
-        "1": "我喊齊"
-    },
-    "Heshan": {
-        "1": "我"
-    },
-    "Dongguan": {
-        "1": "我哋"
-    },
-    "Bao'an": {
-        "1": "我哋"
-    },
-    "Dapeng": {
-        "1": "我哋"
-    },
-    "Shaoguan": {
-        "1": "我哋"
-    },
-    "Yunfu": {
-        "1": "我哋"
-    },
-    "Yangjiang": {
-        "1": "偔"
-    },
-    "Xinyi": {
-        "1": "我哋"
-    },
-    "Lianjiang": {
-        "1": "我哋"
-    },
-    "Nanning": {
-        "1": "我哋"
-    },
-    "Wuzhou": {
-        "1": "我哋"
-    },
-    "Yulin": {
-        "1": "我人"
-    },
-    "Hepu": {
-        "1": "俺"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "我哋"
-    },
-    "Ho Chi Minh City": {
-        "1": "我哋"
-    },
-    "Nanning-P": {
-        "1": "我哋"
-    },
-    "Guilin-P": {
-        "1": "我哋"
-    },
-    "Xiamen": {
-        "1": "阮"
-    },
-    "Tong'an": {
-        "1": "阮"
-    },
-    "Quanzhou": {
-        "1": "阮"
-    },
-    "Jinjiang": {
-        "1": "阮"
-    },
-    "Nan'an": {
-        "1": "阮"
-    },
-    "Shishi": {
-        "1": "阮"
-    },
-    "Hui'an": {
-        "1": "阮"
-    },
-    "Anxi": {
-        "1": "阮"
-    },
-    "Yongchun": {
-        "1": "阮"
-    },
-    "Dehua": {
-        "1": "阮"
-    },
-    "Zhangzhou": {
-        "1": "阮"
-    },
-    "Longhai": {
-        "1": "阮"
-    },
-    "Changtai": {
-        "1": "阮"
-    },
-    "Hua'an": {
-        "1": "阮"
-    },
-    "Nanjing-MN": {
-        "1": "阮"
-    },
-    "Pinghe": {
-        "1": "阮"
-    },
-    "Zhangpu": {
-        "1": "阮"
-    },
-    "Yunxiao": {
-        "1": "阮"
-    },
-    "Zhao'an": {
-        "1": "阮"
-    },
-    "Dongshan": {
-        "1": "阮"
-    },
-    "Taipei": {
-        "1": "阮"
-    },
-    "Kaohsiung": {
-        "1": "阮"
-    },
-    "Tainan": {
-        "1": "阮"
-    },
-    "Taichung": {
-        "1": "阮"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "阮"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "阮"
-    },
-    "Sanxia": {
-        "1": "阮"
-    },
-    "Yilan": {
-        "1": "阮"
-    },
-    "Kinmen": {
-        "1": "阮"
-    },
-    "Magong": {
-        "1": "阮"
-    },
-    "Malaysia-MN": {
-        "1": "我儂"
-    },
-    "Singapore-MN": {
-        "1": "我儂",
-        "2": "阮"
-    },
-    "Philippine-MN": {
-        "1": "阮"
-    },
-    "Longyan": {
-        "1": "我儂"
-    },
-    "Zhangping": {
-        "1": "我儂"
-    },
-    "Yongfu": {
-        "1": "我儂"
-    },
-    "Datian": {
-        "1": "我夥"
-    },
-    "Pingnan": {
-        "1": "阮儂"
-    },
-    "Chaozhou": {
-        "1": "阮"
-    },
-    "Shantou": {
-        "1": "阮"
-    },
-    "Haifeng": {
-        "1": "阮",
-        "2": "阮儂"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": "我儂"
-    },
-    "Haikou": {
-        "1": "我儂"
-    },
-    "Leizhou": {
-        "1": "我儂"
-    },
-    "Putian": {
-        "1": "我輩"
-    },
-    "Xianyou": {
-        "1": "滾",
-        "2": "我輩"
-    },
-    "Fuzhou": {
-        "1": "我各儂",
-        "2": "儂家各儂",
-        "3": "儂家"
-    },
-    "Changle": {
-        "1": "儂家"
-    },
-    "Fuqing": {
-        "1": "儂家",
-        "2": "儂家各儂",
-        "3": "我各儂"
-    },
-    "Pingtan": {
-        "1": "儂家"
-    },
-    "Yongtai": {
-        "1": "儂家各儂"
-    },
-    "Gutian": {
-        "1": "我各儂"
-    },
-    "Fu'an": {
-        "1": "我儕"
-    },
-    "Ningde": {
-        "1": "我儕儂",
-        "2": "我儕"
-    },
-    "Zhouning": {
-        "1": "我儕"
-    },
-    "Shouning": {
-        "1": "我儂"
-    },
-    "Fuding": {
-        "1": "我儂"
-    },
-    "Matsu": {
-        "1": "儂家"
-    },
-    "Jian'ou": {
-        "1": "我人",
-        "2": "我夥人"
-    },
-    "Dikou": {
-        "1": "我人"
-    },
-    "Songxi": {
-        "1": "俺叢人"
-    },
-    "Zhenghe": {
-        "1": "我人"
-    },
-    "Zhenqian": {
-        "1": "我人"
-    },
-    "Jianyang": {
-        "1": "我夥人"
-    },
-    "Wuyishan": {
-        "1": "我夥人"
-    },
-    "Shibei": {
-        "1": "我人",
-        "2": "我多人"
-    },
-    "Fu'an-She": {
-        "1": "𠊎人"
-    },
-    "Fuding-She": {
-        "1": "𠊎人"
-    },
-    "Luoyuan-She": {
-        "1": "𠊎人"
-    },
-    "Sanming-She": {
-        "1": "𠊎仔"
-    },
-    "Shunchang-She": {
-        "1": "𠊎個人"
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "我",
+        "吾儕",
+        "我等",
+        "我曹",
+        "我輩"
+    ],
+    "Formal": [],
+    "Beijing": [
+        "我們",
+        "姆們"
+    ],
+    "Taiwan": [
+        "我們"
+    ],
+    "Tianjin": [
+        "我們"
+    ],
+    "Harbin": [
+        "我們"
+    ],
+    "Shenyang": [
+        "我們"
+    ],
+    "Hailar": [
+        "我們"
+    ],
+    "Ulan Hot": [
+        "俺們"
+    ],
+    "Tongliao": [
+        "俺們"
+    ],
+    "Chifeng": [
+        "我們"
+    ],
+    "Bayanhot": [
+        "我們"
+    ],
+    "Jinan": [
+        "我們",
+        "俺們",
+        "俺",
+        "俺這夥"
+    ],
+    "Muping": [
+        "俺"
+    ],
+    "Luoyang": [
+        "我們",
+        "俺們",
+        "俺"
+    ],
+    "Wanrong": [
+        "我的",
+        "我"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "俺的",
+        "俺",
+        "我的",
+        "我",
+        "我們"
+    ],
+    "Qingdao": [
+        "俺"
+    ],
+    "Zhengzhou": [
+        "俺"
+    ],
+    "Xining": [
+        "我們"
+    ],
+    "Xuzhou": [
+        "俺",
+        "我們"
+    ],
+    "Yinchuan": [
+        "卬們"
+    ],
+    "Lanzhou": [
+        "我們"
+    ],
+    "Ürümqi": [
+        "我們"
+    ],
+    "Wuhan": [
+        "我們"
+    ],
+    "Huanggang": [
+        "我家"
+    ],
+    "Chengdu": [
+        "我們"
+    ],
+    "Guiyang": [
+        "我們"
+    ],
+    "Guilin": [
+        "我們"
+    ],
+    "Liuzhou": [
+        "我們"
+    ],
+    "Kunming": [
+        "我們"
+    ],
+    "Yangzhou": [
+        "我們",
+        "們",
+        "我輩兒"
+    ],
+    "Nanjing": [
+        "我們"
+    ],
+    "Hefei": [
+        "我們"
+    ],
+    "Nantong": [
+        "我恁",
+        "我倈"
+    ],
+    "Malaysia-M": [
+        "我們"
+    ],
+    "Singapore-M": [
+        "我們"
+    ],
+    "Gansu-DG": [
+        "我們"
+    ],
+    "Shaanxi-DG": [
+        "我們"
+    ],
+    "Taiyuan": [
+        "我們",
+        "俺們"
+    ],
+    "Pingyao": [
+        "我家",
+        "我家們家",
+        "我們"
+    ],
+    "Xinzhou": [
+        "俺們",
+        "俺"
+    ],
+    "Baochang": [
+        "我們"
+    ],
+    "Jining": [
+        "我們"
+    ],
+    "Hohhot": [
+        "我們"
+    ],
+    "Baotou": [
+        "我們"
+    ],
+    "Dongsheng": [
+        "我們"
+    ],
+    "Linhe": [
+        "我們"
+    ],
+    "Haibowan": [
+        "我們"
+    ],
+    "Shanghai": [
+        "阿拉",
+        "我伲:dated",
+        "伲:dated"
+    ],
+    "Suzhou": [
+        "伲"
+    ],
+    "Wuxi": [
+        "我俚"
+    ],
+    "Hangzhou": [
+        "我們"
+    ],
+    "Chongming": [
+        "我俚"
+    ],
+    "Wenzhou": [
+        "我倈"
+    ],
+    "Danyang": [
+        "我己"
+    ],
+    "Jinhua": [
+        "我郎",
+        "昂"
+    ],
+    "Tangxi": [
+        "我道"
+    ],
+    "Ningbo": [
+        "阿拉",
+        "象拉"
+    ],
+    "Changsha": [
+        "我們"
+    ],
+    "Shuangfeng": [
+        "我俚",
+        "卬俚"
+    ],
+    "Xiangtan": [
+        "我人"
+    ],
+    "Loudi": [
+        "我俺"
+    ],
+    "Quanzhou-X": [
+        "俺"
+    ],
+    "Nanchang": [
+        "我個俚",
+        "我等",
+        "我們"
+    ],
+    "Lichuan": [
+        "我多"
+    ],
+    "Pingxiang": [
+        "我俚",
+        "巷俚"
+    ],
+    "Meixian": [
+        "𠊎等人",
+        "𠊎兜人",
+        "𠊎儕"
+    ],
+    "Xingning": [
+        "𠊎兜人"
+    ],
+    "Huizhou": [
+        "我",
+        "我咧",
+        "我大家",
+        "我茶家"
+    ],
+    "Huizhou-SK": [
+        "我",
+        "我咧"
+    ],
+    "Huizhou-HL": [
+        "我俚"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "我",
+        "我咧"
+    ],
+    "Huidong-DL": [
+        "𠊎兜人"
+    ],
+    "Dongguan-H": [
+        "吾兜"
+    ],
+    "Longmen-PL": [
+        "我俚"
+    ],
+    "Longmen-LX": [
+        "我咧"
+    ],
+    "Boluo": [
+        "我",
+        "我齊家"
+    ],
+    "Shenzhen-H": [
+        "𠊎兜"
+    ],
+    "Zengcheng-ZG": [
+        "吾兜",
+        "𠊎兜"
+    ],
+    "Zhongshan-WGS": [
+        "吾哋"
+    ],
+    "Zhongshan-NLHS": [
+        "吾哋"
+    ],
+    "Wuhua-SZ": [
+        "𠊎兜"
+    ],
+    "Wuhua-HC": [
+        "𠊎兜"
+    ],
+    "Wuhua-CB": [
+        "𠊎兜"
+    ],
+    "Wuhua-MY": [
+        "𠊎兜"
+    ],
+    "Heyuan": [
+        "我咧"
+    ],
+    "Zijin-GZ": [
+        "我俚"
+    ],
+    "Longchuan-TC": [
+        "我咧"
+    ],
+    "Longchuan-SD": [
+        "我",
+        "我咧"
+    ],
+    "Heping-LZ": [
+        "我哋"
+    ],
+    "Lianping-ZX": [
+        "我咧"
+    ],
+    "Lianping-LJ": [
+        "我哋"
+    ],
+    "Qujiang": [
+        "𠊎俚"
+    ],
+    "Xinfeng-MT": [
+        "我根"
+    ],
+    "Xinfeng-DX": [
+        "我哋"
+    ],
+    "Xiaosanjiang": [
+        "阿俚"
+    ],
+    "Liannan": [
+        "𠊎俚"
+    ],
+    "Conghua-H": [
+        "𠊎兜"
+    ],
+    "Jiexi": [
+        "𠊎兜儕"
+    ],
+    "Luchuan-LC": [
+        "𠊎俚"
+    ],
+    "Luchuan-DQ": [
+        "我們"
+    ],
+    "Changting": [
+        "𠊎儕們",
+        "𠊎儕"
+    ],
+    "Pingyu": [
+        "𠊎等人",
+        "𠊎兜"
+    ],
+    "Wuping": [
+        "𠊎等人"
+    ],
+    "Liancheng": [
+        "𠊎大全"
+    ],
+    "Ninghua": [
+        "𠊎人",
+        "𠊎多人"
+    ],
+    "Yudu": [
+        "𠊎底"
+    ],
+    "Ruijin": [
+        "𠊎班人"
+    ],
+    "Shicheng": [
+        "𠊎郎人"
+    ],
+    "Shangyou": [
+        "𠊎子人"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "𠊎兜",
+        "𠊎等",
+        "𠊎兜人",
+        "𠊎兜儕",
+        "𠊎這兜"
+    ],
+    "Liudui": [
+        "𠊎等",
+        "𠊎等人"
+    ],
+    "Hsinchu": [
+        "𠊎兜",
+        "𠊎等",
+        "𠊎兜人",
+        "𠊎兜儕"
+    ],
+    "Dongshi": [
+        "吾等",
+        "吾這兜",
+        "吾這兜人"
+    ],
+    "Raoping": [
+        "𠊎兜",
+        "𠊎等",
+        "𠊎兜人",
+        "𠊎兜儕"
+    ],
+    "Yunlin": [
+        "𠊎人"
+    ],
+    "Hong Kong-H": [
+        "𠊎哋"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "𠊎兜"
+    ],
+    "Senai": [
+        "吾兜"
+    ],
+    "Singkawang": [
+        "𠊎兜儕"
+    ],
+    "Jixi": [
+        "我人"
+    ],
+    "Shexian": [
+        "我人"
+    ],
+    "Tunxi": [
+        "我人"
+    ],
+    "Xiuning": [
+        "我人"
+    ],
+    "Yixian": [
+        "我儂"
+    ],
+    "Qimen": [
+        "我大家"
+    ],
+    "Wuyuan": [
+        "俺家",
+        "刷俺"
+    ],
+    "Fuliang": [],
+    "Dexing": [
+        "我拉"
+    ],
+    "Jingde": [
+        "阿啊"
+    ],
+    "Zhanda": [
+        "我些人"
+    ],
+    "Guangzhou": [
+        "我哋"
+    ],
+    "Hong Kong": [
+        "我哋"
+    ],
+    "HK Weitou": [
+        "我哋"
+    ],
+    "Kam Tin": [
+        "我哋"
+    ],
+    "Ting Kok": [
+        "我哋"
+    ],
+    "Tung Ping Chau": [
+        "我俚"
+    ],
+    "Macau": [
+        "我哋"
+    ],
+    "Panyu": [
+        "我哋"
+    ],
+    "Huadu": [
+        "我哋"
+    ],
+    "Conghua": [
+        "我啲"
+    ],
+    "Zengcheng": [
+        "我班人"
+    ],
+    "Foshan": [
+        "我哋"
+    ],
+    "Nanhai": [
+        "我哋"
+    ],
+    "Shunde": [
+        "我哋"
+    ],
+    "Sanshui": [
+        "我哋"
+    ],
+    "Gaoming": [
+        "我哋"
+    ],
+    "Zhongshan": [
+        "我哋"
+    ],
+    "Zhuhai": [
+        "我哋"
+    ],
+    "Doumen-T": [
+        "我哋"
+    ],
+    "Doumen-S": [
+        "偔"
+    ],
+    "Jiangmen": [
+        "偔"
+    ],
+    "Xinhui": [
+        "偔"
+    ],
+    "Taishan": [
+        "我"
+    ],
+    "Kaiping": [
+        "我"
+    ],
+    "Enping": [
+        "我喊齊"
+    ],
+    "Heshan": [
+        "我"
+    ],
+    "Dongguan": [
+        "我哋"
+    ],
+    "Bao'an": [
+        "我哋"
+    ],
+    "Dapeng": [
+        "我哋"
+    ],
+    "Shaoguan": [
+        "我哋"
+    ],
+    "Yunfu": [
+        "我哋"
+    ],
+    "Yangjiang": [
+        "偔"
+    ],
+    "Xinyi": [
+        "我哋"
+    ],
+    "Lianjiang": [
+        "我哋"
+    ],
+    "Nanning": [
+        "我哋"
+    ],
+    "Wuzhou": [
+        "我哋"
+    ],
+    "Yulin": [
+        "我人"
+    ],
+    "Hepu": [
+        "俺"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "我哋"
+    ],
+    "Ho Chi Minh City": [
+        "我哋"
+    ],
+    "Nanning-P": [
+        "我哋"
+    ],
+    "Guilin-P": [
+        "我哋"
+    ],
+    "Xiamen": [
+        "阮"
+    ],
+    "Tong'an": [
+        "阮"
+    ],
+    "Quanzhou": [
+        "阮"
+    ],
+    "Jinjiang": [
+        "阮"
+    ],
+    "Nan'an": [
+        "阮"
+    ],
+    "Shishi": [
+        "阮"
+    ],
+    "Hui'an": [
+        "阮"
+    ],
+    "Anxi": [
+        "阮"
+    ],
+    "Yongchun": [
+        "阮"
+    ],
+    "Dehua": [
+        "阮"
+    ],
+    "Zhangzhou": [
+        "阮"
+    ],
+    "Longhai": [
+        "阮"
+    ],
+    "Changtai": [
+        "阮"
+    ],
+    "Hua'an": [
+        "阮"
+    ],
+    "Nanjing-MN": [
+        "阮"
+    ],
+    "Pinghe": [
+        "阮"
+    ],
+    "Zhangpu": [
+        "阮"
+    ],
+    "Yunxiao": [
+        "阮"
+    ],
+    "Zhao'an": [
+        "阮"
+    ],
+    "Dongshan": [
+        "阮"
+    ],
+    "Taipei": [
+        "阮"
+    ],
+    "Kaohsiung": [
+        "阮"
+    ],
+    "Tainan": [
+        "阮"
+    ],
+    "Taichung": [
+        "阮"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "阮"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "阮"
+    ],
+    "Sanxia": [
+        "阮"
+    ],
+    "Yilan": [
+        "阮"
+    ],
+    "Kinmen": [
+        "阮"
+    ],
+    "Magong": [
+        "阮"
+    ],
+    "Malaysia-MN": [
+        "我儂"
+    ],
+    "Singapore-MN": [
+        "我儂",
+        "阮"
+    ],
+    "Philippine-MN": [
+        "阮"
+    ],
+    "Longyan": [
+        "我儂"
+    ],
+    "Zhangping": [
+        "我儂"
+    ],
+    "Yongfu": [
+        "我儂"
+    ],
+    "Datian": [
+        "我夥"
+    ],
+    "Pingnan": [
+        "阮儂"
+    ],
+    "Chaozhou": [
+        "阮"
+    ],
+    "Shantou": [
+        "阮"
+    ],
+    "Haifeng": [
+        "阮",
+        "阮儂"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [
+        "我儂"
+    ],
+    "Haikou": [
+        "我儂"
+    ],
+    "Leizhou": [
+        "我儂"
+    ],
+    "Putian": [
+        "我輩"
+    ],
+    "Xianyou": [
+        "滾",
+        "我輩"
+    ],
+    "Fuzhou": [
+        "我各儂",
+        "儂家各儂",
+        "儂家"
+    ],
+    "Changle": [
+        "儂家"
+    ],
+    "Fuqing": [
+        "儂家",
+        "儂家各儂",
+        "我各儂"
+    ],
+    "Pingtan": [
+        "儂家"
+    ],
+    "Yongtai": [
+        "儂家各儂"
+    ],
+    "Gutian": [
+        "我各儂"
+    ],
+    "Fu'an": [
+        "我儕"
+    ],
+    "Ningde": [
+        "我儕儂",
+        "我儕"
+    ],
+    "Zhouning": [
+        "我儕"
+    ],
+    "Shouning": [
+        "我儂"
+    ],
+    "Fuding": [
+        "我儂"
+    ],
+    "Matsu": [
+        "儂家"
+    ],
+    "Jian'ou": [
+        "我人",
+        "我夥人"
+    ],
+    "Dikou": [
+        "我人"
+    ],
+    "Songxi": [
+        "俺叢人"
+    ],
+    "Zhenghe": [
+        "我人"
+    ],
+    "Zhenqian": [
+        "我人"
+    ],
+    "Jianyang": [
+        "我夥人"
+    ],
+    "Wuyishan": [
+        "我夥人"
+    ],
+    "Shibei": [
+        "我人",
+        "我多人"
+    ],
+    "Fu'an-She": [
+        "𠊎人"
+    ],
+    "Fuding-She": [
+        "𠊎人"
+    ],
+    "Luoyuan-She": [
+        "𠊎人"
+    ],
+    "Sanming-She": [
+        "𠊎仔"
+    ],
+    "Shunchang-She": [
+        "𠊎個人"
+    ],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

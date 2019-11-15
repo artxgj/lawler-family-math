@@ -1,633 +1,575 @@
 {
     "meaning": "younger sister",
     "note": "",
-    "Classical": {
-        "1": "妹",
-        "2": "女弟"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "妹妹"
-    },
-    "Taiwan": {
-        "1": "妹妹"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "妹妹",
-        "2": "妹子"
-    },
-    "Shenyang": {
-        "1": "妹妹"
-    },
-    "Hailar": {
-        "1": "老妹兒"
-    },
-    "Ulan Hot": {
-        "1": "老妹兒"
-    },
-    "Tongliao": {
-        "1": "老妹兒"
-    },
-    "Chifeng": {
-        "1": "妹妹"
-    },
-    "Bayanhot": {
-        "1": "妹妹"
-    },
-    "Jinan": {
-        "1": "妹妹"
-    },
-    "Muping": {
-        "1": "妹"
-    },
-    "Luoyang": {
-        "1": "妹"
-    },
-    "Wanrong": {
-        "1": "妹子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "妹子",
-        "2": "妹妹"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "妹妹"
-    },
-    "Xining": {
-        "1": "妹子"
-    },
-    "Xuzhou": {
-        "1": "妹妹"
-    },
-    "Yinchuan": {
-        "1": "妹妹"
-    },
-    "Lanzhou": {
-        "1": "妹妹"
-    },
-    "Ürümqi": {
-        "1": "妹妹"
-    },
-    "Wuhan": {
-        "1": "妹妹"
-    },
-    "Huanggang": {
-        "1": "妹兒"
-    },
-    "Chengdu": {
-        "1": "妹兒",
-        "2": "妹妹",
-        "3": "妹"
-    },
-    "Guiyang": {
-        "1": "妹"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "妹子",
-        "2": "妹",
-        "3": "老妹"
-    },
-    "Kunming": {
-        "1": "妹子",
-        "2": "妹妹"
-    },
-    "Yangzhou": {
-        "1": "妹妹"
-    },
-    "Nanjing": {
-        "1": "妹妹",
-        "2": "妹子"
-    },
-    "Hefei": {
-        "1": "妹妹"
-    },
-    "Nantong": {
-        "1": "妹子",
-        "2": "妹妹"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "妹妹"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "妹妹"
-    },
-    "Pingyao": {
-        "1": "妹妹",
-        "2": "妹子"
-    },
-    "Xinzhou": {
-        "1": "姊妹"
-    },
-    "Baochang": {
-        "1": "妹妹"
-    },
-    "Jining": {
-        "1": "妹妹"
-    },
-    "Hohhot": {
-        "1": "妹妹"
-    },
-    "Baotou": {
-        "1": "妹妹"
-    },
-    "Dongsheng": {
-        "1": "妹妹"
-    },
-    "Linhe": {
-        "1": "妹妹"
-    },
-    "Haibowan": {
-        "1": "妹妹"
-    },
-    "Shanghai": {
-        "1": "阿妹",
-        "2": "妹妹"
-    },
-    "Suzhou": {
-        "1": "妹子",
-        "2": "妹妹"
-    },
-    "Wuxi": {
-        "1": "妹子",
-        "2": "妹妹"
-    },
-    "Hangzhou": {
-        "1": "阿妹",
-        "2": "妹妹"
-    },
-    "Chongming": {
-        "1": "姊妹"
-    },
-    "Wenzhou": {
-        "1": "阿妹"
-    },
-    "Danyang": {
-        "1": "妹子"
-    },
-    "Jinhua": {
-        "1": "妹",
-        "2": "妹妹"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "阿妹",
-        "2": "妹妹"
-    },
-    "Changsha": {
-        "1": "老妹",
-        "2": "妹妹"
-    },
-    "Shuangfeng": {
-        "1": "妹妹"
-    },
-    "Xiangtan": {
-        "1": "老妹"
-    },
-    "Loudi": {
-        "1": "妹妹"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "妹子"
-    },
-    "Lichuan": {
-        "1": "妹"
-    },
-    "Pingxiang": {
-        "1": "老妹",
-        "2": "妹老子"
-    },
-    "Meixian": {
-        "1": "老妹",
-        "2": "老妹仔"
-    },
-    "Xingning": {
-        "1": "老妹"
-    },
-    "Huidong": {
-        "1": "老妹"
-    },
-    "Qujiang": {
-        "1": "老妹"
-    },
-    "Xiaosanjiang": {
-        "1": "老妹"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "老妹"
-    },
-    "Pingyu": {
-        "1": "老妹"
-    },
-    "Wuping": {
-        "1": "老妹"
-    },
-    "Liancheng": {
-        "1": "老妹"
-    },
-    "Ninghua": {
-        "1": "老妹"
-    },
-    "Yudu": {
-        "1": "妹子"
-    },
-    "Ruijin": {
-        "1": "老妹"
-    },
-    "Shicheng": {
-        "1": "老妹",
-        "2": "妹"
-    },
-    "Shangyou": {
-        "1": "老妹"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "老妹"
-    },
-    "Liudui": {
-        "1": "老妹"
-    },
-    "Hsinchu": {
-        "1": "老妹"
-    },
-    "Dongshi": {
-        "1": "老妹"
-    },
-    "Raoping": {
-        "1": "老妹"
-    },
-    "Yunlin": {
-        "1": "阿妹"
-    },
-    "Hong Kong-H": {
-        "1": "老妹"
-    },
-    "Sabah-B": {
-        "1": "老妹"
-    },
-    "Sabah-L": {
-        "1": "老妹"
-    },
-    "Senai": {
-        "1": "老妹"
-    },
-    "Singkawang": {
-        "1": "阿妹",
-        "2": "老妹"
-    },
-    "Jixi": {
-        "1": "妹"
-    },
-    "Shexian": {
-        "1": "妹妹",
-        "2": "女妹"
-    },
-    "Tunxi": {
-        "1": "令妹兒"
-    },
-    "Xiuning": {
-        "1": "令妹",
-        "2": "令妹兒"
-    },
-    "Yixian": {
-        "1": "奶妹兒"
-    },
-    "Qimen": {
-        "1": "妹吶"
-    },
-    "Wuyuan": {
-        "1": "女妹仂",
-        "2": "女妹",
-        "3": "妹"
-    },
-    "Fuliang": {
-        "1": "小妹",
-        "2": "妹哩"
-    },
-    "Dexing": {
-        "1": "妹子"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "妹妹",
-        "2": "細妹",
-        "3": "阿妹",
-        "4": "妹"
-    },
-    "Hong Kong": {
-        "1": "妹妹",
-        "2": "細妹",
-        "3": "阿妹",
-        "4": "妹"
-    },
-    "Shunde": {
-        "1": "妹"
-    },
-    "Foshan": {
-        "1": "細妹",
-        "2": "妹"
-    },
-    "Zhongshan": {
-        "1": "妹"
-    },
-    "Dongguan": {
-        "1": "妹"
-    },
-    "HK Weitou": {
-        "1": "阿妹"
-    },
-    "Doumen-T": {
-        "1": "阿妹"
-    },
-    "Doumen-S": {
-        "1": "阿妹"
-    },
-    "Taishan": {
-        "1": "阿妹"
-    },
-    "Kaiping": {
-        "1": "阿妹"
-    },
-    "Shaoguan": {
-        "1": "阿妹"
-    },
-    "Yunfu": {
-        "1": "阿妹"
-    },
-    "Yangjiang": {
-        "1": "小妹"
-    },
-    "Xinyi": {
-        "1": "老妹"
-    },
-    "Lianjiang": {
-        "1": "老妹",
-        "2": "阿妹"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "老姑"
-    },
-    "Kuala Lumpur": {
-        "1": "阿妹"
-    },
-    "Ho Chi Minh City": {
-        "1": "細妹"
-    },
-    "Nanning-P": {
-        "1": "妹"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "小妹",
-        "2": "阿妹:face-to-face"
-    },
-    "Quanzhou": {
-        "1": "小妹",
-        "2": "阿妹:face-to-face"
-    },
-    "Zhangzhou": {
-        "1": "小妹",
-        "2": "阿妹:face-to-face"
-    },
-    "Taipei": {
-        "1": "小妹"
-    },
-    "Kaohsiung": {
-        "1": "小妹"
-    },
-    "Tainan": {
-        "1": "小妹"
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": "小妹"
-    },
-    "Yilan": {
-        "1": "小妹"
-    },
-    "Kinmen": {
-        "1": "小妹"
-    },
-    "Magong": {
-        "1": "小妹"
-    },
-    "Malaysia-MN": {
-        "1": "小妹"
-    },
-    "Singapore-MN": {
-        "1": "小妹"
-    },
-    "Philippine-MN": {
-        "1": "小妹"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "阿妹"
-    },
-    "Shantou": {
-        "1": "妹"
-    },
-    "Haifeng": {
-        "1": "妹",
-        "2": "妹妹"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "阿妹"
-    },
-    "Wenchang": {
-        "1": "姑𡠤:of a male",
-        "2": "姨𡠤:of a female"
-    },
-    "Haikou": {
-        "1": "姑𡠤:of a male",
-        "2": "姨𡠤:of a female"
-    },
-    "Leizhou": {
-        "1": "尼妹",
-        "2": "妹"
-    },
-    "Putian": {
-        "1": "阿妹"
-    },
-    "Xianyou": {
-        "1": "阿妹",
-        "2": "小妹"
-    },
-    "Fuzhou": {
-        "1": "依妹",
-        "2": "妹"
-    },
-    "Changle": {
-        "1": "依妹"
-    },
-    "Fuqing": {
-        "1": "阿妹"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "依妹"
-    },
-    "Gutian": {
-        "1": "妹"
-    },
-    "Fu'an": {
-        "1": "妹"
-    },
-    "Ningde": {
-        "1": "妹"
-    },
-    "Shouning": {
-        "1": "姊妹"
-    },
-    "Zhouning": {
-        "1": "阿妹"
-    },
-    "Fuding": {
-        "1": "阿妹"
-    },
-    "Matsu": {
-        "1": "依妹"
-    },
-    "Jian'ou": {
-        "1": "妹仔"
-    },
-    "Dikou": {
-        "1": "妹仔"
-    },
-    "Songxi": {
-        "1": "妹仔"
-    },
-    "Zhenghe": {
-        "1": "妹"
-    },
-    "Zhenqian": {
-        "1": "妹"
-    },
-    "Jianyang": {
-        "1": "妹仔"
-    },
-    "Wuyishan": {
-        "1": "妹仔"
-    },
-    "Shibei": {
-        "1": "妹仔"
-    },
-    "Fu'an-She": {
-        "1": "妹"
-    },
-    "Fuding-She": {
-        "1": "阿妹"
-    },
-    "Luoyuan-She": {
-        "1": "妹"
-    },
-    "Sanming-She": {
-        "1": "妹"
-    },
-    "Shunchang-She": {
-        "1": "阿妹"
-    },
-    "Hua'an-She": {
-        "1": "妹"
-    },
-    "Guixi-She": {
-        "1": "妹"
-    },
-    "Cangnan-She": {
-        "1": "妹"
-    },
-    "Jingning-She": {
-        "1": "妹"
-    },
-    "Lishui-She": {
-        "1": "妹"
-    },
-    "Longyou-She": {
-        "1": "妹"
-    },
-    "Chaozhou-She": {
-        "1": "妹"
-    },
-    "Fengshun-She": {
-        "1": "妹"
-    }
+    "Classical": [
+        "妹",
+        "女弟"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "妹妹"
+    ],
+    "Taiwan": [
+        "妹妹"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "妹妹",
+        "妹子"
+    ],
+    "Shenyang": [
+        "妹妹"
+    ],
+    "Hailar": [
+        "老妹兒"
+    ],
+    "Ulan Hot": [
+        "老妹兒"
+    ],
+    "Tongliao": [
+        "老妹兒"
+    ],
+    "Chifeng": [
+        "妹妹"
+    ],
+    "Bayanhot": [
+        "妹妹"
+    ],
+    "Jinan": [
+        "妹妹"
+    ],
+    "Muping": [
+        "妹"
+    ],
+    "Luoyang": [
+        "妹"
+    ],
+    "Wanrong": [
+        "妹子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "妹子",
+        "妹妹"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "妹妹"
+    ],
+    "Xining": [
+        "妹子"
+    ],
+    "Xuzhou": [
+        "妹妹"
+    ],
+    "Yinchuan": [
+        "妹妹"
+    ],
+    "Lanzhou": [
+        "妹妹"
+    ],
+    "Ürümqi": [
+        "妹妹"
+    ],
+    "Wuhan": [
+        "妹妹"
+    ],
+    "Huanggang": [
+        "妹兒"
+    ],
+    "Chengdu": [
+        "妹兒",
+        "妹妹",
+        "妹"
+    ],
+    "Guiyang": [
+        "妹"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "妹子",
+        "妹",
+        "老妹"
+    ],
+    "Kunming": [
+        "妹子",
+        "妹妹"
+    ],
+    "Yangzhou": [
+        "妹妹"
+    ],
+    "Nanjing": [
+        "妹妹",
+        "妹子"
+    ],
+    "Hefei": [
+        "妹妹"
+    ],
+    "Nantong": [
+        "妹子",
+        "妹妹"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "妹妹"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "妹妹"
+    ],
+    "Pingyao": [
+        "妹妹",
+        "妹子"
+    ],
+    "Xinzhou": [
+        "姊妹"
+    ],
+    "Baochang": [
+        "妹妹"
+    ],
+    "Jining": [
+        "妹妹"
+    ],
+    "Hohhot": [
+        "妹妹"
+    ],
+    "Baotou": [
+        "妹妹"
+    ],
+    "Dongsheng": [
+        "妹妹"
+    ],
+    "Linhe": [
+        "妹妹"
+    ],
+    "Haibowan": [
+        "妹妹"
+    ],
+    "Shanghai": [
+        "阿妹",
+        "妹妹"
+    ],
+    "Suzhou": [
+        "妹子",
+        "妹妹"
+    ],
+    "Wuxi": [
+        "妹子",
+        "妹妹"
+    ],
+    "Hangzhou": [
+        "阿妹",
+        "妹妹"
+    ],
+    "Chongming": [
+        "姊妹"
+    ],
+    "Wenzhou": [
+        "阿妹"
+    ],
+    "Danyang": [
+        "妹子"
+    ],
+    "Jinhua": [
+        "妹",
+        "妹妹"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "阿妹",
+        "妹妹"
+    ],
+    "Changsha": [
+        "老妹",
+        "妹妹"
+    ],
+    "Shuangfeng": [
+        "妹妹"
+    ],
+    "Xiangtan": [
+        "老妹"
+    ],
+    "Loudi": [
+        "妹妹"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "妹子"
+    ],
+    "Lichuan": [
+        "妹"
+    ],
+    "Pingxiang": [
+        "老妹",
+        "妹老子"
+    ],
+    "Meixian": [
+        "老妹",
+        "老妹仔"
+    ],
+    "Xingning": [
+        "老妹"
+    ],
+    "Huidong": [
+        "老妹"
+    ],
+    "Qujiang": [
+        "老妹"
+    ],
+    "Xiaosanjiang": [
+        "老妹"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "老妹"
+    ],
+    "Pingyu": [
+        "老妹"
+    ],
+    "Wuping": [
+        "老妹"
+    ],
+    "Liancheng": [
+        "老妹"
+    ],
+    "Ninghua": [
+        "老妹"
+    ],
+    "Yudu": [
+        "妹子"
+    ],
+    "Ruijin": [
+        "老妹"
+    ],
+    "Shicheng": [
+        "老妹",
+        "妹"
+    ],
+    "Shangyou": [
+        "老妹"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "老妹"
+    ],
+    "Liudui": [
+        "老妹"
+    ],
+    "Hsinchu": [
+        "老妹"
+    ],
+    "Dongshi": [
+        "老妹"
+    ],
+    "Raoping": [
+        "老妹"
+    ],
+    "Yunlin": [
+        "阿妹"
+    ],
+    "Hong Kong-H": [
+        "老妹"
+    ],
+    "Sabah-B": [
+        "老妹"
+    ],
+    "Sabah-L": [
+        "老妹"
+    ],
+    "Senai": [
+        "老妹"
+    ],
+    "Singkawang": [
+        "阿妹",
+        "老妹"
+    ],
+    "Jixi": [
+        "妹"
+    ],
+    "Shexian": [
+        "妹妹",
+        "女妹"
+    ],
+    "Tunxi": [
+        "令妹兒"
+    ],
+    "Xiuning": [
+        "令妹",
+        "令妹兒"
+    ],
+    "Yixian": [
+        "奶妹兒"
+    ],
+    "Qimen": [
+        "妹吶"
+    ],
+    "Wuyuan": [
+        "女妹仂",
+        "女妹",
+        "妹"
+    ],
+    "Fuliang": [
+        "小妹",
+        "妹哩"
+    ],
+    "Dexing": [
+        "妹子"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "妹妹",
+        "細妹",
+        "阿妹",
+        "妹"
+    ],
+    "Hong Kong": [
+        "妹妹",
+        "細妹",
+        "阿妹",
+        "妹"
+    ],
+    "Shunde": [
+        "妹"
+    ],
+    "Foshan": [
+        "細妹",
+        "妹"
+    ],
+    "Zhongshan": [
+        "妹"
+    ],
+    "Dongguan": [
+        "妹"
+    ],
+    "HK Weitou": [
+        "阿妹"
+    ],
+    "Doumen-T": [
+        "阿妹"
+    ],
+    "Doumen-S": [
+        "阿妹"
+    ],
+    "Taishan": [
+        "阿妹"
+    ],
+    "Kaiping": [
+        "阿妹"
+    ],
+    "Shaoguan": [
+        "阿妹"
+    ],
+    "Yunfu": [
+        "阿妹"
+    ],
+    "Yangjiang": [
+        "小妹"
+    ],
+    "Xinyi": [
+        "老妹"
+    ],
+    "Lianjiang": [
+        "老妹",
+        "阿妹"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "老姑"
+    ],
+    "Kuala Lumpur": [
+        "阿妹"
+    ],
+    "Ho Chi Minh City": [
+        "細妹"
+    ],
+    "Nanning-P": [
+        "妹"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "小妹",
+        "阿妹:face-to-face"
+    ],
+    "Quanzhou": [
+        "小妹",
+        "阿妹:face-to-face"
+    ],
+    "Zhangzhou": [
+        "小妹",
+        "阿妹:face-to-face"
+    ],
+    "Taipei": [
+        "小妹"
+    ],
+    "Kaohsiung": [
+        "小妹"
+    ],
+    "Tainan": [
+        "小妹"
+    ],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [
+        "小妹"
+    ],
+    "Yilan": [
+        "小妹"
+    ],
+    "Kinmen": [
+        "小妹"
+    ],
+    "Magong": [
+        "小妹"
+    ],
+    "Malaysia-MN": [
+        "小妹"
+    ],
+    "Singapore-MN": [
+        "小妹"
+    ],
+    "Philippine-MN": [
+        "小妹"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "阿妹"
+    ],
+    "Shantou": [
+        "妹"
+    ],
+    "Haifeng": [
+        "妹",
+        "妹妹"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "阿妹"
+    ],
+    "Wenchang": [
+        "姑𡠤:of a male",
+        "姨𡠤:of a female"
+    ],
+    "Haikou": [
+        "姑𡠤:of a male",
+        "姨𡠤:of a female"
+    ],
+    "Leizhou": [
+        "尼妹",
+        "妹"
+    ],
+    "Putian": [
+        "阿妹"
+    ],
+    "Xianyou": [
+        "阿妹",
+        "小妹"
+    ],
+    "Fuzhou": [
+        "依妹",
+        "妹"
+    ],
+    "Changle": [
+        "依妹"
+    ],
+    "Fuqing": [
+        "阿妹"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "依妹"
+    ],
+    "Gutian": [
+        "妹"
+    ],
+    "Fu'an": [
+        "妹"
+    ],
+    "Ningde": [
+        "妹"
+    ],
+    "Shouning": [
+        "姊妹"
+    ],
+    "Zhouning": [
+        "阿妹"
+    ],
+    "Fuding": [
+        "阿妹"
+    ],
+    "Matsu": [
+        "依妹"
+    ],
+    "Jian'ou": [
+        "妹仔"
+    ],
+    "Dikou": [
+        "妹仔"
+    ],
+    "Songxi": [
+        "妹仔"
+    ],
+    "Zhenghe": [
+        "妹"
+    ],
+    "Zhenqian": [
+        "妹"
+    ],
+    "Jianyang": [
+        "妹仔"
+    ],
+    "Wuyishan": [
+        "妹仔"
+    ],
+    "Shibei": [
+        "妹仔"
+    ],
+    "Fu'an-She": [
+        "妹"
+    ],
+    "Fuding-She": [
+        "阿妹"
+    ],
+    "Luoyuan-She": [
+        "妹"
+    ],
+    "Sanming-She": [
+        "妹"
+    ],
+    "Shunchang-She": [
+        "阿妹"
+    ],
+    "Hua'an-She": [
+        "妹"
+    ],
+    "Guixi-She": [
+        "妹"
+    ],
+    "Cangnan-She": [
+        "妹"
+    ],
+    "Jingning-She": [
+        "妹"
+    ],
+    "Lishui-She": [
+        "妹"
+    ],
+    "Longyou-She": [
+        "妹"
+    ],
+    "Chaozhou-She": [
+        "妹"
+    ],
+    "Fengshun-She": [
+        "妹"
+    ]
 }

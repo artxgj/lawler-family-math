@@ -1,402 +1,238 @@
 {
     "meaning": "quickly; without delay",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Taiwan": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "趕快",
-        "2": "連忙"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "趕快",
-        "2": "趕緊",
-        "3": "搞快",
-        "4": "搞起"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "趕緊",
-        "2": "趕忙"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "趕緊",
-        "2": "趕快"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "妝緊",
-        "2": "抓緊",
-        "3": "趕緊"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "趕快"
-    },
-    "Shuangfeng": {
-        "1": "趕快"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "趕緊"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "抗快",
-        "2": "撞快",
-        "3": "上緊"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "趕緊",
-        "2": "趕遽",
-        "3": "遽遽",
-        "4": "煞煞"
-    },
-    "Liudui": {
-        "1": "趕緊",
-        "2": "趕遽",
-        "3": "遽啊",
-        "4": "共快",
-        "5": "煞煞"
-    },
-    "Hsinchu": {
-        "1": "趕緊",
-        "2": "遽遽",
-        "3": "煞煞"
-    },
-    "Dongshi": {
-        "1": "趕緊",
-        "2": "遽遽",
-        "3": "煞煞"
-    },
-    "Raoping": {
-        "1": "趕緊",
-        "2": "趕遽",
-        "3": "遽遽",
-        "4": "緊緊",
-        "5": "煞煞"
-    },
-    "Yunlin": {
-        "1": "攔緊",
-        "2": "較緊",
-        "3": "緊緊",
-        "4": "煞著"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "快啲",
-        "2": "快脆",
-        "3": "啦啦聲",
-        "4": "嗱嗱臨",
-        "5": "擒擒青"
-    },
-    "Hong Kong": {
-        "1": "快啲",
-        "2": "快脆",
-        "3": "啦啦聲",
-        "4": "嗱嗱臨",
-        "5": "擒擒青"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "快",
-        "2": "快快",
-        "3": "快脆",
-        "4": "嘞聲",
-        "5": "啦啦聲",
-        "6": "啦聲"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "快脆"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "緊猛",
-        "2": "較緊",
-        "3": "趕緊"
-    },
-    "Quanzhou": {
-        "1": "較緊",
-        "2": "趕緊"
-    },
-    "Zhangzhou": {
-        "1": "緊猛",
-        "2": "較緊",
-        "3": "較猛",
-        "4": "較快",
-        "5": "趕緊"
-    },
-    "Taipei": {
-        "1": "趕緊",
-        "2": "窸倏"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "較猛"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "猛猛",
-        "2": "是是"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "趕緊",
-        "2": "此刻"
-    },
-    "Jian'ou": {
-        "1": "趕緊"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "趕緊",
+        "趕快"
+    ],
+    "Taiwan": [
+        "趕緊",
+        "趕快"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "趕緊",
+        "趕快"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "趕緊",
+        "趕快"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "趕快",
+        "連忙"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "趕快",
+        "趕緊",
+        "搞快",
+        "搞起"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "趕緊",
+        "趕忙"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "趕緊",
+        "趕快"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "趕緊",
+        "趕快"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "妝緊",
+        "抓緊",
+        "趕緊"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "趕快"
+    ],
+    "Shuangfeng": [
+        "趕快"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "趕緊"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "抗快",
+        "撞快",
+        "上緊"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "趕緊",
+        "趕遽",
+        "遽遽",
+        "煞煞"
+    ],
+    "Liudui": [
+        "趕緊",
+        "趕遽",
+        "遽啊",
+        "共快",
+        "煞煞"
+    ],
+    "Hsinchu": [
+        "趕緊",
+        "遽遽",
+        "煞煞"
+    ],
+    "Dongshi": [
+        "趕緊",
+        "遽遽",
+        "煞煞"
+    ],
+    "Raoping": [
+        "趕緊",
+        "趕遽",
+        "遽遽",
+        "緊緊",
+        "煞煞"
+    ],
+    "Yunlin": [
+        "攔緊",
+        "較緊",
+        "緊緊",
+        "煞著"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "快啲",
+        "快脆",
+        "啦啦聲",
+        "嗱嗱臨",
+        "擒擒青"
+    ],
+    "Hong Kong": [
+        "快啲",
+        "快脆",
+        "啦啦聲",
+        "嗱嗱臨",
+        "擒擒青"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "快",
+        "快快",
+        "快脆",
+        "嘞聲",
+        "啦啦聲",
+        "啦聲"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "快脆"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "緊猛",
+        "較緊",
+        "趕緊"
+    ],
+    "Quanzhou": [
+        "較緊",
+        "趕緊"
+    ],
+    "Zhangzhou": [
+        "緊猛",
+        "較緊",
+        "較猛",
+        "較快",
+        "趕緊"
+    ],
+    "Taipei": [
+        "趕緊",
+        "窸倏"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [
+        "較猛"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "猛猛",
+        "是是"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "趕緊",
+        "此刻"
+    ],
+    "Jian'ou": [
+        "趕緊"
+    ]
 }

@@ -1,0 +1,608 @@
+{
+    "meaning": "pregnant woman",
+    "note": "",
+    "Classical": [
+        "孕婦",
+        "妊婦"
+    ],
+    "Formal": [
+        "孕婦",
+        "妊婦"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "重身子",
+        "雙身子",
+        "大肚子",
+        "四眼兒郎",
+        "四眼兒娘",
+        "四眼兒人"
+    ],
+    "Taiwan": [
+        "孕婦"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "孕婦",
+        "雙身子"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "孕婦",
+        "大肚子",
+        "四眼兒",
+        "懷孩子的"
+    ],
+    "Muping": [
+        "孕婦",
+        "帶孩子老婆",
+        "害孩子老婆"
+    ],
+    "Luoyang": [
+        "雙身子婆娘",
+        "大肚子婆娘",
+        "孕婦"
+    ],
+    "Wanrong": [
+        "大肚子婆娘"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "懷娃婆娘",
+        "懷娃婆",
+        "大肚子",
+        "有啥的"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "懷孩兒哩娘兒們"
+    ],
+    "Xining": [
+        "孕婦"
+    ],
+    "Xuzhou": [
+        "雙身子",
+        "四眼人兒"
+    ],
+    "Yinchuan": [
+        "大肚子婆姨",
+        "四眼人"
+    ],
+    "Lanzhou": [
+        "四眼人"
+    ],
+    "Ürümqi": [
+        "大肚子"
+    ],
+    "Wuhan": [
+        "懷身的",
+        "大肚子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "大肚子",
+        "雙身人",
+        "四眼人",
+        "懷兒婆",
+        "孕婦"
+    ],
+    "Guiyang": [
+        "妊婦",
+        "大肚皮",
+        "四眼人"
+    ],
+    "Guilin": [
+        "孕婦"
+    ],
+    "Liuzhou": [
+        "孕婦",
+        "大肚婆",
+        "雙身婆",
+        "四眼人",
+        "四眼"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "雙身人",
+        "雙身子",
+        "大肚子"
+    ],
+    "Nanjing": [
+        "孕婦",
+        "雙身人",
+        "懷肚子"
+    ],
+    "Hefei": [
+        "懷大肚子的"
+    ],
+    "Nantong": [
+        "擔到身的",
+        "大肚子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "大肚子",
+        "大肚老婆"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "大肚老婆"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "孕婦",
+        "來喜媽媽",
+        "大肚皮"
+    ],
+    "Suzhou": [
+        "大肚皮",
+        "大肚皮格",
+        "拖身體格"
+    ],
+    "Wuxi": [
+        "大肚皮"
+    ],
+    "Hangzhou": [
+        "大肚皮"
+    ],
+    "Chongming": [
+        "膨肚皮娘子"
+    ],
+    "Wenzhou": [
+        "拖大肚人"
+    ],
+    "Danyang": [
+        "大肚皮"
+    ],
+    "Jinhua": [
+        "大肚娘"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "大肚皮"
+    ],
+    "Changsha": [
+        "馱肚婆",
+        "四眼人"
+    ],
+    "Shuangfeng": [
+        "馱肚婆"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "馱肚婆",
+        "雙身人",
+        "四眼婦人"
+    ],
+    "Quanzhou-X": [
+        "懷崽婆"
+    ],
+    "Nanchang": [
+        "馱肚個"
+    ],
+    "Lichuan": [
+        "帶喜媽娘"
+    ],
+    "Pingxiang": [
+        "大肚子",
+        "巴肚婆"
+    ],
+    "Meixian": [
+        "大肚婦人家",
+        "大肚婆",
+        "擐大肚個"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "大肚婆"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "大肚婆"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "大肚婆"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "大肚婆"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "孕婦"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "孕婦"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "大屎肚",
+        "雙身人",
+        "大肚婆子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [
+        "大肚婆"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "大肚婆"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "大肚老嫗",
+        "擔肚老嫗",
+        "四眼煞"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "大肚婆",
+        "孕婦"
+    ],
+    "Hong Kong": [
+        "大肚婆",
+        "孕婦"
+    ],
+    "HK Weitou": [
+        "大肚婆"
+    ],
+    "Kam Tin": [
+        "大肚婆",
+        "四眼婆"
+    ],
+    "Ting Kok": [
+        "大肚婆"
+    ],
+    "Tung Ping Chau": [
+        "大肚婆"
+    ],
+    "Macau": [
+        "孕婦"
+    ],
+    "Panyu": [
+        "大肚婆"
+    ],
+    "Huadu": [
+        "大肚婆"
+    ],
+    "Conghua": [
+        "大肚婆"
+    ],
+    "Zengcheng": [
+        "大肚婆"
+    ],
+    "Foshan": [
+        "大肚婆"
+    ],
+    "Nanhai": [
+        "大肚婆"
+    ],
+    "Shunde": [
+        "大肚婆"
+    ],
+    "Sanshui": [
+        "大肚婆"
+    ],
+    "Gaoming": [
+        "大肚婆"
+    ],
+    "Zhongshan": [
+        "大肚婆"
+    ],
+    "Zhuhai": [
+        "大肚婆"
+    ],
+    "Doumen-T": [
+        "大肚婆"
+    ],
+    "Doumen-S": [
+        "大肚婆"
+    ],
+    "Jiangmen": [
+        "四眼婆"
+    ],
+    "Xinhui": [
+        "四眼婆"
+    ],
+    "Taishan": [
+        "帶仔老婆",
+        "大肚婆"
+    ],
+    "Kaiping": [
+        "帶仔老婆"
+    ],
+    "Enping": [
+        "帶仔乸"
+    ],
+    "Heshan": [
+        "大肚婆"
+    ],
+    "Dongguan": [
+        "大肚婆",
+        "馱仔婆"
+    ],
+    "Bao'an": [
+        "大肚婆"
+    ],
+    "Dapeng": [],
+    "Qingyuan": [
+        "大肚婆"
+    ],
+    "Fogang": [
+        "大肚婆"
+    ],
+    "Yingde": [
+        "大肚婆"
+    ],
+    "Yangshan": [
+        "馱仔婆"
+    ],
+    "Lianshan": [
+        "大肚婆"
+    ],
+    "Lianzhou": [
+        "大肚婆"
+    ],
+    "Shaoguan": [
+        "大肚婆"
+    ],
+    "Qujiang-C": [
+        "大肚婆"
+    ],
+    "Renhua": [
+        "大肚婆"
+    ],
+    "Lechang": [
+        "大肚婆"
+    ],
+    "Gaoyao": [
+        "大肚婆"
+    ],
+    "Sihui": [
+        "大肚婆"
+    ],
+    "Guangning": [
+        "馱胎婆"
+    ],
+    "Deqing": [
+        "大肚婆"
+    ],
+    "Huaiji": [
+        "大肚婆"
+    ],
+    "Fengkai": [
+        "大肚婆"
+    ],
+    "Yunfu": [
+        "大肚婆"
+    ],
+    "Xinxing": [
+        "大肚婆"
+    ],
+    "Luoding": [
+        "大肚婆"
+    ],
+    "Yunan": [
+        "大肚婆"
+    ],
+    "Yangjiang": [
+        "大肚婆"
+    ],
+    "Xinyi": [
+        "大肚婆"
+    ],
+    "Zhanjiang": [],
+    "Lianjiang": [
+        "大肚婆"
+    ],
+    "Wuchuan": [],
+    "Nanning": [
+        "大肚婆"
+    ],
+    "Wuzhou": [
+        "大肚婆"
+    ],
+    "Yulin": [
+        "大肚婆"
+    ],
+    "Hepu": [
+        "大肚婆"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "大肚婆"
+    ],
+    "Ho Chi Minh City": [
+        "大肚婆"
+    ],
+    "Nanning-P": [
+        "大肚婆",
+        "四眼婆"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "有身儂",
+        "大腹肚的",
+        "帶身的"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "有身儂"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "有身儂"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "有身儂"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "有身儂"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "孕婦"
+    ],
+    "Chaozhou": [
+        "大肚婆"
+    ],
+    "Shantou": [
+        "孕婦",
+        "有身份"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [
+        "大肚婆"
+    ],
+    "Johor Bahru": [
+        "大肚婆"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "捾囝母"
+    ],
+    "Leizhou": [
+        "捾囝尼婆"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Shaxi": [],
+    "Sanxiang": [],
+    "Fuzhou": [
+        "大腹肚",
+        "帶身其"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "大腹肚"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "大腹肚"
+    ],
+    "Jian'ou": [
+        "大腹阿娘",
+        "有囝阿娘"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
+}

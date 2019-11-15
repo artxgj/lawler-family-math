@@ -1,485 +1,305 @@
 {
     "meaning": "railway; railroad",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "鐵路",
-        "2": "鐵道"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "鐵路"
-    },
-    "Taiwan": {
-        "1": "鐵路"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "鐵路",
-        "2": "火車道",
-        "3": "鐵道線兒",
-        "4": "鐵道",
-        "5": "道線兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "鐵路",
-        "2": "鐵道"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "鐵路"
-    },
-    "Wanrong": {
-        "1": "火車路"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "鐵路"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "鐵路"
-    },
-    "Xuzhou": {
-        "1": "鐵路",
-        "2": "鐵道"
-    },
-    "Yinchuan": {
-        "1": "鐵路"
-    },
-    "Lanzhou": {
-        "1": "鐵路"
-    },
-    "Ürümqi": {
-        "1": "鐵路"
-    },
-    "Wuhan": {
-        "1": "鐵路"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "鐵路"
-    },
-    "Guiyang": {
-        "1": "鐵路"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": "鐵路"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "鐵路",
-        "2": "鐵道"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "鐵路"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "鐵路"
-    },
-    "Hangzhou": {
-        "1": "鐵路"
-    },
-    "Shanghai": {
-        "1": "鐵路"
-    },
-    "Chongming": {
-        "1": "鐵路"
-    },
-    "Wenzhou": {
-        "1": "鐵路"
-    },
-    "Danyang": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Jinhua": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "鐵路",
-        "2": "火車路:dated"
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "火車路",
-        "2": "鐵路"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "鐵路"
-    },
-    "Lichuan": {
-        "1": "鐵路"
-    },
-    "Pingxiang": {
-        "1": "鐵路"
-    },
-    "Meixian": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "鐵路"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Liudui": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Hsinchu": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Dongshi": {
-        "1": "鐵路",
-        "2": "鐵枝路",
-        "3": "火車路"
-    },
-    "Raoping": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Yunlin": {
-        "1": "鐵枝路",
-        "2": "火車路"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "鐵路"
-    },
-    "Guangzhou": {
-        "1": ""
-    },
-    "Hong Kong": {
-        "1": "鐵路",
-        "2": "火車路"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "鐵路",
-        "2": "火車路:dated"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "鐵路",
-        "2": "火車路:dated"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "火車路",
-        "2": "鐵路"
-    },
-    "Quanzhou": {
-        "1": "火車路",
-        "2": "鐵路"
-    },
-    "Zhangzhou": {
-        "1": "火車路",
-        "2": "鐵路"
-    },
-    "Taipei": {
-        "1": "鐵路"
-    },
-    "Kaohsiung": {
-        "1": "鐵枝路"
-    },
-    "Tainan": {
-        "1": "鐵枝路"
-    },
-    "Taichung": {
-        "1": "鐵枝仔路",
-        "2": "鐵路"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "鐵路",
-        "2": "鐵枝路"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "鐵路"
-    },
-    "Sanxia": {
-        "1": "鐵路"
-    },
-    "Yilan": {
-        "1": "鐵枝路"
-    },
-    "Kinmen": {
-        "1": "鐵路"
-    },
-    "Magong": {
-        "1": "鐵路",
-        "2": "鐵道路"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "鐵路"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "火車路"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "鐵墿",
-        "2": "火車墿"
-    }
+    "Classical": [],
+    "Formal": [
+        "鐵路",
+        "鐵道"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "鐵路"
+    ],
+    "Taiwan": [
+        "鐵路"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "鐵路",
+        "火車道",
+        "鐵道線兒",
+        "鐵道",
+        "道線兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "鐵路",
+        "鐵道"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "鐵路"
+    ],
+    "Wanrong": [
+        "火車路"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "鐵路"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "鐵路"
+    ],
+    "Xuzhou": [
+        "鐵路",
+        "鐵道"
+    ],
+    "Yinchuan": [
+        "鐵路"
+    ],
+    "Lanzhou": [
+        "鐵路"
+    ],
+    "Ürümqi": [
+        "鐵路"
+    ],
+    "Wuhan": [
+        "鐵路"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "鐵路"
+    ],
+    "Guiyang": [
+        "鐵路"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "鐵路",
+        "火車路"
+    ],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [
+        "鐵路"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "鐵路",
+        "鐵道"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "鐵路"
+    ],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "鐵路"
+    ],
+    "Hangzhou": [
+        "鐵路"
+    ],
+    "Shanghai": [
+        "鐵路"
+    ],
+    "Chongming": [
+        "鐵路"
+    ],
+    "Wenzhou": [
+        "鐵路"
+    ],
+    "Danyang": [
+        "鐵路",
+        "火車路"
+    ],
+    "Jinhua": [
+        "鐵路",
+        "火車路"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "鐵路",
+        "火車路:dated"
+    ],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "火車路",
+        "鐵路"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "鐵路"
+    ],
+    "Lichuan": [
+        "鐵路"
+    ],
+    "Pingxiang": [
+        "鐵路"
+    ],
+    "Meixian": [
+        "鐵路",
+        "火車路"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "鐵路"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "鐵路",
+        "火車路"
+    ],
+    "Liudui": [
+        "鐵路",
+        "火車路"
+    ],
+    "Hsinchu": [
+        "鐵路",
+        "火車路"
+    ],
+    "Dongshi": [
+        "鐵路",
+        "鐵枝路",
+        "火車路"
+    ],
+    "Raoping": [
+        "鐵路",
+        "火車路"
+    ],
+    "Yunlin": [
+        "鐵枝路",
+        "火車路"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "鐵路"
+    ],
+    "Guangzhou": [],
+    "Hong Kong": [
+        "鐵路",
+        "火車路"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "鐵路",
+        "火車路:dated"
+    ],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "鐵路",
+        "火車路:dated"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "火車路",
+        "鐵路"
+    ],
+    "Quanzhou": [
+        "火車路",
+        "鐵路"
+    ],
+    "Zhangzhou": [
+        "火車路",
+        "鐵路"
+    ],
+    "Taipei": [
+        "鐵路"
+    ],
+    "Kaohsiung": [
+        "鐵枝路"
+    ],
+    "Tainan": [
+        "鐵枝路"
+    ],
+    "Taichung": [
+        "鐵枝仔路",
+        "鐵路"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "鐵路",
+        "鐵枝路"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "鐵路"
+    ],
+    "Sanxia": [
+        "鐵路"
+    ],
+    "Yilan": [
+        "鐵枝路"
+    ],
+    "Kinmen": [
+        "鐵路"
+    ],
+    "Magong": [
+        "鐵路",
+        "鐵道路"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "鐵路"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "火車路"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "鐵墿",
+        "火車墿"
+    ]
 }

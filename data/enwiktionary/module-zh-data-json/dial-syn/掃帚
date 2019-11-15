@@ -1,599 +1,411 @@
 {
     "meaning": "(large) broom",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "掃帚"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "掃帚"
-    },
-    "Taiwan": {
-        "1": "掃帚",
-        "2": "掃把"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "大掃帚",
-        "2": "掃帚"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "掃帚"
-    },
-    "Ulan Hot": {
-        "1": "掃帚"
-    },
-    "Tongliao": {
-        "1": "掃帚"
-    },
-    "Chifeng": {
-        "1": "掃帚"
-    },
-    "Bayanhot": {
-        "1": "笤帚",
-        "2": "掃帚",
-        "3": "掃把"
-    },
-    "Jinan": {
-        "1": "掃帚"
-    },
-    "Muping": {
-        "1": "掃帚"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "掃帚"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "掃帚"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "掃帚"
-    },
-    "Xining": {
-        "1": "掃帚",
-        "2": "掃把"
-    },
-    "Xuzhou": {
-        "1": "大掃帚",
-        "2": "掃帚"
-    },
-    "Yinchuan": {
-        "1": "掃帚"
-    },
-    "Lanzhou": {
-        "1": "掃帚"
-    },
-    "Ürümqi": {
-        "1": "掃把"
-    },
-    "Wuhan": {
-        "1": "笤帚"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "叉頭掃把",
-        "2": "大掃把",
-        "3": "掃把"
-    },
-    "Guiyang": {
-        "1": "掃把"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "掃把"
-    },
-    "Kunming": {
-        "1": "笤帚"
-    },
-    "Yangzhou": {
-        "1": "笤竹"
-    },
-    "Nanjing": {
-        "1": "掃把"
-    },
-    "Hefei": {
-        "1": "笤帚"
-    },
-    "Nantong": {
-        "1": "掃把"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "掃帚"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "掃帚"
-    },
-    "Baochang": {
-        "1": "掃帚"
-    },
-    "Jining": {
-        "1": "掃帚"
-    },
-    "Hohhot": {
-        "1": "掃帚"
-    },
-    "Baotou": {
-        "1": "掃帚"
-    },
-    "Dongsheng": {
-        "1": "掃帚"
-    },
-    "Linhe": {
-        "1": "掃帚"
-    },
-    "Haibowan": {
-        "1": "笤帚"
-    },
-    "Shanghai": {
-        "1": "掃帚"
-    },
-    "Suzhou": {
-        "1": "掃帚"
-    },
-    "Wuxi": {
-        "1": "掃帚"
-    },
-    "Hangzhou": {
-        "1": "掃帚",
-        "2": "笤帚",
-        "3": "掃帚把"
-    },
-    "Chongming": {
-        "1": "掃帚"
-    },
-    "Wenzhou": {
-        "1": "搽掃"
-    },
-    "Danyang": {
-        "1": "掃帚"
-    },
-    "Jinhua": {
-        "1": "掃帚",
-        "2": "笤帚"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "掃帚",
-        "2": "掃帚棒頭"
-    },
-    "Changsha": {
-        "1": "掃把"
-    },
-    "Shuangfeng": {
-        "1": "乍掃子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "掃子"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "秺帚"
-    },
-    "Lichuan": {
-        "1": "笤帚"
-    },
-    "Pingxiang": {
-        "1": "掃把"
-    },
-    "Meixian": {
-        "1": "掃把"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "掃把"
-    },
-    "Liudui": {
-        "1": "掃把"
-    },
-    "Hsinchu": {
-        "1": "掃把"
-    },
-    "Dongshi": {
-        "1": "掃把"
-    },
-    "Raoping": {
-        "1": "掃把"
-    },
-    "Yunlin": {
-        "1": "掃把"
-    },
-    "Hong Kong-H": {
-        "1": "掃把"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "掃把"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "笤帚"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "掃把"
-    },
-    "Hong Kong": {
-        "1": "掃把"
-    },
-    "Shunde": {
-        "1": "掃桿"
-    },
-    "Foshan": {
-        "1": "掃把"
-    },
-    "Zhongshan": {
-        "1": "掃把"
-    },
-    "Dongguan": {
-        "1": "掃把"
-    },
-    "HK Weitou": {
-        "1": "大掃"
-    },
-    "Taishan": {
-        "1": "掃桿"
-    },
-    "Doumen": {
-        "1": "掃把"
-    },
-    "Kaiping": {
-        "1": "掃桿"
-    },
-    "Shaoguan": {
-        "1": "掃把"
-    },
-    "Yunfu": {
-        "1": "掃桿",
-        "2": "地掃"
-    },
-    "Yangjiang": {
-        "1": "掃把"
-    },
-    "Xinyi": {
-        "1": "掃把"
-    },
-    "Lianjiang": {
-        "1": "掃把"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "掃把"
-    },
-    "Ho Chi Minh City": {
-        "1": "掃把"
-    },
-    "Nanning-P": {
-        "1": "竹掃桿",
-        "2": "掃桿"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "掃帚"
-    },
-    "Quanzhou": {
-        "1": "掃帚"
-    },
-    "Zhangzhou": {
-        "1": "掃帚"
-    },
-    "Taipei": {
-        "1": "掃帚"
-    },
-    "Kaohsiung": {
-        "1": "掃帚"
-    },
-    "Tainan": {
-        "1": "掃帚"
-    },
-    "Taichung": {
-        "1": "掃梳"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "掃梳"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "掃帚"
-    },
-    "Sanxia": {
-        "1": "掃帚"
-    },
-    "Yilan": {
-        "1": "掃帚"
-    },
-    "Kinmen": {
-        "1": "竹掃帚"
-    },
-    "Magong": {
-        "1": "竹掃"
-    },
-    "Malaysia-MN": {
-        "1": "掃帚",
-        "2": "草帚"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "掃帚"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "掃帚"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "硬刷"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "筅帚",
-        "2": "掃帚"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "掃帚"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "掃帚"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "掃帚"
+    ],
+    "Taiwan": [
+        "掃帚",
+        "掃把"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "大掃帚",
+        "掃帚"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "掃帚"
+    ],
+    "Ulan Hot": [
+        "掃帚"
+    ],
+    "Tongliao": [
+        "掃帚"
+    ],
+    "Chifeng": [
+        "掃帚"
+    ],
+    "Bayanhot": [
+        "笤帚",
+        "掃帚",
+        "掃把"
+    ],
+    "Jinan": [
+        "掃帚"
+    ],
+    "Muping": [
+        "掃帚"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "掃帚"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "掃帚"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "掃帚"
+    ],
+    "Xining": [
+        "掃帚",
+        "掃把"
+    ],
+    "Xuzhou": [
+        "大掃帚",
+        "掃帚"
+    ],
+    "Yinchuan": [
+        "掃帚"
+    ],
+    "Lanzhou": [
+        "掃帚"
+    ],
+    "Ürümqi": [
+        "掃把"
+    ],
+    "Wuhan": [
+        "笤帚"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "叉頭掃把",
+        "大掃把",
+        "掃把"
+    ],
+    "Guiyang": [
+        "掃把"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "掃把"
+    ],
+    "Kunming": [
+        "笤帚"
+    ],
+    "Yangzhou": [
+        "笤竹"
+    ],
+    "Nanjing": [
+        "掃把"
+    ],
+    "Hefei": [
+        "笤帚"
+    ],
+    "Nantong": [
+        "掃把"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "掃帚"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "掃帚"
+    ],
+    "Baochang": [
+        "掃帚"
+    ],
+    "Jining": [
+        "掃帚"
+    ],
+    "Hohhot": [
+        "掃帚"
+    ],
+    "Baotou": [
+        "掃帚"
+    ],
+    "Dongsheng": [
+        "掃帚"
+    ],
+    "Linhe": [
+        "掃帚"
+    ],
+    "Haibowan": [
+        "笤帚"
+    ],
+    "Shanghai": [
+        "掃帚"
+    ],
+    "Suzhou": [
+        "掃帚"
+    ],
+    "Wuxi": [
+        "掃帚"
+    ],
+    "Hangzhou": [
+        "掃帚",
+        "笤帚",
+        "掃帚把"
+    ],
+    "Chongming": [
+        "掃帚"
+    ],
+    "Wenzhou": [
+        "搽掃"
+    ],
+    "Danyang": [
+        "掃帚"
+    ],
+    "Jinhua": [
+        "掃帚",
+        "笤帚"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "掃帚",
+        "掃帚棒頭"
+    ],
+    "Changsha": [
+        "掃把"
+    ],
+    "Shuangfeng": [
+        "乍掃子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "掃子"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "秺帚"
+    ],
+    "Lichuan": [
+        "笤帚"
+    ],
+    "Pingxiang": [
+        "掃把"
+    ],
+    "Meixian": [
+        "掃把"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "掃把"
+    ],
+    "Liudui": [
+        "掃把"
+    ],
+    "Hsinchu": [
+        "掃把"
+    ],
+    "Dongshi": [
+        "掃把"
+    ],
+    "Raoping": [
+        "掃把"
+    ],
+    "Yunlin": [
+        "掃把"
+    ],
+    "Hong Kong-H": [
+        "掃把"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "掃把"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "笤帚"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "掃把"
+    ],
+    "Hong Kong": [
+        "掃把"
+    ],
+    "Shunde": [
+        "掃桿"
+    ],
+    "Foshan": [
+        "掃把"
+    ],
+    "Zhongshan": [
+        "掃把"
+    ],
+    "Dongguan": [
+        "掃把"
+    ],
+    "HK Weitou": [
+        "大掃"
+    ],
+    "Taishan": [
+        "掃桿"
+    ],
+    "Doumen": [
+        "掃把"
+    ],
+    "Kaiping": [
+        "掃桿"
+    ],
+    "Shaoguan": [
+        "掃把"
+    ],
+    "Yunfu": [
+        "掃桿",
+        "地掃"
+    ],
+    "Yangjiang": [
+        "掃把"
+    ],
+    "Xinyi": [
+        "掃把"
+    ],
+    "Lianjiang": [
+        "掃把"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "掃把"
+    ],
+    "Ho Chi Minh City": [
+        "掃把"
+    ],
+    "Nanning-P": [
+        "竹掃桿",
+        "掃桿"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "掃帚"
+    ],
+    "Quanzhou": [
+        "掃帚"
+    ],
+    "Zhangzhou": [
+        "掃帚"
+    ],
+    "Taipei": [
+        "掃帚"
+    ],
+    "Kaohsiung": [
+        "掃帚"
+    ],
+    "Tainan": [
+        "掃帚"
+    ],
+    "Taichung": [
+        "掃梳"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "掃梳"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "掃帚"
+    ],
+    "Sanxia": [
+        "掃帚"
+    ],
+    "Yilan": [
+        "掃帚"
+    ],
+    "Kinmen": [
+        "竹掃帚"
+    ],
+    "Magong": [
+        "竹掃"
+    ],
+    "Malaysia-MN": [
+        "掃帚",
+        "草帚"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "掃帚"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "掃帚"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "硬刷"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "筅帚",
+        "掃帚"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "掃帚"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

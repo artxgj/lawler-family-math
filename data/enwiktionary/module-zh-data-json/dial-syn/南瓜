@@ -1,851 +1,719 @@
 {
     "meaning": "pumpkin",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "南瓜"
-    },
-    "Beijing": {
-        "1": "倭瓜",
-        "2": "老倭瓜",
-        "3": "北瓜",
-        "4": "南瓜"
-    },
-    "Taiwan": {
-        "1": "南瓜"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "倭瓜"
-    },
-    "Shenyang": {
-        "1": "倭瓜"
-    },
-    "Hailar": {
-        "1": "倭瓜"
-    },
-    "Ulan Hot": {
-        "1": "倭瓜"
-    },
-    "Tongliao": {
-        "1": "倭瓜"
-    },
-    "Chifeng": {
-        "1": "倭瓜"
-    },
-    "Bayanhot": {
-        "1": "倭瓜",
-        "2": "葫蘆"
-    },
-    "Jinan": {
-        "1": "南瓜",
-        "2": "倭瓜",
-        "3": "北瓜"
-    },
-    "Muping": {
-        "1": "芋瓜"
-    },
-    "Luoyang": {
-        "1": "南瓜",
-        "2": "倭瓜"
-    },
-    "Wanrong": {
-        "1": "北瓜",
-        "2": "倭瓜",
-        "3": "六水瓜"
-    },
-    "Ronghe": {
-        "1": "南瓜"
-    },
-    "Xi'an": {
-        "1": "倭瓜",
-        "2": "南瓜",
-        "3": "番瓜"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "南瓜",
-        "2": "倭瓜"
-    },
-    "Xining": {
-        "1": "南瓜"
-    },
-    "Xuzhou": {
-        "1": "南瓜"
-    },
-    "Yinchuan": {
-        "1": "倭瓜",
-        "2": "麵瓜"
-    },
-    "Lanzhou": {
-        "1": "南瓜"
-    },
-    "Ürümqi": {
-        "1": "倭瓜",
-        "2": "南瓜"
-    },
-    "Wuhan": {
-        "1": "南瓜"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "南瓜"
-    },
-    "Guiyang": {
-        "1": "南瓜"
-    },
-    "Guilin": {
-        "1": "南瓜"
-    },
-    "Liuzhou": {
-        "1": "南瓜"
-    },
-    "Kunming": {
-        "1": "南瓜"
-    },
-    "Yangzhou": {
-        "1": "番瓜"
-    },
-    "Nanjing": {
-        "1": "北瓜",
-        "2": "老北瓜",
-        "3": "南瓜"
-    },
-    "Hefei": {
-        "1": "南瓜"
-    },
-    "Nantong": {
-        "1": "番瓜"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "南瓜",
-        "2": "倭瓜"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "南瓜",
-        "2": "番瓜"
-    },
-    "Pingyao": {
-        "1": "南瓜"
-    },
-    "Xinzhou": {
-        "1": "南瓜"
-    },
-    "Baochang": {
-        "1": "倭瓜"
-    },
-    "Jining": {
-        "1": "倭瓜"
-    },
-    "Hohhot": {
-        "1": "番瓜"
-    },
-    "Baotou": {
-        "1": "倭瓜"
-    },
-    "Dongsheng": {
-        "1": "倭瓜"
-    },
-    "Linhe": {
-        "1": "倭瓜"
-    },
-    "Haibowan": {
-        "1": "麵瓜"
-    },
-    "Shanghai": {
-        "1": "南瓜",
-        "2": "飯瓜"
-    },
-    "Suzhou": {
-        "1": "南瓜"
-    },
-    "Wuxi": {
-        "1": "南瓜"
-    },
-    "Hangzhou": {
-        "1": "南瓜"
-    },
-    "Chongming": {
-        "1": "番瓜"
-    },
-    "Wenzhou": {
-        "1": "金瓜"
-    },
-    "Danyang": {
-        "1": "番瓜"
-    },
-    "Jinhua": {
-        "1": "金瓜"
-    },
-    "Tangxi": {
-        "1": "花蒲"
-    },
-    "Ningbo": {
-        "1": "飯瓜",
-        "2": "南瓜"
-    },
-    "Changsha": {
-        "1": "南瓜",
-        "2": "北瓜:suburbs"
-    },
-    "Shuangfeng": {
-        "1": "番瓜",
-        "2": "南瓜"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "南瓜"
-    },
-    "Quanzhou-X": {
-        "1": "南瓜"
-    },
-    "Nanchang": {
-        "1": "北瓜"
-    },
-    "Lichuan": {
-        "1": "南瓜"
-    },
-    "Pingxiang": {
-        "1": "金瓜"
-    },
-    "Meixian": {
-        "1": "冬瓜",
-        "2": "金瓜"
-    },
-    "Xingning": {
-        "1": "冬瓜"
-    },
-    "Huizhou": {
-        "1": "金瓜"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": "金瓜"
-    },
-    "Dongguan-H": {
-        "1": "金瓜"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "金瓜"
-    },
-    "Zengcheng-ZG": {
-        "1": "金瓜"
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "番瓜"
-    },
-    "Wuhua-SZ": {
-        "1": "冬瓜"
-    },
-    "Wuhua-HC": {
-        "1": "冬瓜"
-    },
-    "Wuhua-CB": {
-        "1": "番瓜",
-        "2": "弓瓜"
-    },
-    "Wuhua-MY": {
-        "1": "弓瓜"
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": "番瓠"
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": "番瓜"
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "番瓜"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "南瓜"
-    },
-    "Changting": {
-        "1": "番瓠"
-    },
-    "Pingyu": {
-        "1": "番瓠"
-    },
-    "Wuping": {
-        "1": "番瓠"
-    },
-    "Liancheng": {
-        "1": "金瓜"
-    },
-    "Ninghua": {
-        "1": "番瓠"
-    },
-    "Yudu": {
-        "1": "番瓠",
-        "2": "金瓜"
-    },
-    "Ruijin": {
-        "1": "斑瓠"
-    },
-    "Shicheng": {
-        "1": "番瓠"
-    },
-    "Shangyou": {
-        "1": "番瓠"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "番瓜",
-        "2": "黃瓜",
-        "3": "黃瓠"
-    },
-    "Liudui": {
-        "1": "番瓜",
-        "2": "金瓜"
-    },
-    "Hsinchu": {
-        "1": "黃瓠",
-        "2": "番瓜"
-    },
-    "Dongshi": {
-        "1": "黃瓜"
-    },
-    "Raoping": {
-        "1": "黃瓠",
-        "2": "金瓜"
-    },
-    "Yunlin": {
-        "1": "金瓜"
-    },
-    "Hong Kong-H": {
-        "1": "金瓜"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "金瓜"
-    },
-    "Senai": {
-        "1": "金瓜"
-    },
-    "Singkawang": {
-        "1": "黃瓠"
-    },
-    "Jixi": {
-        "1": "南瓜",
-        "2": "北瓜"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "番瓜",
-        "2": "南瓜",
-        "3": "金瓜"
-    },
-    "Hong Kong": {
-        "1": "番瓜",
-        "2": "南瓜",
-        "3": "金瓜"
-    },
-    "HK Weitou": {
-        "1": "番瓜",
-        "2": "南瓜"
-    },
-    "Kam Tin": {
-        "1": "番瓜",
-        "2": "紅瓜",
-        "3": "甜瓜"
-    },
-    "Ting Kok": {
-        "1": "金瓜"
-    },
-    "Tung Ping Chau": {
-        "1": "金瓜"
-    },
-    "Macau": {
-        "1": "番瓜"
-    },
-    "Panyu": {
-        "1": "番瓜",
-        "2": "南瓜"
-    },
-    "Huadu": {
-        "1": "番瓜"
-    },
-    "Conghua": {
-        "1": "南瓜"
-    },
-    "Zengcheng": {
-        "1": "棚瓜"
-    },
-    "Foshan": {
-        "1": "南瓜",
-        "2": "番瓜"
-    },
-    "Nanhai": {
-        "1": "針瓜"
-    },
-    "Shunde": {
-        "1": "番瓜"
-    },
-    "Sanshui": {
-        "1": "砧瓜"
-    },
-    "Gaoming": {
-        "1": "砧瓜"
-    },
-    "Zhongshan": {
-        "1": "番瓜"
-    },
-    "Zhuhai": {
-        "1": "金瓜"
-    },
-    "Doumen-T": {
-        "1": "番瓜"
-    },
-    "Doumen-S": {
-        "1": "盒瓜"
-    },
-    "Jiangmen": {
-        "1": "盒瓜"
-    },
-    "Xinhui": {
-        "1": "盒瓜"
-    },
-    "Taishan": {
-        "1": "番瓜",
-        "2": "南瓜"
-    },
-    "Kaiping": {
-        "1": "番瓜"
-    },
-    "Enping": {
-        "1": "番瓜"
-    },
-    "Heshan": {
-        "1": "金瓜"
-    },
-    "Dongguan": {
-        "1": "番瓜",
-        "2": "南瓜"
-    },
-    "Bao'an": {
-        "1": "甜瓜"
-    },
-    "Dapeng": {
-        "1": "金瓜"
-    },
-    "Shaoguan": {
-        "1": "番瓜"
-    },
-    "Yunfu": {
-        "1": "金瓜",
-        "2": "節瓜:small"
-    },
-    "Yangjiang": {
-        "1": "金瓜"
-    },
-    "Xinyi": {
-        "1": "番瓜"
-    },
-    "Lianjiang": {
-        "1": "金瓜",
-        "2": "南瓜"
-    },
-    "Nanning": {
-        "1": "南瓜"
-    },
-    "Wuzhou": {
-        "1": "金瓜"
-    },
-    "Yulin": {
-        "1": "金瓜",
-        "2": "四月菜"
-    },
-    "Hepu": {
-        "1": "金瓜"
-    },
-    "Danzhou": {
-        "1": "金瓜"
-    },
-    "Kuala Lumpur": {
-        "1": "金瓜",
-        "2": "番瓜"
-    },
-    "Ho Chi Minh City": {
-        "1": "南瓜"
-    },
-    "Nanning-P": {
-        "1": "金瓜",
-        "2": "南瓜"
-    },
-    "Guilin-P": {
-        "1": "金瓜"
-    },
-    "Xiamen": {
-        "1": "金瓜"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "冬瓜",
-        "2": "金瓜"
-    },
-    "Jinjiang": {
-        "1": "匏",
-        "2": "冬瓜"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "匏"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "金瓜"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "金瓜"
-    },
-    "Taipei": {
-        "1": "金瓜"
-    },
-    "Kaohsiung": {
-        "1": "金瓜"
-    },
-    "Tainan": {
-        "1": "金瓜"
-    },
-    "Taichung": {
-        "1": "金瓜"
-    },
-    "Wuqi": {
-        "1": "金瓜"
-    },
-    "Hsinchu-MN": {
-        "1": "金瓜"
-    },
-    "Taitung": {
-        "1": "金瓜"
-    },
-    "Lukang": {
-        "1": "金瓜"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "金瓜"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "金瓜"
-    },
-    "Malaysia-MN": {
-        "1": "金瓜"
-    },
-    "Singapore-MN": {
-        "1": "金瓜"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "烏瓠"
-    },
-    "Datian": {
-        "1": "番瓠"
-    },
-    "Pingnan": {
-        "1": "南瓜"
-    },
-    "Chaozhou": {
-        "1": "番瓜"
-    },
-    "Shantou": {
-        "1": "番瓜",
-        "2": "南瓜",
-        "3": "金瓜"
-    },
-    "Haifeng": {
-        "1": "金瓜"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "金瓜"
-    },
-    "Wenchang": {
-        "1": "南瓜",
-        "2": "盒瓜"
-    },
-    "Haikou": {
-        "1": "南瓜"
-    },
-    "Leizhou": {
-        "1": "金瓜"
-    },
-    "Putian": {
-        "1": "通瓜",
-        "2": "金瓜",
-        "3": "南瓜"
-    },
-    "Xianyou": {
-        "1": "匏"
-    },
-    "Fuzhou": {
-        "1": "金瓜",
-        "2": "南瓜"
-    },
-    "Changle": {
-        "1": "金瓜"
-    },
-    "Fuqing": {
-        "1": "金瓜"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "金匏"
-    },
-    "Gutian": {
-        "1": "金匏"
-    },
-    "Fu'an": {
-        "1": "金匏"
-    },
-    "Ningde": {
-        "1": "金匏"
-    },
-    "Shouning": {
-        "1": "金瓜"
-    },
-    "Zhouning": {
-        "1": "金匏"
-    },
-    "Fuding": {
-        "1": "金瓜"
-    },
-    "Matsu": {
-        "1": "金瓜"
-    },
-    "Jian'ou": {
-        "1": "金瓜"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": "金瓠"
-    },
-    "Zhenghe": {
-        "1": "金瓜"
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "南瓜"
-    },
-    "Wuyishan": {
-        "1": "南瓜"
-    },
-    "Shibei": {
-        "1": "金瓜"
-    },
-    "Fu'an-She": {
-        "1": "金瓠"
-    },
-    "Fuding-She": {
-        "1": "金瓜"
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": "番瓠"
-    },
-    "Shunchang-She": {
-        "1": "番瓠"
-    },
-    "Hua'an-She": {
-        "1": "金瓜"
-    },
-    "Guixi-She": {
-        "1": "金瓠"
-    },
-    "Cangnan-She": {
-        "1": "金瓜"
-    },
-    "Jingning-She": {
-        "1": "金瓜"
-    },
-    "Lishui-She": {
-        "1": "金瓜"
-    },
-    "Longyou-She": {
-        "1": "金瓜"
-    },
-    "Chaozhou-She": {
-        "1": "金瓜"
-    },
-    "Fengshun-She": {
-        "1": "黃瓜"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [
+        "南瓜"
+    ],
+    "Beijing": [
+        "倭瓜",
+        "老倭瓜",
+        "北瓜",
+        "南瓜"
+    ],
+    "Taiwan": [
+        "南瓜"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "倭瓜"
+    ],
+    "Shenyang": [
+        "倭瓜"
+    ],
+    "Hailar": [
+        "倭瓜"
+    ],
+    "Ulan Hot": [
+        "倭瓜"
+    ],
+    "Tongliao": [
+        "倭瓜"
+    ],
+    "Chifeng": [
+        "倭瓜"
+    ],
+    "Bayanhot": [
+        "倭瓜",
+        "葫蘆"
+    ],
+    "Jinan": [
+        "南瓜",
+        "倭瓜",
+        "北瓜"
+    ],
+    "Muping": [
+        "芋瓜"
+    ],
+    "Luoyang": [
+        "南瓜",
+        "倭瓜"
+    ],
+    "Wanrong": [
+        "北瓜",
+        "倭瓜",
+        "六水瓜"
+    ],
+    "Ronghe": [
+        "南瓜"
+    ],
+    "Xi'an": [
+        "倭瓜",
+        "南瓜",
+        "番瓜"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "南瓜",
+        "倭瓜"
+    ],
+    "Xining": [
+        "南瓜"
+    ],
+    "Xuzhou": [
+        "南瓜"
+    ],
+    "Yinchuan": [
+        "倭瓜",
+        "麵瓜"
+    ],
+    "Lanzhou": [
+        "南瓜"
+    ],
+    "Ürümqi": [
+        "倭瓜",
+        "南瓜"
+    ],
+    "Wuhan": [
+        "南瓜"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "南瓜"
+    ],
+    "Guiyang": [
+        "南瓜"
+    ],
+    "Guilin": [
+        "南瓜"
+    ],
+    "Liuzhou": [
+        "南瓜"
+    ],
+    "Kunming": [
+        "南瓜"
+    ],
+    "Yangzhou": [
+        "番瓜"
+    ],
+    "Nanjing": [
+        "北瓜",
+        "老北瓜",
+        "南瓜"
+    ],
+    "Hefei": [
+        "南瓜"
+    ],
+    "Nantong": [
+        "番瓜"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "南瓜",
+        "倭瓜"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "南瓜",
+        "番瓜"
+    ],
+    "Pingyao": [
+        "南瓜"
+    ],
+    "Xinzhou": [
+        "南瓜"
+    ],
+    "Baochang": [
+        "倭瓜"
+    ],
+    "Jining": [
+        "倭瓜"
+    ],
+    "Hohhot": [
+        "番瓜"
+    ],
+    "Baotou": [
+        "倭瓜"
+    ],
+    "Dongsheng": [
+        "倭瓜"
+    ],
+    "Linhe": [
+        "倭瓜"
+    ],
+    "Haibowan": [
+        "麵瓜"
+    ],
+    "Shanghai": [
+        "南瓜",
+        "飯瓜"
+    ],
+    "Suzhou": [
+        "南瓜"
+    ],
+    "Wuxi": [
+        "南瓜"
+    ],
+    "Hangzhou": [
+        "南瓜"
+    ],
+    "Chongming": [
+        "番瓜"
+    ],
+    "Wenzhou": [
+        "金瓜"
+    ],
+    "Danyang": [
+        "番瓜"
+    ],
+    "Jinhua": [
+        "金瓜"
+    ],
+    "Tangxi": [
+        "花蒲"
+    ],
+    "Ningbo": [
+        "飯瓜",
+        "南瓜"
+    ],
+    "Changsha": [
+        "南瓜",
+        "北瓜:suburbs"
+    ],
+    "Shuangfeng": [
+        "番瓜",
+        "南瓜"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "南瓜"
+    ],
+    "Quanzhou-X": [
+        "南瓜"
+    ],
+    "Nanchang": [
+        "北瓜"
+    ],
+    "Lichuan": [
+        "南瓜"
+    ],
+    "Pingxiang": [
+        "金瓜"
+    ],
+    "Meixian": [
+        "冬瓜",
+        "金瓜"
+    ],
+    "Xingning": [
+        "冬瓜"
+    ],
+    "Huizhou": [
+        "金瓜"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [
+        "金瓜"
+    ],
+    "Dongguan-H": [
+        "金瓜"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "金瓜"
+    ],
+    "Zengcheng-ZG": [
+        "金瓜"
+    ],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "番瓜"
+    ],
+    "Wuhua-SZ": [
+        "冬瓜"
+    ],
+    "Wuhua-HC": [
+        "冬瓜"
+    ],
+    "Wuhua-CB": [
+        "番瓜",
+        "弓瓜"
+    ],
+    "Wuhua-MY": [
+        "弓瓜"
+    ],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [
+        "番瓠"
+    ],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [
+        "番瓜"
+    ],
+    "Liannan": [],
+    "Conghua-H": [
+        "番瓜"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "南瓜"
+    ],
+    "Changting": [
+        "番瓠"
+    ],
+    "Pingyu": [
+        "番瓠"
+    ],
+    "Wuping": [
+        "番瓠"
+    ],
+    "Liancheng": [
+        "金瓜"
+    ],
+    "Ninghua": [
+        "番瓠"
+    ],
+    "Yudu": [
+        "番瓠",
+        "金瓜"
+    ],
+    "Ruijin": [
+        "斑瓠"
+    ],
+    "Shicheng": [
+        "番瓠"
+    ],
+    "Shangyou": [
+        "番瓠"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "番瓜",
+        "黃瓜",
+        "黃瓠"
+    ],
+    "Liudui": [
+        "番瓜",
+        "金瓜"
+    ],
+    "Hsinchu": [
+        "黃瓠",
+        "番瓜"
+    ],
+    "Dongshi": [
+        "黃瓜"
+    ],
+    "Raoping": [
+        "黃瓠",
+        "金瓜"
+    ],
+    "Yunlin": [
+        "金瓜"
+    ],
+    "Hong Kong-H": [
+        "金瓜"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "金瓜"
+    ],
+    "Senai": [
+        "金瓜"
+    ],
+    "Singkawang": [
+        "黃瓠"
+    ],
+    "Jixi": [
+        "南瓜",
+        "北瓜"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "番瓜",
+        "南瓜",
+        "金瓜"
+    ],
+    "Hong Kong": [
+        "番瓜",
+        "南瓜",
+        "金瓜"
+    ],
+    "HK Weitou": [
+        "番瓜",
+        "南瓜"
+    ],
+    "Kam Tin": [
+        "番瓜",
+        "紅瓜",
+        "甜瓜"
+    ],
+    "Ting Kok": [
+        "金瓜"
+    ],
+    "Tung Ping Chau": [
+        "金瓜"
+    ],
+    "Macau": [
+        "番瓜"
+    ],
+    "Panyu": [
+        "番瓜",
+        "南瓜"
+    ],
+    "Huadu": [
+        "番瓜"
+    ],
+    "Conghua": [
+        "南瓜"
+    ],
+    "Zengcheng": [
+        "棚瓜"
+    ],
+    "Foshan": [
+        "南瓜",
+        "番瓜"
+    ],
+    "Nanhai": [
+        "針瓜"
+    ],
+    "Shunde": [
+        "番瓜"
+    ],
+    "Sanshui": [
+        "砧瓜"
+    ],
+    "Gaoming": [
+        "砧瓜"
+    ],
+    "Zhongshan": [
+        "番瓜"
+    ],
+    "Zhuhai": [
+        "金瓜"
+    ],
+    "Doumen-T": [
+        "番瓜"
+    ],
+    "Doumen-S": [
+        "盒瓜"
+    ],
+    "Jiangmen": [
+        "盒瓜"
+    ],
+    "Xinhui": [
+        "盒瓜"
+    ],
+    "Taishan": [
+        "番瓜",
+        "南瓜"
+    ],
+    "Kaiping": [
+        "番瓜"
+    ],
+    "Enping": [
+        "番瓜"
+    ],
+    "Heshan": [
+        "金瓜"
+    ],
+    "Dongguan": [
+        "番瓜",
+        "南瓜"
+    ],
+    "Bao'an": [
+        "甜瓜"
+    ],
+    "Dapeng": [
+        "金瓜"
+    ],
+    "Shaoguan": [
+        "番瓜"
+    ],
+    "Yunfu": [
+        "金瓜",
+        "節瓜:small"
+    ],
+    "Yangjiang": [
+        "金瓜"
+    ],
+    "Xinyi": [
+        "番瓜"
+    ],
+    "Lianjiang": [
+        "金瓜",
+        "南瓜"
+    ],
+    "Nanning": [
+        "南瓜"
+    ],
+    "Wuzhou": [
+        "金瓜"
+    ],
+    "Yulin": [
+        "金瓜",
+        "四月菜"
+    ],
+    "Hepu": [
+        "金瓜"
+    ],
+    "Danzhou": [
+        "金瓜"
+    ],
+    "Kuala Lumpur": [
+        "金瓜",
+        "番瓜"
+    ],
+    "Ho Chi Minh City": [
+        "南瓜"
+    ],
+    "Nanning-P": [
+        "金瓜",
+        "南瓜"
+    ],
+    "Guilin-P": [
+        "金瓜"
+    ],
+    "Xiamen": [
+        "金瓜"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "冬瓜",
+        "金瓜"
+    ],
+    "Jinjiang": [
+        "匏",
+        "冬瓜"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "匏"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "金瓜"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "金瓜"
+    ],
+    "Taipei": [
+        "金瓜"
+    ],
+    "Kaohsiung": [
+        "金瓜"
+    ],
+    "Tainan": [
+        "金瓜"
+    ],
+    "Taichung": [
+        "金瓜"
+    ],
+    "Wuqi": [
+        "金瓜"
+    ],
+    "Hsinchu-MN": [
+        "金瓜"
+    ],
+    "Taitung": [
+        "金瓜"
+    ],
+    "Lukang": [
+        "金瓜"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "金瓜"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "金瓜"
+    ],
+    "Malaysia-MN": [
+        "金瓜"
+    ],
+    "Singapore-MN": [
+        "金瓜"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "烏瓠"
+    ],
+    "Datian": [
+        "番瓠"
+    ],
+    "Pingnan": [
+        "南瓜"
+    ],
+    "Chaozhou": [
+        "番瓜"
+    ],
+    "Shantou": [
+        "番瓜",
+        "南瓜",
+        "金瓜"
+    ],
+    "Haifeng": [
+        "金瓜"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "金瓜"
+    ],
+    "Wenchang": [
+        "南瓜",
+        "盒瓜"
+    ],
+    "Haikou": [
+        "南瓜"
+    ],
+    "Leizhou": [
+        "金瓜"
+    ],
+    "Putian": [
+        "通瓜",
+        "金瓜",
+        "南瓜"
+    ],
+    "Xianyou": [
+        "匏"
+    ],
+    "Fuzhou": [
+        "金瓜",
+        "南瓜"
+    ],
+    "Changle": [
+        "金瓜"
+    ],
+    "Fuqing": [
+        "金瓜"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "金匏"
+    ],
+    "Gutian": [
+        "金匏"
+    ],
+    "Fu'an": [
+        "金匏"
+    ],
+    "Ningde": [
+        "金匏"
+    ],
+    "Shouning": [
+        "金瓜"
+    ],
+    "Zhouning": [
+        "金匏"
+    ],
+    "Fuding": [
+        "金瓜"
+    ],
+    "Matsu": [
+        "金瓜"
+    ],
+    "Jian'ou": [
+        "金瓜"
+    ],
+    "Dikou": [],
+    "Songxi": [
+        "金瓠"
+    ],
+    "Zhenghe": [
+        "金瓜"
+    ],
+    "Zhenqian": [],
+    "Jianyang": [
+        "南瓜"
+    ],
+    "Wuyishan": [
+        "南瓜"
+    ],
+    "Shibei": [
+        "金瓜"
+    ],
+    "Fu'an-She": [
+        "金瓠"
+    ],
+    "Fuding-She": [
+        "金瓜"
+    ],
+    "Luoyuan-She": [],
+    "Sanming-She": [
+        "番瓠"
+    ],
+    "Shunchang-She": [
+        "番瓠"
+    ],
+    "Hua'an-She": [
+        "金瓜"
+    ],
+    "Guixi-She": [
+        "金瓠"
+    ],
+    "Cangnan-She": [
+        "金瓜"
+    ],
+    "Jingning-She": [
+        "金瓜"
+    ],
+    "Lishui-She": [
+        "金瓜"
+    ],
+    "Longyou-She": [
+        "金瓜"
+    ],
+    "Chaozhou-She": [
+        "金瓜"
+    ],
+    "Fengshun-She": [
+        "黃瓜"
+    ]
 }

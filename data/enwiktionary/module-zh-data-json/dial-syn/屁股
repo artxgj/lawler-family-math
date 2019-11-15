@@ -1,854 +1,768 @@
 {
     "meaning": "buttocks",
     "note": "",
-    "Classical": {
-        "1": "臀",
-        "2": "尻",
-        "3": "胐"
-    },
-    "Formal": {
-        "1": "臀部"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "屁股"
-    },
-    "Taiwan": {
-        "1": "屁股"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "屁股"
-    },
-    "Shenyang": {
-        "1": "屁股"
-    },
-    "Hailar": {
-        "1": "屁股"
-    },
-    "Ulan Hot": {
-        "1": "屁股"
-    },
-    "Tongliao": {
-        "1": "腚",
-        "2": "屁股蛋子"
-    },
-    "Chifeng": {
-        "1": "腚",
-        "2": "屁股"
-    },
-    "Bayanhot": {
-        "1": "屁股",
-        "2": "溝子"
-    },
-    "Jinan": {
-        "1": "腚",
-        "2": "屁股",
-        "3": "腚錘子"
-    },
-    "Muping": {
-        "1": "腚",
-        "2": "腚溝子"
-    },
-    "Luoyang": {
-        "1": "屁股"
-    },
-    "Wanrong": {
-        "1": "溝子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "溝子",
-        "2": "屁股",
-        "3": "溝蛋子"
-    },
-    "Qingdao": {
-        "1": "腚"
-    },
-    "Zhengzhou": {
-        "1": "屁股"
-    },
-    "Xining": {
-        "1": "溝蛋"
-    },
-    "Xuzhou": {
-        "1": "腚",
-        "2": "屁股"
-    },
-    "Yinchuan": {
-        "1": "溝子"
-    },
-    "Lanzhou": {
-        "1": "溝子"
-    },
-    "Ürümqi": {
-        "1": "溝子"
-    },
-    "Wuhan": {
-        "1": "屁股"
-    },
-    "Huanggang": {
-        "1": "屁股"
-    },
-    "Chengdu": {
-        "1": "屁股",
-        "2": "屁兒",
-        "3": "溝子",
-        "4": "溝墩子"
-    },
-    "Guiyang": {
-        "1": "屁股"
-    },
-    "Guilin": {
-        "1": "屁股"
-    },
-    "Liuzhou": {
-        "1": "屁股"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "屁股"
-    },
-    "Nanjing": {
-        "1": "屁股"
-    },
-    "Hefei": {
-        "1": "屁股"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "溝子"
-    },
-    "Shaanxi-DG": {
-        "1": "溝子"
-    },
-    "Taiyuan": {
-        "1": "㞘子",
-        "2": "屁股"
-    },
-    "Pingyao": {
-        "1": "㞘子"
-    },
-    "Xinzhou": {
-        "1": "㞘子"
-    },
-    "Baochang": {
-        "1": "屁股"
-    },
-    "Jining": {
-        "1": "屁股"
-    },
-    "Hohhot": {
-        "1": "胯㞘子"
-    },
-    "Baotou": {
-        "1": "屁股"
-    },
-    "Dongsheng": {
-        "1": "㞘蛋子"
-    },
-    "Linhe": {
-        "1": "屁股蛋子"
-    },
-    "Haibowan": {
-        "1": "屁股蛋子"
-    },
-    "Shanghai": {
-        "1": "屁股"
-    },
-    "Suzhou": {
-        "1": "屁股"
-    },
-    "Wuxi": {
-        "1": "屁股"
-    },
-    "Hangzhou": {
-        "1": "屁股"
-    },
-    "Chongming": {
-        "1": "屁眼"
-    },
-    "Wenzhou": {
-        "1": "臀",
-        "2": "屁股臀",
-        "3": "股臀屁",
-        "4": "臀髖"
-    },
-    "Danyang": {
-        "1": "屁股"
-    },
-    "Jinhua": {
-        "1": "屁股"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "屁股",
-        "2": "屁眼"
-    },
-    "Changsha": {
-        "1": "屁股"
-    },
-    "Shuangfeng": {
-        "1": "屁股"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "屁股"
-    },
-    "Quanzhou-X": {
-        "1": "坐腳"
-    },
-    "Nanchang": {
-        "1": "屁股"
-    },
-    "Lichuan": {
-        "1": "屎窟臀"
-    },
-    "Pingxiang": {
-        "1": "屁股"
-    },
-    "Meixian": {
-        "1": "屎窟"
-    },
-    "Xingning": {
-        "1": "屎窟"
-    },
-    "Huizhou": {
-        "1": "屎窟",
-        "2": "室臀"
-    },
-    "Huizhou-SK": {
-        "1": "室臀"
-    },
-    "Huizhou-HL": {
-        "1": "室臀"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "屎窟"
-    },
-    "Huidong-DL": {
-        "1": "屎窟"
-    },
-    "Dongguan-H": {
-        "1": "屎窟"
-    },
-    "Longmen-PL": {
-        "1": "屎窟",
-        "2": "屎窟臀"
-    },
-    "Longmen-LX": {
-        "1": "屎窟",
-        "2": "索嫲"
-    },
-    "Boluo": {
-        "1": "室臀"
-    },
-    "Shenzhen-H": {
-        "1": "屎窟臀"
-    },
-    "Zengcheng-ZG": {
-        "1": "屎窟"
-    },
-    "Zhongshan-WGS": {
-        "1": "屎窟"
-    },
-    "Zhongshan-NLHS": {
-        "1": "屎窟"
-    },
-    "Wuhua-SZ": {
-        "1": "屎窟"
-    },
-    "Wuhua-HC": {
-        "1": "屎臀",
-        "2": "屎窟"
-    },
-    "Wuhua-CB": {
-        "1": "屎窟臀"
-    },
-    "Wuhua-MY": {
-        "1": "屎窟"
-    },
-    "Heyuan": {
-        "1": "恤臀"
-    },
-    "Zijin-GZ": {
-        "1": "恤頭"
-    },
-    "Longchuan-TC": {
-        "1": "屎窟"
-    },
-    "Longchuan-SD": {
-        "1": "屎窟"
-    },
-    "Heping-LZ": {
-        "1": "屎窟臀"
-    },
-    "Lianping-ZX": {
-        "1": "恤臀"
-    },
-    "Lianping-LJ": {
-        "1": "恤臀"
-    },
-    "Qujiang": {
-        "1": "屎窟"
-    },
-    "Xinfeng-MT": {
-        "1": "室臀"
-    },
-    "Xinfeng-DX": {
-        "1": "屎窟臀"
-    },
-    "Xiaosanjiang": {
-        "1": "屎窟"
-    },
-    "Liannan": {
-        "1": "屎窟"
-    },
-    "Conghua-H": {
-        "1": "屎窟"
-    },
-    "Jiexi": {
-        "1": "屎窟"
-    },
-    "Luchuan-LC": {
-        "1": "屎窟"
-    },
-    "Luchuan-DQ": {
-        "1": "屁股"
-    },
-    "Changting": {
-        "1": "屎窟"
-    },
-    "Pingyu": {
-        "1": "屎窟"
-    },
-    "Wuping": {
-        "1": "屎窟"
-    },
-    "Liancheng": {
-        "1": "屎窟"
-    },
-    "Ninghua": {
-        "1": "屎窟"
-    },
-    "Yudu": {
-        "1": "屎窟"
-    },
-    "Ruijin": {
-        "1": "屎窟"
-    },
-    "Shicheng": {
-        "1": "屎窟"
-    },
-    "Shangyou": {
-        "1": "屎窟"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "屎窟"
-    },
-    "Liudui": {
-        "1": "屎窟",
-        "2": "窩壢"
-    },
-    "Hsinchu": {
-        "1": "屎窟"
-    },
-    "Dongshi": {
-        "1": "屎窟"
-    },
-    "Raoping": {
-        "1": "屎窟"
-    },
-    "Yunlin": {
-        "1": "屎窟"
-    },
-    "Hong Kong-H": {
-        "1": "屎窟"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "屎窟"
-    },
-    "Senai": {
-        "1": "屎窟"
-    },
-    "Singkawang": {
-        "1": "屎窟"
-    },
-    "Jixi": {
-        "1": "屁股"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": "屎窟"
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "屎窟",
-        "2": "囉柚",
-        "3": "八月十五:humorous"
-    },
-    "Hong Kong": {
-        "1": "屎窟",
-        "2": "囉柚",
-        "3": "囉噼",
-        "4": "噼噼",
-        "5": "墩",
-        "6": "八月十五:humorous"
-    },
-    "HK Weitou": {
-        "1": "屎窟"
-    },
-    "Kam Tin": {
-        "1": "囉柚"
-    },
-    "Ting Kok": {
-        "1": "屎窟"
-    },
-    "Tung Ping Chau": {
-        "1": "屎窟"
-    },
-    "Macau": {
-        "1": "屎窟"
-    },
-    "Panyu": {
-        "1": "屎窟",
-        "2": "囉柚",
-        "3": "囉一"
-    },
-    "Huadu": {
-        "1": "室"
-    },
-    "Conghua": {
-        "1": "屎窟"
-    },
-    "Zengcheng": {
-        "1": "屎窟"
-    },
-    "Foshan": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Nanhai": {
-        "1": "屎窟"
-    },
-    "Shunde": {
-        "1": "屎窟"
-    },
-    "Sanshui": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Gaoming": {
-        "1": "囉柚"
-    },
-    "Zhongshan": {
-        "1": "屎窟"
-    },
-    "Zhuhai": {
-        "1": "屎窟"
-    },
-    "Doumen-T": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Doumen-S": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Jiangmen": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Xinhui": {
-        "1": "屎窟",
-        "2": "囉柚"
-    },
-    "Taishan": {
-        "1": "臀",
-        "2": "屎窟",
-        "3": "屎臀",
-        "4": "囉柚",
-        "5": "囉噼"
-    },
-    "Kaiping": {
-        "1": "臀",
-        "2": "屎窟"
-    },
-    "Enping": {
-        "1": "臀",
-        "2": "囉柚"
-    },
-    "Heshan": {
-        "1": "屎窟"
-    },
-    "Dongguan": {
-        "1": "屎窟"
-    },
-    "Bao'an": {
-        "1": "屎窟"
-    },
-    "Dapeng": {
-        "1": "屎窟臀"
-    },
-    "Shaoguan": {
-        "1": "屎窟"
-    },
-    "Yunfu": {
-        "1": "囉柚",
-        "2": "屎窟"
-    },
-    "Yangjiang": {
-        "1": "屎窟"
-    },
-    "Xinyi": {
-        "1": "屎窟"
-    },
-    "Lianjiang": {
-        "1": "屎窟"
-    },
-    "Nanning": {
-        "1": "屎窟"
-    },
-    "Wuzhou": {
-        "1": "屎窟"
-    },
-    "Yulin": {
-        "1": "屎窟督",
-        "2": "屎窟"
-    },
-    "Hepu": {
-        "1": "屎窟"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "屎窟"
-    },
-    "Ho Chi Minh City": {
-        "1": "屎窟"
-    },
-    "Nanning-P": {
-        "1": "屁股",
-        "2": "屁股臀"
-    },
-    "Guilin-P": {
-        "1": "屁股"
-    },
-    "Xiamen": {
-        "1": "尻川"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "尻川"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "尻川"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "尻川"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": "尻川"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "尻川"
-    },
-    "Kaohsiung": {
-        "1": "尻川"
-    },
-    "Tainan": {
-        "1": "尻川"
-    },
-    "Taichung": {
-        "1": "尻川"
-    },
-    "Wuqi": {
-        "1": "尻川"
-    },
-    "Hsinchu-MN": {
-        "1": "尻川"
-    },
-    "Taitung": {
-        "1": "尻川"
-    },
-    "Lukang": {
-        "1": "尻川"
-    },
-    "Sanxia": {
-        "1": "尻川"
-    },
-    "Yilan": {
-        "1": "尻川"
-    },
-    "Kinmen": {
-        "1": "尻川"
-    },
-    "Magong": {
-        "1": "尻川"
-    },
-    "Malaysia-MN": {
-        "1": "尻川"
-    },
-    "Singapore-MN": {
-        "1": "尻川"
-    },
-    "Philippine-MN": {
-        "1": "尻川"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "尻川"
-    },
-    "Zhangping": {
-        "1": "尻川"
-    },
-    "Yongfu": {
-        "1": "尻川"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "屁股"
-    },
-    "Chaozhou": {
-        "1": "尻川",
-        "2": "尻川板"
-    },
-    "Shantou": {
-        "1": "尻川",
-        "2": "尻川板"
-    },
-    "Haifeng": {
-        "1": "尻川",
-        "2": "尻川髀"
-    },
-    "Thailand-MN-T": {
-        "1": "尻川"
-    },
-    "Johor Bahru": {
-        "1": "尻川"
-    },
-    "Wenchang": {
-        "1": "尻川"
-    },
-    "Haikou": {
-        "1": "尻川"
-    },
-    "Leizhou": {
-        "1": "尻川"
-    },
-    "Putian": {
-        "1": "尻川"
-    },
-    "Xianyou": {
-        "1": "尻川"
-    },
-    "Shaxi": {
-        "1": "屎窟"
-    },
-    "Sanxiang": {
-        "1": "屎窟"
-    },
-    "Fuzhou": {
-        "1": "股川",
-        "2": "股川髀"
-    },
-    "Changle": {
-        "1": "股川"
-    },
-    "Fuqing": {
-        "1": "股川"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "股川"
-    },
-    "Gutian": {
-        "1": "股川"
-    },
-    "Fu'an": {
-        "1": "股川"
-    },
-    "Ningde": {
-        "1": "股川"
-    },
-    "Shouning": {
-        "1": "股川"
-    },
-    "Zhouning": {
-        "1": "股川"
-    },
-    "Fuding": {
-        "1": "股川"
-    },
-    "Matsu": {
-        "1": "股川髀"
-    },
-    "Jian'ou": {
-        "1": "腠䫌"
-    },
-    "Dikou": {
-        "1": "腠䫌"
-    },
-    "Songxi": {
-        "1": "屎窟"
-    },
-    "Zhenghe": {
-        "1": "屎窟"
-    },
-    "Zhenqian": {
-        "1": "屎窟"
-    },
-    "Jianyang": {
-        "1": "屎窟"
-    },
-    "Wuyishan": {
-        "1": "屎窟"
-    },
-    "Shibei": {
-        "1": "屎窟"
-    },
-    "Fu'an-She": {
-        "1": "屎窟"
-    },
-    "Fuding-She": {
-        "1": "屎窟"
-    },
-    "Luoyuan-She": {
-        "1": "屎窟"
-    },
-    "Sanming-She": {
-        "1": "屎窟"
-    },
-    "Shunchang-She": {
-        "1": "屎窟"
-    },
-    "Hua'an-She": {
-        "1": "屎窟"
-    },
-    "Guixi-She": {
-        "1": "屎窟"
-    },
-    "Cangnan-She": {
-        "1": "屎窟"
-    },
-    "Jingning-She": {
-        "1": "屎窟"
-    },
-    "Lishui-She": {
-        "1": "屎窟"
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "臀",
+        "尻",
+        "胐"
+    ],
+    "Formal": [
+        "臀部"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "屁股"
+    ],
+    "Taiwan": [
+        "屁股"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "屁股"
+    ],
+    "Shenyang": [
+        "屁股"
+    ],
+    "Hailar": [
+        "屁股"
+    ],
+    "Ulan Hot": [
+        "屁股"
+    ],
+    "Tongliao": [
+        "腚",
+        "屁股蛋子"
+    ],
+    "Chifeng": [
+        "腚",
+        "屁股"
+    ],
+    "Bayanhot": [
+        "屁股",
+        "溝子"
+    ],
+    "Jinan": [
+        "腚",
+        "屁股",
+        "腚錘子"
+    ],
+    "Muping": [
+        "腚",
+        "腚溝子"
+    ],
+    "Luoyang": [
+        "屁股"
+    ],
+    "Wanrong": [
+        "溝子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "溝子",
+        "屁股",
+        "溝蛋子"
+    ],
+    "Qingdao": [
+        "腚"
+    ],
+    "Zhengzhou": [
+        "屁股"
+    ],
+    "Xining": [
+        "溝蛋"
+    ],
+    "Xuzhou": [
+        "腚",
+        "屁股"
+    ],
+    "Yinchuan": [
+        "溝子"
+    ],
+    "Lanzhou": [
+        "溝子"
+    ],
+    "Ürümqi": [
+        "溝子"
+    ],
+    "Wuhan": [
+        "屁股"
+    ],
+    "Huanggang": [
+        "屁股"
+    ],
+    "Chengdu": [
+        "屁股",
+        "屁兒",
+        "溝子",
+        "溝墩子"
+    ],
+    "Guiyang": [
+        "屁股"
+    ],
+    "Guilin": [
+        "屁股"
+    ],
+    "Liuzhou": [
+        "屁股"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "屁股"
+    ],
+    "Nanjing": [
+        "屁股"
+    ],
+    "Hefei": [
+        "屁股"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "溝子"
+    ],
+    "Shaanxi-DG": [
+        "溝子"
+    ],
+    "Taiyuan": [
+        "㞘子",
+        "屁股"
+    ],
+    "Pingyao": [
+        "㞘子"
+    ],
+    "Xinzhou": [
+        "㞘子"
+    ],
+    "Baochang": [
+        "屁股"
+    ],
+    "Jining": [
+        "屁股"
+    ],
+    "Hohhot": [
+        "胯㞘子"
+    ],
+    "Baotou": [
+        "屁股"
+    ],
+    "Dongsheng": [
+        "㞘蛋子"
+    ],
+    "Linhe": [
+        "屁股蛋子"
+    ],
+    "Haibowan": [
+        "屁股蛋子"
+    ],
+    "Shanghai": [
+        "屁股"
+    ],
+    "Suzhou": [
+        "屁股"
+    ],
+    "Wuxi": [
+        "屁股"
+    ],
+    "Hangzhou": [
+        "屁股"
+    ],
+    "Chongming": [
+        "屁眼"
+    ],
+    "Wenzhou": [
+        "臀",
+        "屁股臀",
+        "股臀屁",
+        "臀髖"
+    ],
+    "Danyang": [
+        "屁股"
+    ],
+    "Jinhua": [
+        "屁股"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "屁股",
+        "屁眼"
+    ],
+    "Changsha": [
+        "屁股"
+    ],
+    "Shuangfeng": [
+        "屁股"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "屁股"
+    ],
+    "Quanzhou-X": [
+        "坐腳"
+    ],
+    "Nanchang": [
+        "屁股"
+    ],
+    "Lichuan": [
+        "屎窟臀"
+    ],
+    "Pingxiang": [
+        "屁股"
+    ],
+    "Meixian": [
+        "屎窟"
+    ],
+    "Xingning": [
+        "屎窟"
+    ],
+    "Huizhou": [
+        "屎窟",
+        "室臀"
+    ],
+    "Huizhou-SK": [
+        "室臀"
+    ],
+    "Huizhou-HL": [
+        "室臀"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "屎窟"
+    ],
+    "Huidong-DL": [
+        "屎窟"
+    ],
+    "Dongguan-H": [
+        "屎窟"
+    ],
+    "Longmen-PL": [
+        "屎窟",
+        "屎窟臀"
+    ],
+    "Longmen-LX": [
+        "屎窟",
+        "索嫲"
+    ],
+    "Boluo": [
+        "室臀"
+    ],
+    "Shenzhen-H": [
+        "屎窟臀"
+    ],
+    "Zengcheng-ZG": [
+        "屎窟"
+    ],
+    "Zhongshan-WGS": [
+        "屎窟"
+    ],
+    "Zhongshan-NLHS": [
+        "屎窟"
+    ],
+    "Wuhua-SZ": [
+        "屎窟"
+    ],
+    "Wuhua-HC": [
+        "屎臀",
+        "屎窟"
+    ],
+    "Wuhua-CB": [
+        "屎窟臀"
+    ],
+    "Wuhua-MY": [
+        "屎窟"
+    ],
+    "Heyuan": [
+        "恤臀"
+    ],
+    "Zijin-GZ": [
+        "恤頭"
+    ],
+    "Longchuan-TC": [
+        "屎窟"
+    ],
+    "Longchuan-SD": [
+        "屎窟"
+    ],
+    "Heping-LZ": [
+        "屎窟臀"
+    ],
+    "Lianping-ZX": [
+        "恤臀"
+    ],
+    "Lianping-LJ": [
+        "恤臀"
+    ],
+    "Qujiang": [
+        "屎窟"
+    ],
+    "Xinfeng-MT": [
+        "室臀"
+    ],
+    "Xinfeng-DX": [
+        "屎窟臀"
+    ],
+    "Xiaosanjiang": [
+        "屎窟"
+    ],
+    "Liannan": [
+        "屎窟"
+    ],
+    "Conghua-H": [
+        "屎窟"
+    ],
+    "Jiexi": [
+        "屎窟"
+    ],
+    "Luchuan-LC": [
+        "屎窟"
+    ],
+    "Luchuan-DQ": [
+        "屁股"
+    ],
+    "Changting": [
+        "屎窟"
+    ],
+    "Pingyu": [
+        "屎窟"
+    ],
+    "Wuping": [
+        "屎窟"
+    ],
+    "Liancheng": [
+        "屎窟"
+    ],
+    "Ninghua": [
+        "屎窟"
+    ],
+    "Yudu": [
+        "屎窟"
+    ],
+    "Ruijin": [
+        "屎窟"
+    ],
+    "Shicheng": [
+        "屎窟"
+    ],
+    "Shangyou": [
+        "屎窟"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "屎窟"
+    ],
+    "Liudui": [
+        "屎窟",
+        "窩壢"
+    ],
+    "Hsinchu": [
+        "屎窟"
+    ],
+    "Dongshi": [
+        "屎窟"
+    ],
+    "Raoping": [
+        "屎窟"
+    ],
+    "Yunlin": [
+        "屎窟"
+    ],
+    "Hong Kong-H": [
+        "屎窟"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "屎窟"
+    ],
+    "Senai": [
+        "屎窟"
+    ],
+    "Singkawang": [
+        "屎窟"
+    ],
+    "Jixi": [
+        "屁股"
+    ],
+    "Shexian": [],
+    "Tunxi": [
+        "屎窟"
+    ],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "屎窟",
+        "囉柚",
+        "八月十五:humorous"
+    ],
+    "Hong Kong": [
+        "屎窟",
+        "囉柚",
+        "囉噼",
+        "噼噼",
+        "墩",
+        "八月十五:humorous"
+    ],
+    "HK Weitou": [
+        "屎窟"
+    ],
+    "Kam Tin": [
+        "囉柚"
+    ],
+    "Ting Kok": [
+        "屎窟"
+    ],
+    "Tung Ping Chau": [
+        "屎窟"
+    ],
+    "Macau": [
+        "屎窟"
+    ],
+    "Panyu": [
+        "屎窟",
+        "囉柚",
+        "囉一"
+    ],
+    "Huadu": [
+        "室"
+    ],
+    "Conghua": [
+        "屎窟"
+    ],
+    "Zengcheng": [
+        "屎窟"
+    ],
+    "Foshan": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Nanhai": [
+        "屎窟"
+    ],
+    "Shunde": [
+        "屎窟"
+    ],
+    "Sanshui": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Gaoming": [
+        "囉柚"
+    ],
+    "Zhongshan": [
+        "屎窟"
+    ],
+    "Zhuhai": [
+        "屎窟"
+    ],
+    "Doumen-T": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Doumen-S": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Jiangmen": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Xinhui": [
+        "屎窟",
+        "囉柚"
+    ],
+    "Taishan": [
+        "臀",
+        "屎窟",
+        "屎臀",
+        "囉柚",
+        "囉噼"
+    ],
+    "Kaiping": [
+        "臀",
+        "屎窟"
+    ],
+    "Enping": [
+        "臀",
+        "囉柚"
+    ],
+    "Heshan": [
+        "屎窟"
+    ],
+    "Dongguan": [
+        "屎窟"
+    ],
+    "Bao'an": [
+        "屎窟"
+    ],
+    "Dapeng": [
+        "屎窟臀"
+    ],
+    "Shaoguan": [
+        "屎窟"
+    ],
+    "Yunfu": [
+        "囉柚",
+        "屎窟"
+    ],
+    "Yangjiang": [
+        "屎窟"
+    ],
+    "Xinyi": [
+        "屎窟"
+    ],
+    "Lianjiang": [
+        "屎窟"
+    ],
+    "Nanning": [
+        "屎窟"
+    ],
+    "Wuzhou": [
+        "屎窟"
+    ],
+    "Yulin": [
+        "屎窟督",
+        "屎窟"
+    ],
+    "Hepu": [
+        "屎窟"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "屎窟"
+    ],
+    "Ho Chi Minh City": [
+        "屎窟"
+    ],
+    "Nanning-P": [
+        "屁股",
+        "屁股臀"
+    ],
+    "Guilin-P": [
+        "屁股"
+    ],
+    "Xiamen": [
+        "尻川"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "尻川"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "尻川"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "尻川"
+    ],
+    "Longhai": [],
+    "Changtai": [
+        "尻川"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "尻川"
+    ],
+    "Kaohsiung": [
+        "尻川"
+    ],
+    "Tainan": [
+        "尻川"
+    ],
+    "Taichung": [
+        "尻川"
+    ],
+    "Wuqi": [
+        "尻川"
+    ],
+    "Hsinchu-MN": [
+        "尻川"
+    ],
+    "Taitung": [
+        "尻川"
+    ],
+    "Lukang": [
+        "尻川"
+    ],
+    "Sanxia": [
+        "尻川"
+    ],
+    "Yilan": [
+        "尻川"
+    ],
+    "Kinmen": [
+        "尻川"
+    ],
+    "Magong": [
+        "尻川"
+    ],
+    "Malaysia-MN": [
+        "尻川"
+    ],
+    "Singapore-MN": [
+        "尻川"
+    ],
+    "Philippine-MN": [
+        "尻川"
+    ],
+    "Medan": [],
+    "Longyan": [
+        "尻川"
+    ],
+    "Zhangping": [
+        "尻川"
+    ],
+    "Yongfu": [
+        "尻川"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "屁股"
+    ],
+    "Chaozhou": [
+        "尻川",
+        "尻川板"
+    ],
+    "Shantou": [
+        "尻川",
+        "尻川板"
+    ],
+    "Haifeng": [
+        "尻川",
+        "尻川髀"
+    ],
+    "Thailand-MN-T": [
+        "尻川"
+    ],
+    "Johor Bahru": [
+        "尻川"
+    ],
+    "Wenchang": [
+        "尻川"
+    ],
+    "Haikou": [
+        "尻川"
+    ],
+    "Leizhou": [
+        "尻川"
+    ],
+    "Putian": [
+        "尻川"
+    ],
+    "Xianyou": [
+        "尻川"
+    ],
+    "Shaxi": [
+        "屎窟"
+    ],
+    "Sanxiang": [
+        "屎窟"
+    ],
+    "Fuzhou": [
+        "股川",
+        "股川髀"
+    ],
+    "Changle": [
+        "股川"
+    ],
+    "Fuqing": [
+        "股川"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "股川"
+    ],
+    "Gutian": [
+        "股川"
+    ],
+    "Fu'an": [
+        "股川"
+    ],
+    "Ningde": [
+        "股川"
+    ],
+    "Shouning": [
+        "股川"
+    ],
+    "Zhouning": [
+        "股川"
+    ],
+    "Fuding": [
+        "股川"
+    ],
+    "Matsu": [
+        "股川髀"
+    ],
+    "Jian'ou": [
+        "腠䫌"
+    ],
+    "Dikou": [
+        "腠䫌"
+    ],
+    "Songxi": [
+        "屎窟"
+    ],
+    "Zhenghe": [
+        "屎窟"
+    ],
+    "Zhenqian": [
+        "屎窟"
+    ],
+    "Jianyang": [
+        "屎窟"
+    ],
+    "Wuyishan": [
+        "屎窟"
+    ],
+    "Shibei": [
+        "屎窟"
+    ],
+    "Fu'an-She": [
+        "屎窟"
+    ],
+    "Fuding-She": [
+        "屎窟"
+    ],
+    "Luoyuan-She": [
+        "屎窟"
+    ],
+    "Sanming-She": [
+        "屎窟"
+    ],
+    "Shunchang-She": [
+        "屎窟"
+    ],
+    "Hua'an-She": [
+        "屎窟"
+    ],
+    "Guixi-She": [
+        "屎窟"
+    ],
+    "Cangnan-She": [
+        "屎窟"
+    ],
+    "Jingning-She": [
+        "屎窟"
+    ],
+    "Lishui-She": [
+        "屎窟"
+    ],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

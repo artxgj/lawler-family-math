@@ -1,369 +1,167 @@
 {
     "meaning": "(''expressive'') plump; chubby; fat",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "胖乎乎",
-        "2": "胖嘟嘟",
-        "3": "胖墩墩",
-        "4": "胖呵呵"
-    },
-    "Taiwan": {
-        "1": ""
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": ""
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": ""
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": ""
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "胖墩墩",
-        "2": "胖篤篤",
-        "3": "胖鼓鼓",
-        "4": "胖乎乎"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "壯奶奶"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "肥屯屯仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "肥卒卒",
-        "2": "肥嘟嘟",
-        "3": "肥固固",
-        "4": "肥固固仔",
-        "5": "肥擂擂仔"
-    },
-    "Liudui": {
-        "1": "肥律律",
-        "2": "肥嘟嘟仔",
-        "3": "肥固固仔"
-    },
-    "Hsinchu": {
-        "1": "肥卒卒",
-        "2": "肥固固",
-        "3": "肥擂擂"
-    },
-    "Dongshi": {
-        "1": "肥卒卒",
-        "2": "肥律律",
-        "3": "肥漬漬",
-        "4": "肥嘟嘟"
-    },
-    "Raoping": {
-        "1": "肥卒卒",
-        "2": "肥固固",
-        "3": "肥壘壘"
-    },
-    "Yunlin": {
-        "1": "肥卒卒",
-        "2": "肥漬漬",
-        "3": "肥固固",
-        "4": "肥瓤瓤"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "肥嘟嘟"
-    },
-    "Hong Kong": {
-        "1": "肥嘟嘟"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "肥朒朒",
-        "2": "胖獅獅"
-    },
-    "Quanzhou": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "胖乎乎",
+        "胖嘟嘟",
+        "胖墩墩",
+        "胖呵呵"
+    ],
+    "Taiwan": [],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [],
+    "Hangzhou": [],
+    "Shanghai": [
+        "胖墩墩",
+        "胖篤篤",
+        "胖鼓鼓",
+        "胖乎乎"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "壯奶奶"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "肥屯屯仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "肥卒卒",
+        "肥嘟嘟",
+        "肥固固",
+        "肥固固仔",
+        "肥擂擂仔"
+    ],
+    "Liudui": [
+        "肥律律",
+        "肥嘟嘟仔",
+        "肥固固仔"
+    ],
+    "Hsinchu": [
+        "肥卒卒",
+        "肥固固",
+        "肥擂擂"
+    ],
+    "Dongshi": [
+        "肥卒卒",
+        "肥律律",
+        "肥漬漬",
+        "肥嘟嘟"
+    ],
+    "Raoping": [
+        "肥卒卒",
+        "肥固固",
+        "肥壘壘"
+    ],
+    "Yunlin": [
+        "肥卒卒",
+        "肥漬漬",
+        "肥固固",
+        "肥瓤瓤"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "肥嘟嘟"
+    ],
+    "Hong Kong": [
+        "肥嘟嘟"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "肥朒朒",
+        "胖獅獅"
+    ],
+    "Quanzhou": [],
+    "Zhangzhou": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [],
+    "Jian'ou": []
 }

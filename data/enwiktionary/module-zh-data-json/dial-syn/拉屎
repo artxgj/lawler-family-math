@@ -1,677 +1,533 @@
 {
     "meaning": "to defecate",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "大便",
-        "2": "大解",
-        "3": "排便",
-        "4": "出大恭:euphemistic"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "拉屎",
-        "2": "解大手兒"
-    },
-    "Taiwan": {
-        "1": "拉屎",
-        "2": "大便",
-        "3": "上大號"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "拉屎",
-        "2": "大便",
-        "3": "解大手兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "拉屎"
-    },
-    "Ulan Hot": {
-        "1": "拉屎",
-        "2": "拉㞎㞎"
-    },
-    "Tongliao": {
-        "1": "拉屎",
-        "2": "拉㞎㞎"
-    },
-    "Chifeng": {
-        "1": "大便"
-    },
-    "Bayanhot": {
-        "1": "㞎屎",
-        "2": "㞎手",
-        "3": "㞎解"
-    },
-    "Jinan": {
-        "1": "拉屎",
-        "2": "解大手",
-        "3": "大便"
-    },
-    "Muping": {
-        "1": "拉屎"
-    },
-    "Luoyang": {
-        "1": "屙屎",
-        "2": "解大手兒",
-        "3": "大便"
-    },
-    "Wanrong": {
-        "1": "㞎屎"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "㞎屎"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "屙屎"
-    },
-    "Xining": {
-        "1": "大便",
-        "2": "解大手"
-    },
-    "Xuzhou": {
-        "1": "屙屎",
-        "2": "解大手",
-        "3": "出大恭"
-    },
-    "Yinchuan": {
-        "1": "㞎屎"
-    },
-    "Lanzhou": {
-        "1": "㞎屎"
-    },
-    "Ürümqi": {
-        "1": "㞎屎",
-        "2": "大便",
-        "3": "解大手",
-        "4": "拉㞎㞎:childish"
-    },
-    "Wuhan": {
-        "1": "屙㞎㞎",
-        "2": "解大手",
-        "3": "丟堆子:dated, slang"
-    },
-    "Huanggang": {
-        "1": "解大手"
-    },
-    "Chengdu": {
-        "1": "屙屎",
-        "2": "解大手"
-    },
-    "Guiyang": {
-        "1": "屙屎",
-        "2": "解大手",
-        "3": "解大便",
-        "4": "屙㞎㞎:childish"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "屙屎",
-        "2": "屙癟",
-        "3": "解大手",
-        "4": "解大便",
-        "5": "大便"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "屙屎",
-        "2": "出恭",
-        "3": "屙㞎㞎:childish"
-    },
-    "Nanjing": {
-        "1": "屙屎",
-        "2": "大解:dated, euphemistic"
-    },
-    "Hefei": {
-        "1": "屙屎"
-    },
-    "Nantong": {
-        "1": "屙屎",
-        "2": "屙㞎",
-        "3": "大解",
-        "4": "解大手:euphemistic"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "屙屎"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": "屙屎"
-    },
-    "Jining": {
-        "1": "大便"
-    },
-    "Hohhot": {
-        "1": "屙屎"
-    },
-    "Baotou": {
-        "1": "大便"
-    },
-    "Dongsheng": {
-        "1": "拉屎"
-    },
-    "Linhe": {
-        "1": "屙屎"
-    },
-    "Haibowan": {
-        "1": "拉屎"
-    },
-    "Shanghai": {
-        "1": "拆污",
-        "2": "惹污",
-        "3": "大便",
-        "4": "解大溲",
-        "5": "上馬桶",
-        "6": "辦公:humorous",
-        "7": "跳舞:humorous",
-        "8": "拆污污:childish",
-        "9": "惹污污:childish",
-        "10": "大溲:dated",
-        "11": "大解:dated"
-    },
-    "Suzhou": {
-        "1": "拆污",
-        "2": "惹污",
-        "3": "拆屎",
-        "4": "惹屎"
-    },
-    "Wuxi": {
-        "1": "屙屎"
-    },
-    "Hangzhou": {
-        "1": "惹污"
-    },
-    "Chongming": {
-        "1": "射污"
-    },
-    "Wenzhou": {
-        "1": "拉污"
-    },
-    "Danyang": {
-        "1": "屙屎",
-        "2": "解手",
-        "3": "出恭",
-        "4": "屙恭"
-    },
-    "Jinhua": {
-        "1": "射污"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "惹屙",
-        "2": "大便",
-        "3": "大解"
-    },
-    "Changsha": {
-        "1": "屙屎",
-        "2": "解大手"
-    },
-    "Shuangfeng": {
-        "1": "屙屎"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "屙屎",
-        "2": "解大手:euphemistic",
-        "3": "屙㞎㞎:childish"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "屙屎",
-        "2": "解大手"
-    },
-    "Lichuan": {
-        "1": "屙屎"
-    },
-    "Pingxiang": {
-        "1": "屙屎",
-        "2": "解大手"
-    },
-    "Meixian": {
-        "1": "屙屎"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "屙屎"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "屙屎"
-    },
-    "Ruijin": {
-        "1": "屙屎"
-    },
-    "Shicheng": {
-        "1": "屙屎"
-    },
-    "Shangyou": {
-        "1": "屙屎"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "屙屎"
-    },
-    "Liudui": {
-        "1": "屙屎"
-    },
-    "Hsinchu": {
-        "1": "屙屎",
-        "2": "行通"
-    },
-    "Dongshi": {
-        "1": "屙屎",
-        "2": "行通"
-    },
-    "Raoping": {
-        "1": "屙屎"
-    },
-    "Yunlin": {
-        "1": "屙屎"
-    },
-    "Hong Kong-H": {
-        "1": "屙屎"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "屙屎"
-    },
-    "Senai": {
-        "1": "屙屎"
-    },
-    "Singkawang": {
-        "1": "屙屎"
-    },
-    "Jixi": {
-        "1": "屙屎"
-    },
-    "Shexian": {
-        "1": "擦屎"
-    },
-    "Tunxi": {
-        "1": "拉屎"
-    },
-    "Xiuning": {
-        "1": "拉屎",
-        "2": "拉五",
-        "3": "上屎缸"
-    },
-    "Yixian": {
-        "1": "拉屎"
-    },
-    "Qimen": {
-        "1": "屙屎"
-    },
-    "Wuyuan": {
-        "1": "放屎",
-        "2": "出恭"
-    },
-    "Fuliang": {
-        "1": "屙屎",
-        "2": "放屎"
-    },
-    "Dexing": {
-        "1": "屙屎"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "屙屎"
-    },
-    "Guangzhou": {
-        "1": "屙屎",
-        "2": "屙茄",
-        "3": "大便",
-        "4": "屙扽:dated",
-        "5": "屙唔:childish",
-        "6": "屙唔唔:childish"
-    },
-    "Hong Kong": {
-        "1": "屙屎",
-        "2": "屙茄",
-        "3": "大便",
-        "4": "開大:slang",
-        "5": "爆石:slang",
-        "6": "屙唔:childish",
-        "7": "屙唔唔:childish",
-        "8": "屙臭臭:childish"
-    },
-    "Shunde": {
-        "1": "屙屎"
-    },
-    "Foshan": {
-        "1": "屙屎"
-    },
-    "Zhongshan": {
-        "1": "屙屎"
-    },
-    "Dongguan": {
-        "1": "屙屎"
-    },
-    "HK Weitou": {
-        "1": "屙屎"
-    },
-    "Doumen-T": {
-        "1": "屙屎"
-    },
-    "Doumen-S": {
-        "1": "屙屎",
-        "2": "出恭"
-    },
-    "Taishan": {
-        "1": "屙屎"
-    },
-    "Kaiping": {
-        "1": "屙屎"
-    },
-    "Shaoguan": {
-        "1": "屙屎"
-    },
-    "Yunfu": {
-        "1": "屙屎"
-    },
-    "Yangjiang": {
-        "1": "屙屎"
-    },
-    "Xinyi": {
-        "1": "屙屎"
-    },
-    "Lianjiang": {
-        "1": "屙屎"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "屙屎"
-    },
-    "Ho Chi Minh City": {
-        "1": "屙屎"
-    },
-    "Nanning-P": {
-        "1": "屙屎"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "放屎",
-        "2": "出恭:euphemistic"
-    },
-    "Quanzhou": {
-        "1": "放屎",
-        "2": "出恭:euphemistic"
-    },
-    "Zhangzhou": {
-        "1": "放屎",
-        "2": "出恭:euphemistic",
-        "3": "應屎:childish"
-    },
-    "Taipei": {
-        "1": "放屎"
-    },
-    "Kaohsiung": {
-        "1": "放屎"
-    },
-    "Tainan": {
-        "1": "放屎"
-    },
-    "Taichung": {
-        "1": "放屎"
-    },
-    "Wuqi": {
-        "1": "放屎"
-    },
-    "Hsinchu-MN": {
-        "1": "放屎"
-    },
-    "Taitung": {
-        "1": "放屎"
-    },
-    "Lukang": {
-        "1": "放屎"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "放屎"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "放屎"
-    },
-    "Malaysia-MN": {
-        "1": "放屎"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "放屎",
-        "2": "大便"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "放屎"
-    },
-    "Shantou": {
-        "1": "放屎"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "放屎"
-    },
-    "Wenchang": {
-        "1": "放屎"
-    },
-    "Haikou": {
-        "1": "放屎",
-        "2": "出恭"
-    },
-    "Leizhou": {
-        "1": "放屎"
-    },
-    "Putian": {
-        "1": "拉屎"
-    },
-    "Xianyou": {
-        "1": "拉屎"
-    },
-    "Fuzhou": {
-        "1": "拉屎",
-        "2": "大解",
-        "3": "出恭:euphemistic"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "拉屎"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "拉屎"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "大便",
+        "大解",
+        "排便",
+        "出大恭:euphemistic"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "拉屎",
+        "解大手兒"
+    ],
+    "Taiwan": [
+        "拉屎",
+        "大便",
+        "上大號"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "拉屎",
+        "大便",
+        "解大手兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "拉屎"
+    ],
+    "Ulan Hot": [
+        "拉屎",
+        "拉㞎㞎"
+    ],
+    "Tongliao": [
+        "拉屎",
+        "拉㞎㞎"
+    ],
+    "Chifeng": [
+        "大便"
+    ],
+    "Bayanhot": [
+        "㞎屎",
+        "㞎手",
+        "㞎解"
+    ],
+    "Jinan": [
+        "拉屎",
+        "解大手",
+        "大便"
+    ],
+    "Muping": [
+        "拉屎"
+    ],
+    "Luoyang": [
+        "屙屎",
+        "解大手兒",
+        "大便"
+    ],
+    "Wanrong": [
+        "㞎屎"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "㞎屎"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "屙屎"
+    ],
+    "Xining": [
+        "大便",
+        "解大手"
+    ],
+    "Xuzhou": [
+        "屙屎",
+        "解大手",
+        "出大恭"
+    ],
+    "Yinchuan": [
+        "㞎屎"
+    ],
+    "Lanzhou": [
+        "㞎屎"
+    ],
+    "Ürümqi": [
+        "㞎屎",
+        "大便",
+        "解大手",
+        "拉㞎㞎:childish"
+    ],
+    "Wuhan": [
+        "屙㞎㞎",
+        "解大手",
+        "丟堆子:dated, slang"
+    ],
+    "Huanggang": [
+        "解大手"
+    ],
+    "Chengdu": [
+        "屙屎",
+        "解大手"
+    ],
+    "Guiyang": [
+        "屙屎",
+        "解大手",
+        "解大便",
+        "屙㞎㞎:childish"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "屙屎",
+        "屙癟",
+        "解大手",
+        "解大便",
+        "大便"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "屙屎",
+        "出恭",
+        "屙㞎㞎:childish"
+    ],
+    "Nanjing": [
+        "屙屎",
+        "大解:dated, euphemistic"
+    ],
+    "Hefei": [
+        "屙屎"
+    ],
+    "Nantong": [
+        "屙屎",
+        "屙㞎",
+        "大解",
+        "解大手:euphemistic"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "屙屎"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [
+        "屙屎"
+    ],
+    "Jining": [
+        "大便"
+    ],
+    "Hohhot": [
+        "屙屎"
+    ],
+    "Baotou": [
+        "大便"
+    ],
+    "Dongsheng": [
+        "拉屎"
+    ],
+    "Linhe": [
+        "屙屎"
+    ],
+    "Haibowan": [
+        "拉屎"
+    ],
+    "Shanghai": [
+        "拆污",
+        "惹污",
+        "大便",
+        "解大溲",
+        "上馬桶",
+        "辦公:humorous",
+        "跳舞:humorous",
+        "拆污污:childish",
+        "惹污污:childish",
+        "大溲:dated",
+        "大解:dated"
+    ],
+    "Suzhou": [
+        "拆污",
+        "惹污",
+        "拆屎",
+        "惹屎"
+    ],
+    "Wuxi": [
+        "屙屎"
+    ],
+    "Hangzhou": [
+        "惹污"
+    ],
+    "Chongming": [
+        "射污"
+    ],
+    "Wenzhou": [
+        "拉污"
+    ],
+    "Danyang": [
+        "屙屎",
+        "解手",
+        "出恭",
+        "屙恭"
+    ],
+    "Jinhua": [
+        "射污"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "惹屙",
+        "大便",
+        "大解"
+    ],
+    "Changsha": [
+        "屙屎",
+        "解大手"
+    ],
+    "Shuangfeng": [
+        "屙屎"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "屙屎",
+        "解大手:euphemistic",
+        "屙㞎㞎:childish"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "屙屎",
+        "解大手"
+    ],
+    "Lichuan": [
+        "屙屎"
+    ],
+    "Pingxiang": [
+        "屙屎",
+        "解大手"
+    ],
+    "Meixian": [
+        "屙屎"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "屙屎"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "屙屎"
+    ],
+    "Ruijin": [
+        "屙屎"
+    ],
+    "Shicheng": [
+        "屙屎"
+    ],
+    "Shangyou": [
+        "屙屎"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "屙屎"
+    ],
+    "Liudui": [
+        "屙屎"
+    ],
+    "Hsinchu": [
+        "屙屎",
+        "行通"
+    ],
+    "Dongshi": [
+        "屙屎",
+        "行通"
+    ],
+    "Raoping": [
+        "屙屎"
+    ],
+    "Yunlin": [
+        "屙屎"
+    ],
+    "Hong Kong-H": [
+        "屙屎"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "屙屎"
+    ],
+    "Senai": [
+        "屙屎"
+    ],
+    "Singkawang": [
+        "屙屎"
+    ],
+    "Jixi": [
+        "屙屎"
+    ],
+    "Shexian": [
+        "擦屎"
+    ],
+    "Tunxi": [
+        "拉屎"
+    ],
+    "Xiuning": [
+        "拉屎",
+        "拉五",
+        "上屎缸"
+    ],
+    "Yixian": [
+        "拉屎"
+    ],
+    "Qimen": [
+        "屙屎"
+    ],
+    "Wuyuan": [
+        "放屎",
+        "出恭"
+    ],
+    "Fuliang": [
+        "屙屎",
+        "放屎"
+    ],
+    "Dexing": [
+        "屙屎"
+    ],
+    "Jingde": [],
+    "Zhanda": [
+        "屙屎"
+    ],
+    "Guangzhou": [
+        "屙屎",
+        "屙茄",
+        "大便",
+        "屙扽:dated",
+        "屙唔:childish",
+        "屙唔唔:childish"
+    ],
+    "Hong Kong": [
+        "屙屎",
+        "屙茄",
+        "大便",
+        "開大:slang",
+        "爆石:slang",
+        "屙唔:childish",
+        "屙唔唔:childish",
+        "屙臭臭:childish"
+    ],
+    "Shunde": [
+        "屙屎"
+    ],
+    "Foshan": [
+        "屙屎"
+    ],
+    "Zhongshan": [
+        "屙屎"
+    ],
+    "Dongguan": [
+        "屙屎"
+    ],
+    "HK Weitou": [
+        "屙屎"
+    ],
+    "Doumen-T": [
+        "屙屎"
+    ],
+    "Doumen-S": [
+        "屙屎",
+        "出恭"
+    ],
+    "Taishan": [
+        "屙屎"
+    ],
+    "Kaiping": [
+        "屙屎"
+    ],
+    "Shaoguan": [
+        "屙屎"
+    ],
+    "Yunfu": [
+        "屙屎"
+    ],
+    "Yangjiang": [
+        "屙屎"
+    ],
+    "Xinyi": [
+        "屙屎"
+    ],
+    "Lianjiang": [
+        "屙屎"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "屙屎"
+    ],
+    "Ho Chi Minh City": [
+        "屙屎"
+    ],
+    "Nanning-P": [
+        "屙屎"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "放屎",
+        "出恭:euphemistic"
+    ],
+    "Quanzhou": [
+        "放屎",
+        "出恭:euphemistic"
+    ],
+    "Zhangzhou": [
+        "放屎",
+        "出恭:euphemistic",
+        "應屎:childish"
+    ],
+    "Taipei": [
+        "放屎"
+    ],
+    "Kaohsiung": [
+        "放屎"
+    ],
+    "Tainan": [
+        "放屎"
+    ],
+    "Taichung": [
+        "放屎"
+    ],
+    "Wuqi": [
+        "放屎"
+    ],
+    "Hsinchu-MN": [
+        "放屎"
+    ],
+    "Taitung": [
+        "放屎"
+    ],
+    "Lukang": [
+        "放屎"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "放屎"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "放屎"
+    ],
+    "Malaysia-MN": [
+        "放屎"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "放屎",
+        "大便"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "放屎"
+    ],
+    "Shantou": [
+        "放屎"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "放屎"
+    ],
+    "Wenchang": [
+        "放屎"
+    ],
+    "Haikou": [
+        "放屎",
+        "出恭"
+    ],
+    "Leizhou": [
+        "放屎"
+    ],
+    "Putian": [
+        "拉屎"
+    ],
+    "Xianyou": [
+        "拉屎"
+    ],
+    "Fuzhou": [
+        "拉屎",
+        "大解",
+        "出恭:euphemistic"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "拉屎"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "拉屎"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

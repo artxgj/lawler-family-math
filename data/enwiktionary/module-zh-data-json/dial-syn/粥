@@ -1,623 +1,527 @@
 {
     "meaning": "congee",
     "note": "",
-    "Classical": {
-        "1": "鬻",
-        "2": "糜",
-        "3": "饘粥"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "粥"
-    },
-    "Taiwan": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "粥"
-    },
-    "Shenyang": {
-        "1": "粥"
-    },
-    "Hailar": {
-        "1": "粥"
-    },
-    "Ulan Hot": {
-        "1": "粥"
-    },
-    "Tongliao": {
-        "1": "粥"
-    },
-    "Chifeng": {
-        "1": "粥"
-    },
-    "Bayanhot": {
-        "1": "米湯"
-    },
-    "Jinan": {
-        "1": "稀飯",
-        "2": "粥"
-    },
-    "Muping": {
-        "1": "粥"
-    },
-    "Luoyang": {
-        "1": "大米湯"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "米湯"
-    },
-    "Qingdao": {
-        "1": "稀飯"
-    },
-    "Zhengzhou": {
-        "1": "米湯"
-    },
-    "Xining": {
-        "1": "米湯"
-    },
-    "Xuzhou": {
-        "1": "粥"
-    },
-    "Yinchuan": {
-        "1": "稀飯"
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "稀飯",
-        "2": "粥"
-    },
-    "Huanggang": {
-        "1": "粥"
-    },
-    "Chengdu": {
-        "1": "稀飯"
-    },
-    "Guiyang": {
-        "1": "稀飯"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "稀飯",
-        "2": "粥"
-    },
-    "Kunming": {
-        "1": "稀飯"
-    },
-    "Yangzhou": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Nanjing": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Hefei": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "米湯"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "稀粥",
-        "2": "大米粥",
-        "3": "稀飯"
-    },
-    "Pingyao": {
-        "1": "米湯"
-    },
-    "Xinzhou": {
-        "1": "稀粥",
-        "2": "甜稀粥",
-        "3": "粥"
-    },
-    "Baochang": {
-        "1": "粥"
-    },
-    "Jining": {
-        "1": "稀粥"
-    },
-    "Hohhot": {
-        "1": "稀粥"
-    },
-    "Baotou": {
-        "1": "稀粥"
-    },
-    "Dongsheng": {
-        "1": "粥"
-    },
-    "Linhe": {
-        "1": "粥"
-    },
-    "Haibowan": {
-        "1": "稀飯"
-    },
-    "Shanghai": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Suzhou": {
-        "1": "粥"
-    },
-    "Wuxi": {
-        "1": "粥"
-    },
-    "Hangzhou": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Chongming": {
-        "1": "粥",
-        "2": "米粥"
-    },
-    "Wenzhou": {
-        "1": "粥"
-    },
-    "Danyang": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Jinhua": {
-        "1": "粥"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "粥",
-        "2": "米粥"
-    },
-    "Changsha": {
-        "1": "稀飯",
-        "2": "粥"
-    },
-    "Shuangfeng": {
-        "1": "稀飯",
-        "2": "粥"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "羹"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Lichuan": {
-        "1": "粥"
-    },
-    "Pingxiang": {
-        "1": "粥"
-    },
-    "Meixian": {
-        "1": "粥"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "粥"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "粥"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "粥"
-    },
-    "Yudu": {
-        "1": "粥",
-        "2": "稀飯"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "粥"
-    },
-    "Shangyou": {
-        "1": "粥"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "粥",
-        "2": "糜"
-    },
-    "Liudui": {
-        "1": "粥",
-        "2": "糜"
-    },
-    "Hsinchu": {
-        "1": "糜"
-    },
-    "Dongshi": {
-        "1": "糜"
-    },
-    "Raoping": {
-        "1": "糜"
-    },
-    "Yunlin": {
-        "1": "糜"
-    },
-    "Hong Kong-H": {
-        "1": "粥"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "粥"
-    },
-    "Senai": {
-        "1": "粥"
-    },
-    "Singkawang": {
-        "1": "糜"
-    },
-    "Jixi": {
-        "1": "粥"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": "飯茶"
-    },
-    "Qimen": {
-        "1": "粥"
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": "粥"
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "粥"
-    },
-    "Guangzhou": {
-        "1": "粥"
-    },
-    "Hong Kong": {
-        "1": "粥"
-    },
-    "Shunde": {
-        "1": "粥"
-    },
-    "Foshan": {
-        "1": "粥"
-    },
-    "Zhongshan": {
-        "1": "粥"
-    },
-    "Dongguan": {
-        "1": "粥"
-    },
-    "HK Weitou": {
-        "1": "粥"
-    },
-    "Doumen-T": {
-        "1": "粥"
-    },
-    "Doumen-S": {
-        "1": "粥"
-    },
-    "Taishan": {
-        "1": "粥"
-    },
-    "Kaiping": {
-        "1": "粥"
-    },
-    "Shaoguan": {
-        "1": "粥"
-    },
-    "Yunfu": {
-        "1": "粥"
-    },
-    "Yangjiang": {
-        "1": "粥"
-    },
-    "Xinyi": {
-        "1": "粥"
-    },
-    "Lianjiang": {
-        "1": "粥"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "粥"
-    },
-    "Kuala Lumpur": {
-        "1": "粥"
-    },
-    "Ho Chi Minh City": {
-        "1": "粥"
-    },
-    "Nanning-P": {
-        "1": "粥"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "糜",
-        "2": "飲糜"
-    },
-    "Quanzhou": {
-        "1": "糜",
-        "2": "飲糜"
-    },
-    "Zhangzhou": {
-        "1": "糜",
-        "2": "飲糜"
-    },
-    "Taipei": {
-        "1": "糜"
-    },
-    "Kaohsiung": {
-        "1": "糜"
-    },
-    "Tainan": {
-        "1": "糜",
-        "2": "飲糜仔"
-    },
-    "Taichung": {
-        "1": "糜"
-    },
-    "Wuqi": {
-        "1": "糜"
-    },
-    "Hsinchu-MN": {
-        "1": "糜"
-    },
-    "Taitung": {
-        "1": "糜"
-    },
-    "Lukang": {
-        "1": "糜"
-    },
-    "Sanxia": {
-        "1": "糜"
-    },
-    "Yilan": {
-        "1": "糜",
-        "2": "飲糜仔"
-    },
-    "Kinmen": {
-        "1": "糜",
-        "2": "粥糜"
-    },
-    "Magong": {
-        "1": "糜"
-    },
-    "Malaysia-MN": {
-        "1": "粥",
-        "2": "糜"
-    },
-    "Singapore-MN": {
-        "1": "糜",
-        "2": "飲糜"
-    },
-    "Philippine-MN": {
-        "1": "糜",
-        "2": "飲糜"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "糜"
-    },
-    "Shantou": {
-        "1": "糜"
-    },
-    "Haifeng": {
-        "1": "糜"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "糜"
-    },
-    "Wenchang": {
-        "1": "粥"
-    },
-    "Haikou": {
-        "1": "粥"
-    },
-    "Leizhou": {
-        "1": "糜"
-    },
-    "Putian": {
-        "1": "飲糜"
-    },
-    "Xianyou": {
-        "1": "飲糜"
-    },
-    "Fuzhou": {
-        "1": "粥",
-        "2": "飯粥"
-    },
-    "Changle": {
-        "1": "粥"
-    },
-    "Fuqing": {
-        "1": "糜"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "糜"
-    },
-    "Gutian": {
-        "1": "糜粥"
-    },
-    "Fu'an": {
-        "1": "糜粥"
-    },
-    "Ningde": {
-        "1": "糜粥"
-    },
-    "Shouning": {
-        "1": "糜粥"
-    },
-    "Zhouning": {
-        "1": "糜粥"
-    },
-    "Fuding": {
-        "1": "糜粥"
-    },
-    "Matsu": {
-        "1": "飯粥"
-    },
-    "Jian'ou": {
-        "1": "粥"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "糜仔"
-    },
-    "Fuding-She": {
-        "1": "糜"
-    },
-    "Luoyuan-She": {
-        "1": "糜粥"
-    },
-    "Sanming-She": {
-        "1": "糜"
-    },
-    "Shunchang-She": {
-        "1": "糜"
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": "糜"
-    },
-    "Cangnan-She": {
-        "1": "糜"
-    },
-    "Jingning-She": {
-        "1": "糜"
-    },
-    "Lishui-She": {
-        "1": "糜"
-    },
-    "Longyou-She": {
-        "1": "糜"
-    },
-    "Chaozhou-She": {
-        "1": "糜"
-    },
-    "Fengshun-She": {
-        "1": "糜"
-    }
+    "Classical": [
+        "鬻",
+        "糜",
+        "饘粥"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "粥"
+    ],
+    "Taiwan": [
+        "粥",
+        "稀飯"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "粥"
+    ],
+    "Shenyang": [
+        "粥"
+    ],
+    "Hailar": [
+        "粥"
+    ],
+    "Ulan Hot": [
+        "粥"
+    ],
+    "Tongliao": [
+        "粥"
+    ],
+    "Chifeng": [
+        "粥"
+    ],
+    "Bayanhot": [
+        "米湯"
+    ],
+    "Jinan": [
+        "稀飯",
+        "粥"
+    ],
+    "Muping": [
+        "粥"
+    ],
+    "Luoyang": [
+        "大米湯"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "米湯"
+    ],
+    "Qingdao": [
+        "稀飯"
+    ],
+    "Zhengzhou": [
+        "米湯"
+    ],
+    "Xining": [
+        "米湯"
+    ],
+    "Xuzhou": [
+        "粥"
+    ],
+    "Yinchuan": [
+        "稀飯"
+    ],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "稀飯",
+        "粥"
+    ],
+    "Huanggang": [
+        "粥"
+    ],
+    "Chengdu": [
+        "稀飯"
+    ],
+    "Guiyang": [
+        "稀飯"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "稀飯",
+        "粥"
+    ],
+    "Kunming": [
+        "稀飯"
+    ],
+    "Yangzhou": [
+        "粥",
+        "稀飯"
+    ],
+    "Nanjing": [
+        "粥",
+        "稀飯"
+    ],
+    "Hefei": [
+        "粥",
+        "稀飯"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "米湯"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "稀粥",
+        "大米粥",
+        "稀飯"
+    ],
+    "Pingyao": [
+        "米湯"
+    ],
+    "Xinzhou": [
+        "稀粥",
+        "甜稀粥",
+        "粥"
+    ],
+    "Baochang": [
+        "粥"
+    ],
+    "Jining": [
+        "稀粥"
+    ],
+    "Hohhot": [
+        "稀粥"
+    ],
+    "Baotou": [
+        "稀粥"
+    ],
+    "Dongsheng": [
+        "粥"
+    ],
+    "Linhe": [
+        "粥"
+    ],
+    "Haibowan": [
+        "稀飯"
+    ],
+    "Shanghai": [
+        "粥",
+        "稀飯"
+    ],
+    "Suzhou": [
+        "粥"
+    ],
+    "Wuxi": [
+        "粥"
+    ],
+    "Hangzhou": [
+        "粥",
+        "稀飯"
+    ],
+    "Chongming": [
+        "粥",
+        "米粥"
+    ],
+    "Wenzhou": [
+        "粥"
+    ],
+    "Danyang": [
+        "粥",
+        "稀飯"
+    ],
+    "Jinhua": [
+        "粥"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "粥",
+        "米粥"
+    ],
+    "Changsha": [
+        "稀飯",
+        "粥"
+    ],
+    "Shuangfeng": [
+        "稀飯",
+        "粥"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "羹"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "粥",
+        "稀飯"
+    ],
+    "Lichuan": [
+        "粥"
+    ],
+    "Pingxiang": [
+        "粥"
+    ],
+    "Meixian": [
+        "粥"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "粥"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "粥"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "粥"
+    ],
+    "Yudu": [
+        "粥",
+        "稀飯"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "粥"
+    ],
+    "Shangyou": [
+        "粥"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "粥",
+        "糜"
+    ],
+    "Liudui": [
+        "粥",
+        "糜"
+    ],
+    "Hsinchu": [
+        "糜"
+    ],
+    "Dongshi": [
+        "糜"
+    ],
+    "Raoping": [
+        "糜"
+    ],
+    "Yunlin": [
+        "糜"
+    ],
+    "Hong Kong-H": [
+        "粥"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "粥"
+    ],
+    "Senai": [
+        "粥"
+    ],
+    "Singkawang": [
+        "糜"
+    ],
+    "Jixi": [
+        "粥"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [
+        "飯茶"
+    ],
+    "Qimen": [
+        "粥"
+    ],
+    "Wuyuan": [],
+    "Fuliang": [
+        "粥"
+    ],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [
+        "粥"
+    ],
+    "Guangzhou": [
+        "粥"
+    ],
+    "Hong Kong": [
+        "粥"
+    ],
+    "Shunde": [
+        "粥"
+    ],
+    "Foshan": [
+        "粥"
+    ],
+    "Zhongshan": [
+        "粥"
+    ],
+    "Dongguan": [
+        "粥"
+    ],
+    "HK Weitou": [
+        "粥"
+    ],
+    "Doumen-T": [
+        "粥"
+    ],
+    "Doumen-S": [
+        "粥"
+    ],
+    "Taishan": [
+        "粥"
+    ],
+    "Kaiping": [
+        "粥"
+    ],
+    "Shaoguan": [
+        "粥"
+    ],
+    "Yunfu": [
+        "粥"
+    ],
+    "Yangjiang": [
+        "粥"
+    ],
+    "Xinyi": [
+        "粥"
+    ],
+    "Lianjiang": [
+        "粥"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "粥"
+    ],
+    "Kuala Lumpur": [
+        "粥"
+    ],
+    "Ho Chi Minh City": [
+        "粥"
+    ],
+    "Nanning-P": [
+        "粥"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "糜",
+        "飲糜"
+    ],
+    "Quanzhou": [
+        "糜",
+        "飲糜"
+    ],
+    "Zhangzhou": [
+        "糜",
+        "飲糜"
+    ],
+    "Taipei": [
+        "糜"
+    ],
+    "Kaohsiung": [
+        "糜"
+    ],
+    "Tainan": [
+        "糜",
+        "飲糜仔"
+    ],
+    "Taichung": [
+        "糜"
+    ],
+    "Wuqi": [
+        "糜"
+    ],
+    "Hsinchu-MN": [
+        "糜"
+    ],
+    "Taitung": [
+        "糜"
+    ],
+    "Lukang": [
+        "糜"
+    ],
+    "Sanxia": [
+        "糜"
+    ],
+    "Yilan": [
+        "糜",
+        "飲糜仔"
+    ],
+    "Kinmen": [
+        "糜",
+        "粥糜"
+    ],
+    "Magong": [
+        "糜"
+    ],
+    "Malaysia-MN": [
+        "粥",
+        "糜"
+    ],
+    "Singapore-MN": [
+        "糜",
+        "飲糜"
+    ],
+    "Philippine-MN": [
+        "糜",
+        "飲糜"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "糜"
+    ],
+    "Shantou": [
+        "糜"
+    ],
+    "Haifeng": [
+        "糜"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "糜"
+    ],
+    "Wenchang": [
+        "粥"
+    ],
+    "Haikou": [
+        "粥"
+    ],
+    "Leizhou": [
+        "糜"
+    ],
+    "Putian": [
+        "飲糜"
+    ],
+    "Xianyou": [
+        "飲糜"
+    ],
+    "Fuzhou": [
+        "粥",
+        "飯粥"
+    ],
+    "Changle": [
+        "粥"
+    ],
+    "Fuqing": [
+        "糜"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "糜"
+    ],
+    "Gutian": [
+        "糜粥"
+    ],
+    "Fu'an": [
+        "糜粥"
+    ],
+    "Ningde": [
+        "糜粥"
+    ],
+    "Shouning": [
+        "糜粥"
+    ],
+    "Zhouning": [
+        "糜粥"
+    ],
+    "Fuding": [
+        "糜粥"
+    ],
+    "Matsu": [
+        "飯粥"
+    ],
+    "Jian'ou": [
+        "粥"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "糜仔"
+    ],
+    "Fuding-She": [
+        "糜"
+    ],
+    "Luoyuan-She": [
+        "糜粥"
+    ],
+    "Sanming-She": [
+        "糜"
+    ],
+    "Shunchang-She": [
+        "糜"
+    ],
+    "Hua'an-She": [],
+    "Guixi-She": [
+        "糜"
+    ],
+    "Cangnan-She": [
+        "糜"
+    ],
+    "Jingning-She": [
+        "糜"
+    ],
+    "Lishui-She": [
+        "糜"
+    ],
+    "Longyou-She": [
+        "糜"
+    ],
+    "Chaozhou-She": [
+        "糜"
+    ],
+    "Fengshun-She": [
+        "糜"
+    ]
 }

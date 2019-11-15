@@ -1,482 +1,406 @@
 {
     "meaning": "dimple",
     "note": "",
-    "Classical": {
-        "1": "靨輔",
-        "2": "靨"
-    },
-    "Formal": {
-        "1": "酒窩",
-        "2": "笑窩",
-        "3": "酒靨",
-        "4": "笑靨"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "酒窩兒"
-    },
-    "Taiwan": {
-        "1": "酒窩"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "酒窩兒",
-        "2": "酒坑兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "酒窩"
-    },
-    "Muping": {
-        "1": "酒窩兒"
-    },
-    "Luoyang": {
-        "1": "酒窩兒",
-        "2": "酒坑兒"
-    },
-    "Wanrong": {
-        "1": "笑靨窩兒"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "酒窩兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "酒窩兒"
-    },
-    "Xining": {
-        "1": "酒窩兒"
-    },
-    "Xuzhou": {
-        "1": "酒窩兒"
-    },
-    "Yinchuan": {
-        "1": "酒窩"
-    },
-    "Lanzhou": {
-        "1": "酒窩兒"
-    },
-    "Ürümqi": {
-        "1": "酒窩兒"
-    },
-    "Wuhan": {
-        "1": "酒窩"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "酒窩窩兒",
-        "2": "酒窩"
-    },
-    "Guiyang": {
-        "1": "酒窩"
-    },
-    "Guilin": {
-        "1": "酒窩"
-    },
-    "Liuzhou": {
-        "1": "酒杯窩",
-        "2": "酒窩"
-    },
-    "Kunming": {
-        "1": "酒窩"
-    },
-    "Yangzhou": {
-        "1": "酒窩子",
-        "2": "酒塘"
-    },
-    "Nanjing": {
-        "1": "酒窩"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "酒窩兒",
-        "2": "酒塘兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "笑窩窩"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "笑顏泊兒"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "酒靨"
-    },
-    "Hangzhou": {
-        "1": "酒靨兒",
-        "2": "酒窩兒"
-    },
-    "Shanghai": {
-        "1": "酒靨",
-        "2": "笑靨",
-        "3": "酒窩"
-    },
-    "Chongming": {
-        "1": "酒田"
-    },
-    "Wenzhou": {
-        "1": "酒丼",
-        "2": "笑靨兒"
-    },
-    "Danyang": {
-        "1": "酒吸塘塘",
-        "2": "酒塘塘"
-    },
-    "Jinhua": {
-        "1": "酒靨兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "老酒窞窞",
-        "2": "酒窞"
-    },
-    "Changsha": {
-        "1": "酒窩子"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "酒氹"
-    },
-    "Quanzhou-X": {
-        "1": "酒窩",
-        "2": "酒蛋蛋"
-    },
-    "Nanchang": {
-        "1": "酒窩"
-    },
-    "Lichuan": {
-        "1": "酒窩"
-    },
-    "Pingxiang": {
-        "1": "酒靨氹",
-        "2": "酒窩氹"
-    },
-    "Meixian": {
-        "1": "酒凹"
-    },
-    "Xingning": {
-        "1": "酒壺哩"
-    },
-    "Huidong": {
-        "1": "酒凹"
-    },
-    "Qujiang": {
-        "1": "酒凹"
-    },
-    "Xiaosanjiang": {
-        "1": "酒杯印"
-    },
-    "Luchuan": {
-        "1": "酒窩"
-    },
-    "Changting": {
-        "1": "酒靨",
-        "2": "酒靨子"
-    },
-    "Pingyu": {
-        "1": "酒靨"
-    },
-    "Wuping": {
-        "1": "酒靨子"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "酒靨"
-    },
-    "Yudu": {
-        "1": "酒窩子"
-    },
-    "Ruijin": {
-        "1": "酒靨子",
-        "2": "酒窩子"
-    },
-    "Shicheng": {
-        "1": "酒靨"
-    },
-    "Shangyou": {
-        "1": "酒窩子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "酒窟仔"
-    },
-    "Liudui": {
-        "1": "酒窟仔"
-    },
-    "Hsinchu": {
-        "1": "酒窟"
-    },
-    "Dongshi": {
-        "1": "扭酒窟",
-        "2": "酒窟"
-    },
-    "Raoping": {
-        "1": "酒窟仔"
-    },
-    "Yunlin": {
-        "1": "酒窟"
-    },
-    "Hong Kong-H": {
-        "1": "酒凹"
-    },
-    "Sabah": {
-        "1": "酒凹"
-    },
-    "Senai": {
-        "1": "酒凹"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "酒靨"
-    },
-    "Guangzhou": {
-        "1": "酒凹"
-    },
-    "Hong Kong": {
-        "1": "酒凹"
-    },
-    "Shunde": {
-        "1": "酒凹"
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": "燒酒凹"
-    },
-    "Dongguan": {
-        "1": "燒酒凹"
-    },
-    "HK Weitou": {
-        "1": "酒凹"
-    },
-    "Taishan": {
-        "1": "酒凹"
-    },
-    "Doumen": {
-        "1": "酒凹"
-    },
-    "Kaiping": {
-        "1": "酒凹"
-    },
-    "Shaoguan": {
-        "1": "酒凹",
-        "2": "酒窩"
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "燒酒窩"
-    },
-    "Lianjiang": {
-        "1": "酒杯凹"
-    },
-    "Nanning": {
-        "1": "酒窩"
-    },
-    "Wuzhou": {
-        "1": "酒窩"
-    },
-    "Yulin": {
-        "1": "酒窩"
-    },
-    "Hepu": {
-        "1": "酒窩"
-    },
-    "Kuala Lumpur": {
-        "1": "酒凹"
-    },
-    "Nanning-P": {
-        "1": "酒窩"
-    },
-    "Guilin-P": {
-        "1": "酒窩"
-    },
-    "Xiamen": {
-        "1": "酒窟"
-    },
-    "Quanzhou": {
-        "1": "酒窟仔",
-        "2": "酒窟"
-    },
-    "Zhangzhou": {
-        "1": "酒窟仔",
-        "2": "酒窟",
-        "3": "酒塌仔"
-    },
-    "Taipei": {
-        "1": "蛀窟仔",
-        "2": "酒窟仔"
-    },
-    "Kaohsiung": {
-        "1": "酒窟仔"
-    },
-    "Tainan": {
-        "1": "酒窟仔"
-    },
-    "Taichung": {
-        "1": "酒窟仔",
-        "2": "酒凹"
-    },
-    "Wuqi": {
-        "1": "酒窟仔"
-    },
-    "Hsinchu-MN": {
-        "1": "酒窟仔"
-    },
-    "Taitung": {
-        "1": "酒窟仔"
-    },
-    "Lukang": {
-        "1": "酒窟仔"
-    },
-    "Sanxia": {
-        "1": "酒窟仔"
-    },
-    "Yilan": {
-        "1": "酒窟仔"
-    },
-    "Kinmen": {
-        "1": "酒窟仔"
-    },
-    "Magong": {
-        "1": "酒窟仔",
-        "2": "酒窟"
-    },
-    "Malaysia-MN": {
-        "1": "喙窟"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "酒窩"
-    },
-    "Chaozhou": {
-        "1": "酒盅窟"
-    },
-    "Shantou": {
-        "1": "酒盅窟"
-    },
-    "Haifeng": {
-        "1": "酒窟仔"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "酒盅窟"
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": "酒盅"
-    },
-    "Putian": {
-        "1": "喙窠"
-    },
-    "Xianyou": {
-        "1": "喙窠"
-    },
-    "Fuzhou": {
-        "1": "酒窟"
-    },
-    "Fuqing": {
-        "1": "酒窟"
-    },
-    "Matsu": {
-        "1": "酒窟"
-    },
-    "Jian'ou": {
-        "1": "酒窟仔"
-    }
+    "Classical": [
+        "靨輔",
+        "靨"
+    ],
+    "Formal": [
+        "酒窩",
+        "笑窩",
+        "酒靨",
+        "笑靨"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "酒窩兒"
+    ],
+    "Taiwan": [
+        "酒窩"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "酒窩兒",
+        "酒坑兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "酒窩"
+    ],
+    "Muping": [
+        "酒窩兒"
+    ],
+    "Luoyang": [
+        "酒窩兒",
+        "酒坑兒"
+    ],
+    "Wanrong": [
+        "笑靨窩兒"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "酒窩兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "酒窩兒"
+    ],
+    "Xining": [
+        "酒窩兒"
+    ],
+    "Xuzhou": [
+        "酒窩兒"
+    ],
+    "Yinchuan": [
+        "酒窩"
+    ],
+    "Lanzhou": [
+        "酒窩兒"
+    ],
+    "Ürümqi": [
+        "酒窩兒"
+    ],
+    "Wuhan": [
+        "酒窩"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "酒窩窩兒",
+        "酒窩"
+    ],
+    "Guiyang": [
+        "酒窩"
+    ],
+    "Guilin": [
+        "酒窩"
+    ],
+    "Liuzhou": [
+        "酒杯窩",
+        "酒窩"
+    ],
+    "Kunming": [
+        "酒窩"
+    ],
+    "Yangzhou": [
+        "酒窩子",
+        "酒塘"
+    ],
+    "Nanjing": [
+        "酒窩"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "酒窩兒",
+        "酒塘兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "笑窩窩"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "笑顏泊兒"
+    ],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "酒靨"
+    ],
+    "Hangzhou": [
+        "酒靨兒",
+        "酒窩兒"
+    ],
+    "Shanghai": [
+        "酒靨",
+        "笑靨",
+        "酒窩"
+    ],
+    "Chongming": [
+        "酒田"
+    ],
+    "Wenzhou": [
+        "酒丼",
+        "笑靨兒"
+    ],
+    "Danyang": [
+        "酒吸塘塘",
+        "酒塘塘"
+    ],
+    "Jinhua": [
+        "酒靨兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "老酒窞窞",
+        "酒窞"
+    ],
+    "Changsha": [
+        "酒窩子"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "酒氹"
+    ],
+    "Quanzhou-X": [
+        "酒窩",
+        "酒蛋蛋"
+    ],
+    "Nanchang": [
+        "酒窩"
+    ],
+    "Lichuan": [
+        "酒窩"
+    ],
+    "Pingxiang": [
+        "酒靨氹",
+        "酒窩氹"
+    ],
+    "Meixian": [
+        "酒凹"
+    ],
+    "Xingning": [
+        "酒壺哩"
+    ],
+    "Huidong": [
+        "酒凹"
+    ],
+    "Qujiang": [
+        "酒凹"
+    ],
+    "Xiaosanjiang": [
+        "酒杯印"
+    ],
+    "Luchuan": [
+        "酒窩"
+    ],
+    "Changting": [
+        "酒靨",
+        "酒靨子"
+    ],
+    "Pingyu": [
+        "酒靨"
+    ],
+    "Wuping": [
+        "酒靨子"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "酒靨"
+    ],
+    "Yudu": [
+        "酒窩子"
+    ],
+    "Ruijin": [
+        "酒靨子",
+        "酒窩子"
+    ],
+    "Shicheng": [
+        "酒靨"
+    ],
+    "Shangyou": [
+        "酒窩子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "酒窟仔"
+    ],
+    "Liudui": [
+        "酒窟仔"
+    ],
+    "Hsinchu": [
+        "酒窟"
+    ],
+    "Dongshi": [
+        "扭酒窟",
+        "酒窟"
+    ],
+    "Raoping": [
+        "酒窟仔"
+    ],
+    "Yunlin": [
+        "酒窟"
+    ],
+    "Hong Kong-H": [
+        "酒凹"
+    ],
+    "Sabah": [
+        "酒凹"
+    ],
+    "Senai": [
+        "酒凹"
+    ],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "酒靨"
+    ],
+    "Guangzhou": [
+        "酒凹"
+    ],
+    "Hong Kong": [
+        "酒凹"
+    ],
+    "Shunde": [
+        "酒凹"
+    ],
+    "Foshan": [],
+    "Zhongshan": [
+        "燒酒凹"
+    ],
+    "Dongguan": [
+        "燒酒凹"
+    ],
+    "HK Weitou": [
+        "酒凹"
+    ],
+    "Taishan": [
+        "酒凹"
+    ],
+    "Doumen": [
+        "酒凹"
+    ],
+    "Kaiping": [
+        "酒凹"
+    ],
+    "Shaoguan": [
+        "酒凹",
+        "酒窩"
+    ],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [
+        "燒酒窩"
+    ],
+    "Lianjiang": [
+        "酒杯凹"
+    ],
+    "Nanning": [
+        "酒窩"
+    ],
+    "Wuzhou": [
+        "酒窩"
+    ],
+    "Yulin": [
+        "酒窩"
+    ],
+    "Hepu": [
+        "酒窩"
+    ],
+    "Kuala Lumpur": [
+        "酒凹"
+    ],
+    "Nanning-P": [
+        "酒窩"
+    ],
+    "Guilin-P": [
+        "酒窩"
+    ],
+    "Xiamen": [
+        "酒窟"
+    ],
+    "Quanzhou": [
+        "酒窟仔",
+        "酒窟"
+    ],
+    "Zhangzhou": [
+        "酒窟仔",
+        "酒窟",
+        "酒塌仔"
+    ],
+    "Taipei": [
+        "蛀窟仔",
+        "酒窟仔"
+    ],
+    "Kaohsiung": [
+        "酒窟仔"
+    ],
+    "Tainan": [
+        "酒窟仔"
+    ],
+    "Taichung": [
+        "酒窟仔",
+        "酒凹"
+    ],
+    "Wuqi": [
+        "酒窟仔"
+    ],
+    "Hsinchu-MN": [
+        "酒窟仔"
+    ],
+    "Taitung": [
+        "酒窟仔"
+    ],
+    "Lukang": [
+        "酒窟仔"
+    ],
+    "Sanxia": [
+        "酒窟仔"
+    ],
+    "Yilan": [
+        "酒窟仔"
+    ],
+    "Kinmen": [
+        "酒窟仔"
+    ],
+    "Magong": [
+        "酒窟仔",
+        "酒窟"
+    ],
+    "Malaysia-MN": [
+        "喙窟"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [
+        "酒窩"
+    ],
+    "Chaozhou": [
+        "酒盅窟"
+    ],
+    "Shantou": [
+        "酒盅窟"
+    ],
+    "Haifeng": [
+        "酒窟仔"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "酒盅窟"
+    ],
+    "Haikou": [],
+    "Leizhou": [
+        "酒盅"
+    ],
+    "Putian": [
+        "喙窠"
+    ],
+    "Xianyou": [
+        "喙窠"
+    ],
+    "Fuzhou": [
+        "酒窟"
+    ],
+    "Fuqing": [
+        "酒窟"
+    ],
+    "Matsu": [
+        "酒窟"
+    ],
+    "Jian'ou": [
+        "酒窟仔"
+    ]
 }

@@ -1,724 +1,624 @@
 {
     "meaning": "snake",
     "note": "",
-    "Classical": {
-        "1": "蛇"
-    },
-    "Formal": {
-        "1": "蛇"
-    },
-    "Taxonomic": {
-        "1": "蛇"
-    },
-    "Beijing": {
-        "1": "長蟲"
-    },
-    "Taiwan": {
-        "1": "蛇"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "長蟲",
-        "2": "蛇"
-    },
-    "Shenyang": {
-        "1": "長蟲"
-    },
-    "Hailar": {
-        "1": "長蟲"
-    },
-    "Ulan Hot": {
-        "1": "長蟲"
-    },
-    "Tongliao": {
-        "1": "長蟲"
-    },
-    "Chifeng": {
-        "1": "蛇"
-    },
-    "Bayanhot": {
-        "1": "蛇"
-    },
-    "Jinan": {
-        "1": "長蟲",
-        "2": "蛇"
-    },
-    "Muping": {
-        "1": "長蟲"
-    },
-    "Luoyang": {
-        "1": "長蟲"
-    },
-    "Wanrong": {
-        "1": "蛇"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "長蟲"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "長蟲"
-    },
-    "Xining": {
-        "1": "蛇"
-    },
-    "Xuzhou": {
-        "1": "長蟲",
-        "2": "蛇"
-    },
-    "Yinchuan": {
-        "1": "蛇"
-    },
-    "Lanzhou": {
-        "1": "長蟲",
-        "2": "蛇"
-    },
-    "Ürümqi": {
-        "1": "長蟲",
-        "2": "蛇"
-    },
-    "Wuhan": {
-        "1": "蛇"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蛇",
-        "2": "梳老二",
-        "3": "長蟲"
-    },
-    "Guiyang": {
-        "1": "老蛇"
-    },
-    "Guilin": {
-        "1": "蛇"
-    },
-    "Liuzhou": {
-        "1": "蛇",
-        "2": "溜子:dated"
-    },
-    "Kunming": {
-        "1": "長蟲"
-    },
-    "Yangzhou": {
-        "1": "蛇"
-    },
-    "Nanjing": {
-        "1": "蛇兒"
-    },
-    "Hefei": {
-        "1": "蛇"
-    },
-    "Nantong": {
-        "1": "蛇",
-        "2": "長蟲"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "蛇"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "蛇"
-    },
-    "Pingyao": {
-        "1": "蛇"
-    },
-    "Xinzhou": {
-        "1": "蛇"
-    },
-    "Baochang": {
-        "1": "蛇"
-    },
-    "Jining": {
-        "1": "蛇"
-    },
-    "Hohhot": {
-        "1": "蛇"
-    },
-    "Baotou": {
-        "1": "蛇"
-    },
-    "Dongsheng": {
-        "1": "蛇"
-    },
-    "Linhe": {
-        "1": "長蟲"
-    },
-    "Haibowan": {
-        "1": "蛇"
-    },
-    "Shanghai": {
-        "1": "蛇",
-        "2": "水蛇"
-    },
-    "Suzhou": {
-        "1": "蛇"
-    },
-    "Wuxi": {
-        "1": "蛇"
-    },
-    "Hangzhou": {
-        "1": "蛇"
-    },
-    "Chongming": {
-        "1": "蛇"
-    },
-    "Wenzhou": {
-        "1": "蛇"
-    },
-    "Danyang": {
-        "1": "蛇"
-    },
-    "Jinhua": {
-        "1": "蛇"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蛇"
-    },
-    "Changsha": {
-        "1": "蛇",
-        "2": "溜子"
-    },
-    "Shuangfeng": {
-        "1": "蛇",
-        "2": "溜子"
-    },
-    "Xiangtan": {
-        "1": "蛇"
-    },
-    "Loudi": {
-        "1": "蛇"
-    },
-    "Quanzhou-X": {
-        "1": "蛇"
-    },
-    "Nanchang": {
-        "1": "蛇"
-    },
-    "Lichuan": {
-        "1": "蛇"
-    },
-    "Pingxiang": {
-        "1": "蛇"
-    },
-    "Meixian": {
-        "1": "蛇哥"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "蛇"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "蛇"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "蛇哥"
-    },
-    "Liudui": {
-        "1": "蛇哥"
-    },
-    "Hsinchu": {
-        "1": "蛇",
-        "2": "蛇哥"
-    },
-    "Dongshi": {
-        "1": "蛇",
-        "2": "蛇哥"
-    },
-    "Raoping": {
-        "1": "蛇"
-    },
-    "Yunlin": {
-        "1": "蛇"
-    },
-    "Hong Kong-H": {
-        "1": "蛇哥"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "蛇哥",
-        "2": "蛇"
-    },
-    "Senai": {
-        "1": "蛇"
-    },
-    "Singkawang": {
-        "1": "蛇"
-    },
-    "Jixi": {
-        "1": "蛇"
-    },
-    "Shexian": {
-        "1": "蛇"
-    },
-    "Tunxi": {
-        "1": "蛇"
-    },
-    "Xiuning": {
-        "1": "蛇"
-    },
-    "Yixian": {
-        "1": "蛇"
-    },
-    "Qimen": {
-        "1": "蛇"
-    },
-    "Wuyuan": {
-        "1": "蛇"
-    },
-    "Fuliang": {
-        "1": "蛇"
-    },
-    "Dexing": {
-        "1": "蛇"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "蛇"
-    },
-    "Hong Kong": {
-        "1": "蛇"
-    },
-    "HK Weitou": {
-        "1": "蛇"
-    },
-    "Kam Tin": {
-        "1": "蛇"
-    },
-    "Ting Kok": {
-        "1": "蛇"
-    },
-    "Tung Ping Chau": {
-        "1": "蛇"
-    },
-    "Macau": {
-        "1": "蛇"
-    },
-    "Panyu": {
-        "1": "蛇"
-    },
-    "Huadu": {
-        "1": "蛇"
-    },
-    "Conghua": {
-        "1": "蛇"
-    },
-    "Zengcheng": {
-        "1": "蛇"
-    },
-    "Foshan": {
-        "1": "蛇"
-    },
-    "Nanhai": {
-        "1": "蛇"
-    },
-    "Shunde": {
-        "1": "蛇"
-    },
-    "Sanshui": {
-        "1": "蛇"
-    },
-    "Gaoming": {
-        "1": "蛇"
-    },
-    "Zhongshan": {
-        "1": "蛇"
-    },
-    "Zhuhai": {
-        "1": "蛇"
-    },
-    "Doumen-T": {
-        "1": "蛇"
-    },
-    "Doumen-S": {
-        "1": "蛇"
-    },
-    "Jiangmen": {
-        "1": "蛇"
-    },
-    "Xinhui": {
-        "1": "蛇"
-    },
-    "Taishan": {
-        "1": "蛇"
-    },
-    "Kaiping": {
-        "1": "蛇"
-    },
-    "Enping": {
-        "1": "蛇"
-    },
-    "Heshan": {
-        "1": "蛇"
-    },
-    "Dongguan": {
-        "1": "蛇"
-    },
-    "Bao'an": {
-        "1": "蛇"
-    },
-    "Dapeng": {
-        "1": "蛇"
-    },
-    "Shaoguan": {
-        "1": "蛇"
-    },
-    "Yunfu": {
-        "1": "蛇"
-    },
-    "Yangjiang": {
-        "1": "蛇"
-    },
-    "Xinyi": {
-        "1": "蛇"
-    },
-    "Lianjiang": {
-        "1": "蛇"
-    },
-    "Nanning": {
-        "1": "蛇"
-    },
-    "Wuzhou": {
-        "1": "蛇"
-    },
-    "Yulin": {
-        "1": "蛇",
-        "2": "長蟲"
-    },
-    "Hepu": {
-        "1": "蛇"
-    },
-    "Danzhou": {
-        "1": "蛇"
-    },
-    "Kuala Lumpur": {
-        "1": "蛇"
-    },
-    "Ho Chi Minh City": {
-        "1": "蛇"
-    },
-    "Nanning-P": {
-        "1": "蛇"
-    },
-    "Guilin-P": {
-        "1": "蛇"
-    },
-    "Xiamen": {
-        "1": "蛇"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "蛇"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "蛇"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "蛇"
-    },
-    "Taipei": {
-        "1": "蛇"
-    },
-    "Kaohsiung": {
-        "1": "蛇"
-    },
-    "Tainan": {
-        "1": "蛇"
-    },
-    "Taichung": {
-        "1": "蛇"
-    },
-    "Wuqi": {
-        "1": "蛇"
-    },
-    "Hsinchu-MN": {
-        "1": "蛇"
-    },
-    "Taitung": {
-        "1": "蛇"
-    },
-    "Lukang": {
-        "1": "蛇"
-    },
-    "Sanxia": {
-        "1": "蛇"
-    },
-    "Yilan": {
-        "1": "蛇"
-    },
-    "Kinmen": {
-        "1": "蛇"
-    },
-    "Magong": {
-        "1": "蛇"
-    },
-    "Malaysia-MN": {
-        "1": "蛇"
-    },
-    "Singapore-MN": {
-        "1": "蛇"
-    },
-    "Philippine-MN": {
-        "1": "蛇"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": "蛇"
-    },
-    "Yongfu": {
-        "1": "蛇"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "蛇"
-    },
-    "Chaozhou": {
-        "1": "蛇"
-    },
-    "Shantou": {
-        "1": "蛇"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "蛇"
-    },
-    "Wenchang": {
-        "1": "蛇"
-    },
-    "Haikou": {
-        "1": "蛇"
-    },
-    "Leizhou": {
-        "1": "蛇"
-    },
-    "Putian": {
-        "1": "大蛇",
-        "2": "蛇"
-    },
-    "Xianyou": {
-        "1": "老蛇"
-    },
-    "Fuzhou": {
-        "1": "老蛇",
-        "2": "蛇"
-    },
-    "Changle": {
-        "1": "老蛇"
-    },
-    "Fuqing": {
-        "1": "老蛇"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "老蛇"
-    },
-    "Gutian": {
-        "1": "老蛇"
-    },
-    "Fu'an": {
-        "1": "老蛇"
-    },
-    "Ningde": {
-        "1": "老蛇"
-    },
-    "Shouning": {
-        "1": "老蛇"
-    },
-    "Zhouning": {
-        "1": "老蛇"
-    },
-    "Fuding": {
-        "1": "老蛇"
-    },
-    "Matsu": {
-        "1": "老蛇"
-    },
-    "Jian'ou": {
-        "1": "蛇"
-    },
-    "Dikou": {
-        "1": "蛇"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "蛇"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "蛇"
-    },
-    "Fu'an-She": {
-        "1": "老蛇"
-    },
-    "Fuding-She": {
-        "1": "蛇"
-    },
-    "Luoyuan-She": {
-        "1": "蛇"
-    },
-    "Sanming-She": {
-        "1": "蛇"
-    },
-    "Shunchang-She": {
-        "1": "蛇"
-    },
-    "Hua'an-She": {
-        "1": "蛇"
-    },
-    "Guixi-She": {
-        "1": "蛇"
-    },
-    "Cangnan-She": {
-        "1": "蛇"
-    },
-    "Jingning-She": {
-        "1": "蛇"
-    },
-    "Lishui-She": {
-        "1": "蛇"
-    },
-    "Longyou-She": {
-        "1": "蛇"
-    },
-    "Chaozhou-She": {
-        "1": "蛇"
-    },
-    "Fengshun-She": {
-        "1": "蛇"
-    }
+    "Classical": [
+        "蛇"
+    ],
+    "Formal": [
+        "蛇"
+    ],
+    "Taxonomic": [
+        "蛇"
+    ],
+    "Beijing": [
+        "長蟲"
+    ],
+    "Taiwan": [
+        "蛇"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "長蟲",
+        "蛇"
+    ],
+    "Shenyang": [
+        "長蟲"
+    ],
+    "Hailar": [
+        "長蟲"
+    ],
+    "Ulan Hot": [
+        "長蟲"
+    ],
+    "Tongliao": [
+        "長蟲"
+    ],
+    "Chifeng": [
+        "蛇"
+    ],
+    "Bayanhot": [
+        "蛇"
+    ],
+    "Jinan": [
+        "長蟲",
+        "蛇"
+    ],
+    "Muping": [
+        "長蟲"
+    ],
+    "Luoyang": [
+        "長蟲"
+    ],
+    "Wanrong": [
+        "蛇"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "長蟲"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "長蟲"
+    ],
+    "Xining": [
+        "蛇"
+    ],
+    "Xuzhou": [
+        "長蟲",
+        "蛇"
+    ],
+    "Yinchuan": [
+        "蛇"
+    ],
+    "Lanzhou": [
+        "長蟲",
+        "蛇"
+    ],
+    "Ürümqi": [
+        "長蟲",
+        "蛇"
+    ],
+    "Wuhan": [
+        "蛇"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蛇",
+        "梳老二",
+        "長蟲"
+    ],
+    "Guiyang": [
+        "老蛇"
+    ],
+    "Guilin": [
+        "蛇"
+    ],
+    "Liuzhou": [
+        "蛇",
+        "溜子:dated"
+    ],
+    "Kunming": [
+        "長蟲"
+    ],
+    "Yangzhou": [
+        "蛇"
+    ],
+    "Nanjing": [
+        "蛇兒"
+    ],
+    "Hefei": [
+        "蛇"
+    ],
+    "Nantong": [
+        "蛇",
+        "長蟲"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "蛇"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "蛇"
+    ],
+    "Pingyao": [
+        "蛇"
+    ],
+    "Xinzhou": [
+        "蛇"
+    ],
+    "Baochang": [
+        "蛇"
+    ],
+    "Jining": [
+        "蛇"
+    ],
+    "Hohhot": [
+        "蛇"
+    ],
+    "Baotou": [
+        "蛇"
+    ],
+    "Dongsheng": [
+        "蛇"
+    ],
+    "Linhe": [
+        "長蟲"
+    ],
+    "Haibowan": [
+        "蛇"
+    ],
+    "Shanghai": [
+        "蛇",
+        "水蛇"
+    ],
+    "Suzhou": [
+        "蛇"
+    ],
+    "Wuxi": [
+        "蛇"
+    ],
+    "Hangzhou": [
+        "蛇"
+    ],
+    "Chongming": [
+        "蛇"
+    ],
+    "Wenzhou": [
+        "蛇"
+    ],
+    "Danyang": [
+        "蛇"
+    ],
+    "Jinhua": [
+        "蛇"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蛇"
+    ],
+    "Changsha": [
+        "蛇",
+        "溜子"
+    ],
+    "Shuangfeng": [
+        "蛇",
+        "溜子"
+    ],
+    "Xiangtan": [
+        "蛇"
+    ],
+    "Loudi": [
+        "蛇"
+    ],
+    "Quanzhou-X": [
+        "蛇"
+    ],
+    "Nanchang": [
+        "蛇"
+    ],
+    "Lichuan": [
+        "蛇"
+    ],
+    "Pingxiang": [
+        "蛇"
+    ],
+    "Meixian": [
+        "蛇哥"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "蛇"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "蛇"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "蛇哥"
+    ],
+    "Liudui": [
+        "蛇哥"
+    ],
+    "Hsinchu": [
+        "蛇",
+        "蛇哥"
+    ],
+    "Dongshi": [
+        "蛇",
+        "蛇哥"
+    ],
+    "Raoping": [
+        "蛇"
+    ],
+    "Yunlin": [
+        "蛇"
+    ],
+    "Hong Kong-H": [
+        "蛇哥"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "蛇哥",
+        "蛇"
+    ],
+    "Senai": [
+        "蛇"
+    ],
+    "Singkawang": [
+        "蛇"
+    ],
+    "Jixi": [
+        "蛇"
+    ],
+    "Shexian": [
+        "蛇"
+    ],
+    "Tunxi": [
+        "蛇"
+    ],
+    "Xiuning": [
+        "蛇"
+    ],
+    "Yixian": [
+        "蛇"
+    ],
+    "Qimen": [
+        "蛇"
+    ],
+    "Wuyuan": [
+        "蛇"
+    ],
+    "Fuliang": [
+        "蛇"
+    ],
+    "Dexing": [
+        "蛇"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "蛇"
+    ],
+    "Hong Kong": [
+        "蛇"
+    ],
+    "HK Weitou": [
+        "蛇"
+    ],
+    "Kam Tin": [
+        "蛇"
+    ],
+    "Ting Kok": [
+        "蛇"
+    ],
+    "Tung Ping Chau": [
+        "蛇"
+    ],
+    "Macau": [
+        "蛇"
+    ],
+    "Panyu": [
+        "蛇"
+    ],
+    "Huadu": [
+        "蛇"
+    ],
+    "Conghua": [
+        "蛇"
+    ],
+    "Zengcheng": [
+        "蛇"
+    ],
+    "Foshan": [
+        "蛇"
+    ],
+    "Nanhai": [
+        "蛇"
+    ],
+    "Shunde": [
+        "蛇"
+    ],
+    "Sanshui": [
+        "蛇"
+    ],
+    "Gaoming": [
+        "蛇"
+    ],
+    "Zhongshan": [
+        "蛇"
+    ],
+    "Zhuhai": [
+        "蛇"
+    ],
+    "Doumen-T": [
+        "蛇"
+    ],
+    "Doumen-S": [
+        "蛇"
+    ],
+    "Jiangmen": [
+        "蛇"
+    ],
+    "Xinhui": [
+        "蛇"
+    ],
+    "Taishan": [
+        "蛇"
+    ],
+    "Kaiping": [
+        "蛇"
+    ],
+    "Enping": [
+        "蛇"
+    ],
+    "Heshan": [
+        "蛇"
+    ],
+    "Dongguan": [
+        "蛇"
+    ],
+    "Bao'an": [
+        "蛇"
+    ],
+    "Dapeng": [
+        "蛇"
+    ],
+    "Shaoguan": [
+        "蛇"
+    ],
+    "Yunfu": [
+        "蛇"
+    ],
+    "Yangjiang": [
+        "蛇"
+    ],
+    "Xinyi": [
+        "蛇"
+    ],
+    "Lianjiang": [
+        "蛇"
+    ],
+    "Nanning": [
+        "蛇"
+    ],
+    "Wuzhou": [
+        "蛇"
+    ],
+    "Yulin": [
+        "蛇",
+        "長蟲"
+    ],
+    "Hepu": [
+        "蛇"
+    ],
+    "Danzhou": [
+        "蛇"
+    ],
+    "Kuala Lumpur": [
+        "蛇"
+    ],
+    "Ho Chi Minh City": [
+        "蛇"
+    ],
+    "Nanning-P": [
+        "蛇"
+    ],
+    "Guilin-P": [
+        "蛇"
+    ],
+    "Xiamen": [
+        "蛇"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "蛇"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "蛇"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "蛇"
+    ],
+    "Taipei": [
+        "蛇"
+    ],
+    "Kaohsiung": [
+        "蛇"
+    ],
+    "Tainan": [
+        "蛇"
+    ],
+    "Taichung": [
+        "蛇"
+    ],
+    "Wuqi": [
+        "蛇"
+    ],
+    "Hsinchu-MN": [
+        "蛇"
+    ],
+    "Taitung": [
+        "蛇"
+    ],
+    "Lukang": [
+        "蛇"
+    ],
+    "Sanxia": [
+        "蛇"
+    ],
+    "Yilan": [
+        "蛇"
+    ],
+    "Kinmen": [
+        "蛇"
+    ],
+    "Magong": [
+        "蛇"
+    ],
+    "Malaysia-MN": [
+        "蛇"
+    ],
+    "Singapore-MN": [
+        "蛇"
+    ],
+    "Philippine-MN": [
+        "蛇"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [
+        "蛇"
+    ],
+    "Yongfu": [
+        "蛇"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "蛇"
+    ],
+    "Chaozhou": [
+        "蛇"
+    ],
+    "Shantou": [
+        "蛇"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "蛇"
+    ],
+    "Wenchang": [
+        "蛇"
+    ],
+    "Haikou": [
+        "蛇"
+    ],
+    "Leizhou": [
+        "蛇"
+    ],
+    "Putian": [
+        "大蛇",
+        "蛇"
+    ],
+    "Xianyou": [
+        "老蛇"
+    ],
+    "Fuzhou": [
+        "老蛇",
+        "蛇"
+    ],
+    "Changle": [
+        "老蛇"
+    ],
+    "Fuqing": [
+        "老蛇"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "老蛇"
+    ],
+    "Gutian": [
+        "老蛇"
+    ],
+    "Fu'an": [
+        "老蛇"
+    ],
+    "Ningde": [
+        "老蛇"
+    ],
+    "Shouning": [
+        "老蛇"
+    ],
+    "Zhouning": [
+        "老蛇"
+    ],
+    "Fuding": [
+        "老蛇"
+    ],
+    "Matsu": [
+        "老蛇"
+    ],
+    "Jian'ou": [
+        "蛇"
+    ],
+    "Dikou": [
+        "蛇"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "蛇"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "蛇"
+    ],
+    "Fu'an-She": [
+        "老蛇"
+    ],
+    "Fuding-She": [
+        "蛇"
+    ],
+    "Luoyuan-She": [
+        "蛇"
+    ],
+    "Sanming-She": [
+        "蛇"
+    ],
+    "Shunchang-She": [
+        "蛇"
+    ],
+    "Hua'an-She": [
+        "蛇"
+    ],
+    "Guixi-She": [
+        "蛇"
+    ],
+    "Cangnan-She": [
+        "蛇"
+    ],
+    "Jingning-She": [
+        "蛇"
+    ],
+    "Lishui-She": [
+        "蛇"
+    ],
+    "Longyou-She": [
+        "蛇"
+    ],
+    "Chaozhou-She": [
+        "蛇"
+    ],
+    "Fengshun-She": [
+        "蛇"
+    ]
 }

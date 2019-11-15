@@ -1,851 +1,645 @@
 {
     "meaning": "glove; mitten",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "手套"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "手套兒"
-    },
-    "Taiwan": {
-        "1": "手套"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "手套兒",
-        "2": "手巴掌兒",
-        "3": "手巴掌"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "手套"
-    },
-    "Muping": {
-        "1": "手巴掌兒"
-    },
-    "Luoyang": {
-        "1": "手套兒",
-        "2": "手帽兒",
-        "3": "手巴掌"
-    },
-    "Wanrong": {
-        "1": "手帽兒",
-        "2": "手套"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "手套兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "手套兒"
-    },
-    "Xining": {
-        "1": "手套"
-    },
-    "Xuzhou": {
-        "1": "手套兒",
-        "2": "手套子"
-    },
-    "Yinchuan": {
-        "1": "手套子"
-    },
-    "Lanzhou": {
-        "1": "手套子"
-    },
-    "Ürümqi": {
-        "1": "手套子"
-    },
-    "Wuhan": {
-        "1": "手套子",
-        "2": "手套",
-        "3": "手籠子"
-    },
-    "Huanggang": {
-        "1": "手套兒"
-    },
-    "Chengdu": {
-        "1": "手套子",
-        "2": "手套",
-        "3": "手籠子"
-    },
-    "Guiyang": {
-        "1": "手套"
-    },
-    "Guilin": {
-        "1": "手套"
-    },
-    "Liuzhou": {
-        "1": "手套"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "手套子",
-        "2": "手套"
-    },
-    "Nanjing": {
-        "1": "手套"
-    },
-    "Hefei": {
-        "1": "手套子"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "手套",
-        "2": "手套兒"
-    },
-    "Pingyao": {
-        "1": "手爪爪"
-    },
-    "Xinzhou": {
-        "1": "巴掌",
-        "2": "手巴掌",
-        "3": "手帽兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "手套"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "手套"
-    },
-    "Suzhou": {
-        "1": "手套"
-    },
-    "Wuxi": {
-        "1": "手套"
-    },
-    "Hangzhou": {
-        "1": "手套兒",
-        "2": "手套"
-    },
-    "Chongming": {
-        "1": "手套"
-    },
-    "Wenzhou": {
-        "1": "手套兒",
-        "2": "手套",
-        "3": "手襪"
-    },
-    "Danyang": {
-        "1": "手套"
-    },
-    "Jinhua": {
-        "1": "手套"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "手套"
-    },
-    "Changsha": {
-        "1": "手套子",
-        "2": "手套"
-    },
-    "Shuangfeng": {
-        "1": "手套子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "手套子"
-    },
-    "Quanzhou-X": {
-        "1": "手套"
-    },
-    "Nanchang": {
-        "1": "手套子"
-    },
-    "Lichuan": {
-        "1": "手套"
-    },
-    "Pingxiang": {
-        "1": "手套子",
-        "2": "手套"
-    },
-    "Meixian": {
-        "1": "手套仔",
-        "2": "手套",
-        "3": "手襪仔",
-        "4": "手襪",
-        "5": "手落仔"
-    },
-    "Xingning": {
-        "1": "手襪哩"
-    },
-    "Huizhou": {
-        "1": "手襪"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": "手襪"
-    },
-    "Dongguan-H": {
-        "1": "手襪"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "手襪"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": "手襪"
-    },
-    "Zhongshan-NLHS": {
-        "1": "手襪"
-    },
-    "Wuhua-SZ": {
-        "1": "手套",
-        "2": "手爪哩"
-    },
-    "Wuhua-HC": {
-        "1": "手套哩",
-        "2": "手套"
-    },
-    "Wuhua-CB": {
-        "1": "手套"
-    },
-    "Wuhua-MY": {
-        "1": "手爪哩"
-    },
-    "Heyuan": {
-        "1": "手襪"
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": "手襪"
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": "手襪"
-    },
-    "Conghua-H": {
-        "1": "手襪"
-    },
-    "Jiexi": {
-        "1": "手襪"
-    },
-    "Luchuan-LC": {
-        "1": "手襪"
-    },
-    "Luchuan-DQ": {
-        "1": "手襪"
-    },
-    "Changting": {
-        "1": "手襪子",
-        "2": "手套子"
-    },
-    "Pingyu": {
-        "1": "手襪子"
-    },
-    "Wuping": {
-        "1": "手襪子"
-    },
-    "Liancheng": {
-        "1": "手襪子"
-    },
-    "Ninghua": {
-        "1": "手套"
-    },
-    "Yudu": {
-        "1": "手套"
-    },
-    "Ruijin": {
-        "1": "手襪子",
-        "2": "手套子"
-    },
-    "Shicheng": {
-        "1": "手襪"
-    },
-    "Shangyou": {
-        "1": "手襪子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "手落仔"
-    },
-    "Liudui": {
-        "1": "手落仔"
-    },
-    "Hsinchu": {
-        "1": "手袋仔",
-        "2": "手落仔"
-    },
-    "Dongshi": {
-        "1": "手落"
-    },
-    "Raoping": {
-        "1": "手袋仔"
-    },
-    "Yunlin": {
-        "1": "手落"
-    },
-    "Hong Kong-H": {
-        "1": "手襪"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "手襪"
-    },
-    "Singkawang": {
-        "1": "手襪"
-    },
-    "Jixi": {
-        "1": "手套"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "手襪",
-        "2": "手套"
-    },
-    "Hong Kong": {
-        "1": "手襪",
-        "2": "手套"
-    },
-    "HK Weitou": {
-        "1": "手襪"
-    },
-    "Kam Tin": {
-        "1": "手襪"
-    },
-    "Ting Kok": {
-        "1": "手襪"
-    },
-    "Tung Ping Chau": {
-        "1": "手襪",
-        "2": "手套"
-    },
-    "Macau": {
-        "1": "手襪"
-    },
-    "Panyu": {
-        "1": "手襪"
-    },
-    "Huadu": {
-        "1": "手襪"
-    },
-    "Conghua": {
-        "1": "手襪"
-    },
-    "Zengcheng": {
-        "1": "手襪"
-    },
-    "Foshan": {
-        "1": "手襪"
-    },
-    "Nanhai": {
-        "1": "手襪"
-    },
-    "Shunde": {
-        "1": "手襪"
-    },
-    "Sanshui": {
-        "1": "手襪"
-    },
-    "Gaoming": {
-        "1": "手襪"
-    },
-    "Zhongshan": {
-        "1": "手襪"
-    },
-    "Zhuhai": {
-        "1": "手襪"
-    },
-    "Doumen-T": {
-        "1": "手襪"
-    },
-    "Doumen-S": {
-        "1": "手襪"
-    },
-    "Jiangmen": {
-        "1": "手襪"
-    },
-    "Xinhui": {
-        "1": "手襪"
-    },
-    "Taishan": {
-        "1": "手襪"
-    },
-    "Kaiping": {
-        "1": "手襪"
-    },
-    "Enping": {
-        "1": "手襪"
-    },
-    "Heshan": {
-        "1": "手襪"
-    },
-    "Dongguan": {
-        "1": "手襪"
-    },
-    "Bao'an": {
-        "1": "手襪"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "手襪"
-    },
-    "Yunfu": {
-        "1": "手襪"
-    },
-    "Yangjiang": {
-        "1": "手襪"
-    },
-    "Xinyi": {
-        "1": "手襪"
-    },
-    "Lianjiang": {
-        "1": "手襪"
-    },
-    "Nanning": {
-        "1": "手襪"
-    },
-    "Wuzhou": {
-        "1": "手襪"
-    },
-    "Yulin": {
-        "1": "手襪"
-    },
-    "Hepu": {
-        "1": "手襪"
-    },
-    "Danzhou": {
-        "1": "手襪"
-    },
-    "Kuala Lumpur": {
-        "1": "手套"
-    },
-    "Ho Chi Minh City": {
-        "1": "手套"
-    },
-    "Nanning-P": {
-        "1": "手套",
-        "2": "手襪"
-    },
-    "Guilin-P": {
-        "1": "手套"
-    },
-    "Xiamen": {
-        "1": "手束",
-        "2": "手囊"
-    },
-    "Tong'an": {
-        "1": "手束"
-    },
-    "Quanzhou": {
-        "1": "手束"
-    },
-    "Jinjiang": {
-        "1": "手囊"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "手束",
-        "2": "手簏仔"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "手套"
-    },
-    "Taipei": {
-        "1": "手套",
-        "2": "手簏仔",
-        "3": "手囊"
-    },
-    "Kaohsiung": {
-        "1": "五爪仔",
-        "2": "手簏仔",
-        "3": "手囊",
-        "4": "五簏仔"
-    },
-    "Tainan": {
-        "1": "手簏仔",
-        "2": "手囊"
-    },
-    "Taichung": {
-        "1": "手囊",
-        "2": "手套",
-        "3": "手簏仔"
-    },
-    "Wuqi": {
-        "1": "手囊"
-    },
-    "Hsinchu-MN": {
-        "1": "手囊"
-    },
-    "Taitung": {
-        "1": "手簏仔"
-    },
-    "Lukang": {
-        "1": "手套",
-        "2": "手囊",
-        "3": "手紗"
-    },
-    "Sanxia": {
-        "1": "手囊仔"
-    },
-    "Yilan": {
-        "1": "五爪仔",
-        "2": "手簏仔",
-        "3": "手囊"
-    },
-    "Kinmen": {
-        "1": "手囊"
-    },
-    "Magong": {
-        "1": "手套",
-        "2": "手囊",
-        "3": "手簏仔"
-    },
-    "Malaysia-MN": {
-        "1": "手囊"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "手簏仔"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "手套"
-    },
-    "Chaozhou": {
-        "1": "手套",
-        "2": "手抐"
-    },
-    "Shantou": {
-        "1": "手套",
-        "2": "手抐"
-    },
-    "Haifeng": {
-        "1": "手套"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "手囊"
-    },
-    "Wenchang": {
-        "1": "手簏",
-        "2": "手襪"
-    },
-    "Haikou": {
-        "1": "手套",
-        "2": "手簏"
-    },
-    "Leizhou": {
-        "1": "手笠"
-    },
-    "Putian": {
-        "1": "手帕"
-    },
-    "Xianyou": {
-        "1": "手束"
-    },
-    "Fuzhou": {
-        "1": "手套",
-        "2": "手絡"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "手套",
-        "2": "手絡"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "手絡"
-    },
-    "Shouning": {
-        "1": "手絡"
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "手絡",
-        "2": "手套"
-    },
-    "Jian'ou": {
-        "1": "手套"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "手筒"
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "手套"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "手套兒"
+    ],
+    "Taiwan": [
+        "手套"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "手套兒",
+        "手巴掌兒",
+        "手巴掌"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "手套"
+    ],
+    "Muping": [
+        "手巴掌兒"
+    ],
+    "Luoyang": [
+        "手套兒",
+        "手帽兒",
+        "手巴掌"
+    ],
+    "Wanrong": [
+        "手帽兒",
+        "手套"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "手套兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "手套兒"
+    ],
+    "Xining": [
+        "手套"
+    ],
+    "Xuzhou": [
+        "手套兒",
+        "手套子"
+    ],
+    "Yinchuan": [
+        "手套子"
+    ],
+    "Lanzhou": [
+        "手套子"
+    ],
+    "Ürümqi": [
+        "手套子"
+    ],
+    "Wuhan": [
+        "手套子",
+        "手套",
+        "手籠子"
+    ],
+    "Huanggang": [
+        "手套兒"
+    ],
+    "Chengdu": [
+        "手套子",
+        "手套",
+        "手籠子"
+    ],
+    "Guiyang": [
+        "手套"
+    ],
+    "Guilin": [
+        "手套"
+    ],
+    "Liuzhou": [
+        "手套"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "手套子",
+        "手套"
+    ],
+    "Nanjing": [
+        "手套"
+    ],
+    "Hefei": [
+        "手套子"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "手套",
+        "手套兒"
+    ],
+    "Pingyao": [
+        "手爪爪"
+    ],
+    "Xinzhou": [
+        "巴掌",
+        "手巴掌",
+        "手帽兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "手套"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "手套"
+    ],
+    "Suzhou": [
+        "手套"
+    ],
+    "Wuxi": [
+        "手套"
+    ],
+    "Hangzhou": [
+        "手套兒",
+        "手套"
+    ],
+    "Chongming": [
+        "手套"
+    ],
+    "Wenzhou": [
+        "手套兒",
+        "手套",
+        "手襪"
+    ],
+    "Danyang": [
+        "手套"
+    ],
+    "Jinhua": [
+        "手套"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "手套"
+    ],
+    "Changsha": [
+        "手套子",
+        "手套"
+    ],
+    "Shuangfeng": [
+        "手套子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "手套子"
+    ],
+    "Quanzhou-X": [
+        "手套"
+    ],
+    "Nanchang": [
+        "手套子"
+    ],
+    "Lichuan": [
+        "手套"
+    ],
+    "Pingxiang": [
+        "手套子",
+        "手套"
+    ],
+    "Meixian": [
+        "手套仔",
+        "手套",
+        "手襪仔",
+        "手襪",
+        "手落仔"
+    ],
+    "Xingning": [
+        "手襪哩"
+    ],
+    "Huizhou": [
+        "手襪"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [
+        "手襪"
+    ],
+    "Dongguan-H": [
+        "手襪"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "手襪"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [
+        "手襪"
+    ],
+    "Zhongshan-NLHS": [
+        "手襪"
+    ],
+    "Wuhua-SZ": [
+        "手套",
+        "手爪哩"
+    ],
+    "Wuhua-HC": [
+        "手套哩",
+        "手套"
+    ],
+    "Wuhua-CB": [
+        "手套"
+    ],
+    "Wuhua-MY": [
+        "手爪哩"
+    ],
+    "Heyuan": [
+        "手襪"
+    ],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [
+        "手襪"
+    ],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [
+        "手襪"
+    ],
+    "Conghua-H": [
+        "手襪"
+    ],
+    "Jiexi": [
+        "手襪"
+    ],
+    "Luchuan-LC": [
+        "手襪"
+    ],
+    "Luchuan-DQ": [
+        "手襪"
+    ],
+    "Changting": [
+        "手襪子",
+        "手套子"
+    ],
+    "Pingyu": [
+        "手襪子"
+    ],
+    "Wuping": [
+        "手襪子"
+    ],
+    "Liancheng": [
+        "手襪子"
+    ],
+    "Ninghua": [
+        "手套"
+    ],
+    "Yudu": [
+        "手套"
+    ],
+    "Ruijin": [
+        "手襪子",
+        "手套子"
+    ],
+    "Shicheng": [
+        "手襪"
+    ],
+    "Shangyou": [
+        "手襪子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "手落仔"
+    ],
+    "Liudui": [
+        "手落仔"
+    ],
+    "Hsinchu": [
+        "手袋仔",
+        "手落仔"
+    ],
+    "Dongshi": [
+        "手落"
+    ],
+    "Raoping": [
+        "手袋仔"
+    ],
+    "Yunlin": [
+        "手落"
+    ],
+    "Hong Kong-H": [
+        "手襪"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "手襪"
+    ],
+    "Singkawang": [
+        "手襪"
+    ],
+    "Jixi": [
+        "手套"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "手襪",
+        "手套"
+    ],
+    "Hong Kong": [
+        "手襪",
+        "手套"
+    ],
+    "HK Weitou": [
+        "手襪"
+    ],
+    "Kam Tin": [
+        "手襪"
+    ],
+    "Ting Kok": [
+        "手襪"
+    ],
+    "Tung Ping Chau": [
+        "手襪",
+        "手套"
+    ],
+    "Macau": [
+        "手襪"
+    ],
+    "Panyu": [
+        "手襪"
+    ],
+    "Huadu": [
+        "手襪"
+    ],
+    "Conghua": [
+        "手襪"
+    ],
+    "Zengcheng": [
+        "手襪"
+    ],
+    "Foshan": [
+        "手襪"
+    ],
+    "Nanhai": [
+        "手襪"
+    ],
+    "Shunde": [
+        "手襪"
+    ],
+    "Sanshui": [
+        "手襪"
+    ],
+    "Gaoming": [
+        "手襪"
+    ],
+    "Zhongshan": [
+        "手襪"
+    ],
+    "Zhuhai": [
+        "手襪"
+    ],
+    "Doumen-T": [
+        "手襪"
+    ],
+    "Doumen-S": [
+        "手襪"
+    ],
+    "Jiangmen": [
+        "手襪"
+    ],
+    "Xinhui": [
+        "手襪"
+    ],
+    "Taishan": [
+        "手襪"
+    ],
+    "Kaiping": [
+        "手襪"
+    ],
+    "Enping": [
+        "手襪"
+    ],
+    "Heshan": [
+        "手襪"
+    ],
+    "Dongguan": [
+        "手襪"
+    ],
+    "Bao'an": [
+        "手襪"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "手襪"
+    ],
+    "Yunfu": [
+        "手襪"
+    ],
+    "Yangjiang": [
+        "手襪"
+    ],
+    "Xinyi": [
+        "手襪"
+    ],
+    "Lianjiang": [
+        "手襪"
+    ],
+    "Nanning": [
+        "手襪"
+    ],
+    "Wuzhou": [
+        "手襪"
+    ],
+    "Yulin": [
+        "手襪"
+    ],
+    "Hepu": [
+        "手襪"
+    ],
+    "Danzhou": [
+        "手襪"
+    ],
+    "Kuala Lumpur": [
+        "手套"
+    ],
+    "Ho Chi Minh City": [
+        "手套"
+    ],
+    "Nanning-P": [
+        "手套",
+        "手襪"
+    ],
+    "Guilin-P": [
+        "手套"
+    ],
+    "Xiamen": [
+        "手束",
+        "手囊"
+    ],
+    "Tong'an": [
+        "手束"
+    ],
+    "Quanzhou": [
+        "手束"
+    ],
+    "Jinjiang": [
+        "手囊"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "手束",
+        "手簏仔"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "手套"
+    ],
+    "Taipei": [
+        "手套",
+        "手簏仔",
+        "手囊"
+    ],
+    "Kaohsiung": [
+        "五爪仔",
+        "手簏仔",
+        "手囊",
+        "五簏仔"
+    ],
+    "Tainan": [
+        "手簏仔",
+        "手囊"
+    ],
+    "Taichung": [
+        "手囊",
+        "手套",
+        "手簏仔"
+    ],
+    "Wuqi": [
+        "手囊"
+    ],
+    "Hsinchu-MN": [
+        "手囊"
+    ],
+    "Taitung": [
+        "手簏仔"
+    ],
+    "Lukang": [
+        "手套",
+        "手囊",
+        "手紗"
+    ],
+    "Sanxia": [
+        "手囊仔"
+    ],
+    "Yilan": [
+        "五爪仔",
+        "手簏仔",
+        "手囊"
+    ],
+    "Kinmen": [
+        "手囊"
+    ],
+    "Magong": [
+        "手套",
+        "手囊",
+        "手簏仔"
+    ],
+    "Malaysia-MN": [
+        "手囊"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "手簏仔"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "手套"
+    ],
+    "Chaozhou": [
+        "手套",
+        "手抐"
+    ],
+    "Shantou": [
+        "手套",
+        "手抐"
+    ],
+    "Haifeng": [
+        "手套"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "手囊"
+    ],
+    "Wenchang": [
+        "手簏",
+        "手襪"
+    ],
+    "Haikou": [
+        "手套",
+        "手簏"
+    ],
+    "Leizhou": [
+        "手笠"
+    ],
+    "Putian": [
+        "手帕"
+    ],
+    "Xianyou": [
+        "手束"
+    ],
+    "Fuzhou": [
+        "手套",
+        "手絡"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "手套",
+        "手絡"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [
+        "手絡"
+    ],
+    "Shouning": [
+        "手絡"
+    ],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "手絡",
+        "手套"
+    ],
+    "Jian'ou": [
+        "手套"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "手筒"
+    ],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

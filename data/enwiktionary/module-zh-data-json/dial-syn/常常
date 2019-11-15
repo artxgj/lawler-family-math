@@ -1,580 +1,326 @@
 {
     "meaning": "often; frequently",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "經常",
-        "2": "時常",
-        "3": "常常",
-        "4": "時時",
-        "5": "往往",
-        "6": "每每"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "常"
-    },
-    "Taiwan": {
-        "1": "常常"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "常常",
-        "2": "常",
-        "3": "時常"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "常常",
-        "2": "常",
-        "3": "時常"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "帶常",
-        "2": "時常"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "時常",
-        "2": "常常",
-        "3": "隨時"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "常"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "常"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "常常",
-        "2": "時常"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "時常",
-        "2": "常時",
-        "3": "常樁"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "清清",
-        "2": "常期"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "練常",
-        "2": "打常",
-        "3": "扯常"
-    },
-    "Shuangfeng": {
-        "1": "練常",
-        "2": "常常"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "千長",
-        "2": "時常"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "輒常",
-        "2": "長時",
-        "3": "時常"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "輒輒",
-        "2": "輒常",
-        "3": "長透",
-        "4": "常常",
-        "5": "時常",
-        "6": "不時",
-        "7": "時時",
-        "8": "長間"
-    },
-    "Liudui": {
-        "1": "輒輒",
-        "2": "輒常",
-        "3": "長透",
-        "4": "登常",
-        "5": "常常",
-        "6": "時常",
-        "7": "不時",
-        "8": "時時",
-        "9": "長間"
-    },
-    "Hsinchu": {
-        "1": "輒輒",
-        "2": "輒常",
-        "3": "長透",
-        "4": "常常",
-        "5": "時常",
-        "6": "不時",
-        "7": "時時",
-        "8": "長間"
-    },
-    "Dongshi": {
-        "1": "輒輒",
-        "2": "長在",
-        "3": "輒常",
-        "4": "常常",
-        "5": "時常",
-        "6": "不時",
-        "7": "時時"
-    },
-    "Raoping": {
-        "1": "輒輒",
-        "2": "常勻",
-        "3": "輒常",
-        "4": "長透",
-        "5": "常常",
-        "6": "時常",
-        "7": "不時",
-        "8": "時時",
-        "9": "長間"
-    },
-    "Yunlin": {
-        "1": "輒輒",
-        "2": "不時",
-        "3": "輒",
-        "4": "恬恬",
-        "5": "長透",
-        "6": "時時"
-    },
-    "Hong Kong-H": {
-        "1": "長日"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "時時",
-        "2": "長時",
-        "3": "周時",
-        "4": "遇時"
-    },
-    "Hong Kong": {
-        "1": "成日",
-        "2": "經常",
-        "3": "時時",
-        "4": "周時",
-        "5": "周不時"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": "經常"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "周時"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "定定",
-        "2": "長長",
-        "3": "四常",
-        "4": "時常",
-        "5": "常常",
-        "6": "不時",
-        "7": "不期時"
-    },
-    "Quanzhou": {
-        "1": "定定",
-        "2": "長長",
-        "3": "四常",
-        "4": "時常",
-        "5": "常常",
-        "6": "不時"
-    },
-    "Zhangzhou": {
-        "1": "定定",
-        "2": "時常",
-        "3": "常常",
-        "4": "不時",
-        "5": "不期時"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "定定",
-        "2": "四常",
-        "3": "常常"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "長時",
-        "2": "惦惦"
-    },
-    "Shantou": {
-        "1": "惦惦"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": "惦惦"
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "稠稠",
-        "2": "稠",
-        "3": "盡稠"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "經常",
+        "時常",
+        "常常",
+        "時時",
+        "往往",
+        "每每"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "常"
+    ],
+    "Taiwan": [
+        "常常"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "常常",
+        "常",
+        "時常"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "常常",
+        "常",
+        "時常"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "帶常",
+        "時常"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "時常",
+        "常常",
+        "隨時"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "常"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "常"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "常常",
+        "時常"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [],
+    "Suzhou": [
+        "時常",
+        "常時",
+        "常樁"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "清清",
+        "常期"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "練常",
+        "打常",
+        "扯常"
+    ],
+    "Shuangfeng": [
+        "練常",
+        "常常"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "千長",
+        "時常"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "輒常",
+        "長時",
+        "時常"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "輒輒",
+        "輒常",
+        "長透",
+        "常常",
+        "時常",
+        "不時",
+        "時時",
+        "長間"
+    ],
+    "Liudui": [
+        "輒輒",
+        "輒常",
+        "長透",
+        "登常",
+        "常常",
+        "時常",
+        "不時",
+        "時時",
+        "長間"
+    ],
+    "Hsinchu": [
+        "輒輒",
+        "輒常",
+        "長透",
+        "常常",
+        "時常",
+        "不時",
+        "時時",
+        "長間"
+    ],
+    "Dongshi": [
+        "輒輒",
+        "長在",
+        "輒常",
+        "常常",
+        "時常",
+        "不時",
+        "時時"
+    ],
+    "Raoping": [
+        "輒輒",
+        "常勻",
+        "輒常",
+        "長透",
+        "常常",
+        "時常",
+        "不時",
+        "時時",
+        "長間"
+    ],
+    "Yunlin": [
+        "輒輒",
+        "不時",
+        "輒",
+        "恬恬",
+        "長透",
+        "時時"
+    ],
+    "Hong Kong-H": [
+        "長日"
+    ],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "時時",
+        "長時",
+        "周時",
+        "遇時"
+    ],
+    "Hong Kong": [
+        "成日",
+        "經常",
+        "時時",
+        "周時",
+        "周不時"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [
+        "經常"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "周時"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "定定",
+        "長長",
+        "四常",
+        "時常",
+        "常常",
+        "不時",
+        "不期時"
+    ],
+    "Quanzhou": [
+        "定定",
+        "長長",
+        "四常",
+        "時常",
+        "常常",
+        "不時"
+    ],
+    "Zhangzhou": [
+        "定定",
+        "時常",
+        "常常",
+        "不時",
+        "不期時"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "定定",
+        "四常",
+        "常常"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "長時",
+        "惦惦"
+    ],
+    "Shantou": [
+        "惦惦"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [
+        "惦惦"
+    ],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "稠稠",
+        "稠",
+        "盡稠"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": []
 }

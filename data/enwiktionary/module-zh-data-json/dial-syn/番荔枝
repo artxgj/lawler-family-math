@@ -1,363 +1,185 @@
 {
     "meaning": "sugar apple",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "番荔枝"
-    },
-    "Beijing": {
-        "1": "番荔枝"
-    },
-    "Taiwan": {
-        "1": "釋迦",
-        "2": "釋迦果"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": ""
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": ""
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": ""
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": ""
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": ""
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "佛果",
-        "2": "釋迦"
-    },
-    "Liudui": {
-        "1": "釋迦仔",
-        "2": "沙梨仔",
-        "3": "沙梨",
-        "4": "牛心梨"
-    },
-    "Hsinchu": {
-        "1": "佛果",
-        "2": "釋迦"
-    },
-    "Dongshi": {
-        "1": "釋迦"
-    },
-    "Raoping": {
-        "1": "佛果",
-        "2": "釋迦"
-    },
-    "Yunlin": {
-        "1": "釋迦"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "番荔枝",
-        "2": "番鬼荔枝",
-        "3": "番鬼佬荔枝"
-    },
-    "Hong Kong": {
-        "1": "番荔枝",
-        "2": "番鬼荔枝",
-        "3": "番鬼佬荔枝",
-        "4": "番枝"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "番鬼荔枝"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "番仔荔枝",
-        "2": "釋迦"
-    },
-    "Quanzhou": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "番仔荔枝",
-        "2": "釋迦"
-    },
-    "Taipei": {
-        "1": "釋迦"
-    },
-    "Kaohsiung": {
-        "1": "釋迦"
-    },
-    "Tainan": {
-        "1": "釋迦"
-    },
-    "Taichung": {
-        "1": "釋迦"
-    },
-    "Yilan": {
-        "1": "釋迦"
-    },
-    "Lukang": {
-        "1": "釋迦"
-    },
-    "Sanxia": {
-        "1": "釋迦"
-    },
-    "Kinmen": {
-        "1": "釋迦"
-    },
-    "Magong": {
-        "1": "釋迦"
-    },
-    "Hsinchu-MN": {
-        "1": "釋迦"
-    },
-    "Malaysia-MN": {
-        "1": "nona"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "林檎"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [
+        "番荔枝"
+    ],
+    "Beijing": [
+        "番荔枝"
+    ],
+    "Taiwan": [
+        "釋迦",
+        "釋迦果"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "佛果",
+        "釋迦"
+    ],
+    "Liudui": [
+        "釋迦仔",
+        "沙梨仔",
+        "沙梨",
+        "牛心梨"
+    ],
+    "Hsinchu": [
+        "佛果",
+        "釋迦"
+    ],
+    "Dongshi": [
+        "釋迦"
+    ],
+    "Raoping": [
+        "佛果",
+        "釋迦"
+    ],
+    "Yunlin": [
+        "釋迦"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "番荔枝",
+        "番鬼荔枝",
+        "番鬼佬荔枝"
+    ],
+    "Hong Kong": [
+        "番荔枝",
+        "番鬼荔枝",
+        "番鬼佬荔枝",
+        "番枝"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "番鬼荔枝"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "番仔荔枝",
+        "釋迦"
+    ],
+    "Quanzhou": [],
+    "Zhangzhou": [
+        "番仔荔枝",
+        "釋迦"
+    ],
+    "Taipei": [
+        "釋迦"
+    ],
+    "Kaohsiung": [
+        "釋迦"
+    ],
+    "Tainan": [
+        "釋迦"
+    ],
+    "Taichung": [
+        "釋迦"
+    ],
+    "Yilan": [
+        "釋迦"
+    ],
+    "Lukang": [
+        "釋迦"
+    ],
+    "Sanxia": [
+        "釋迦"
+    ],
+    "Kinmen": [
+        "釋迦"
+    ],
+    "Magong": [
+        "釋迦"
+    ],
+    "Hsinchu-MN": [
+        "釋迦"
+    ],
+    "Malaysia-MN": [
+        "nona"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "林檎"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [],
+    "Jian'ou": []
 }

@@ -1,429 +1,257 @@
 {
     "meaning": "to fight; to scuffle",
     "note": "",
-    "Classical": {
-        "1": "相打"
-    },
-    "Formal": {
-        "1": "打架",
-        "2": "打鬥"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "打架",
-        "2": "掐架",
-        "3": "查架"
-    },
-    "Taiwan": {
-        "1": "打架"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "打架",
-        "2": "打仗"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "打捶"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "打架"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "打架",
-        "2": "打捶"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "打架"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "打架"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "打架"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "相打",
-        "2": "打相打"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "打相打",
-        "2": "相打"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "相打",
-        "2": "打起"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "打架"
-    },
-    "Shuangfeng": {
-        "1": "打架",
-        "2": "鬥打"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "打架"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "相打",
-        "2": "打交仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "相打"
-    },
-    "Liudui": {
-        "1": "相打"
-    },
-    "Hsinchu": {
-        "1": "相打"
-    },
-    "Dongshi": {
-        "1": "相打"
-    },
-    "Raoping": {
-        "1": "相打"
-    },
-    "Yunlin": {
-        "1": "相打"
-    },
-    "Hong Kong-H": {
-        "1": "打交"
-    },
-    "Sabah": {
-        "1": "打交"
-    },
-    "Senai": {
-        "1": "打交"
-    },
-    "Singkawang": {
-        "1": "相打"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "打交"
-    },
-    "Hong Kong": {
-        "1": "打交"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": "打交"
-    },
-    "Taishan": {
-        "1": "打交"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "打交"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "打交"
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "相拍"
-    },
-    "Quanzhou": {
-        "1": "相拍"
-    },
-    "Zhangzhou": {
-        "1": "相拍"
-    },
-    "Taipei": {
-        "1": "相拍"
-    },
-    "Kaohsiung": {
-        "1": "相拍"
-    },
-    "Tainan": {
-        "1": "相拍"
-    },
-    "Taichung": {
-        "1": "相拍"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "相拍",
-        "2": "冤家"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "相拍"
-    },
-    "Sanxia": {
-        "1": "相拍"
-    },
-    "Yilan": {
-        "1": "相拍"
-    },
-    "Kinmen": {
-        "1": "相拍"
-    },
-    "Magong": {
-        "1": "相拍"
-    },
-    "Malaysia-MN": {
-        "1": "相拍"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "相拍"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "相拍"
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "相拍"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "𢫦架"
-    }
+    "Classical": [
+        "相打"
+    ],
+    "Formal": [
+        "打架",
+        "打鬥"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "打架",
+        "掐架",
+        "查架"
+    ],
+    "Taiwan": [
+        "打架"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "打架",
+        "打仗"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "打捶"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "打架"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "打架",
+        "打捶"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "打架"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "打架"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "打架"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "相打",
+        "打相打"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "打相打",
+        "相打"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "相打",
+        "打起"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "打架"
+    ],
+    "Shuangfeng": [
+        "打架",
+        "鬥打"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "打架"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "相打",
+        "打交仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "相打"
+    ],
+    "Liudui": [
+        "相打"
+    ],
+    "Hsinchu": [
+        "相打"
+    ],
+    "Dongshi": [
+        "相打"
+    ],
+    "Raoping": [
+        "相打"
+    ],
+    "Yunlin": [
+        "相打"
+    ],
+    "Hong Kong-H": [
+        "打交"
+    ],
+    "Sabah": [
+        "打交"
+    ],
+    "Senai": [
+        "打交"
+    ],
+    "Singkawang": [
+        "相打"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "打交"
+    ],
+    "Hong Kong": [
+        "打交"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [
+        "打交"
+    ],
+    "Taishan": [
+        "打交"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "打交"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Kuala Lumpur": [
+        "打交"
+    ],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "相拍"
+    ],
+    "Quanzhou": [
+        "相拍"
+    ],
+    "Zhangzhou": [
+        "相拍"
+    ],
+    "Taipei": [
+        "相拍"
+    ],
+    "Kaohsiung": [
+        "相拍"
+    ],
+    "Tainan": [
+        "相拍"
+    ],
+    "Taichung": [
+        "相拍"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "相拍",
+        "冤家"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "相拍"
+    ],
+    "Sanxia": [
+        "相拍"
+    ],
+    "Yilan": [
+        "相拍"
+    ],
+    "Kinmen": [
+        "相拍"
+    ],
+    "Magong": [
+        "相拍"
+    ],
+    "Malaysia-MN": [
+        "相拍"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "相拍"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "相拍"
+    ],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "相拍"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "𢫦架"
+    ]
 }

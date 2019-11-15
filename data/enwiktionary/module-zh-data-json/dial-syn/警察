@@ -1,382 +1,270 @@
 {
     "meaning": "police; police officer",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "警察",
-        "2": "警官",
-        "3": "警員"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "警察",
-        "2": "雷子:argot"
-    },
-    "Taiwan": {
-        "1": "警察"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "警察"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "警察"
-    },
-    "Muping": {
-        "1": "警察"
-    },
-    "Luoyang": {
-        "1": "警察"
-    },
-    "Wanrong": {
-        "1": "警察"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "警察"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "警察"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": "警察"
-    },
-    "Wuhan": {
-        "1": "警察"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "警察"
-    },
-    "Guiyang": {
-        "1": "警察",
-        "2": "警士:dated",
-        "3": "警士先生:dated face-to-face",
-        "4": "貓菜:dated nickname"
-    },
-    "Liuzhou": {
-        "1": "警察",
-        "2": "警伯:playful"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": "警察"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "馬打"
-    },
-    "Singapore-M": {
-        "1": "馬打"
-    },
-    "Taiyuan": {
-        "1": "警察"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "警察",
-        "2": "小對子:dated"
-    },
-    "Suzhou": {
-        "1": "警察"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "警察",
-        "2": "黑貓警長",
-        "3": "黑貓",
-        "4": "老貓"
-    },
-    "Chongming": {
-        "1": "警察"
-    },
-    "Wenzhou": {
-        "1": "警察"
-    },
-    "Danyang": {
-        "1": "警察"
-    },
-    "Jinhua": {
-        "1": "警察"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "警察"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "警察"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "警察"
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "警察"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "警察"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "警察"
-    },
-    "Liudui": {
-        "1": "警察"
-    },
-    "Hsinchu": {
-        "1": "警察"
-    },
-    "Dongshi": {
-        "1": "巡查",
-        "2": "警察"
-    },
-    "Raoping": {
-        "1": "警察"
-    },
-    "Yunlin": {
-        "1": "巡查"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "警察"
-    },
-    "Guangzhou": {
-        "1": "警察",
-        "2": "差人",
-        "3": "差佬:male"
-    },
-    "Hong Kong": {
-        "1": "警察",
-        "2": "差人",
-        "3": "阿Sir:male",
-        "4": "差佬:male"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "阿Sir",
-        "2": "差佬"
-    },
-    "Taishan": {
-        "1": "警察"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "馬打"
-    },
-    "Nanning-P": {
-        "1": "警察"
-    },
-    "Xiamen": {
-        "1": "警察",
-        "2": "烏跤:dated"
-    },
-    "Quanzhou": {
-        "1": "警察"
-    },
-    "Zhangzhou": {
-        "1": "警察",
-        "2": "烏跤:dated"
-    },
-    "Taipei": {
-        "1": "大人"
-    },
-    "Kaohsiung": {
-        "1": "警察"
-    },
-    "Tainan": {
-        "1": "大人"
-    },
-    "Taichung": {
-        "1": "巡查"
-    },
-    "Wuqi": {
-        "1": "警察"
-    },
-    "Yilan": {
-        "1": "警察"
-    },
-    "Lukang": {
-        "1": "警察"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "大人"
-    },
-    "Hsinchu-MN": {
-        "1": "警察"
-    },
-    "Malaysia-MN": {
-        "1": "馬打"
-    },
-    "Singapore-MN": {
-        "1": "馬打",
-        "2": "大狗"
-    },
-    "Philippine-MN": {
-        "1": "警察"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "警察"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "警察"
-    },
-    "Fuqing": {
-        "1": "警察"
-    },
-    "Matsu": {
-        "1": "警察"
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "警察",
+        "警官",
+        "警員"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "警察",
+        "雷子:argot"
+    ],
+    "Taiwan": [
+        "警察"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "警察"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "警察"
+    ],
+    "Muping": [
+        "警察"
+    ],
+    "Luoyang": [
+        "警察"
+    ],
+    "Wanrong": [
+        "警察"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "警察"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "警察"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [
+        "警察"
+    ],
+    "Wuhan": [
+        "警察"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "警察"
+    ],
+    "Guiyang": [
+        "警察",
+        "警士:dated",
+        "警士先生:dated face-to-face",
+        "貓菜:dated nickname"
+    ],
+    "Liuzhou": [
+        "警察",
+        "警伯:playful"
+    ],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [
+        "警察"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [
+        "馬打"
+    ],
+    "Singapore-M": [
+        "馬打"
+    ],
+    "Taiyuan": [
+        "警察"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "警察",
+        "小對子:dated"
+    ],
+    "Suzhou": [
+        "警察"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "警察",
+        "黑貓警長",
+        "黑貓",
+        "老貓"
+    ],
+    "Chongming": [
+        "警察"
+    ],
+    "Wenzhou": [
+        "警察"
+    ],
+    "Danyang": [
+        "警察"
+    ],
+    "Jinhua": [
+        "警察"
+    ],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "警察"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "警察"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "警察"
+    ],
+    "Pingxiang": [],
+    "Meixian": [
+        "警察"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "警察"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "警察"
+    ],
+    "Liudui": [
+        "警察"
+    ],
+    "Hsinchu": [
+        "警察"
+    ],
+    "Dongshi": [
+        "巡查",
+        "警察"
+    ],
+    "Raoping": [
+        "警察"
+    ],
+    "Yunlin": [
+        "巡查"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "警察"
+    ],
+    "Guangzhou": [
+        "警察",
+        "差人",
+        "差佬:male"
+    ],
+    "Hong Kong": [
+        "警察",
+        "差人",
+        "阿Sir:male",
+        "差佬:male"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "阿Sir",
+        "差佬"
+    ],
+    "Taishan": [
+        "警察"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [
+        "馬打"
+    ],
+    "Nanning-P": [
+        "警察"
+    ],
+    "Xiamen": [
+        "警察",
+        "烏跤:dated"
+    ],
+    "Quanzhou": [
+        "警察"
+    ],
+    "Zhangzhou": [
+        "警察",
+        "烏跤:dated"
+    ],
+    "Taipei": [
+        "大人"
+    ],
+    "Kaohsiung": [
+        "警察"
+    ],
+    "Tainan": [
+        "大人"
+    ],
+    "Taichung": [
+        "巡查"
+    ],
+    "Wuqi": [
+        "警察"
+    ],
+    "Yilan": [
+        "警察"
+    ],
+    "Lukang": [
+        "警察"
+    ],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [
+        "大人"
+    ],
+    "Hsinchu-MN": [
+        "警察"
+    ],
+    "Malaysia-MN": [
+        "馬打"
+    ],
+    "Singapore-MN": [
+        "馬打",
+        "大狗"
+    ],
+    "Philippine-MN": [
+        "警察"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "警察"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [
+        "警察"
+    ],
+    "Fuqing": [
+        "警察"
+    ],
+    "Matsu": [
+        "警察"
+    ],
+    "Jian'ou": []
 }

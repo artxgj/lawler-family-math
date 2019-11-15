@@ -1,820 +1,470 @@
 {
     "meaning": "Chinese character component 阝",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "雙耳旁"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "雙耳旁兒",
-        "2": "雙耳刀兒"
-    },
-    "Taiwan": {
-        "1": "耳朵旁"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "雙耳刀兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "雙耳朵",
-        "2": "大耳朵"
-    },
-    "Muping": {
-        "1": "大耳"
-    },
-    "Luoyang": {
-        "1": "雙耳刀兒",
-        "2": "貓耳刀兒",
-        "3": "耳刀旁"
-    },
-    "Wanrong": {
-        "1": "雙耳朵"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "軟耳朵"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "雙耳朵旁"
-    },
-    "Xuzhou": {
-        "1": "雙耳旁兒",
-        "2": "雙耳旁",
-        "3": "雙耳刀",
-        "4": "雙搭耳"
-    },
-    "Yinchuan": {
-        "1": "雙耳朵旁"
-    },
-    "Lanzhou": {
-        "1": "耳朵旁"
-    },
-    "Ürümqi": {
-        "1": "雙耳旁兒"
-    },
-    "Wuhan": {
-        "1": "抱耳"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "雙包耳"
-    },
-    "Guiyang": {
-        "1": "雙包耳"
-    },
-    "Guilin": {
-        "1": "掛耳旁"
-    },
-    "Liuzhou": {
-        "1": "耳朵旁",
-        "2": "雙耳旁",
-        "3": "雙抱耳",
-        "4": "抱耳旁"
-    },
-    "Kunming": {
-        "1": "耳朵旁"
-    },
-    "Yangzhou": {
-        "1": "耳搭"
-    },
-    "Nanjing": {
-        "1": "耳朵旁",
-        "2": "耳朵"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "雙耳頭"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "耳朵旁"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "軟耳朵",
-        "2": "雙耳朵"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "雙耳朵"
-    },
-    "Suzhou": {
-        "1": "軟耳朵"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "雙耳朵"
-    },
-    "Chongming": {
-        "1": "彎耳朵",
-        "2": "軟耳朵"
-    },
-    "Wenzhou": {
-        "1": "雙耳朵"
-    },
-    "Danyang": {
-        "1": "耳朵旁"
-    },
-    "Jinhua": {
-        "1": "耳朵旁"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "耳朵旁"
-    },
-    "Changsha": {
-        "1": "雙抱耳"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "雙抱耳"
-    },
-    "Quanzhou-X": {
-        "1": "耳朵旁"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "軟耳朵旁"
-    },
-    "Pingxiang": {
-        "1": "雙抱耳",
-        "2": "抱耳",
-        "3": "掛耳"
-    },
-    "Meixian": {
-        "1": "雙狗耳",
-        "2": "軟狗耳"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "狗耳旁"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "耳朵旁"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "耳朵旁"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "搆耳旁"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "耳朵旁"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "雙耳旁"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "軟耳朵"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "耳朵旁"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "耳仔邊"
-    },
-    "Hong Kong": {
-        "1": "耳仔邊",
-        "2": "斧頭邊"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": "戽斗邊"
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": "耳朵邊"
-    },
-    "Panyu": {
-        "1": "耳仔邊"
-    },
-    "Huadu": {
-        "1": "耳仔旁"
-    },
-    "Conghua": {
-        "1": "耳字邊"
-    },
-    "Zengcheng": {
-        "1": "戽斗邊"
-    },
-    "Foshan": {
-        "1": "斧頭邊"
-    },
-    "Nanhai": {
-        "1": "戽斗邊"
-    },
-    "Shunde": {
-        "1": "耳朵邊"
-    },
-    "Sanshui": {
-        "1": "耳仔邊"
-    },
-    "Gaoming": {
-        "1": "戽斗邊"
-    },
-    "Zhongshan": {
-        "1": "搆耳邊"
-    },
-    "Zhuhai": {
-        "1": "耳仔旁"
-    },
-    "Doumen-T": {
-        "1": "耳仔邊"
-    },
-    "Doumen-S": {
-        "1": "耳仔邊"
-    },
-    "Jiangmen": {
-        "1": "耳仔邊"
-    },
-    "Xinhui": {
-        "1": "耳朵邊"
-    },
-    "Taishan": {
-        "1": "耳仔旁"
-    },
-    "Kaiping": {
-        "1": "耳仔旁"
-    },
-    "Enping": {
-        "1": "耳仔旁"
-    },
-    "Heshan": {
-        "1": "耳仔邊"
-    },
-    "Dongguan": {
-        "1": "戽斗邊"
-    },
-    "Bao'an": {
-        "1": "耳仔邊"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "耳朵旁",
-        "2": "耳朵邊"
-    },
-    "Yunfu": {
-        "1": "耳仔邊"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "耳朵邊",
-        "2": "耳朵旁"
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": "雙耳鬼"
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "耳朵旁",
-        "2": "耳朵邊"
-    },
-    "Guilin-P": {
-        "1": "雙耳刀"
-    },
-    "Xiamen": {
-        "1": "鉤耳爿",
-        "2": "鉤耳仔爿"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "鉤耳爿"
-    },
-    "Jinjiang": {
-        "1": "鉤耳仔"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "鉤耳爿",
-        "2": "鉤耳仔爿",
-        "3": "鉤乃耳"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "雙耳刀"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "耳朵旁"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "雙耳勾"
-    },
-    "Leizhou": {
-        "1": "軟耳爿"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "鉤耳爿",
-        "2": "猴耳"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "雙鉤耳"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "勾婁耳"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "雙耳旁"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "雙耳旁兒",
+        "雙耳刀兒"
+    ],
+    "Taiwan": [
+        "耳朵旁"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "雙耳刀兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "雙耳朵",
+        "大耳朵"
+    ],
+    "Muping": [
+        "大耳"
+    ],
+    "Luoyang": [
+        "雙耳刀兒",
+        "貓耳刀兒",
+        "耳刀旁"
+    ],
+    "Wanrong": [
+        "雙耳朵"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "軟耳朵"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "雙耳朵旁"
+    ],
+    "Xuzhou": [
+        "雙耳旁兒",
+        "雙耳旁",
+        "雙耳刀",
+        "雙搭耳"
+    ],
+    "Yinchuan": [
+        "雙耳朵旁"
+    ],
+    "Lanzhou": [
+        "耳朵旁"
+    ],
+    "Ürümqi": [
+        "雙耳旁兒"
+    ],
+    "Wuhan": [
+        "抱耳"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "雙包耳"
+    ],
+    "Guiyang": [
+        "雙包耳"
+    ],
+    "Guilin": [
+        "掛耳旁"
+    ],
+    "Liuzhou": [
+        "耳朵旁",
+        "雙耳旁",
+        "雙抱耳",
+        "抱耳旁"
+    ],
+    "Kunming": [
+        "耳朵旁"
+    ],
+    "Yangzhou": [
+        "耳搭"
+    ],
+    "Nanjing": [
+        "耳朵旁",
+        "耳朵"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "雙耳頭"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "耳朵旁"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "軟耳朵",
+        "雙耳朵"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "雙耳朵"
+    ],
+    "Suzhou": [
+        "軟耳朵"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "雙耳朵"
+    ],
+    "Chongming": [
+        "彎耳朵",
+        "軟耳朵"
+    ],
+    "Wenzhou": [
+        "雙耳朵"
+    ],
+    "Danyang": [
+        "耳朵旁"
+    ],
+    "Jinhua": [
+        "耳朵旁"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "耳朵旁"
+    ],
+    "Changsha": [
+        "雙抱耳"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "雙抱耳"
+    ],
+    "Quanzhou-X": [
+        "耳朵旁"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "軟耳朵旁"
+    ],
+    "Pingxiang": [
+        "雙抱耳",
+        "抱耳",
+        "掛耳"
+    ],
+    "Meixian": [
+        "雙狗耳",
+        "軟狗耳"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "狗耳旁"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "耳朵旁"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "耳朵旁"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "搆耳旁"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "耳朵旁"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "雙耳旁"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "軟耳朵"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "耳朵旁"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "耳仔邊"
+    ],
+    "Hong Kong": [
+        "耳仔邊",
+        "斧頭邊"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [
+        "戽斗邊"
+    ],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "耳朵邊"
+    ],
+    "Panyu": [
+        "耳仔邊"
+    ],
+    "Huadu": [
+        "耳仔旁"
+    ],
+    "Conghua": [
+        "耳字邊"
+    ],
+    "Zengcheng": [
+        "戽斗邊"
+    ],
+    "Foshan": [
+        "斧頭邊"
+    ],
+    "Nanhai": [
+        "戽斗邊"
+    ],
+    "Shunde": [
+        "耳朵邊"
+    ],
+    "Sanshui": [
+        "耳仔邊"
+    ],
+    "Gaoming": [
+        "戽斗邊"
+    ],
+    "Zhongshan": [
+        "搆耳邊"
+    ],
+    "Zhuhai": [
+        "耳仔旁"
+    ],
+    "Doumen-T": [
+        "耳仔邊"
+    ],
+    "Doumen-S": [
+        "耳仔邊"
+    ],
+    "Jiangmen": [
+        "耳仔邊"
+    ],
+    "Xinhui": [
+        "耳朵邊"
+    ],
+    "Taishan": [
+        "耳仔旁"
+    ],
+    "Kaiping": [
+        "耳仔旁"
+    ],
+    "Enping": [
+        "耳仔旁"
+    ],
+    "Heshan": [
+        "耳仔邊"
+    ],
+    "Dongguan": [
+        "戽斗邊"
+    ],
+    "Bao'an": [
+        "耳仔邊"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "耳朵旁",
+        "耳朵邊"
+    ],
+    "Yunfu": [
+        "耳仔邊"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "耳朵邊",
+        "耳朵旁"
+    ],
+    "Wuzhou": [],
+    "Yulin": [
+        "雙耳鬼"
+    ],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "耳朵旁",
+        "耳朵邊"
+    ],
+    "Guilin-P": [
+        "雙耳刀"
+    ],
+    "Xiamen": [
+        "鉤耳爿",
+        "鉤耳仔爿"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "鉤耳爿"
+    ],
+    "Jinjiang": [
+        "鉤耳仔"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "鉤耳爿",
+        "鉤耳仔爿",
+        "鉤乃耳"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "雙耳刀"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "耳朵旁"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "雙耳勾"
+    ],
+    "Leizhou": [
+        "軟耳爿"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "鉤耳爿",
+        "猴耳"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "雙鉤耳"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "勾婁耳"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

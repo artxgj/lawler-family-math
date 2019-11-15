@@ -1,519 +1,327 @@
 {
     "meaning": "husked uncooked rice",
     "note": "",
-    "Classical": {
-        "1": "米"
-    },
-    "Formal": {
-        "1": "稻米"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "白米",
-        "2": "大米",
-        "3": "米"
-    },
-    "Taiwan": {
-        "1": "米"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "大米",
-        "2": "米"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "大米"
-    },
-    "Muping": {
-        "1": "大米"
-    },
-    "Luoyang": {
-        "1": "大米"
-    },
-    "Wanrong": {
-        "1": "大米"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "白米"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "大米",
-        "2": "米"
-    },
-    "Xuzhou": {
-        "1": "大米",
-        "2": "米"
-    },
-    "Yinchuan": {
-        "1": "稻米",
-        "2": "白米"
-    },
-    "Lanzhou": {
-        "1": "大米"
-    },
-    "Ürümqi": {
-        "1": "米"
-    },
-    "Wuhan": {
-        "1": "米"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "米",
-        "2": "大米",
-        "3": "飯米"
-    },
-    "Guiyang": {
-        "1": "米"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "米"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "米"
-    },
-    "Nanjing": {
-        "1": "米"
-    },
-    "Hefei": {
-        "1": "米"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "大米"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "大米"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "米"
-    },
-    "Suzhou": {
-        "1": "米"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "米"
-    },
-    "Chongming": {
-        "1": "米"
-    },
-    "Wenzhou": {
-        "1": "米"
-    },
-    "Danyang": {
-        "1": "米"
-    },
-    "Jinhua": {
-        "1": "米"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "米"
-    },
-    "Changsha": {
-        "1": "米"
-    },
-    "Shuangfeng": {
-        "1": "米"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "米"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "米"
-    },
-    "Lichuan": {
-        "1": "米"
-    },
-    "Pingxiang": {
-        "1": "米"
-    },
-    "Meixian": {
-        "1": "米"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "米"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "米"
-    },
-    "Liudui": {
-        "1": "米"
-    },
-    "Hsinchu": {
-        "1": "米"
-    },
-    "Dongshi": {
-        "1": "米"
-    },
-    "Raoping": {
-        "1": "米"
-    },
-    "Yunlin": {
-        "1": "米"
-    },
-    "Hong Kong-H": {
-        "1": "米"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "米"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": "米"
-    },
-    "Tunxi": {
-        "1": "米"
-    },
-    "Jixi": {
-        "1": "米"
-    },
-    "Guangzhou": {
-        "1": "米"
-    },
-    "Hong Kong": {
-        "1": "米"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "米"
-    },
-    "HK Weitou": {
-        "1": "米"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "米"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "米"
-    },
-    "Kuala Lumpur": {
-        "1": "米"
-    },
-    "Nanning-P": {
-        "1": "米"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "米"
-    },
-    "Quanzhou": {
-        "1": "米"
-    },
-    "Zhangzhou": {
-        "1": "米"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "米"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "米"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "米"
-    },
-    "Wenchang": {
-        "1": "米"
-    },
-    "Haikou": {
-        "1": "米"
-    },
-    "Leizhou": {
-        "1": "米"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "米"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "米"
-    },
-    "Dikou": {
-        "1": "米"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "米"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "早米"
-    }
+    "Classical": [
+        "米"
+    ],
+    "Formal": [
+        "稻米"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "白米",
+        "大米",
+        "米"
+    ],
+    "Taiwan": [
+        "米"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "大米",
+        "米"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "大米"
+    ],
+    "Muping": [
+        "大米"
+    ],
+    "Luoyang": [
+        "大米"
+    ],
+    "Wanrong": [
+        "大米"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "白米"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "大米",
+        "米"
+    ],
+    "Xuzhou": [
+        "大米",
+        "米"
+    ],
+    "Yinchuan": [
+        "稻米",
+        "白米"
+    ],
+    "Lanzhou": [
+        "大米"
+    ],
+    "Ürümqi": [
+        "米"
+    ],
+    "Wuhan": [
+        "米"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "米",
+        "大米",
+        "飯米"
+    ],
+    "Guiyang": [
+        "米"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "米"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "米"
+    ],
+    "Nanjing": [
+        "米"
+    ],
+    "Hefei": [
+        "米"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "大米"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "大米"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "米"
+    ],
+    "Suzhou": [
+        "米"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "米"
+    ],
+    "Chongming": [
+        "米"
+    ],
+    "Wenzhou": [
+        "米"
+    ],
+    "Danyang": [
+        "米"
+    ],
+    "Jinhua": [
+        "米"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "米"
+    ],
+    "Changsha": [
+        "米"
+    ],
+    "Shuangfeng": [
+        "米"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "米"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "米"
+    ],
+    "Lichuan": [
+        "米"
+    ],
+    "Pingxiang": [
+        "米"
+    ],
+    "Meixian": [
+        "米"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "米"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "米"
+    ],
+    "Liudui": [
+        "米"
+    ],
+    "Hsinchu": [
+        "米"
+    ],
+    "Dongshi": [
+        "米"
+    ],
+    "Raoping": [
+        "米"
+    ],
+    "Yunlin": [
+        "米"
+    ],
+    "Hong Kong-H": [
+        "米"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "米"
+    ],
+    "Singkawang": [],
+    "Shexian": [
+        "米"
+    ],
+    "Tunxi": [
+        "米"
+    ],
+    "Jixi": [
+        "米"
+    ],
+    "Guangzhou": [
+        "米"
+    ],
+    "Hong Kong": [
+        "米"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "米"
+    ],
+    "HK Weitou": [
+        "米"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "米"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "米"
+    ],
+    "Kuala Lumpur": [
+        "米"
+    ],
+    "Nanning-P": [
+        "米"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "米"
+    ],
+    "Quanzhou": [
+        "米"
+    ],
+    "Zhangzhou": [
+        "米"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "米"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "米"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "米"
+    ],
+    "Wenchang": [
+        "米"
+    ],
+    "Haikou": [
+        "米"
+    ],
+    "Leizhou": [
+        "米"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "米"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "米"
+    ],
+    "Dikou": [
+        "米"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "米"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "早米"
+    ]
 }

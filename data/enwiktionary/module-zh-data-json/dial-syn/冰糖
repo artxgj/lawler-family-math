@@ -1,373 +1,263 @@
 {
     "meaning": "rock sugar",
     "note": "",
-    "Classical": {
-        "1": "石蜜"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "冰糖"
-    },
-    "Taiwan": {
-        "1": "冰糖"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "冰糖"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "冰糖"
-    },
-    "Muping": {
-        "1": "冰糖"
-    },
-    "Luoyang": {
-        "1": "冰糖"
-    },
-    "Wanrong": {
-        "1": "冰糖"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "冰糖"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "冰糖"
-    },
-    "Xuzhou": {
-        "1": "冰糖"
-    },
-    "Yinchuan": {
-        "1": "冰糖"
-    },
-    "Lanzhou": {
-        "1": "冰糖"
-    },
-    "Ürümqi": {
-        "1": "冰糖"
-    },
-    "Wuhan": {
-        "1": "冰糖"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "冰糖"
-    },
-    "Guiyang": {
-        "1": "冰糖"
-    },
-    "Liuzhou": {
-        "1": "冰糖"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "冰糖"
-    },
-    "Nanjing": {
-        "1": "冰糖"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "冰糖"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "冰糖"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "冰糖"
-    },
-    "Suzhou": {
-        "1": "冰糖",
-        "2": "水晶糖"
-    },
-    "Hangzhou": {
-        "1": "冰糖"
-    },
-    "Shanghai": {
-        "1": "冰糖"
-    },
-    "Chongming": {
-        "1": "冰糖"
-    },
-    "Wenzhou": {
-        "1": "冰糖"
-    },
-    "Danyang": {
-        "1": "冰糖"
-    },
-    "Jinhua": {
-        "1": "冰糖"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "冰糖"
-    },
-    "Changsha": {
-        "1": "冰糖"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "石冰糖"
-    },
-    "Nanchang": {
-        "1": "冰糖"
-    },
-    "Lichuan": {
-        "1": "冰糖"
-    },
-    "Pingxiang": {
-        "1": "冰糖"
-    },
-    "Meixian": {
-        "1": "冰糖"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "冰糖"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "冰糖"
-    },
-    "Liudui": {
-        "1": "冰糖"
-    },
-    "Hsinchu": {
-        "1": "冰糖"
-    },
-    "Dongshi": {
-        "1": "冰糖"
-    },
-    "Raoping": {
-        "1": "冰糖"
-    },
-    "Yunlin": {
-        "1": "冰糖"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "冰糖"
-    },
-    "Guangzhou": {
-        "1": "冰糖"
-    },
-    "Hong Kong": {
-        "1": "冰糖"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "冰糖"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "冰糖"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "冰糖"
-    },
-    "Xiamen": {
-        "1": "糖霜"
-    },
-    "Quanzhou": {
-        "1": "糖霜"
-    },
-    "Zhangzhou": {
-        "1": "糖霜"
-    },
-    "Taipei": {
-        "1": "冰糖"
-    },
-    "Kaohsiung": {
-        "1": "冰糖",
-        "2": "糖霜"
-    },
-    "Tainan": {
-        "1": "糖霜"
-    },
-    "Taichung": {
-        "1": "冰糖",
-        "2": "糖霜"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "冰糖"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "糖霜"
-    },
-    "Sanxia": {
-        "1": "冰糖"
-    },
-    "Yilan": {
-        "1": "糖霜"
-    },
-    "Kinmen": {
-        "1": "冰糖"
-    },
-    "Magong": {
-        "1": "冰糖"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "冰糖"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "漳冰"
-    },
-    "Fuqing": {
-        "1": "冰糖"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "冰糖"
-    }
+    "Classical": [
+        "石蜜"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "冰糖"
+    ],
+    "Taiwan": [
+        "冰糖"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "冰糖"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "冰糖"
+    ],
+    "Muping": [
+        "冰糖"
+    ],
+    "Luoyang": [
+        "冰糖"
+    ],
+    "Wanrong": [
+        "冰糖"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "冰糖"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "冰糖"
+    ],
+    "Xuzhou": [
+        "冰糖"
+    ],
+    "Yinchuan": [
+        "冰糖"
+    ],
+    "Lanzhou": [
+        "冰糖"
+    ],
+    "Ürümqi": [
+        "冰糖"
+    ],
+    "Wuhan": [
+        "冰糖"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "冰糖"
+    ],
+    "Guiyang": [
+        "冰糖"
+    ],
+    "Liuzhou": [
+        "冰糖"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "冰糖"
+    ],
+    "Nanjing": [
+        "冰糖"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "冰糖"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "冰糖"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "冰糖"
+    ],
+    "Suzhou": [
+        "冰糖",
+        "水晶糖"
+    ],
+    "Hangzhou": [
+        "冰糖"
+    ],
+    "Shanghai": [
+        "冰糖"
+    ],
+    "Chongming": [
+        "冰糖"
+    ],
+    "Wenzhou": [
+        "冰糖"
+    ],
+    "Danyang": [
+        "冰糖"
+    ],
+    "Jinhua": [
+        "冰糖"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "冰糖"
+    ],
+    "Changsha": [
+        "冰糖"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "石冰糖"
+    ],
+    "Nanchang": [
+        "冰糖"
+    ],
+    "Lichuan": [
+        "冰糖"
+    ],
+    "Pingxiang": [
+        "冰糖"
+    ],
+    "Meixian": [
+        "冰糖"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "冰糖"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "冰糖"
+    ],
+    "Liudui": [
+        "冰糖"
+    ],
+    "Hsinchu": [
+        "冰糖"
+    ],
+    "Dongshi": [
+        "冰糖"
+    ],
+    "Raoping": [
+        "冰糖"
+    ],
+    "Yunlin": [
+        "冰糖"
+    ],
+    "Hong Kong-H": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "冰糖"
+    ],
+    "Guangzhou": [
+        "冰糖"
+    ],
+    "Hong Kong": [
+        "冰糖"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "冰糖"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "冰糖"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "冰糖"
+    ],
+    "Xiamen": [
+        "糖霜"
+    ],
+    "Quanzhou": [
+        "糖霜"
+    ],
+    "Zhangzhou": [
+        "糖霜"
+    ],
+    "Taipei": [
+        "冰糖"
+    ],
+    "Kaohsiung": [
+        "冰糖",
+        "糖霜"
+    ],
+    "Tainan": [
+        "糖霜"
+    ],
+    "Taichung": [
+        "冰糖",
+        "糖霜"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "冰糖"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "糖霜"
+    ],
+    "Sanxia": [
+        "冰糖"
+    ],
+    "Yilan": [
+        "糖霜"
+    ],
+    "Kinmen": [
+        "冰糖"
+    ],
+    "Magong": [
+        "冰糖"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "冰糖"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [
+        "漳冰"
+    ],
+    "Fuqing": [
+        "冰糖"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "冰糖"
+    ]
 }

@@ -1,532 +1,316 @@
 {
     "meaning": "noodle",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "麵條",
-        "2": "麵"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "麵條兒",
-        "2": "麵"
-    },
-    "Taiwan": {
-        "1": "麵條",
-        "2": "麵"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "麵條兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "麵條兒",
-        "2": "麵"
-    },
-    "Muping": {
-        "1": "麵"
-    },
-    "Luoyang": {
-        "1": "麵條兒",
-        "2": "麵"
-    },
-    "Wanrong": {
-        "1": "飯"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "麵"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "麵條兒"
-    },
-    "Xuzhou": {
-        "1": "麵條兒",
-        "2": "麵條子"
-    },
-    "Yinchuan": {
-        "1": "麵條子",
-        "2": "麵"
-    },
-    "Lanzhou": {
-        "1": "麵條子"
-    },
-    "Ürümqi": {
-        "1": "麵條子",
-        "2": "麵"
-    },
-    "Wuhan": {
-        "1": "麵",
-        "2": "麵條"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "麵"
-    },
-    "Guiyang": {
-        "1": "麵"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "麵條",
-        "2": "麵"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "麵"
-    },
-    "Nanjing": {
-        "1": "麵",
-        "2": "麵條"
-    },
-    "Hefei": {
-        "1": "麵條",
-        "2": "麵"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "麵條子",
-        "2": "麵條",
-        "3": "麵"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "麵條子",
-        "2": "條條子麵",
-        "3": "條子麵",
-        "4": "麵"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "麵",
-        "2": "麵條"
-    },
-    "Suzhou": {
-        "1": "麵"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "麵"
-    },
-    "Chongming": {
-        "1": "麵"
-    },
-    "Wenzhou": {
-        "1": "麵"
-    },
-    "Danyang": {
-        "1": "麵"
-    },
-    "Jinhua": {
-        "1": "麵"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "麵"
-    },
-    "Changsha": {
-        "1": "麵"
-    },
-    "Shuangfeng": {
-        "1": "麵"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "麵"
-    },
-    "Lichuan": {
-        "1": "麵"
-    },
-    "Pingxiang": {
-        "1": "麵"
-    },
-    "Meixian": {
-        "1": "麵",
-        "2": "麵條"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "麵"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "麵"
-    },
-    "Liudui": {
-        "1": "麵"
-    },
-    "Hsinchu": {
-        "1": "麵"
-    },
-    "Dongshi": {
-        "1": "大麵",
-        "2": "麵"
-    },
-    "Raoping": {
-        "1": "麵"
-    },
-    "Yunlin": {
-        "1": "大麵"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "麵"
-    },
-    "Guangzhou": {
-        "1": "麵"
-    },
-    "Hong Kong": {
-        "1": "麵"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "麵"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "麵"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "麵"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "麵"
-    },
-    "Quanzhou": {
-        "1": "麵"
-    },
-    "Zhangzhou": {
-        "1": "麵"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "麵"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "麵"
-    },
-    "Singapore-MN": {
-        "1": "麵"
-    },
-    "Philippine-MN": {
-        "1": "麵"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "麵"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "麵",
-        "2": "麵條"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "麵"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "麵"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "麵條",
+        "麵"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "麵條兒",
+        "麵"
+    ],
+    "Taiwan": [
+        "麵條",
+        "麵"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "麵條兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "麵條兒",
+        "麵"
+    ],
+    "Muping": [
+        "麵"
+    ],
+    "Luoyang": [
+        "麵條兒",
+        "麵"
+    ],
+    "Wanrong": [
+        "飯"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "麵"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "麵條兒"
+    ],
+    "Xuzhou": [
+        "麵條兒",
+        "麵條子"
+    ],
+    "Yinchuan": [
+        "麵條子",
+        "麵"
+    ],
+    "Lanzhou": [
+        "麵條子"
+    ],
+    "Ürümqi": [
+        "麵條子",
+        "麵"
+    ],
+    "Wuhan": [
+        "麵",
+        "麵條"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "麵"
+    ],
+    "Guiyang": [
+        "麵"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "麵條",
+        "麵"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "麵"
+    ],
+    "Nanjing": [
+        "麵",
+        "麵條"
+    ],
+    "Hefei": [
+        "麵條",
+        "麵"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "麵條子",
+        "麵條",
+        "麵"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "麵條子",
+        "條條子麵",
+        "條子麵",
+        "麵"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "麵",
+        "麵條"
+    ],
+    "Suzhou": [
+        "麵"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "麵"
+    ],
+    "Chongming": [
+        "麵"
+    ],
+    "Wenzhou": [
+        "麵"
+    ],
+    "Danyang": [
+        "麵"
+    ],
+    "Jinhua": [
+        "麵"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "麵"
+    ],
+    "Changsha": [
+        "麵"
+    ],
+    "Shuangfeng": [
+        "麵"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "麵"
+    ],
+    "Lichuan": [
+        "麵"
+    ],
+    "Pingxiang": [
+        "麵"
+    ],
+    "Meixian": [
+        "麵",
+        "麵條"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "麵"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "麵"
+    ],
+    "Liudui": [
+        "麵"
+    ],
+    "Hsinchu": [
+        "麵"
+    ],
+    "Dongshi": [
+        "大麵",
+        "麵"
+    ],
+    "Raoping": [
+        "麵"
+    ],
+    "Yunlin": [
+        "大麵"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "麵"
+    ],
+    "Guangzhou": [
+        "麵"
+    ],
+    "Hong Kong": [
+        "麵"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "麵"
+    ],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "麵"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "麵"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "麵"
+    ],
+    "Quanzhou": [
+        "麵"
+    ],
+    "Zhangzhou": [
+        "麵"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [
+        "麵"
+    ],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "麵"
+    ],
+    "Singapore-MN": [
+        "麵"
+    ],
+    "Philippine-MN": [
+        "麵"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "麵"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "麵",
+        "麵條"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "麵"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "麵"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

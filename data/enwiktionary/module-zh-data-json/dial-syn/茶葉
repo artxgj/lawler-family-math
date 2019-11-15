@@ -1,505 +1,385 @@
 {
     "meaning": "tea leaf",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "茶葉"
-    },
-    "Taiwan": {
-        "1": "茶葉"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "茶葉"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "茶",
-        "2": "茶葉"
-    },
-    "Muping": {
-        "1": "茶葉"
-    },
-    "Luoyang": {
-        "1": "茶葉"
-    },
-    "Wanrong": {
-        "1": "茶葉"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "茶葉兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "茶葉",
-        "2": "茶葉兒"
-    },
-    "Xining": {
-        "1": "茶葉"
-    },
-    "Xuzhou": {
-        "1": "葉子",
-        "2": "茶葉"
-    },
-    "Yinchuan": {
-        "1": "茶葉",
-        "2": "茶"
-    },
-    "Lanzhou": {
-        "1": "茶葉子"
-    },
-    "Ürümqi": {
-        "1": "茶葉子",
-        "2": "茶葉"
-    },
-    "Wuhan": {
-        "1": "茶葉"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "茶",
-        "2": "茶葉"
-    },
-    "Guiyang": {
-        "1": "茶葉"
-    },
-    "Guilin": {
-        "1": "茶葉"
-    },
-    "Liuzhou": {
-        "1": "茶葉"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": "茶葉"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "茶葉"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "茶葉"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "茶葉"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "茶葉"
-    },
-    "Hangzhou": {
-        "1": "茶葉"
-    },
-    "Shanghai": {
-        "1": "茶葉"
-    },
-    "Chongming": {
-        "1": "茶葉"
-    },
-    "Wenzhou": {
-        "1": "茶葉"
-    },
-    "Danyang": {
-        "1": "茶葉"
-    },
-    "Jinhua": {
-        "1": "茶葉"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "茶葉"
-    },
-    "Changsha": {
-        "1": "茶葉子",
-        "2": "蝦子:humorous"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "茶"
-    },
-    "Quanzhou-X": {
-        "1": "茶葉"
-    },
-    "Nanchang": {
-        "1": "茶葉"
-    },
-    "Lichuan": {
-        "1": "茶葉"
-    },
-    "Pingxiang": {
-        "1": "茶葉"
-    },
-    "Meixian": {
-        "1": "茶葉",
-        "2": "茶米"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "茶葉"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "茶葉"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "茶米"
-    },
-    "Liudui": {
-        "1": "茶米",
-        "2": "茶心"
-    },
-    "Hsinchu": {
-        "1": "茶米"
-    },
-    "Dongshi": {
-        "1": "茶米"
-    },
-    "Raoping": {
-        "1": "茶米"
-    },
-    "Yunlin": {
-        "1": "茶米"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": "茶米"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "茶葉"
-    },
-    "Guangzhou": {
-        "1": "茶葉"
-    },
-    "Hong Kong": {
-        "1": "茶葉"
-    },
-    "Shunde": {
-        "1": "茶葉"
-    },
-    "Foshan": {
-        "1": "茶葉"
-    },
-    "Zhongshan": {
-        "1": "茶葉"
-    },
-    "Dongguan": {
-        "1": "茶葉"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "茶葉"
-    },
-    "Doumen": {
-        "1": "茶葉"
-    },
-    "Kaiping": {
-        "1": "茶葉"
-    },
-    "Shaoguan": {
-        "1": "茶葉"
-    },
-    "Yunfu": {
-        "1": "茶葉"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "茶葉"
-    },
-    "Lianjiang": {
-        "1": "茶葉"
-    },
-    "Nanning": {
-        "1": "茶葉"
-    },
-    "Wuzhou": {
-        "1": "茶葉"
-    },
-    "Yulin": {
-        "1": "茶葉"
-    },
-    "Hepu": {
-        "1": "茶葉"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "茶葉"
-    },
-    "Guilin-P": {
-        "1": "茶葉"
-    },
-    "Xiamen": {
-        "1": "茶心",
-        "2": "茶箬",
-        "3": "茶米"
-    },
-    "Quanzhou": {
-        "1": "茶心",
-        "2": "茶箬"
-    },
-    "Zhangzhou": {
-        "1": "茶箬",
-        "2": "茶米"
-    },
-    "Taipei": {
-        "1": "茶心",
-        "2": "茶米"
-    },
-    "Kaohsiung": {
-        "1": "茶心",
-        "2": "茶箬"
-    },
-    "Tainan": {
-        "1": "茶心"
-    },
-    "Taichung": {
-        "1": "茶米"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "茶米",
-        "2": "茶心"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "茶心"
-    },
-    "Sanxia": {
-        "1": "茶米"
-    },
-    "Yilan": {
-        "1": "茶心",
-        "2": "茶米"
-    },
-    "Kinmen": {
-        "1": "茶心"
-    },
-    "Magong": {
-        "1": "茶心"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "茶箬"
-    },
-    "Pingnan": {
-        "1": "茶箬"
-    },
-    "Chaozhou": {
-        "1": "茶米"
-    },
-    "Shantou": {
-        "1": "茶米"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "茶箬"
-    },
-    "Leizhou": {
-        "1": "茶箬:unprocessed",
-        "2": "茶芽:processed"
-    },
-    "Putian": {
-        "1": "茶箬",
-        "2": "茶心"
-    },
-    "Xianyou": {
-        "1": "茶箬",
-        "2": "茶心"
-    },
-    "Fuzhou": {
-        "1": "茶箬"
-    },
-    "Changle": {
-        "1": "茶箬"
-    },
-    "Fuqing": {
-        "1": "茶箬"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "茶箬"
-    },
-    "Gutian": {
-        "1": "茶箬"
-    },
-    "Fu'an": {
-        "1": "茶米"
-    },
-    "Ningde": {
-        "1": "茶米"
-    },
-    "Shouning": {
-        "1": "茶米"
-    },
-    "Zhouning": {
-        "1": "茶米"
-    },
-    "Fuding": {
-        "1": "茶箬"
-    },
-    "Matsu": {
-        "1": "茶箬"
-    },
-    "Jian'ou": {
-        "1": "茶茗",
-        "2": "茶"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "茶葉"
+    ],
+    "Taiwan": [
+        "茶葉"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "茶葉"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "茶",
+        "茶葉"
+    ],
+    "Muping": [
+        "茶葉"
+    ],
+    "Luoyang": [
+        "茶葉"
+    ],
+    "Wanrong": [
+        "茶葉"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "茶葉兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "茶葉",
+        "茶葉兒"
+    ],
+    "Xining": [
+        "茶葉"
+    ],
+    "Xuzhou": [
+        "葉子",
+        "茶葉"
+    ],
+    "Yinchuan": [
+        "茶葉",
+        "茶"
+    ],
+    "Lanzhou": [
+        "茶葉子"
+    ],
+    "Ürümqi": [
+        "茶葉子",
+        "茶葉"
+    ],
+    "Wuhan": [
+        "茶葉"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "茶",
+        "茶葉"
+    ],
+    "Guiyang": [
+        "茶葉"
+    ],
+    "Guilin": [
+        "茶葉"
+    ],
+    "Liuzhou": [
+        "茶葉"
+    ],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [
+        "茶葉"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "茶葉"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "茶葉"
+    ],
+    "Jining": [],
+    "Hohhot": [
+        "茶葉"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "茶葉"
+    ],
+    "Hangzhou": [
+        "茶葉"
+    ],
+    "Shanghai": [
+        "茶葉"
+    ],
+    "Chongming": [
+        "茶葉"
+    ],
+    "Wenzhou": [
+        "茶葉"
+    ],
+    "Danyang": [
+        "茶葉"
+    ],
+    "Jinhua": [
+        "茶葉"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "茶葉"
+    ],
+    "Changsha": [
+        "茶葉子",
+        "蝦子:humorous"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "茶"
+    ],
+    "Quanzhou-X": [
+        "茶葉"
+    ],
+    "Nanchang": [
+        "茶葉"
+    ],
+    "Lichuan": [
+        "茶葉"
+    ],
+    "Pingxiang": [
+        "茶葉"
+    ],
+    "Meixian": [
+        "茶葉",
+        "茶米"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "茶葉"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "茶葉"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "茶米"
+    ],
+    "Liudui": [
+        "茶米",
+        "茶心"
+    ],
+    "Hsinchu": [
+        "茶米"
+    ],
+    "Dongshi": [
+        "茶米"
+    ],
+    "Raoping": [
+        "茶米"
+    ],
+    "Yunlin": [
+        "茶米"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [
+        "茶米"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "茶葉"
+    ],
+    "Guangzhou": [
+        "茶葉"
+    ],
+    "Hong Kong": [
+        "茶葉"
+    ],
+    "Shunde": [
+        "茶葉"
+    ],
+    "Foshan": [
+        "茶葉"
+    ],
+    "Zhongshan": [
+        "茶葉"
+    ],
+    "Dongguan": [
+        "茶葉"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "茶葉"
+    ],
+    "Doumen": [
+        "茶葉"
+    ],
+    "Kaiping": [
+        "茶葉"
+    ],
+    "Shaoguan": [
+        "茶葉"
+    ],
+    "Yunfu": [
+        "茶葉"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "茶葉"
+    ],
+    "Lianjiang": [
+        "茶葉"
+    ],
+    "Nanning": [
+        "茶葉"
+    ],
+    "Wuzhou": [
+        "茶葉"
+    ],
+    "Yulin": [
+        "茶葉"
+    ],
+    "Hepu": [
+        "茶葉"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "茶葉"
+    ],
+    "Guilin-P": [
+        "茶葉"
+    ],
+    "Xiamen": [
+        "茶心",
+        "茶箬",
+        "茶米"
+    ],
+    "Quanzhou": [
+        "茶心",
+        "茶箬"
+    ],
+    "Zhangzhou": [
+        "茶箬",
+        "茶米"
+    ],
+    "Taipei": [
+        "茶心",
+        "茶米"
+    ],
+    "Kaohsiung": [
+        "茶心",
+        "茶箬"
+    ],
+    "Tainan": [
+        "茶心"
+    ],
+    "Taichung": [
+        "茶米"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "茶米",
+        "茶心"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "茶心"
+    ],
+    "Sanxia": [
+        "茶米"
+    ],
+    "Yilan": [
+        "茶心",
+        "茶米"
+    ],
+    "Kinmen": [
+        "茶心"
+    ],
+    "Magong": [
+        "茶心"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "茶箬"
+    ],
+    "Pingnan": [
+        "茶箬"
+    ],
+    "Chaozhou": [
+        "茶米"
+    ],
+    "Shantou": [
+        "茶米"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "茶箬"
+    ],
+    "Leizhou": [
+        "茶箬:unprocessed",
+        "茶芽:processed"
+    ],
+    "Putian": [
+        "茶箬",
+        "茶心"
+    ],
+    "Xianyou": [
+        "茶箬",
+        "茶心"
+    ],
+    "Fuzhou": [
+        "茶箬"
+    ],
+    "Changle": [
+        "茶箬"
+    ],
+    "Fuqing": [
+        "茶箬"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "茶箬"
+    ],
+    "Gutian": [
+        "茶箬"
+    ],
+    "Fu'an": [
+        "茶米"
+    ],
+    "Ningde": [
+        "茶米"
+    ],
+    "Shouning": [
+        "茶米"
+    ],
+    "Zhouning": [
+        "茶米"
+    ],
+    "Fuding": [
+        "茶箬"
+    ],
+    "Matsu": [
+        "茶箬"
+    ],
+    "Jian'ou": [
+        "茶茗",
+        "茶"
+    ]
 }

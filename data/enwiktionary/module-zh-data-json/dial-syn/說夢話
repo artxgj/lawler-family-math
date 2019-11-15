@@ -1,719 +1,461 @@
 {
     "meaning": "to sleeptalk",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "夢囈",
-        "2": "囈語",
-        "3": "說夢話"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "說夢話"
-    },
-    "Taiwan": {
-        "1": "說夢話"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "說夢話"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "說夢話",
-        "2": "說睡話",
-        "3": "說睡語"
-    },
-    "Muping": {
-        "1": "說睡語"
-    },
-    "Luoyang": {
-        "1": "發囈怔"
-    },
-    "Wanrong": {
-        "1": "說夢話"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "說胡話"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "說夢話",
-        "2": "發囈怔"
-    },
-    "Xining": {
-        "1": "說胡話"
-    },
-    "Xuzhou": {
-        "1": "發囈似",
-        "2": "發囈怔"
-    },
-    "Yinchuan": {
-        "1": "說夢話"
-    },
-    "Lanzhou": {
-        "1": "說胡話"
-    },
-    "Ürümqi": {
-        "1": "說夢話"
-    },
-    "Wuhan": {
-        "1": "發夢天"
-    },
-    "Huanggang": {
-        "1": "說夢話"
-    },
-    "Chengdu": {
-        "1": "說夢話"
-    },
-    "Guiyang": {
-        "1": "說夢話"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "講夢話"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "說夢話",
-        "2": "做響夢"
-    },
-    "Nanjing": {
-        "1": "說夢話",
-        "2": "講夢話"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "說睏話兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "說胡話"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "說夢話"
-    },
-    "Pingyao": {
-        "1": "睡說"
-    },
-    "Xinzhou": {
-        "1": "睡說"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "說夢話"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "講夢話",
-        "2": "話睏話"
-    },
-    "Suzhou": {
-        "1": "說睏話"
-    },
-    "Wuxi": {
-        "1": "說睏話"
-    },
-    "Hangzhou": {
-        "1": "說睏話"
-    },
-    "Chongming": {
-        "1": "話睏話"
-    },
-    "Wenzhou": {
-        "1": "睏講"
-    },
-    "Danyang": {
-        "1": "說夢話",
-        "2": "講夢話"
-    },
-    "Jinhua": {
-        "1": "講眠夢話"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "講夜話"
-    },
-    "Changsha": {
-        "1": "講夢話"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "講夢話"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "話夢話"
-    },
-    "Lichuan": {
-        "1": "打夢話"
-    },
-    "Pingxiang": {
-        "1": "打開聲夢講"
-    },
-    "Meixian": {
-        "1": "講夢話"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "講夢話"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "打夢話"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "話夢話"
-    },
-    "Shangyou": {
-        "1": "打夢講"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": "講夢話"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "講夢話"
-    },
-    "Singkawang": {
-        "1": "講狂話"
-    },
-    "Jixi": {
-        "1": "講夢話"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "發開口夢",
-        "2": "發夢話"
-    },
-    "Hong Kong": {
-        "1": "發開口夢"
-    },
-    "HK Weitou": {
-        "1": "發開口夢"
-    },
-    "Kam Tin": {
-        "1": "發開口夢"
-    },
-    "Ting Kok": {
-        "1": "發開口夢"
-    },
-    "Tung Ping Chau": {
-        "1": "講夢話"
-    },
-    "Macau": {
-        "1": "發開口夢"
-    },
-    "Panyu": {
-        "1": "發開口夢"
-    },
-    "Huadu": {
-        "1": "發開口夢"
-    },
-    "Conghua": {
-        "1": "發開口夢"
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": "發開口夢"
-    },
-    "Nanhai": {
-        "1": "發開口夢"
-    },
-    "Shunde": {
-        "1": "發開口夢"
-    },
-    "Sanshui": {
-        "1": "發開口夢"
-    },
-    "Gaoming": {
-        "1": "發夢話"
-    },
-    "Zhongshan": {
-        "1": "發開口夢"
-    },
-    "Zhuhai": {
-        "1": "發開口夢"
-    },
-    "Doumen-T": {
-        "1": "財開口夢"
-    },
-    "Doumen-S": {
-        "1": "發開口夢"
-    },
-    "Jiangmen": {
-        "1": "發開口夢"
-    },
-    "Xinhui": {
-        "1": "發開口夢"
-    },
-    "Taishan": {
-        "1": "發開口夢"
-    },
-    "Kaiping": {
-        "1": "發開口夢"
-    },
-    "Enping": {
-        "1": "發開口夢"
-    },
-    "Heshan": {
-        "1": "講夢話"
-    },
-    "Dongguan": {
-        "1": "發開口夢"
-    },
-    "Bao'an": {
-        "1": "發開口夢"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "發開口夢"
-    },
-    "Yunfu": {
-        "1": "發開口夢"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "講懵話",
-        "2": "講懵"
-    },
-    "Lianjiang": {
-        "1": "發開口夢"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "發開口夢"
-    },
-    "Ho Chi Minh City": {
-        "1": "講夢話"
-    },
-    "Nanning-P": {
-        "1": "講夢話"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "陷眠"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "陷眠"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "陷眠"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "陷眠"
-    },
-    "Taipei": {
-        "1": "陷眠"
-    },
-    "Kaohsiung": {
-        "1": "陷眠"
-    },
-    "Tainan": {
-        "1": "陷眠"
-    },
-    "Taichung": {
-        "1": "陷眠"
-    },
-    "Wuqi": {
-        "1": "陷眠"
-    },
-    "Hsinchu-MN": {
-        "1": "陷眠"
-    },
-    "Taitung": {
-        "1": "陷眠"
-    },
-    "Lukang": {
-        "1": "陷眠"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "陷眠"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "陷眠"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "講離話"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "呾夢話"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "鬼眠"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "講夢話"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "狂眠",
-        "2": "講夢話"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "狂眠"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "夢囈",
+        "囈語",
+        "說夢話"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "說夢話"
+    ],
+    "Taiwan": [
+        "說夢話"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "說夢話"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "說夢話",
+        "說睡話",
+        "說睡語"
+    ],
+    "Muping": [
+        "說睡語"
+    ],
+    "Luoyang": [
+        "發囈怔"
+    ],
+    "Wanrong": [
+        "說夢話"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "說胡話"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "說夢話",
+        "發囈怔"
+    ],
+    "Xining": [
+        "說胡話"
+    ],
+    "Xuzhou": [
+        "發囈似",
+        "發囈怔"
+    ],
+    "Yinchuan": [
+        "說夢話"
+    ],
+    "Lanzhou": [
+        "說胡話"
+    ],
+    "Ürümqi": [
+        "說夢話"
+    ],
+    "Wuhan": [
+        "發夢天"
+    ],
+    "Huanggang": [
+        "說夢話"
+    ],
+    "Chengdu": [
+        "說夢話"
+    ],
+    "Guiyang": [
+        "說夢話"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "講夢話"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "說夢話",
+        "做響夢"
+    ],
+    "Nanjing": [
+        "說夢話",
+        "講夢話"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "說睏話兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "說胡話"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "說夢話"
+    ],
+    "Pingyao": [
+        "睡說"
+    ],
+    "Xinzhou": [
+        "睡說"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "說夢話"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "講夢話",
+        "話睏話"
+    ],
+    "Suzhou": [
+        "說睏話"
+    ],
+    "Wuxi": [
+        "說睏話"
+    ],
+    "Hangzhou": [
+        "說睏話"
+    ],
+    "Chongming": [
+        "話睏話"
+    ],
+    "Wenzhou": [
+        "睏講"
+    ],
+    "Danyang": [
+        "說夢話",
+        "講夢話"
+    ],
+    "Jinhua": [
+        "講眠夢話"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "講夜話"
+    ],
+    "Changsha": [
+        "講夢話"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "講夢話"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "話夢話"
+    ],
+    "Lichuan": [
+        "打夢話"
+    ],
+    "Pingxiang": [
+        "打開聲夢講"
+    ],
+    "Meixian": [
+        "講夢話"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "講夢話"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "打夢話"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "話夢話"
+    ],
+    "Shangyou": [
+        "打夢講"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [
+        "講夢話"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "講夢話"
+    ],
+    "Singkawang": [
+        "講狂話"
+    ],
+    "Jixi": [
+        "講夢話"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "發開口夢",
+        "發夢話"
+    ],
+    "Hong Kong": [
+        "發開口夢"
+    ],
+    "HK Weitou": [
+        "發開口夢"
+    ],
+    "Kam Tin": [
+        "發開口夢"
+    ],
+    "Ting Kok": [
+        "發開口夢"
+    ],
+    "Tung Ping Chau": [
+        "講夢話"
+    ],
+    "Macau": [
+        "發開口夢"
+    ],
+    "Panyu": [
+        "發開口夢"
+    ],
+    "Huadu": [
+        "發開口夢"
+    ],
+    "Conghua": [
+        "發開口夢"
+    ],
+    "Zengcheng": [],
+    "Foshan": [
+        "發開口夢"
+    ],
+    "Nanhai": [
+        "發開口夢"
+    ],
+    "Shunde": [
+        "發開口夢"
+    ],
+    "Sanshui": [
+        "發開口夢"
+    ],
+    "Gaoming": [
+        "發夢話"
+    ],
+    "Zhongshan": [
+        "發開口夢"
+    ],
+    "Zhuhai": [
+        "發開口夢"
+    ],
+    "Doumen-T": [
+        "財開口夢"
+    ],
+    "Doumen-S": [
+        "發開口夢"
+    ],
+    "Jiangmen": [
+        "發開口夢"
+    ],
+    "Xinhui": [
+        "發開口夢"
+    ],
+    "Taishan": [
+        "發開口夢"
+    ],
+    "Kaiping": [
+        "發開口夢"
+    ],
+    "Enping": [
+        "發開口夢"
+    ],
+    "Heshan": [
+        "講夢話"
+    ],
+    "Dongguan": [
+        "發開口夢"
+    ],
+    "Bao'an": [
+        "發開口夢"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "發開口夢"
+    ],
+    "Yunfu": [
+        "發開口夢"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "講懵話",
+        "講懵"
+    ],
+    "Lianjiang": [
+        "發開口夢"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "發開口夢"
+    ],
+    "Ho Chi Minh City": [
+        "講夢話"
+    ],
+    "Nanning-P": [
+        "講夢話"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "陷眠"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "陷眠"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "陷眠"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "陷眠"
+    ],
+    "Taipei": [
+        "陷眠"
+    ],
+    "Kaohsiung": [
+        "陷眠"
+    ],
+    "Tainan": [
+        "陷眠"
+    ],
+    "Taichung": [
+        "陷眠"
+    ],
+    "Wuqi": [
+        "陷眠"
+    ],
+    "Hsinchu-MN": [
+        "陷眠"
+    ],
+    "Taitung": [
+        "陷眠"
+    ],
+    "Lukang": [
+        "陷眠"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "陷眠"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "陷眠"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "講離話"
+    ],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "呾夢話"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "鬼眠"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "講夢話"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "狂眠",
+        "講夢話"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "狂眠"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

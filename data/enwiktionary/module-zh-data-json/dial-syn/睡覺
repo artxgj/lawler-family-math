@@ -1,841 +1,685 @@
 {
     "meaning": "to sleep",
     "note": "",
-    "Classical": {
-        "1": "臥",
-        "2": "寐",
-        "3": "寢",
-        "4": "眠",
-        "5": "睡",
-        "6": "就寢",
-        "7": "寢息"
-    },
-    "Formal": {
-        "1": "睡覺",
-        "2": "睡眠",
-        "3": "就寢"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "睡覺",
-        "2": "睡",
-        "3": "歇覺"
-    },
-    "Taiwan": {
-        "1": "睡覺",
-        "2": "睡"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "睡覺"
-    },
-    "Ulan Hot": {
-        "1": "睡覺"
-    },
-    "Tongliao": {
-        "1": "睡覺"
-    },
-    "Chifeng": {
-        "1": "睡覺"
-    },
-    "Bayanhot": {
-        "1": "睡覺"
-    },
-    "Jinan": {
-        "1": "睡覺"
-    },
-    "Muping": {
-        "1": "睡覺",
-        "2": "睡"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "睡"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "睡覺",
-        "2": "睡"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "睡瞌睡",
-        "2": "睡"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "睡瞌睡"
-    },
-    "Guiyang": {
-        "1": "睡瞌睡"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "睡覺"
-    },
-    "Nanjing": {
-        "1": "睡覺",
-        "2": "睡"
-    },
-    "Hefei": {
-        "1": "睡覺"
-    },
-    "Nantong": {
-        "1": "睏"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "睡覺",
-        "2": "睡"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": "睡覺"
-    },
-    "Jining": {
-        "1": "睡覺"
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": "睡覺"
-    },
-    "Dongsheng": {
-        "1": "睡覺"
-    },
-    "Linhe": {
-        "1": "睡覺"
-    },
-    "Haibowan": {
-        "1": "睡覺"
-    },
-    "Shanghai": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Suzhou": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Wuxi": {
-        "1": "睏覺"
-    },
-    "Hangzhou": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Chongming": {
-        "1": "睏"
-    },
-    "Wenzhou": {
-        "1": "睏"
-    },
-    "Danyang": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Jinhua": {
-        "1": "睏褥",
-        "2": "睏"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "睏覺"
-    },
-    "Changsha": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Shuangfeng": {
-        "1": "睏眼閉",
-        "2": "睏覺"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Quanzhou-X": {
-        "1": "睡覺"
-    },
-    "Nanchang": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Lichuan": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Pingxiang": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Meixian": {
-        "1": "睡目",
-        "2": "睡"
-    },
-    "Xingning": {
-        "1": "睡目"
-    },
-    "Huizhou": {
-        "1": "瞓覺"
-    },
-    "Huizhou-SK": {
-        "1": "瞓覺"
-    },
-    "Huizhou-HL": {
-        "1": "瞓覺"
-    },
-    "Huiyang": {
-        "1": "睡目",
-        "2": "睡"
-    },
-    "Huidong-PS": {
-        "1": "瞓覺"
-    },
-    "Huidong-DL": {
-        "1": "睡目"
-    },
-    "Dongguan-H": {
-        "1": "睡目",
-        "2": "睡覺"
-    },
-    "Longmen-PL": {
-        "1": "睡目"
-    },
-    "Longmen-LX": {
-        "1": "瞓"
-    },
-    "Boluo": {
-        "1": "瞓覺"
-    },
-    "Shenzhen-H": {
-        "1": "睡目"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": "睡目"
-    },
-    "Zhongshan-NLHS": {
-        "1": "睡目"
-    },
-    "Wuhua-SZ": {
-        "1": "睡目"
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": "睡目"
-    },
-    "Wuhua-MY": {
-        "1": "睡目"
-    },
-    "Heyuan": {
-        "1": "瞓覺"
-    },
-    "Zijin-GZ": {
-        "1": "瞓覺"
-    },
-    "Longchuan-TC": {
-        "1": "瞓",
-        "2": "瞓覺"
-    },
-    "Longchuan-SD": {
-        "1": "瞓覺"
-    },
-    "Heping-LZ": {
-        "1": "瞓覺"
-    },
-    "Lianping-ZX": {
-        "1": "瞓覺"
-    },
-    "Lianping-LJ": {
-        "1": "睡覺"
-    },
-    "Qujiang": {
-        "1": "睡覺"
-    },
-    "Xinfeng-MT": {
-        "1": "睡"
-    },
-    "Xinfeng-DX": {
-        "1": "睡覺"
-    },
-    "Xiaosanjiang": {
-        "1": "睡眼"
-    },
-    "Liannan": {
-        "1": "睡目"
-    },
-    "Conghua-H": {
-        "1": "睡眼"
-    },
-    "Jiexi": {
-        "1": "睡目"
-    },
-    "Luchuan-LC": {
-        "1": "睡覺"
-    },
-    "Luchuan-DQ": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "睡目"
-    },
-    "Pingyu": {
-        "1": "睡目"
-    },
-    "Wuping": {
-        "1": "睡目"
-    },
-    "Liancheng": {
-        "1": "睡目"
-    },
-    "Ninghua": {
-        "1": "歇"
-    },
-    "Yudu": {
-        "1": "歇眼"
-    },
-    "Ruijin": {
-        "1": "歇眼"
-    },
-    "Shicheng": {
-        "1": "歇",
-        "2": "睡"
-    },
-    "Shangyou": {
-        "1": "歇覺"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "睡目"
-    },
-    "Liudui": {
-        "1": "睡目"
-    },
-    "Hsinchu": {
-        "1": "睡目"
-    },
-    "Dongshi": {
-        "1": "睡目",
-        "2": "睡"
-    },
-    "Raoping": {
-        "1": "睡目",
-        "2": "睡"
-    },
-    "Yunlin": {
-        "1": "睡目",
-        "2": "睡"
-    },
-    "Hong Kong-H": {
-        "1": "睡目"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "睡目"
-    },
-    "Senai": {
-        "1": "睡目"
-    },
-    "Singkawang": {
-        "1": "睡目"
-    },
-    "Jixi": {
-        "1": "睏覺",
-        "2": "睏"
-    },
-    "Shexian": {
-        "1": "睡"
-    },
-    "Tunxi": {
-        "1": "睏"
-    },
-    "Xiuning": {
-        "1": "睏"
-    },
-    "Yixian": {
-        "1": "睏"
-    },
-    "Qimen": {
-        "1": "睏"
-    },
-    "Wuyuan": {
-        "1": "睏"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "瞓覺",
-        "2": "瞓"
-    },
-    "Hong Kong": {
-        "1": "瞓覺",
-        "2": "瞓",
-        "3": "覺覺豬:childish",
-        "4": "瞓覺覺:childish",
-        "5": "豬豬:childish"
-    },
-    "HK Weitou": {
-        "1": "瞓覺"
-    },
-    "Kam Tin": {
-        "1": "瞓覺"
-    },
-    "Ting Kok": {
-        "1": "睡目"
-    },
-    "Tung Ping Chau": {
-        "1": "瞓覺"
-    },
-    "Macau": {
-        "1": "瞓覺"
-    },
-    "Panyu": {
-        "1": "瞓覺"
-    },
-    "Huadu": {
-        "1": "瞓"
-    },
-    "Conghua": {
-        "1": "瞓覺"
-    },
-    "Zengcheng": {
-        "1": "瞓",
-        "2": "睡"
-    },
-    "Foshan": {
-        "1": "瞓覺"
-    },
-    "Nanhai": {
-        "1": "瞓覺"
-    },
-    "Shunde": {
-        "1": "瞓覺"
-    },
-    "Sanshui": {
-        "1": "瞓覺"
-    },
-    "Gaoming": {
-        "1": "瞓覺"
-    },
-    "Zhongshan": {
-        "1": "寐覺"
-    },
-    "Zhuhai": {
-        "1": "瞓覺"
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": "瞓覺"
-    },
-    "Jiangmen": {
-        "1": "瞓覺"
-    },
-    "Xinhui": {
-        "1": "瞓覺"
-    },
-    "Taishan": {
-        "1": "瞓覺",
-        "2": "瞓"
-    },
-    "Kaiping": {
-        "1": "瞓覺"
-    },
-    "Enping": {
-        "1": "瞓覺"
-    },
-    "Heshan": {
-        "1": "瞓覺"
-    },
-    "Dongguan": {
-        "1": "瞓覺"
-    },
-    "Bao'an": {
-        "1": "瞓覺"
-    },
-    "Dapeng": {
-        "1": "瞓覺"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "瞓覺",
-        "2": "瞓"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "睡覺"
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "閉眼"
-    },
-    "Kuala Lumpur": {
-        "1": "瞓覺"
-    },
-    "Ho Chi Minh City": {
-        "1": "瞓覺"
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "睏"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "睏"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "睏"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "睏"
-    },
-    "Kaohsiung": {
-        "1": "睏"
-    },
-    "Tainan": {
-        "1": "睏"
-    },
-    "Taichung": {
-        "1": "睏"
-    },
-    "Wuqi": {
-        "1": "睏"
-    },
-    "Hsinchu-MN": {
-        "1": "睏"
-    },
-    "Taitung": {
-        "1": "睏"
-    },
-    "Lukang": {
-        "1": "睏"
-    },
-    "Sanxia": {
-        "1": "睏"
-    },
-    "Yilan": {
-        "1": "睏"
-    },
-    "Kinmen": {
-        "1": "睏"
-    },
-    "Magong": {
-        "1": "睏"
-    },
-    "Malaysia-MN": {
-        "1": "睏"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "睏"
-    },
-    "Medan": {
-        "1": "睏"
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "睏覺"
-    },
-    "Chaozhou": {
-        "1": "夗"
-    },
-    "Shantou": {
-        "1": "夗"
-    },
-    "Haifeng": {
-        "1": "睏"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "夗"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": "睏"
-    },
-    "Putian": {
-        "1": "睏"
-    },
-    "Xianyou": {
-        "1": "睏"
-    },
-    "Fuzhou": {
-        "1": "睏",
-        "2": "睏眠"
-    },
-    "Changle": {
-        "1": "睏"
-    },
-    "Fuqing": {
-        "1": "睏"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "睏"
-    },
-    "Gutian": {
-        "1": "睏"
-    },
-    "Fu'an": {
-        "1": "睏"
-    },
-    "Ningde": {
-        "1": "睏"
-    },
-    "Shouning": {
-        "1": "睏"
-    },
-    "Zhouning": {
-        "1": "睏"
-    },
-    "Fuding": {
-        "1": "睏"
-    },
-    "Matsu": {
-        "1": "睏"
-    },
-    "Jian'ou": {
-        "1": "目䁒"
-    },
-    "Dikou": {
-        "1": "目䁒"
-    },
-    "Songxi": {
-        "1": "目䁒"
-    },
-    "Zhenghe": {
-        "1": "目䁒"
-    },
-    "Zhenqian": {
-        "1": "眠䁒"
-    },
-    "Jianyang": {
-        "1": "目䁒"
-    },
-    "Wuyishan": {
-        "1": "目䁒"
-    },
-    "Shibei": {
-        "1": "瞌眠"
-    },
-    "Fu'an-She": {
-        "1": "眠"
-    },
-    "Fuding-She": {
-        "1": "眠"
-    },
-    "Luoyuan-She": {
-        "1": "眠"
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": "眠"
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": "眠"
-    },
-    "Jingning-She": {
-        "1": "眠"
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "臥",
+        "寐",
+        "寢",
+        "眠",
+        "睡",
+        "就寢",
+        "寢息"
+    ],
+    "Formal": [
+        "睡覺",
+        "睡眠",
+        "就寢"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "睡覺",
+        "睡",
+        "歇覺"
+    ],
+    "Taiwan": [
+        "睡覺",
+        "睡"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [
+        "睡覺"
+    ],
+    "Ulan Hot": [
+        "睡覺"
+    ],
+    "Tongliao": [
+        "睡覺"
+    ],
+    "Chifeng": [
+        "睡覺"
+    ],
+    "Bayanhot": [
+        "睡覺"
+    ],
+    "Jinan": [
+        "睡覺"
+    ],
+    "Muping": [
+        "睡覺",
+        "睡"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "睡"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "睡覺",
+        "睡"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "睡瞌睡",
+        "睡"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "睡瞌睡"
+    ],
+    "Guiyang": [
+        "睡瞌睡"
+    ],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "睡覺"
+    ],
+    "Nanjing": [
+        "睡覺",
+        "睡"
+    ],
+    "Hefei": [
+        "睡覺"
+    ],
+    "Nantong": [
+        "睏"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "睡覺",
+        "睡"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [
+        "睡覺"
+    ],
+    "Jining": [
+        "睡覺"
+    ],
+    "Hohhot": [],
+    "Baotou": [
+        "睡覺"
+    ],
+    "Dongsheng": [
+        "睡覺"
+    ],
+    "Linhe": [
+        "睡覺"
+    ],
+    "Haibowan": [
+        "睡覺"
+    ],
+    "Shanghai": [
+        "睏覺",
+        "睏"
+    ],
+    "Suzhou": [
+        "睏覺",
+        "睏"
+    ],
+    "Wuxi": [
+        "睏覺"
+    ],
+    "Hangzhou": [
+        "睏覺",
+        "睏"
+    ],
+    "Chongming": [
+        "睏"
+    ],
+    "Wenzhou": [
+        "睏"
+    ],
+    "Danyang": [
+        "睏覺",
+        "睏"
+    ],
+    "Jinhua": [
+        "睏褥",
+        "睏"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "睏覺"
+    ],
+    "Changsha": [
+        "睏覺",
+        "睏"
+    ],
+    "Shuangfeng": [
+        "睏眼閉",
+        "睏覺"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "睏覺",
+        "睏"
+    ],
+    "Quanzhou-X": [
+        "睡覺"
+    ],
+    "Nanchang": [
+        "睏覺",
+        "睏"
+    ],
+    "Lichuan": [
+        "睏覺",
+        "睏"
+    ],
+    "Pingxiang": [
+        "睏覺",
+        "睏"
+    ],
+    "Meixian": [
+        "睡目",
+        "睡"
+    ],
+    "Xingning": [
+        "睡目"
+    ],
+    "Huizhou": [
+        "瞓覺"
+    ],
+    "Huizhou-SK": [
+        "瞓覺"
+    ],
+    "Huizhou-HL": [
+        "瞓覺"
+    ],
+    "Huiyang": [
+        "睡目",
+        "睡"
+    ],
+    "Huidong-PS": [
+        "瞓覺"
+    ],
+    "Huidong-DL": [
+        "睡目"
+    ],
+    "Dongguan-H": [
+        "睡目",
+        "睡覺"
+    ],
+    "Longmen-PL": [
+        "睡目"
+    ],
+    "Longmen-LX": [
+        "瞓"
+    ],
+    "Boluo": [
+        "瞓覺"
+    ],
+    "Shenzhen-H": [
+        "睡目"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [
+        "睡目"
+    ],
+    "Zhongshan-NLHS": [
+        "睡目"
+    ],
+    "Wuhua-SZ": [
+        "睡目"
+    ],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [
+        "睡目"
+    ],
+    "Wuhua-MY": [
+        "睡目"
+    ],
+    "Heyuan": [
+        "瞓覺"
+    ],
+    "Zijin-GZ": [
+        "瞓覺"
+    ],
+    "Longchuan-TC": [
+        "瞓",
+        "瞓覺"
+    ],
+    "Longchuan-SD": [
+        "瞓覺"
+    ],
+    "Heping-LZ": [
+        "瞓覺"
+    ],
+    "Lianping-ZX": [
+        "瞓覺"
+    ],
+    "Lianping-LJ": [
+        "睡覺"
+    ],
+    "Qujiang": [
+        "睡覺"
+    ],
+    "Xinfeng-MT": [
+        "睡"
+    ],
+    "Xinfeng-DX": [
+        "睡覺"
+    ],
+    "Xiaosanjiang": [
+        "睡眼"
+    ],
+    "Liannan": [
+        "睡目"
+    ],
+    "Conghua-H": [
+        "睡眼"
+    ],
+    "Jiexi": [
+        "睡目"
+    ],
+    "Luchuan-LC": [
+        "睡覺"
+    ],
+    "Luchuan-DQ": [],
+    "Changting": [
+        "睡目"
+    ],
+    "Pingyu": [
+        "睡目"
+    ],
+    "Wuping": [
+        "睡目"
+    ],
+    "Liancheng": [
+        "睡目"
+    ],
+    "Ninghua": [
+        "歇"
+    ],
+    "Yudu": [
+        "歇眼"
+    ],
+    "Ruijin": [
+        "歇眼"
+    ],
+    "Shicheng": [
+        "歇",
+        "睡"
+    ],
+    "Shangyou": [
+        "歇覺"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "睡目"
+    ],
+    "Liudui": [
+        "睡目"
+    ],
+    "Hsinchu": [
+        "睡目"
+    ],
+    "Dongshi": [
+        "睡目",
+        "睡"
+    ],
+    "Raoping": [
+        "睡目",
+        "睡"
+    ],
+    "Yunlin": [
+        "睡目",
+        "睡"
+    ],
+    "Hong Kong-H": [
+        "睡目"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "睡目"
+    ],
+    "Senai": [
+        "睡目"
+    ],
+    "Singkawang": [
+        "睡目"
+    ],
+    "Jixi": [
+        "睏覺",
+        "睏"
+    ],
+    "Shexian": [
+        "睡"
+    ],
+    "Tunxi": [
+        "睏"
+    ],
+    "Xiuning": [
+        "睏"
+    ],
+    "Yixian": [
+        "睏"
+    ],
+    "Qimen": [
+        "睏"
+    ],
+    "Wuyuan": [
+        "睏"
+    ],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "瞓覺",
+        "瞓"
+    ],
+    "Hong Kong": [
+        "瞓覺",
+        "瞓",
+        "覺覺豬:childish",
+        "瞓覺覺:childish",
+        "豬豬:childish"
+    ],
+    "HK Weitou": [
+        "瞓覺"
+    ],
+    "Kam Tin": [
+        "瞓覺"
+    ],
+    "Ting Kok": [
+        "睡目"
+    ],
+    "Tung Ping Chau": [
+        "瞓覺"
+    ],
+    "Macau": [
+        "瞓覺"
+    ],
+    "Panyu": [
+        "瞓覺"
+    ],
+    "Huadu": [
+        "瞓"
+    ],
+    "Conghua": [
+        "瞓覺"
+    ],
+    "Zengcheng": [
+        "瞓",
+        "睡"
+    ],
+    "Foshan": [
+        "瞓覺"
+    ],
+    "Nanhai": [
+        "瞓覺"
+    ],
+    "Shunde": [
+        "瞓覺"
+    ],
+    "Sanshui": [
+        "瞓覺"
+    ],
+    "Gaoming": [
+        "瞓覺"
+    ],
+    "Zhongshan": [
+        "寐覺"
+    ],
+    "Zhuhai": [
+        "瞓覺"
+    ],
+    "Doumen-T": [],
+    "Doumen-S": [
+        "瞓覺"
+    ],
+    "Jiangmen": [
+        "瞓覺"
+    ],
+    "Xinhui": [
+        "瞓覺"
+    ],
+    "Taishan": [
+        "瞓覺",
+        "瞓"
+    ],
+    "Kaiping": [
+        "瞓覺"
+    ],
+    "Enping": [
+        "瞓覺"
+    ],
+    "Heshan": [
+        "瞓覺"
+    ],
+    "Dongguan": [
+        "瞓覺"
+    ],
+    "Bao'an": [
+        "瞓覺"
+    ],
+    "Dapeng": [
+        "瞓覺"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "瞓覺",
+        "瞓"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "睡覺"
+    ],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "閉眼"
+    ],
+    "Kuala Lumpur": [
+        "瞓覺"
+    ],
+    "Ho Chi Minh City": [
+        "瞓覺"
+    ],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "睏"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "睏"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "睏"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "睏"
+    ],
+    "Kaohsiung": [
+        "睏"
+    ],
+    "Tainan": [
+        "睏"
+    ],
+    "Taichung": [
+        "睏"
+    ],
+    "Wuqi": [
+        "睏"
+    ],
+    "Hsinchu-MN": [
+        "睏"
+    ],
+    "Taitung": [
+        "睏"
+    ],
+    "Lukang": [
+        "睏"
+    ],
+    "Sanxia": [
+        "睏"
+    ],
+    "Yilan": [
+        "睏"
+    ],
+    "Kinmen": [
+        "睏"
+    ],
+    "Magong": [
+        "睏"
+    ],
+    "Malaysia-MN": [
+        "睏"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "睏"
+    ],
+    "Medan": [
+        "睏"
+    ],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [
+        "睏覺"
+    ],
+    "Chaozhou": [
+        "夗"
+    ],
+    "Shantou": [
+        "夗"
+    ],
+    "Haifeng": [
+        "睏"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "夗"
+    ],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [
+        "睏"
+    ],
+    "Putian": [
+        "睏"
+    ],
+    "Xianyou": [
+        "睏"
+    ],
+    "Fuzhou": [
+        "睏",
+        "睏眠"
+    ],
+    "Changle": [
+        "睏"
+    ],
+    "Fuqing": [
+        "睏"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "睏"
+    ],
+    "Gutian": [
+        "睏"
+    ],
+    "Fu'an": [
+        "睏"
+    ],
+    "Ningde": [
+        "睏"
+    ],
+    "Shouning": [
+        "睏"
+    ],
+    "Zhouning": [
+        "睏"
+    ],
+    "Fuding": [
+        "睏"
+    ],
+    "Matsu": [
+        "睏"
+    ],
+    "Jian'ou": [
+        "目䁒"
+    ],
+    "Dikou": [
+        "目䁒"
+    ],
+    "Songxi": [
+        "目䁒"
+    ],
+    "Zhenghe": [
+        "目䁒"
+    ],
+    "Zhenqian": [
+        "眠䁒"
+    ],
+    "Jianyang": [
+        "目䁒"
+    ],
+    "Wuyishan": [
+        "目䁒"
+    ],
+    "Shibei": [
+        "瞌眠"
+    ],
+    "Fu'an-She": [
+        "眠"
+    ],
+    "Fuding-She": [
+        "眠"
+    ],
+    "Luoyuan-She": [
+        "眠"
+    ],
+    "Sanming-She": [],
+    "Shunchang-She": [
+        "眠"
+    ],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [
+        "眠"
+    ],
+    "Jingning-She": [
+        "眠"
+    ],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

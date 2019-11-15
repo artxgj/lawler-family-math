@@ -1,437 +1,273 @@
 {
     "meaning": "cheers!",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "乾杯"
-    },
-    "Taiwan": {
-        "1": "乾杯"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "乾杯"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "乾杯"
-    },
-    "Muping": {
-        "1": "乾杯"
-    },
-    "Luoyang": {
-        "1": "乾杯"
-    },
-    "Wanrong": {
-        "1": "乾杯"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "乾杯",
-        "2": "乾杯子"
-    },
-    "Xuzhou": {
-        "1": "乾了",
-        "2": "見底兒",
-        "3": "乾杯"
-    },
-    "Yinchuan": {
-        "1": "喝淨",
-        "2": "乾杯"
-    },
-    "Lanzhou": {
-        "1": "乾杯",
-        "2": "乾了"
-    },
-    "Ürümqi": {
-        "1": "乾杯"
-    },
-    "Wuhan": {
-        "1": "乾杯"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "乾杯",
-        "2": "乾了"
-    },
-    "Guiyang": {
-        "1": "乾了",
-        "2": "喝乾",
-        "3": "見底"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "乾杯"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": "乾杯"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "乾杯"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "乾杯"
-    },
-    "Suzhou": {
-        "1": "乾杯",
-        "2": "照面"
-    },
-    "Hangzhou": {
-        "1": "乾杯"
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": "呷乾"
-    },
-    "Wenzhou": {
-        "1": ""
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": "乾杯"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "碰杯"
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "乾杯"
-    },
-    "Pingxiang": {
-        "1": "照杯"
-    },
-    "Meixian": {
-        "1": "乾杯",
-        "2": "深飲",
-        "3": "盡盅"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "乾杯"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "乾杯"
-    },
-    "Liudui": {
-        "1": "乾杯"
-    },
-    "Hsinchu": {
-        "1": "乾杯"
-    },
-    "Dongshi": {
-        "1": "乾杯"
-    },
-    "Raoping": {
-        "1": "乾杯"
-    },
-    "Yunlin": {
-        "1": "乾杯"
-    },
-    "Hong Kong-H": {
-        "1": "飲"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "飲勝"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "乾杯"
-    },
-    "Guangzhou": {
-        "1": "飲杯",
-        "2": "飲勝",
-        "3": "乾杯"
-    },
-    "Hong Kong": {
-        "1": "飲杯",
-        "2": "飲勝",
-        "3": "乾杯"
-    },
-    "Shunde": {
-        "1": "飲勝"
-    },
-    "Foshan": {
-        "1": "飲勝"
-    },
-    "Zhongshan": {
-        "1": "飲勝"
-    },
-    "Dongguan": {
-        "1": "飲勝",
-        "2": "勝"
-    },
-    "HK Weitou": {
-        "1": "飲勝"
-    },
-    "Taishan": {
-        "1": "飲嗮佢",
-        "2": "飲勝"
-    },
-    "Doumen": {
-        "1": "飲贏佢"
-    },
-    "Kaiping": {
-        "1": "飲應佢"
-    },
-    "Shaoguan": {
-        "1": "乾杯",
-        "2": "飲勝"
-    },
-    "Yunfu": {
-        "1": "飲勝"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "乾杯"
-    },
-    "Lianjiang": {
-        "1": "乾杯",
-        "2": "飲勝"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "飲勝"
-    },
-    "Nanning-P": {
-        "1": "飲齊去"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "飲勝"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "乾杯"
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "乾杯"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "乾杯"
+    ],
+    "Taiwan": [
+        "乾杯"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "乾杯"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "乾杯"
+    ],
+    "Muping": [
+        "乾杯"
+    ],
+    "Luoyang": [
+        "乾杯"
+    ],
+    "Wanrong": [
+        "乾杯"
+    ],
+    "Ronghe": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "乾杯",
+        "乾杯子"
+    ],
+    "Xuzhou": [
+        "乾了",
+        "見底兒",
+        "乾杯"
+    ],
+    "Yinchuan": [
+        "喝淨",
+        "乾杯"
+    ],
+    "Lanzhou": [
+        "乾杯",
+        "乾了"
+    ],
+    "Ürümqi": [
+        "乾杯"
+    ],
+    "Wuhan": [
+        "乾杯"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "乾杯",
+        "乾了"
+    ],
+    "Guiyang": [
+        "乾了",
+        "喝乾",
+        "見底"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "乾杯"
+    ],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [
+        "乾杯"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "乾杯"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "乾杯"
+    ],
+    "Suzhou": [
+        "乾杯",
+        "照面"
+    ],
+    "Hangzhou": [
+        "乾杯"
+    ],
+    "Shanghai": [],
+    "Chongming": [
+        "呷乾"
+    ],
+    "Wenzhou": [],
+    "Danyang": [],
+    "Jinhua": [
+        "乾杯"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "碰杯"
+    ],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [],
+    "Lichuan": [
+        "乾杯"
+    ],
+    "Pingxiang": [
+        "照杯"
+    ],
+    "Meixian": [
+        "乾杯",
+        "深飲",
+        "盡盅"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "乾杯"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "乾杯"
+    ],
+    "Liudui": [
+        "乾杯"
+    ],
+    "Hsinchu": [
+        "乾杯"
+    ],
+    "Dongshi": [
+        "乾杯"
+    ],
+    "Raoping": [
+        "乾杯"
+    ],
+    "Yunlin": [
+        "乾杯"
+    ],
+    "Hong Kong-H": [
+        "飲"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "飲勝"
+    ],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "乾杯"
+    ],
+    "Guangzhou": [
+        "飲杯",
+        "飲勝",
+        "乾杯"
+    ],
+    "Hong Kong": [
+        "飲杯",
+        "飲勝",
+        "乾杯"
+    ],
+    "Shunde": [
+        "飲勝"
+    ],
+    "Foshan": [
+        "飲勝"
+    ],
+    "Zhongshan": [
+        "飲勝"
+    ],
+    "Dongguan": [
+        "飲勝",
+        "勝"
+    ],
+    "HK Weitou": [
+        "飲勝"
+    ],
+    "Taishan": [
+        "飲嗮佢",
+        "飲勝"
+    ],
+    "Doumen": [
+        "飲贏佢"
+    ],
+    "Kaiping": [
+        "飲應佢"
+    ],
+    "Shaoguan": [
+        "乾杯",
+        "飲勝"
+    ],
+    "Yunfu": [
+        "飲勝"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "乾杯"
+    ],
+    "Lianjiang": [
+        "乾杯",
+        "飲勝"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Kuala Lumpur": [
+        "飲勝"
+    ],
+    "Nanning-P": [
+        "飲齊去"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [],
+    "Quanzhou": [],
+    "Zhangzhou": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "飲勝"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "乾杯"
+    ],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "乾杯"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": []
 }

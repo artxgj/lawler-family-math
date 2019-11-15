@@ -1,403 +1,353 @@
 {
     "meaning": "clothes",
     "note": "",
-    "Classical": {
-        "1": "衣",
-        "2": "衣裳",
-        "3": "衣服"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Taiwan": {
-        "1": "衣服",
-        "2": "衣裳"
-    },
-    "Tianjin": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Harbin": {
-        "1": "衣服",
-        "2": "衣裳"
-    },
-    "Shenyang": {
-        "1": "衣裳"
-    },
-    "Jinan": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Muping": {
-        "1": "衣裳"
-    },
-    "Luoyang": {
-        "1": "衣裳"
-    },
-    "Wanrong": {
-        "1": "穿的"
-    },
-    "Xi'an": {
-        "1": "衣裳"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "衣裳"
-    },
-    "Xuzhou": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Yinchuan": {
-        "1": "衣裳"
-    },
-    "Lanzhou": {
-        "1": "衣裳"
-    },
-    "Ürümqi": {
-        "1": "衣裳"
-    },
-    "Wuhan": {
-        "1": "衣服",
-        "2": "衣裳"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Guiyang": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Liuzhou": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Kunming": {
-        "1": "衣裳"
-    },
-    "Yangzhou": {
-        "1": "衣裳"
-    },
-    "Nanjing": {
-        "1": "衣裳",
-        "2": "衣服"
-    },
-    "Hefei": {
-        "1": "衣裳"
-    },
-    "Nantong": {
-        "1": "衣裳"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "衣裳"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "衣裳"
-    },
-    "Suzhou": {
-        "1": "衣裳"
-    },
-    "Hangzhou": {
-        "1": "衣裳"
-    },
-    "Shanghai": {
-        "1": "衣裳"
-    },
-    "Chongming": {
-        "1": "衣裳"
-    },
-    "Wenzhou": {
-        "1": "衣裳",
-        "2": "衣裳兒服"
-    },
-    "Danyang": {
-        "1": "衣裳",
-        "2": "衣衫"
-    },
-    "Jinhua": {
-        "1": "衣裳"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "衣裳",
-        "2": "衣衫"
-    },
-    "Changsha": {
-        "1": "衣服",
-        "2": "衣",
-        "3": "衣褲"
-    },
-    "Shuangfeng": {
-        "1": "衣服",
-        "2": "衣褲"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "衣褲"
-    },
-    "Nanchang": {
-        "1": "衣裳"
-    },
-    "Lichuan": {
-        "1": "衣裳"
-    },
-    "Pingxiang": {
-        "1": "衣服"
-    },
-    "Meixian": {
-        "1": "衫褲"
-    },
-    "Xingning": {
-        "1": "衫褲"
-    },
-    "Huidong": {
-        "1": "衫褲"
-    },
-    "Qujiang": {
-        "1": "衫褲"
-    },
-    "Xiaosanjiang": {
-        "1": "衫褲"
-    },
-    "Changting": {
-        "1": "衫褲"
-    },
-    "Pingyu": {
-        "1": "衫褲"
-    },
-    "Wuping": {
-        "1": "衫褲"
-    },
-    "Liancheng": {
-        "1": "衫褲"
-    },
-    "Ninghua": {
-        "1": "衫褲"
-    },
-    "Yudu": {
-        "1": "衫褲"
-    },
-    "Ruijin": {
-        "1": "衫褲"
-    },
-    "Shicheng": {
-        "1": "衫褲"
-    },
-    "Shangyou": {
-        "1": "衫褲"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "衫褲"
-    },
-    "Liudui": {
-        "1": "衫褲"
-    },
-    "Hsinchu": {
-        "1": "衫褲"
-    },
-    "Dongshi": {
-        "1": "衫褲"
-    },
-    "Raoping": {
-        "1": "衫褲"
-    },
-    "Yunlin": {
-        "1": "衫褲"
-    },
-    "Hong Kong-H": {
-        "1": "衫褲"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "衣裳"
-    },
-    "Guangzhou": {
-        "1": "衫褲",
-        "2": "衫"
-    },
-    "Hong Kong": {
-        "1": "衫褲",
-        "2": "衫"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "衫褲",
-        "2": "衫"
-    },
-    "HK Weitou": {
-        "1": "衣裳"
-    },
-    "Taishan": {
-        "1": "衫"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "衫褲"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "衫",
-        "2": "衫褲",
-        "3": "衫穿",
-        "4": "身穿"
-    },
-    "Quanzhou": {
-        "1": "衫",
-        "2": "衫褲",
-        "3": "身穿"
-    },
-    "Zhangzhou": {
-        "1": "衫",
-        "2": "衫褲",
-        "3": "身穿"
-    },
-    "Taipei": {
-        "1": "衫",
-        "2": "衫仔褲"
-    },
-    "Kaohsiung": {
-        "1": "衫",
-        "2": "衫仔褲"
-    },
-    "Tainan": {
-        "1": "衫"
-    },
-    "Taichung": {
-        "1": "衫"
-    },
-    "Wuqi": {
-        "1": "衫",
-        "2": "衫仔褲"
-    },
-    "Taitung": {
-        "1": "衫"
-    },
-    "Hsinchu-MN": {
-        "1": "衫"
-    },
-    "Lukang": {
-        "1": "衫",
-        "2": "衫仔褲"
-    },
-    "Sanxia": {
-        "1": "衫"
-    },
-    "Yilan": {
-        "1": "衫",
-        "2": "衫仔褲"
-    },
-    "Kinmen": {
-        "1": "衫"
-    },
-    "Magong": {
-        "1": "衫"
-    },
-    "Malaysia-MN": {
-        "1": "衫"
-    },
-    "Singapore-MN": {
-        "1": "衫褲"
-    },
-    "Philippine-MN": {
-        "1": "衫",
-        "2": "衫褲"
-    },
-    "Chaozhou": {
-        "1": "衫褲"
-    },
-    "Shantou": {
-        "1": "衫褲"
-    },
-    "Haifeng": {
-        "1": "衫褲"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "衫褲"
-    },
-    "Leizhou": {
-        "1": "衫褲"
-    },
-    "Fuzhou": {
-        "1": "衣裳"
-    },
-    "Fuqing": {
-        "1": "衣裳",
-        "2": "衫褲"
-    },
-    "Matsu": {
-        "1": "衣裳"
-    },
-    "Jian'ou": {
-        "1": "衣裳"
-    }
+    "Classical": [
+        "衣",
+        "衣裳",
+        "衣服"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "衣裳",
+        "衣服"
+    ],
+    "Taiwan": [
+        "衣服",
+        "衣裳"
+    ],
+    "Tianjin": [
+        "衣裳",
+        "衣服"
+    ],
+    "Harbin": [
+        "衣服",
+        "衣裳"
+    ],
+    "Shenyang": [
+        "衣裳"
+    ],
+    "Jinan": [
+        "衣裳",
+        "衣服"
+    ],
+    "Muping": [
+        "衣裳"
+    ],
+    "Luoyang": [
+        "衣裳"
+    ],
+    "Wanrong": [
+        "穿的"
+    ],
+    "Xi'an": [
+        "衣裳"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "衣裳"
+    ],
+    "Xuzhou": [
+        "衣裳",
+        "衣服"
+    ],
+    "Yinchuan": [
+        "衣裳"
+    ],
+    "Lanzhou": [
+        "衣裳"
+    ],
+    "Ürümqi": [
+        "衣裳"
+    ],
+    "Wuhan": [
+        "衣服",
+        "衣裳"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "衣裳",
+        "衣服"
+    ],
+    "Guiyang": [
+        "衣裳",
+        "衣服"
+    ],
+    "Liuzhou": [
+        "衣裳",
+        "衣服"
+    ],
+    "Kunming": [
+        "衣裳"
+    ],
+    "Yangzhou": [
+        "衣裳"
+    ],
+    "Nanjing": [
+        "衣裳",
+        "衣服"
+    ],
+    "Hefei": [
+        "衣裳"
+    ],
+    "Nantong": [
+        "衣裳"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "衣裳"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "衣裳"
+    ],
+    "Suzhou": [
+        "衣裳"
+    ],
+    "Hangzhou": [
+        "衣裳"
+    ],
+    "Shanghai": [
+        "衣裳"
+    ],
+    "Chongming": [
+        "衣裳"
+    ],
+    "Wenzhou": [
+        "衣裳",
+        "衣裳兒服"
+    ],
+    "Danyang": [
+        "衣裳",
+        "衣衫"
+    ],
+    "Jinhua": [
+        "衣裳"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "衣裳",
+        "衣衫"
+    ],
+    "Changsha": [
+        "衣服",
+        "衣",
+        "衣褲"
+    ],
+    "Shuangfeng": [
+        "衣服",
+        "衣褲"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "衣褲"
+    ],
+    "Nanchang": [
+        "衣裳"
+    ],
+    "Lichuan": [
+        "衣裳"
+    ],
+    "Pingxiang": [
+        "衣服"
+    ],
+    "Meixian": [
+        "衫褲"
+    ],
+    "Xingning": [
+        "衫褲"
+    ],
+    "Huidong": [
+        "衫褲"
+    ],
+    "Qujiang": [
+        "衫褲"
+    ],
+    "Xiaosanjiang": [
+        "衫褲"
+    ],
+    "Changting": [
+        "衫褲"
+    ],
+    "Pingyu": [
+        "衫褲"
+    ],
+    "Wuping": [
+        "衫褲"
+    ],
+    "Liancheng": [
+        "衫褲"
+    ],
+    "Ninghua": [
+        "衫褲"
+    ],
+    "Yudu": [
+        "衫褲"
+    ],
+    "Ruijin": [
+        "衫褲"
+    ],
+    "Shicheng": [
+        "衫褲"
+    ],
+    "Shangyou": [
+        "衫褲"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "衫褲"
+    ],
+    "Liudui": [
+        "衫褲"
+    ],
+    "Hsinchu": [
+        "衫褲"
+    ],
+    "Dongshi": [
+        "衫褲"
+    ],
+    "Raoping": [
+        "衫褲"
+    ],
+    "Yunlin": [
+        "衫褲"
+    ],
+    "Hong Kong-H": [
+        "衫褲"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "衣裳"
+    ],
+    "Guangzhou": [
+        "衫褲",
+        "衫"
+    ],
+    "Hong Kong": [
+        "衫褲",
+        "衫"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "衫褲",
+        "衫"
+    ],
+    "HK Weitou": [
+        "衣裳"
+    ],
+    "Taishan": [
+        "衫"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "衫褲"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "衫",
+        "衫褲",
+        "衫穿",
+        "身穿"
+    ],
+    "Quanzhou": [
+        "衫",
+        "衫褲",
+        "身穿"
+    ],
+    "Zhangzhou": [
+        "衫",
+        "衫褲",
+        "身穿"
+    ],
+    "Taipei": [
+        "衫",
+        "衫仔褲"
+    ],
+    "Kaohsiung": [
+        "衫",
+        "衫仔褲"
+    ],
+    "Tainan": [
+        "衫"
+    ],
+    "Taichung": [
+        "衫"
+    ],
+    "Wuqi": [
+        "衫",
+        "衫仔褲"
+    ],
+    "Taitung": [
+        "衫"
+    ],
+    "Hsinchu-MN": [
+        "衫"
+    ],
+    "Lukang": [
+        "衫",
+        "衫仔褲"
+    ],
+    "Sanxia": [
+        "衫"
+    ],
+    "Yilan": [
+        "衫",
+        "衫仔褲"
+    ],
+    "Kinmen": [
+        "衫"
+    ],
+    "Magong": [
+        "衫"
+    ],
+    "Malaysia-MN": [
+        "衫"
+    ],
+    "Singapore-MN": [
+        "衫褲"
+    ],
+    "Philippine-MN": [
+        "衫",
+        "衫褲"
+    ],
+    "Chaozhou": [
+        "衫褲"
+    ],
+    "Shantou": [
+        "衫褲"
+    ],
+    "Haifeng": [
+        "衫褲"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "衫褲"
+    ],
+    "Leizhou": [
+        "衫褲"
+    ],
+    "Fuzhou": [
+        "衣裳"
+    ],
+    "Fuqing": [
+        "衣裳",
+        "衫褲"
+    ],
+    "Matsu": [
+        "衣裳"
+    ],
+    "Jian'ou": [
+        "衣裳"
+    ]
 }

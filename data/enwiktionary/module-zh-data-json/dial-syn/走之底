@@ -1,817 +1,469 @@
 {
     "meaning": "Chinese character component 辶",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "走之兒"
-    },
-    "Taiwan": {
-        "1": "走之旁",
-        "2": "辵字旁"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "走之兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "走之兒"
-    },
-    "Muping": {
-        "1": "走字之兒",
-        "2": "走之兒"
-    },
-    "Luoyang": {
-        "1": "走絲兒"
-    },
-    "Wanrong": {
-        "1": "坐轎兒"
-    },
-    "Ronghe": {
-        "1": "坐車兒"
-    },
-    "Xi'an": {
-        "1": "車車兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "走之兒"
-    },
-    "Xuzhou": {
-        "1": "走之兒",
-        "2": "走之兒旁兒",
-        "3": "走之兒旁"
-    },
-    "Yinchuan": {
-        "1": "走之旁"
-    },
-    "Lanzhou": {
-        "1": "走之兒"
-    },
-    "Ürümqi": {
-        "1": "走車兒"
-    },
-    "Wuhan": {
-        "1": "之捺"
-    },
-    "Huanggang": {
-        "1": "托旁兒"
-    },
-    "Chengdu": {
-        "1": "走之底",
-        "2": "走之旁"
-    },
-    "Guiyang": {
-        "1": "走之"
-    },
-    "Guilin": {
-        "1": "走之"
-    },
-    "Liuzhou": {
-        "1": "走之邊",
-        "2": "走之旁",
-        "3": "過橋底",
-        "4": "過橋",
-        "5": "坐船底"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "走之"
-    },
-    "Nanjing": {
-        "1": "走之"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "坐車旁"
-    },
-    "Pingyao": {
-        "1": "推車車"
-    },
-    "Xinzhou": {
-        "1": "坐車車兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "走字",
-        "2": "坐車車",
-        "3": "之車旁"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "牽走之",
-        "2": "曲腳之"
-    },
-    "Suzhou": {
-        "1": "走之"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "走之旁"
-    },
-    "Chongming": {
-        "1": "欠走之"
-    },
-    "Wenzhou": {
-        "1": "走之爿邊"
-    },
-    "Danyang": {
-        "1": "走捺"
-    },
-    "Jinhua": {
-        "1": "走之"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "走之旁"
-    },
-    "Changsha": {
-        "1": "走之邊"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "走之"
-    },
-    "Quanzhou-X": {
-        "1": "走之旁"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "點走之"
-    },
-    "Pingxiang": {
-        "1": "走之"
-    },
-    "Meixian": {
-        "1": "坐船"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "拖船"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "走之旁"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "走之邊"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": "走之邊",
-        "2": "拖船仔"
-    },
-    "Zhongshan-NLHS": {
-        "1": "走之旁"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "走鳥底"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "走之底"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "走腰"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "走鳥"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "走之旁",
-        "2": "走之"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "撐艇仔"
-    },
-    "Hong Kong": {
-        "1": "撐艇仔",
-        "2": "艇仔邊"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": "撐艇仔"
-    },
-    "Panyu": {
-        "1": "撐艇仔"
-    },
-    "Huadu": {
-        "1": "撐艇仔"
-    },
-    "Conghua": {
-        "1": "打紙鷂"
-    },
-    "Zengcheng": {
-        "1": "打之腰"
-    },
-    "Foshan": {
-        "1": "撐艇仔"
-    },
-    "Nanhai": {
-        "1": "裝隻船"
-    },
-    "Shunde": {
-        "1": "撐艇仔"
-    },
-    "Sanshui": {
-        "1": "撐屎艇"
-    },
-    "Gaoming": {
-        "1": "撐艇"
-    },
-    "Zhongshan": {
-        "1": "撐艇仔"
-    },
-    "Zhuhai": {
-        "1": "撐艇仔"
-    },
-    "Doumen-T": {
-        "1": "船仔旁"
-    },
-    "Doumen-S": {
-        "1": "撐船仔"
-    },
-    "Jiangmen": {
-        "1": "走字邊"
-    },
-    "Xinhui": {
-        "1": "撐船仔"
-    },
-    "Taishan": {
-        "1": "船仔邊"
-    },
-    "Kaiping": {
-        "1": "船仔旁"
-    },
-    "Enping": {
-        "1": "走之旁"
-    },
-    "Heshan": {
-        "1": "撐艇仔"
-    },
-    "Dongguan": {
-        "1": "坐船邊",
-        "2": "撐船邊"
-    },
-    "Bao'an": {
-        "1": "走之旁"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "撐艇仔",
-        "2": "走之旁"
-    },
-    "Yunfu": {
-        "1": "走之底"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "走之底"
-    },
-    "Lianjiang": {
-        "1": "走之底"
-    },
-    "Nanning": {
-        "1": "坐船底"
-    },
-    "Wuzhou": {
-        "1": "撐船底"
-    },
-    "Yulin": {
-        "1": "走之旁"
-    },
-    "Hepu": {
-        "1": "走之"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "走船底",
-        "2": "走字底",
-        "3": "坐船底"
-    },
-    "Guilin-P": {
-        "1": "走之",
-        "2": "走之船",
-        "3": "走船底"
-    },
-    "Xiamen": {
-        "1": ""
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": ""
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "走馬路仔"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "走之旁"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "走字旁"
-    },
-    "Leizhou": {
-        "1": "坐船爿"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "走馬道"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "走之底"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "走之兒"
+    ],
+    "Taiwan": [
+        "走之旁",
+        "辵字旁"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "走之兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "走之兒"
+    ],
+    "Muping": [
+        "走字之兒",
+        "走之兒"
+    ],
+    "Luoyang": [
+        "走絲兒"
+    ],
+    "Wanrong": [
+        "坐轎兒"
+    ],
+    "Ronghe": [
+        "坐車兒"
+    ],
+    "Xi'an": [
+        "車車兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "走之兒"
+    ],
+    "Xuzhou": [
+        "走之兒",
+        "走之兒旁兒",
+        "走之兒旁"
+    ],
+    "Yinchuan": [
+        "走之旁"
+    ],
+    "Lanzhou": [
+        "走之兒"
+    ],
+    "Ürümqi": [
+        "走車兒"
+    ],
+    "Wuhan": [
+        "之捺"
+    ],
+    "Huanggang": [
+        "托旁兒"
+    ],
+    "Chengdu": [
+        "走之底",
+        "走之旁"
+    ],
+    "Guiyang": [
+        "走之"
+    ],
+    "Guilin": [
+        "走之"
+    ],
+    "Liuzhou": [
+        "走之邊",
+        "走之旁",
+        "過橋底",
+        "過橋",
+        "坐船底"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "走之"
+    ],
+    "Nanjing": [
+        "走之"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "坐車旁"
+    ],
+    "Pingyao": [
+        "推車車"
+    ],
+    "Xinzhou": [
+        "坐車車兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "走字",
+        "坐車車",
+        "之車旁"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "牽走之",
+        "曲腳之"
+    ],
+    "Suzhou": [
+        "走之"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "走之旁"
+    ],
+    "Chongming": [
+        "欠走之"
+    ],
+    "Wenzhou": [
+        "走之爿邊"
+    ],
+    "Danyang": [
+        "走捺"
+    ],
+    "Jinhua": [
+        "走之"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "走之旁"
+    ],
+    "Changsha": [
+        "走之邊"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "走之"
+    ],
+    "Quanzhou-X": [
+        "走之旁"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "點走之"
+    ],
+    "Pingxiang": [
+        "走之"
+    ],
+    "Meixian": [
+        "坐船"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "拖船"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "走之旁"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "走之邊"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [
+        "走之邊",
+        "拖船仔"
+    ],
+    "Zhongshan-NLHS": [
+        "走之旁"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "走鳥底"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "走之底"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [
+        "走腰"
+    ],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "走鳥"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "走之旁",
+        "走之"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "撐艇仔"
+    ],
+    "Hong Kong": [
+        "撐艇仔",
+        "艇仔邊"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "撐艇仔"
+    ],
+    "Panyu": [
+        "撐艇仔"
+    ],
+    "Huadu": [
+        "撐艇仔"
+    ],
+    "Conghua": [
+        "打紙鷂"
+    ],
+    "Zengcheng": [
+        "打之腰"
+    ],
+    "Foshan": [
+        "撐艇仔"
+    ],
+    "Nanhai": [
+        "裝隻船"
+    ],
+    "Shunde": [
+        "撐艇仔"
+    ],
+    "Sanshui": [
+        "撐屎艇"
+    ],
+    "Gaoming": [
+        "撐艇"
+    ],
+    "Zhongshan": [
+        "撐艇仔"
+    ],
+    "Zhuhai": [
+        "撐艇仔"
+    ],
+    "Doumen-T": [
+        "船仔旁"
+    ],
+    "Doumen-S": [
+        "撐船仔"
+    ],
+    "Jiangmen": [
+        "走字邊"
+    ],
+    "Xinhui": [
+        "撐船仔"
+    ],
+    "Taishan": [
+        "船仔邊"
+    ],
+    "Kaiping": [
+        "船仔旁"
+    ],
+    "Enping": [
+        "走之旁"
+    ],
+    "Heshan": [
+        "撐艇仔"
+    ],
+    "Dongguan": [
+        "坐船邊",
+        "撐船邊"
+    ],
+    "Bao'an": [
+        "走之旁"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "撐艇仔",
+        "走之旁"
+    ],
+    "Yunfu": [
+        "走之底"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "走之底"
+    ],
+    "Lianjiang": [
+        "走之底"
+    ],
+    "Nanning": [
+        "坐船底"
+    ],
+    "Wuzhou": [
+        "撐船底"
+    ],
+    "Yulin": [
+        "走之旁"
+    ],
+    "Hepu": [
+        "走之"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "走船底",
+        "走字底",
+        "坐船底"
+    ],
+    "Guilin-P": [
+        "走之",
+        "走之船",
+        "走船底"
+    ],
+    "Xiamen": [],
+    "Tong'an": [],
+    "Quanzhou": [],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "走馬路仔"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [
+        "走之旁"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "走字旁"
+    ],
+    "Leizhou": [
+        "坐船爿"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "走馬道"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "走之底"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

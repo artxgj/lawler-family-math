@@ -1,390 +1,252 @@
 {
     "meaning": "nightfall; dusk; evening",
     "note": "GT - General Taiwanese (no particular region identified)",
-    "Classical": {
-        "1": "黃昏",
-        "2": "薄暮",
-        "3": "向晚"
-    },
-    "Formal": {
-        "1": "傍晚",
-        "2": "黃昏"
-    },
-    "Beijing": {
-        "1": "擦黑兒",
-        "2": "傍晚兒"
-    },
-    "Taiwan": {
-        "1": "傍晚"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "傍黑天兒"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "擦黑",
-        "2": "後晌黑"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "煞黑",
-        "2": "挨黑"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "擦黑"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "下晚",
-        "2": "下晚時候"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "擦黑",
-        "2": "黑將來"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "夜快",
-        "2": "夜快點",
-        "3": "垂夜快"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "黃昏邊"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "斷黑",
-        "2": "煞黑",
-        "3": "晚邊子"
-    },
-    "Shuangfeng": {
-        "1": "斷黑",
-        "2": "挨黑",
-        "3": "達夜"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "臨夜邊子"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "臨暗",
-        "2": "臨夜"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "臨暗仔",
-        "2": "臨暗邊",
-        "3": "臨暗頭"
-    },
-    "Liudui": {
-        "1": "臨暗仔",
-        "2": "臨暗邊",
-        "3": "臨暗頭"
-    },
-    "Hsinchu": {
-        "1": "臨暗仔",
-        "2": "臨暗邊",
-        "3": "臨暗頭"
-    },
-    "Dongshi": {
-        "1": "臨暗",
-        "2": "臨暗邊",
-        "3": "臨暗頭"
-    },
-    "Raoping": {
-        "1": "臨暗仔",
-        "2": "臨暗",
-        "3": "臨暗邊",
-        "4": "臨暗頭"
-    },
-    "Yunlin": {
-        "1": "偎暗",
-        "2": "烏昏"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "挨晚"
-    },
-    "Hong Kong": {
-        "1": "挨晚"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "埋黑"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "使黑",
-        "2": "煞黑"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "日欲暗",
-        "2": "倚暗",
-        "3": "倚暗仔",
-        "4": "欲暗仔"
-    },
-    "Quanzhou": {
-        "1": "日欲暗",
-        "2": "欲暗仔"
-    },
-    "Zhangzhou": {
-        "1": "日欲暗",
-        "2": "倚暗",
-        "3": "倚暗仔",
-        "4": "欲暗仔",
-        "5": "倚欲暗仔"
-    },
-    "Taipei": {
-        "1": "欲暗仔",
-        "2": "暗頭仔:GT"
-    },
-    "Kaohsiung": {
-        "1": "欲暗仔"
-    },
-    "Tainan": {
-        "1": "尾暗仔",
-        "2": "欲暗仔"
-    },
-    "Taichung": {
-        "1": "日頭欲落山",
-        "2": "黃昏:literary"
-    },
-    "Yilan": {
-        "1": "欲暗仔"
-    },
-    "Lukang": {
-        "1": "日欲暗",
-        "2": "欲暗仔"
-    },
-    "Sanxia": {
-        "1": "尾暗仔",
-        "2": "欲暗仔"
-    },
-    "Kinmen": {
-        "1": "欲暗矣",
-        "2": "日較晚"
-    },
-    "Magong": {
-        "1": "日欲暗"
-    },
-    "Hsinchu-MN": {
-        "1": "欲暗矣",
-        "2": "黃昏"
-    },
-    "Malaysia-MN": {
-        "1": "暗頭",
-        "2": "日頭落山"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "暝昏"
-    },
-    "Shantou": {
-        "1": "暝昏"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "半晡"
-    },
-    "Matsu": {
-        "1": "半晡"
-    },
-    "Jian'ou": {
-        "1": "暗邊仔"
-    }
+    "Classical": [
+        "黃昏",
+        "薄暮",
+        "向晚"
+    ],
+    "Formal": [
+        "傍晚",
+        "黃昏"
+    ],
+    "Beijing": [
+        "擦黑兒",
+        "傍晚兒"
+    ],
+    "Taiwan": [
+        "傍晚"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "傍黑天兒"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "擦黑",
+        "後晌黑"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "煞黑",
+        "挨黑"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "擦黑"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "下晚",
+        "下晚時候"
+    ],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "擦黑",
+        "黑將來"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "夜快",
+        "夜快點",
+        "垂夜快"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "黃昏邊"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "斷黑",
+        "煞黑",
+        "晚邊子"
+    ],
+    "Shuangfeng": [
+        "斷黑",
+        "挨黑",
+        "達夜"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "臨夜邊子"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "臨暗",
+        "臨夜"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "臨暗仔",
+        "臨暗邊",
+        "臨暗頭"
+    ],
+    "Liudui": [
+        "臨暗仔",
+        "臨暗邊",
+        "臨暗頭"
+    ],
+    "Hsinchu": [
+        "臨暗仔",
+        "臨暗邊",
+        "臨暗頭"
+    ],
+    "Dongshi": [
+        "臨暗",
+        "臨暗邊",
+        "臨暗頭"
+    ],
+    "Raoping": [
+        "臨暗仔",
+        "臨暗",
+        "臨暗邊",
+        "臨暗頭"
+    ],
+    "Yunlin": [
+        "偎暗",
+        "烏昏"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "挨晚"
+    ],
+    "Hong Kong": [
+        "挨晚"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "埋黑"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "使黑",
+        "煞黑"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "日欲暗",
+        "倚暗",
+        "倚暗仔",
+        "欲暗仔"
+    ],
+    "Quanzhou": [
+        "日欲暗",
+        "欲暗仔"
+    ],
+    "Zhangzhou": [
+        "日欲暗",
+        "倚暗",
+        "倚暗仔",
+        "欲暗仔",
+        "倚欲暗仔"
+    ],
+    "Taipei": [
+        "欲暗仔",
+        "暗頭仔:GT"
+    ],
+    "Kaohsiung": [
+        "欲暗仔"
+    ],
+    "Tainan": [
+        "尾暗仔",
+        "欲暗仔"
+    ],
+    "Taichung": [
+        "日頭欲落山",
+        "黃昏:literary"
+    ],
+    "Yilan": [
+        "欲暗仔"
+    ],
+    "Lukang": [
+        "日欲暗",
+        "欲暗仔"
+    ],
+    "Sanxia": [
+        "尾暗仔",
+        "欲暗仔"
+    ],
+    "Kinmen": [
+        "欲暗矣",
+        "日較晚"
+    ],
+    "Magong": [
+        "日欲暗"
+    ],
+    "Hsinchu-MN": [
+        "欲暗矣",
+        "黃昏"
+    ],
+    "Malaysia-MN": [
+        "暗頭",
+        "日頭落山"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "暝昏"
+    ],
+    "Shantou": [
+        "暝昏"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "半晡"
+    ],
+    "Matsu": [
+        "半晡"
+    ],
+    "Jian'ou": [
+        "暗邊仔"
+    ]
 }

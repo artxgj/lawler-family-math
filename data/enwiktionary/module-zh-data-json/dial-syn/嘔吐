@@ -1,818 +1,504 @@
 {
     "meaning": "to vomit",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "嘔吐"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "吐"
-    },
-    "Taiwan": {
-        "1": "吐"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "吐"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "吐"
-    },
-    "Muping": {
-        "1": "嘔"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "吐"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "吐"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "吐"
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": "吐"
-    },
-    "Lanzhou": {
-        "1": "吐"
-    },
-    "Ürümqi": {
-        "1": "吐"
-    },
-    "Wuhan": {
-        "1": "吐",
-        "2": "嘔",
-        "3": "哇"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "吐",
-        "2": "發吐",
-        "3": "嘔吐"
-    },
-    "Guiyang": {
-        "1": "吐"
-    },
-    "Guilin": {
-        "1": "吐"
-    },
-    "Liuzhou": {
-        "1": "吐"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "吐",
-        "2": "噁"
-    },
-    "Nanjing": {
-        "1": "吐"
-    },
-    "Hefei": {
-        "1": "吐"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "吐"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "吐"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "吐"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "嘔"
-    },
-    "Suzhou": {
-        "1": "嘔"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "冒"
-    },
-    "Chongming": {
-        "1": "嘔"
-    },
-    "Wenzhou": {
-        "1": "吐"
-    },
-    "Danyang": {
-        "1": "吐"
-    },
-    "Jinhua": {
-        "1": "吐"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "冒"
-    },
-    "Changsha": {
-        "1": "嘔"
-    },
-    "Shuangfeng": {
-        "1": "嘔"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": "嘔"
-    },
-    "Nanchang": {
-        "1": "嘔"
-    },
-    "Lichuan": {
-        "1": "吐"
-    },
-    "Pingxiang": {
-        "1": "嘔",
-        "2": "吐"
-    },
-    "Meixian": {
-        "1": "嘔",
-        "2": "翻"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "嘔"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "嘔"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "發嘔"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "嘔"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "嘔"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "吐"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "嘔"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "嘔",
-        "2": "翻",
-        "3": "翻肚"
-    },
-    "Liudui": {
-        "1": "嘔",
-        "2": "翻",
-        "3": "翻肚"
-    },
-    "Hsinchu": {
-        "1": "嘔",
-        "2": "翻",
-        "3": "翻肚"
-    },
-    "Dongshi": {
-        "1": "噁",
-        "2": "翻",
-        "3": "翻肚"
-    },
-    "Raoping": {
-        "1": "嘔",
-        "2": "翻",
-        "3": "翻肚"
-    },
-    "Yunlin": {
-        "1": "吐",
-        "2": "貶腹"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "嘔"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "吐"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "嘔"
-    },
-    "Hong Kong": {
-        "1": "嘔"
-    },
-    "HK Weitou": {
-        "1": "嘔"
-    },
-    "Kam Tin": {
-        "1": "嘔"
-    },
-    "Ting Kok": {
-        "1": "嘔"
-    },
-    "Tung Ping Chau": {
-        "1": "嘔"
-    },
-    "Macau": {
-        "1": "嘔"
-    },
-    "Panyu": {
-        "1": "嘔"
-    },
-    "Huadu": {
-        "1": "嘔"
-    },
-    "Conghua": {
-        "1": "嘔"
-    },
-    "Zengcheng": {
-        "1": "嘔"
-    },
-    "Foshan": {
-        "1": "嘔"
-    },
-    "Nanhai": {
-        "1": "嘔"
-    },
-    "Shunde": {
-        "1": "嘔"
-    },
-    "Sanshui": {
-        "1": "嘔"
-    },
-    "Gaoming": {
-        "1": "嘔"
-    },
-    "Zhongshan": {
-        "1": "嘔"
-    },
-    "Zhuhai": {
-        "1": "嘔"
-    },
-    "Doumen-T": {
-        "1": "嘔"
-    },
-    "Doumen-S": {
-        "1": "嘔"
-    },
-    "Jiangmen": {
-        "1": "嘔"
-    },
-    "Xinhui": {
-        "1": "嘔"
-    },
-    "Taishan": {
-        "1": "嘔"
-    },
-    "Kaiping": {
-        "1": "嘔"
-    },
-    "Enping": {
-        "1": "嘔"
-    },
-    "Heshan": {
-        "1": "嘔"
-    },
-    "Dongguan": {
-        "1": "嘔"
-    },
-    "Bao'an": {
-        "1": "嘔"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "嘔"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "嘔"
-    },
-    "Wuzhou": {
-        "1": "嘔"
-    },
-    "Yulin": {
-        "1": "發嘔"
-    },
-    "Hepu": {
-        "1": "嘔"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "嘔"
-    },
-    "Ho Chi Minh City": {
-        "1": "嘔"
-    },
-    "Nanning-P": {
-        "1": "噦",
-        "2": "嘔"
-    },
-    "Guilin-P": {
-        "1": "吐"
-    },
-    "Xiamen": {
-        "1": "吐"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "吐"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "吐"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "吐"
-    },
-    "Taipei": {
-        "1": "吐"
-    },
-    "Kaohsiung": {
-        "1": "吐"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "吐"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "發吐"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "嘔"
-    },
-    "Chaozhou": {
-        "1": "吐"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "吐"
-    },
-    "Wenchang": {
-        "1": "吐"
-    },
-    "Haikou": {
-        "1": "吐"
-    },
-    "Leizhou": {
-        "1": "吐"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "吐",
-        "2": "嘔",
-        "3": "哊",
-        "4": "嘔吐"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "吐"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "吐"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "嘔吐"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "吐"
+    ],
+    "Taiwan": [
+        "吐"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "吐"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "吐"
+    ],
+    "Muping": [
+        "嘔"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "吐"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "吐"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "吐"
+    ],
+    "Xuzhou": [],
+    "Yinchuan": [
+        "吐"
+    ],
+    "Lanzhou": [
+        "吐"
+    ],
+    "Ürümqi": [
+        "吐"
+    ],
+    "Wuhan": [
+        "吐",
+        "嘔",
+        "哇"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "吐",
+        "發吐",
+        "嘔吐"
+    ],
+    "Guiyang": [
+        "吐"
+    ],
+    "Guilin": [
+        "吐"
+    ],
+    "Liuzhou": [
+        "吐"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "吐",
+        "噁"
+    ],
+    "Nanjing": [
+        "吐"
+    ],
+    "Hefei": [
+        "吐"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "吐"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "吐"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "吐"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "嘔"
+    ],
+    "Suzhou": [
+        "嘔"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "冒"
+    ],
+    "Chongming": [
+        "嘔"
+    ],
+    "Wenzhou": [
+        "吐"
+    ],
+    "Danyang": [
+        "吐"
+    ],
+    "Jinhua": [
+        "吐"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "冒"
+    ],
+    "Changsha": [
+        "嘔"
+    ],
+    "Shuangfeng": [
+        "嘔"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [
+        "嘔"
+    ],
+    "Nanchang": [
+        "嘔"
+    ],
+    "Lichuan": [
+        "吐"
+    ],
+    "Pingxiang": [
+        "嘔",
+        "吐"
+    ],
+    "Meixian": [
+        "嘔",
+        "翻"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "嘔"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "嘔"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "發嘔"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "嘔"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "嘔"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "吐"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "嘔"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "嘔",
+        "翻",
+        "翻肚"
+    ],
+    "Liudui": [
+        "嘔",
+        "翻",
+        "翻肚"
+    ],
+    "Hsinchu": [
+        "嘔",
+        "翻",
+        "翻肚"
+    ],
+    "Dongshi": [
+        "噁",
+        "翻",
+        "翻肚"
+    ],
+    "Raoping": [
+        "嘔",
+        "翻",
+        "翻肚"
+    ],
+    "Yunlin": [
+        "吐",
+        "貶腹"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "嘔"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "吐"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "嘔"
+    ],
+    "Hong Kong": [
+        "嘔"
+    ],
+    "HK Weitou": [
+        "嘔"
+    ],
+    "Kam Tin": [
+        "嘔"
+    ],
+    "Ting Kok": [
+        "嘔"
+    ],
+    "Tung Ping Chau": [
+        "嘔"
+    ],
+    "Macau": [
+        "嘔"
+    ],
+    "Panyu": [
+        "嘔"
+    ],
+    "Huadu": [
+        "嘔"
+    ],
+    "Conghua": [
+        "嘔"
+    ],
+    "Zengcheng": [
+        "嘔"
+    ],
+    "Foshan": [
+        "嘔"
+    ],
+    "Nanhai": [
+        "嘔"
+    ],
+    "Shunde": [
+        "嘔"
+    ],
+    "Sanshui": [
+        "嘔"
+    ],
+    "Gaoming": [
+        "嘔"
+    ],
+    "Zhongshan": [
+        "嘔"
+    ],
+    "Zhuhai": [
+        "嘔"
+    ],
+    "Doumen-T": [
+        "嘔"
+    ],
+    "Doumen-S": [
+        "嘔"
+    ],
+    "Jiangmen": [
+        "嘔"
+    ],
+    "Xinhui": [
+        "嘔"
+    ],
+    "Taishan": [
+        "嘔"
+    ],
+    "Kaiping": [
+        "嘔"
+    ],
+    "Enping": [
+        "嘔"
+    ],
+    "Heshan": [
+        "嘔"
+    ],
+    "Dongguan": [
+        "嘔"
+    ],
+    "Bao'an": [
+        "嘔"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "嘔"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "嘔"
+    ],
+    "Wuzhou": [
+        "嘔"
+    ],
+    "Yulin": [
+        "發嘔"
+    ],
+    "Hepu": [
+        "嘔"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "嘔"
+    ],
+    "Ho Chi Minh City": [
+        "嘔"
+    ],
+    "Nanning-P": [
+        "噦",
+        "嘔"
+    ],
+    "Guilin-P": [
+        "吐"
+    ],
+    "Xiamen": [
+        "吐"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "吐"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "吐"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "吐"
+    ],
+    "Taipei": [
+        "吐"
+    ],
+    "Kaohsiung": [
+        "吐"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "吐"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "發吐"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "嘔"
+    ],
+    "Chaozhou": [
+        "吐"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "吐"
+    ],
+    "Wenchang": [
+        "吐"
+    ],
+    "Haikou": [
+        "吐"
+    ],
+    "Leizhou": [
+        "吐"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "吐",
+        "嘔",
+        "哊",
+        "嘔吐"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "吐"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "吐"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

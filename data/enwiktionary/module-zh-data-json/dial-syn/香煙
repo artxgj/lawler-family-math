@@ -1,851 +1,627 @@
 {
     "meaning": "cigarette",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "香煙",
-        "2": "紙煙",
-        "3": "捲煙"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "煙捲兒",
-        "2": "煙"
-    },
-    "Taiwan": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "香煙",
-        "2": "洋煙",
-        "3": "煙捲兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": "紙煙"
-    },
-    "Jinan": {
-        "1": "煙捲兒",
-        "2": "煙"
-    },
-    "Muping": {
-        "1": "煙捲兒"
-    },
-    "Luoyang": {
-        "1": "洋煙",
-        "2": "洋煙捲兒",
-        "3": "紙煙",
-        "4": "煙"
-    },
-    "Wanrong": {
-        "1": "紙煙"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "紙煙"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "紙煙",
-        "2": "香煙"
-    },
-    "Xuzhou": {
-        "1": "香煙",
-        "2": "煙捲兒",
-        "3": "洋煙",
-        "4": "紙煙"
-    },
-    "Yinchuan": {
-        "1": "紙煙",
-        "2": "捲煙"
-    },
-    "Lanzhou": {
-        "1": "紙煙"
-    },
-    "Ürümqi": {
-        "1": "紙煙"
-    },
-    "Wuhan": {
-        "1": "香煙",
-        "2": "紙煙",
-        "3": "煙",
-        "4": "條子",
-        "5": "條",
-        "6": "熏條子:dated"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "紙煙",
-        "2": "香煙"
-    },
-    "Guiyang": {
-        "1": "紙煙",
-        "2": "香煙"
-    },
-    "Guilin": {
-        "1": "紙煙"
-    },
-    "Liuzhou": {
-        "1": "紙煙",
-        "2": "煙崽"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Nanjing": {
-        "1": "香煙",
-        "2": "洋煙"
-    },
-    "Hefei": {
-        "1": "紙煙",
-        "2": "香煙"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "煙棒子",
-        "2": "煙棒棒子",
-        "3": "煙棒棒"
-    },
-    "Shaanxi-DG": {
-        "1": "煙棒子"
-    },
-    "Taiyuan": {
-        "1": "洋旱煙",
-        "2": "紙煙",
-        "3": "煙捲兒",
-        "4": "煙"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "紙煙",
-        "2": "洋旱煙"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "紙煙",
-        "2": "煙"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "香煙"
-    },
-    "Suzhou": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Wuxi": {
-        "1": "香煙"
-    },
-    "Hangzhou": {
-        "1": "香煙"
-    },
-    "Chongming": {
-        "1": "香煙"
-    },
-    "Wenzhou": {
-        "1": "香煙"
-    },
-    "Danyang": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Jinhua": {
-        "1": "香煙"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Changsha": {
-        "1": "紙煙",
-        "2": "煙"
-    },
-    "Shuangfeng": {
-        "1": "紙煙"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "紙煙",
-        "2": "香煙"
-    },
-    "Quanzhou-X": {
-        "1": "香煙"
-    },
-    "Nanchang": {
-        "1": "香煙"
-    },
-    "Lichuan": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Pingxiang": {
-        "1": "香煙",
-        "2": "煙"
-    },
-    "Meixian": {
-        "1": "煙仔",
-        "2": "煙枝"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Huizhou-SK": {
-        "1": "煙仔"
-    },
-    "Huizhou-HL": {
-        "1": "煙仔"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "煙仔"
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "煙仔"
-    },
-    "Longmen-PL": {
-        "1": "煙仔"
-    },
-    "Longmen-LX": {
-        "1": "煙仔"
-    },
-    "Boluo": {
-        "1": "煙"
-    },
-    "Shenzhen-H": {
-        "1": "煙仔"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": "煙仔"
-    },
-    "Zhongshan-NLHS": {
-        "1": "香煙"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": "煙仔"
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": "煙仔"
-    },
-    "Zijin-GZ": {
-        "1": "煙仔"
-    },
-    "Longchuan-TC": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Longchuan-SD": {
-        "1": "煙"
-    },
-    "Heping-LZ": {
-        "1": "煙仔"
-    },
-    "Lianping-ZX": {
-        "1": "煙仔"
-    },
-    "Lianping-LJ": {
-        "1": "煙仔"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": "煙仔"
-    },
-    "Xinfeng-DX": {
-        "1": "煙仔"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "煙仔"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "紙煙"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "香煙",
-        "2": "紙煙"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "紙煙"
-    },
-    "Shangyou": {
-        "1": "紙煙"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "煙"
-    },
-    "Liudui": {
-        "1": "煙"
-    },
-    "Hsinchu": {
-        "1": "煙"
-    },
-    "Dongshi": {
-        "1": "煙"
-    },
-    "Raoping": {
-        "1": "薰"
-    },
-    "Yunlin": {
-        "1": "薰"
-    },
-    "Hong Kong-H": {
-        "1": "煙仔"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "煙仔"
-    },
-    "Singkawang": {
-        "1": "煙枝"
-    },
-    "Jixi": {
-        "1": "香煙"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Hong Kong": {
-        "1": "煙仔",
-        "2": "煙",
-        "3": "香煙"
-    },
-    "HK Weitou": {
-        "1": "煙仔"
-    },
-    "Kam Tin": {
-        "1": "煙仔"
-    },
-    "Ting Kok": {
-        "1": "煙仔"
-    },
-    "Tung Ping Chau": {
-        "1": "煙仔"
-    },
-    "Macau": {
-        "1": "煙仔"
-    },
-    "Panyu": {
-        "1": "煙仔"
-    },
-    "Huadu": {
-        "1": "煙仔"
-    },
-    "Conghua": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Zengcheng": {
-        "1": "煙仔"
-    },
-    "Foshan": {
-        "1": "煙仔"
-    },
-    "Nanhai": {
-        "1": "煙仔"
-    },
-    "Shunde": {
-        "1": "煙仔"
-    },
-    "Sanshui": {
-        "1": "煙仔"
-    },
-    "Gaoming": {
-        "1": "煙仔"
-    },
-    "Zhongshan": {
-        "1": "煙仔"
-    },
-    "Zhuhai": {
-        "1": "煙仔"
-    },
-    "Doumen-T": {
-        "1": "煙仔"
-    },
-    "Doumen-S": {
-        "1": "煙仔"
-    },
-    "Jiangmen": {
-        "1": "煙仔"
-    },
-    "Xinhui": {
-        "1": "煙仔"
-    },
-    "Taishan": {
-        "1": "煙仔"
-    },
-    "Kaiping": {
-        "1": "煙仔"
-    },
-    "Enping": {
-        "1": "煙仔"
-    },
-    "Heshan": {
-        "1": "煙仔"
-    },
-    "Dongguan": {
-        "1": "煙仔"
-    },
-    "Bao'an": {
-        "1": "煙仔"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "煙仔"
-    },
-    "Yunfu": {
-        "1": "煙仔"
-    },
-    "Yangjiang": {
-        "1": "煙仔"
-    },
-    "Xinyi": {
-        "1": "煙仔"
-    },
-    "Lianjiang": {
-        "1": "煙仔"
-    },
-    "Nanning": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Wuzhou": {
-        "1": "煙仔",
-        "2": "煙"
-    },
-    "Yulin": {
-        "1": "煙仔"
-    },
-    "Hepu": {
-        "1": "煙"
-    },
-    "Danzhou": {
-        "1": "煙仔"
-    },
-    "Kuala Lumpur": {
-        "1": "煙仔"
-    },
-    "Ho Chi Minh City": {
-        "1": "煙仔"
-    },
-    "Nanning-P": {
-        "1": "煙崽"
-    },
-    "Guilin-P": {
-        "1": "紙煙"
-    },
-    "Xiamen": {
-        "1": "薰枝",
-        "2": "薰"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "薰枝",
-        "2": "薰"
-    },
-    "Jinjiang": {
-        "1": "薰枝"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "薰枝"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "薰枝",
-        "2": "薰"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "薰"
-    },
-    "Kaohsiung": {
-        "1": "薰"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "薰枝"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "洋薰"
-    },
-    "Datian": {
-        "1": "薰枝"
-    },
-    "Pingnan": {
-        "1": "薰"
-    },
-    "Chaozhou": {
-        "1": "薰囝"
-    },
-    "Shantou": {
-        "1": "薰囝",
-        "2": "薰"
-    },
-    "Haifeng": {
-        "1": "薰"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "薰枝"
-    },
-    "Wenchang": {
-        "1": "煙囝"
-    },
-    "Haikou": {
-        "1": "煙囝"
-    },
-    "Leizhou": {
-        "1": "薰囝"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "薰囝"
-    },
-    "Changle": {
-        "1": "薰囝"
-    },
-    "Fuqing": {
-        "1": "洋薰",
-        "2": "薰囝"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "薰囝"
-    },
-    "Gutian": {
-        "1": "薰囝"
-    },
-    "Fu'an": {
-        "1": "洋薰"
-    },
-    "Ningde": {
-        "1": "薰囝"
-    },
-    "Shouning": {
-        "1": "薰囝"
-    },
-    "Zhouning": {
-        "1": "洋薰"
-    },
-    "Fuding": {
-        "1": "洋薰"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "洋煙"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "香煙",
+        "紙煙",
+        "捲煙"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "煙捲兒",
+        "煙"
+    ],
+    "Taiwan": [
+        "香煙",
+        "煙"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "香煙",
+        "洋煙",
+        "煙捲兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [
+        "紙煙"
+    ],
+    "Jinan": [
+        "煙捲兒",
+        "煙"
+    ],
+    "Muping": [
+        "煙捲兒"
+    ],
+    "Luoyang": [
+        "洋煙",
+        "洋煙捲兒",
+        "紙煙",
+        "煙"
+    ],
+    "Wanrong": [
+        "紙煙"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "紙煙"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "紙煙",
+        "香煙"
+    ],
+    "Xuzhou": [
+        "香煙",
+        "煙捲兒",
+        "洋煙",
+        "紙煙"
+    ],
+    "Yinchuan": [
+        "紙煙",
+        "捲煙"
+    ],
+    "Lanzhou": [
+        "紙煙"
+    ],
+    "Ürümqi": [
+        "紙煙"
+    ],
+    "Wuhan": [
+        "香煙",
+        "紙煙",
+        "煙",
+        "條子",
+        "條",
+        "熏條子:dated"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "紙煙",
+        "香煙"
+    ],
+    "Guiyang": [
+        "紙煙",
+        "香煙"
+    ],
+    "Guilin": [
+        "紙煙"
+    ],
+    "Liuzhou": [
+        "紙煙",
+        "煙崽"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "香煙",
+        "煙"
+    ],
+    "Nanjing": [
+        "香煙",
+        "洋煙"
+    ],
+    "Hefei": [
+        "紙煙",
+        "香煙"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "煙棒子",
+        "煙棒棒子",
+        "煙棒棒"
+    ],
+    "Shaanxi-DG": [
+        "煙棒子"
+    ],
+    "Taiyuan": [
+        "洋旱煙",
+        "紙煙",
+        "煙捲兒",
+        "煙"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "紙煙",
+        "洋旱煙"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "紙煙",
+        "煙"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "香煙"
+    ],
+    "Suzhou": [
+        "香煙",
+        "煙"
+    ],
+    "Wuxi": [
+        "香煙"
+    ],
+    "Hangzhou": [
+        "香煙"
+    ],
+    "Chongming": [
+        "香煙"
+    ],
+    "Wenzhou": [
+        "香煙"
+    ],
+    "Danyang": [
+        "香煙",
+        "煙"
+    ],
+    "Jinhua": [
+        "香煙"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "香煙",
+        "煙"
+    ],
+    "Changsha": [
+        "紙煙",
+        "煙"
+    ],
+    "Shuangfeng": [
+        "紙煙"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "紙煙",
+        "香煙"
+    ],
+    "Quanzhou-X": [
+        "香煙"
+    ],
+    "Nanchang": [
+        "香煙"
+    ],
+    "Lichuan": [
+        "香煙",
+        "煙"
+    ],
+    "Pingxiang": [
+        "香煙",
+        "煙"
+    ],
+    "Meixian": [
+        "煙仔",
+        "煙枝"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "煙仔",
+        "煙"
+    ],
+    "Huizhou-SK": [
+        "煙仔"
+    ],
+    "Huizhou-HL": [
+        "煙仔"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "煙仔"
+    ],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "煙仔"
+    ],
+    "Longmen-PL": [
+        "煙仔"
+    ],
+    "Longmen-LX": [
+        "煙仔"
+    ],
+    "Boluo": [
+        "煙"
+    ],
+    "Shenzhen-H": [
+        "煙仔"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [
+        "煙仔"
+    ],
+    "Zhongshan-NLHS": [
+        "香煙"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [
+        "煙仔"
+    ],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [
+        "煙仔"
+    ],
+    "Zijin-GZ": [
+        "煙仔"
+    ],
+    "Longchuan-TC": [
+        "煙仔",
+        "煙"
+    ],
+    "Longchuan-SD": [
+        "煙"
+    ],
+    "Heping-LZ": [
+        "煙仔"
+    ],
+    "Lianping-ZX": [
+        "煙仔"
+    ],
+    "Lianping-LJ": [
+        "煙仔"
+    ],
+    "Qujiang": [],
+    "Xinfeng-MT": [
+        "煙仔"
+    ],
+    "Xinfeng-DX": [
+        "煙仔"
+    ],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "煙仔"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "紙煙"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "香煙",
+        "紙煙"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "紙煙"
+    ],
+    "Shangyou": [
+        "紙煙"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "煙"
+    ],
+    "Liudui": [
+        "煙"
+    ],
+    "Hsinchu": [
+        "煙"
+    ],
+    "Dongshi": [
+        "煙"
+    ],
+    "Raoping": [
+        "薰"
+    ],
+    "Yunlin": [
+        "薰"
+    ],
+    "Hong Kong-H": [
+        "煙仔"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "煙仔"
+    ],
+    "Singkawang": [
+        "煙枝"
+    ],
+    "Jixi": [
+        "香煙"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "煙仔",
+        "煙"
+    ],
+    "Hong Kong": [
+        "煙仔",
+        "煙",
+        "香煙"
+    ],
+    "HK Weitou": [
+        "煙仔"
+    ],
+    "Kam Tin": [
+        "煙仔"
+    ],
+    "Ting Kok": [
+        "煙仔"
+    ],
+    "Tung Ping Chau": [
+        "煙仔"
+    ],
+    "Macau": [
+        "煙仔"
+    ],
+    "Panyu": [
+        "煙仔"
+    ],
+    "Huadu": [
+        "煙仔"
+    ],
+    "Conghua": [
+        "煙仔",
+        "煙"
+    ],
+    "Zengcheng": [
+        "煙仔"
+    ],
+    "Foshan": [
+        "煙仔"
+    ],
+    "Nanhai": [
+        "煙仔"
+    ],
+    "Shunde": [
+        "煙仔"
+    ],
+    "Sanshui": [
+        "煙仔"
+    ],
+    "Gaoming": [
+        "煙仔"
+    ],
+    "Zhongshan": [
+        "煙仔"
+    ],
+    "Zhuhai": [
+        "煙仔"
+    ],
+    "Doumen-T": [
+        "煙仔"
+    ],
+    "Doumen-S": [
+        "煙仔"
+    ],
+    "Jiangmen": [
+        "煙仔"
+    ],
+    "Xinhui": [
+        "煙仔"
+    ],
+    "Taishan": [
+        "煙仔"
+    ],
+    "Kaiping": [
+        "煙仔"
+    ],
+    "Enping": [
+        "煙仔"
+    ],
+    "Heshan": [
+        "煙仔"
+    ],
+    "Dongguan": [
+        "煙仔"
+    ],
+    "Bao'an": [
+        "煙仔"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "煙仔"
+    ],
+    "Yunfu": [
+        "煙仔"
+    ],
+    "Yangjiang": [
+        "煙仔"
+    ],
+    "Xinyi": [
+        "煙仔"
+    ],
+    "Lianjiang": [
+        "煙仔"
+    ],
+    "Nanning": [
+        "煙仔",
+        "煙"
+    ],
+    "Wuzhou": [
+        "煙仔",
+        "煙"
+    ],
+    "Yulin": [
+        "煙仔"
+    ],
+    "Hepu": [
+        "煙"
+    ],
+    "Danzhou": [
+        "煙仔"
+    ],
+    "Kuala Lumpur": [
+        "煙仔"
+    ],
+    "Ho Chi Minh City": [
+        "煙仔"
+    ],
+    "Nanning-P": [
+        "煙崽"
+    ],
+    "Guilin-P": [
+        "紙煙"
+    ],
+    "Xiamen": [
+        "薰枝",
+        "薰"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "薰枝",
+        "薰"
+    ],
+    "Jinjiang": [
+        "薰枝"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "薰枝"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "薰枝",
+        "薰"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "薰"
+    ],
+    "Kaohsiung": [
+        "薰"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "薰枝"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "洋薰"
+    ],
+    "Datian": [
+        "薰枝"
+    ],
+    "Pingnan": [
+        "薰"
+    ],
+    "Chaozhou": [
+        "薰囝"
+    ],
+    "Shantou": [
+        "薰囝",
+        "薰"
+    ],
+    "Haifeng": [
+        "薰"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "薰枝"
+    ],
+    "Wenchang": [
+        "煙囝"
+    ],
+    "Haikou": [
+        "煙囝"
+    ],
+    "Leizhou": [
+        "薰囝"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "薰囝"
+    ],
+    "Changle": [
+        "薰囝"
+    ],
+    "Fuqing": [
+        "洋薰",
+        "薰囝"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "薰囝"
+    ],
+    "Gutian": [
+        "薰囝"
+    ],
+    "Fu'an": [
+        "洋薰"
+    ],
+    "Ningde": [
+        "薰囝"
+    ],
+    "Shouning": [
+        "薰囝"
+    ],
+    "Zhouning": [
+        "洋薰"
+    ],
+    "Fuding": [
+        "洋薰"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "洋煙"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

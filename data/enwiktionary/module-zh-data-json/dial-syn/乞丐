@@ -1,887 +1,777 @@
 {
     "meaning": "beggar",
     "note": "",
-    "Classical": {
-        "1": "乞人",
-        "2": "乞丐",
-        "3": "乞兒",
-        "4": "丐者",
-        "5": "丐"
-    },
-    "Formal": {
-        "1": "乞丐"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "要飯的",
-        "2": "老花子"
-    },
-    "Taiwan": {
-        "1": "乞丐"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "叫花子",
-        "2": "要飯花子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "要飯的"
-    },
-    "Ulan Hot": {
-        "1": "要飯的",
-        "2": "要飯花子"
-    },
-    "Tongliao": {
-        "1": "要飯的"
-    },
-    "Chifeng": {
-        "1": "要飯的"
-    },
-    "Bayanhot": {
-        "1": "討吃",
-        "2": "要飯的"
-    },
-    "Jinan": {
-        "1": "要飯的",
-        "2": "叫花子"
-    },
-    "Muping": {
-        "1": "要飯兒的",
-        "2": "叫花子",
-        "3": "要飯的"
-    },
-    "Luoyang": {
-        "1": "叫花子",
-        "2": "要飯吃的",
-        "3": "靠門傍子"
-    },
-    "Wanrong": {
-        "1": "要飯的",
-        "2": "尋饃的"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "要飯的",
-        "2": "叫花子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "要飯哩"
-    },
-    "Xining": {
-        "1": "尋口",
-        "2": "要饃饃的"
-    },
-    "Xuzhou": {
-        "1": "要飯的"
-    },
-    "Yinchuan": {
-        "1": "討吃"
-    },
-    "Lanzhou": {
-        "1": "要飯的",
-        "2": "要要吃"
-    },
-    "Ürümqi": {
-        "1": "要飯的"
-    },
-    "Wuhan": {
-        "1": "告花子",
-        "2": "花子",
-        "3": "討飯的",
-        "4": "要飯的",
-        "5": "乞丐",
-        "6": "討米的",
-        "7": "睡門樓的"
-    },
-    "Huanggang": {
-        "1": "告殼子"
-    },
-    "Chengdu": {
-        "1": "叫花子",
-        "2": "討口子"
-    },
-    "Guiyang": {
-        "1": "叫化子"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "討飯佬",
-        "2": "叫化子",
-        "3": "叫化"
-    },
-    "Kunming": {
-        "1": "花子"
-    },
-    "Yangzhou": {
-        "1": "花子",
-        "2": "要飯花子",
-        "3": "要飯的",
-        "4": "告花子"
-    },
-    "Nanjing": {
-        "1": "花子",
-        "2": "要飯花子",
-        "3": "要飯的"
-    },
-    "Hefei": {
-        "1": "要飯的",
-        "2": "叫花子"
-    },
-    "Nantong": {
-        "1": "告花子",
-        "2": "討飯子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "抄花子",
-        "2": "討吃",
-        "3": "要乜貼的",
-        "4": "要的吃的"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "討吃吃",
-        "2": "討吃子",
-        "3": "要飯的",
-        "4": "叫花子"
-    },
-    "Pingyao": {
-        "1": "叫花子"
-    },
-    "Xinzhou": {
-        "1": "討吃子",
-        "2": "要窩窩哩"
-    },
-    "Baochang": {
-        "1": "要飯的"
-    },
-    "Jining": {
-        "1": "討吃子"
-    },
-    "Hohhot": {
-        "1": "討吃子"
-    },
-    "Baotou": {
-        "1": "討吃子"
-    },
-    "Dongsheng": {
-        "1": "討吃子"
-    },
-    "Linhe": {
-        "1": "討吃子"
-    },
-    "Haibowan": {
-        "1": "討吃子"
-    },
-    "Shanghai": {
-        "1": "告花子",
-        "2": "癟三"
-    },
-    "Suzhou": {
-        "1": "告化子",
-        "2": "癟三"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "叫化子",
-        "2": "討飯子"
-    },
-    "Chongming": {
-        "1": "掛花子"
-    },
-    "Wenzhou": {
-        "1": "丐兒",
-        "2": "討飯丐兒",
-        "3": "討飯人",
-        "4": "取米丐兒",
-        "5": "取米個"
-    },
-    "Danyang": {
-        "1": "告花子",
-        "2": "告花嫚嫚"
-    },
-    "Jinhua": {
-        "1": "討飯"
-    },
-    "Tangxi": {
-        "1": "討飯老丐兒"
-    },
-    "Ningbo": {
-        "1": "告花子",
-        "2": "討飯"
-    },
-    "Changsha": {
-        "1": "告化子",
-        "2": "討飯的"
-    },
-    "Shuangfeng": {
-        "1": "告化子"
-    },
-    "Xiangtan": {
-        "1": "告化子"
-    },
-    "Loudi": {
-        "1": "叫化子",
-        "2": "叫化"
-    },
-    "Quanzhou-X": {
-        "1": "乞丐"
-    },
-    "Nanchang": {
-        "1": "告化子",
-        "2": "討飯個"
-    },
-    "Lichuan": {
-        "1": "告化子",
-        "2": "乞兒"
-    },
-    "Pingxiang": {
-        "1": "告化子",
-        "2": "花子",
-        "3": "討米個"
-    },
-    "Meixian": {
-        "1": "告化仔",
-        "2": "討食個"
-    },
-    "Xingning": {
-        "1": "告化哩"
-    },
-    "Huizhou": {
-        "1": "攞食",
-        "2": "攞食佬:male",
-        "3": "攞食婆:female",
-        "4": "攞食仔:young"
-    },
-    "Huizhou-SK": {
-        "1": "攞食佬"
-    },
-    "Huizhou-HL": {
-        "1": "攞食"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "攞食仔"
-    },
-    "Huidong-DL": {
-        "1": "攞食"
-    },
-    "Dongguan-H": {
-        "1": "攞食佬:male",
-        "2": "攞食婆:female",
-        "3": "攞食仔:young"
-    },
-    "Longmen-PL": {
-        "1": "乞食佬",
-        "2": "攞食"
-    },
-    "Longmen-LX": {
-        "1": "攞食佬"
-    },
-    "Boluo": {
-        "1": "攞食伊",
-        "2": "攞食佬"
-    },
-    "Shenzhen-H": {
-        "1": "攞食佬:male",
-        "2": "攞食婆:female",
-        "3": "攞食仔:young"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "乞兒"
-    },
-    "Wuhua-SZ": {
-        "1": "酌食哩",
-        "2": "乞丐"
-    },
-    "Wuhua-HC": {
-        "1": "告化哩",
-        "2": "酌食個",
-        "3": "絡食個"
-    },
-    "Wuhua-CB": {
-        "1": "告化哩"
-    },
-    "Wuhua-MY": {
-        "1": "絡食哩"
-    },
-    "Heyuan": {
-        "1": "攞食的",
-        "2": "攞食"
-    },
-    "Zijin-GZ": {
-        "1": "攞食佬"
-    },
-    "Longchuan-TC": {
-        "1": "告化佬"
-    },
-    "Longchuan-SD": {
-        "1": "攞食哎"
-    },
-    "Heping-LZ": {
-        "1": "告化"
-    },
-    "Lianping-ZX": {
-        "1": "攞食"
-    },
-    "Lianping-LJ": {
-        "1": "叫化"
-    },
-    "Qujiang": {
-        "1": "告化子"
-    },
-    "Xinfeng-MT": {
-        "1": "叫化"
-    },
-    "Xinfeng-DX": {
-        "1": "攞食佬"
-    },
-    "Xiaosanjiang": {
-        "1": "狗化公"
-    },
-    "Liannan": {
-        "1": "攞食佬"
-    },
-    "Conghua-H": {
-        "1": "攞食佬"
-    },
-    "Jiexi": {
-        "1": "乞食"
-    },
-    "Luchuan-LC": {
-        "1": "乞食佬"
-    },
-    "Luchuan-DQ": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "告化子",
-        "2": "告化"
-    },
-    "Pingyu": {
-        "1": "告化"
-    },
-    "Wuping": {
-        "1": "告化"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "乞食"
-    },
-    "Yudu": {
-        "1": "告化子"
-    },
-    "Ruijin": {
-        "1": "告化"
-    },
-    "Shicheng": {
-        "1": "告化"
-    },
-    "Shangyou": {
-        "1": "告化子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "乞食仔"
-    },
-    "Liudui": {
-        "1": "乞食仔",
-        "2": "教化仔",
-        "3": "打幫仔"
-    },
-    "Hsinchu": {
-        "1": "乞食仔"
-    },
-    "Dongshi": {
-        "1": "乞食",
-        "2": "仙人"
-    },
-    "Raoping": {
-        "1": "乞食仔",
-        "2": "乞食"
-    },
-    "Yunlin": {
-        "1": "乞食"
-    },
-    "Hong Kong-H": {
-        "1": "攞食佬",
-        "2": "乞兒"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "攞食佬"
-    },
-    "Senai": {
-        "1": "攞食佬"
-    },
-    "Singkawang": {
-        "1": "乞食"
-    },
-    "Jixi": {
-        "1": "討飯仂",
-        "2": "討飯佬:humorous",
-        "3": "討飯鬼:derogatory"
-    },
-    "Shexian": {
-        "1": "討飯唉"
-    },
-    "Tunxi": {
-        "1": "丐食",
-        "2": "討飯個"
-    },
-    "Xiuning": {
-        "1": "丐食",
-        "2": "討飯仂"
-    },
-    "Yixian": {
-        "1": "討飯漢"
-    },
-    "Qimen": {
-        "1": "討飯個"
-    },
-    "Wuyuan": {
-        "1": "討飯個",
-        "2": "討飯仂"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "乞兒"
-    },
-    "Hong Kong": {
-        "1": "乞兒"
-    },
-    "HK Weitou": {
-        "1": "乞兒"
-    },
-    "Kam Tin": {
-        "1": "乞兒",
-        "2": "乞兒佬"
-    },
-    "Ting Kok": {
-        "1": "攞食佬"
-    },
-    "Tung Ping Chau": {
-        "1": "攞食佬"
-    },
-    "Macau": {
-        "1": "乞兒"
-    },
-    "Panyu": {
-        "1": "乞兒"
-    },
-    "Huadu": {
-        "1": "乞兒"
-    },
-    "Conghua": {
-        "1": "乞兒"
-    },
-    "Zengcheng": {
-        "1": "乞食佬:male",
-        "2": "乞食婆:female",
-        "3": "乞食仔:young"
-    },
-    "Foshan": {
-        "1": "乞兒"
-    },
-    "Nanhai": {
-        "1": "乞兒"
-    },
-    "Shunde": {
-        "1": "乞兒"
-    },
-    "Sanshui": {
-        "1": "乞兒"
-    },
-    "Gaoming": {
-        "1": "乞兒"
-    },
-    "Zhongshan": {
-        "1": "乞兒"
-    },
-    "Zhuhai": {
-        "1": "乞兒"
-    },
-    "Doumen-T": {
-        "1": "乞兒"
-    },
-    "Doumen-S": {
-        "1": "乞耳"
-    },
-    "Jiangmen": {
-        "1": "乞兒"
-    },
-    "Xinhui": {
-        "1": "乞兒"
-    },
-    "Taishan": {
-        "1": "乞米仔"
-    },
-    "Kaiping": {
-        "1": "乞米仔"
-    },
-    "Enping": {
-        "1": "乞米仔"
-    },
-    "Heshan": {
-        "1": "乞兒"
-    },
-    "Dongguan": {
-        "1": "乞食佬:male",
-        "2": "乞食婆:female",
-        "3": "乞食仔:young"
-    },
-    "Bao'an": {
-        "1": "乞兒"
-    },
-    "Dapeng": {
-        "1": "攞食佬"
-    },
-    "Shaoguan": {
-        "1": "乞兒"
-    },
-    "Yunfu": {
-        "1": "乞兒"
-    },
-    "Yangjiang": {
-        "1": "乞兒",
-        "2": "乞米佬:male",
-        "3": "乞米婆:female"
-    },
-    "Xinyi": {
-        "1": "乞兒"
-    },
-    "Lianjiang": {
-        "1": "乞兒"
-    },
-    "Nanning": {
-        "1": "乞兒"
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": "覓吃佬"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "乞兒"
-    },
-    "Ho Chi Minh City": {
-        "1": "乞兒"
-    },
-    "Nanning-P": {
-        "1": "救化子",
-        "2": "乞兒"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "乞食"
-    },
-    "Tong'an": {
-        "1": "乞食"
-    },
-    "Quanzhou": {
-        "1": "乞食"
-    },
-    "Jinjiang": {
-        "1": "乞食",
-        "2": "分米的",
-        "3": "分食的"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": "乞食"
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "乞食"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "乞食"
-    },
-    "Longhai": {
-        "1": "乞食"
-    },
-    "Changtai": {
-        "1": "乞食"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": "乞食"
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "乞食"
-    },
-    "Taipei": {
-        "1": "乞食"
-    },
-    "Kaohsiung": {
-        "1": "乞食"
-    },
-    "Tainan": {
-        "1": "乞食"
-    },
-    "Taichung": {
-        "1": "乞食"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "乞食"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "乞食"
-    },
-    "Sanxia": {
-        "1": "乞食"
-    },
-    "Yilan": {
-        "1": "乞食"
-    },
-    "Kinmen": {
-        "1": "乞食"
-    },
-    "Magong": {
-        "1": "乞食"
-    },
-    "Malaysia-MN": {
-        "1": "乞食",
-        "2": "乞食仔"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "乞食"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "乞食"
-    },
-    "Zhangping": {
-        "1": "乞食"
-    },
-    "Yongfu": {
-        "1": "乞食"
-    },
-    "Datian": {
-        "1": "乞食"
-    },
-    "Pingnan": {
-        "1": "乞兒"
-    },
-    "Chaozhou": {
-        "1": "乞食"
-    },
-    "Shantou": {
-        "1": "乞食"
-    },
-    "Haifeng": {
-        "1": "乞食"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "乞食"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": "乞食"
-    },
-    "Putian": {
-        "1": "乞食"
-    },
-    "Xianyou": {
-        "1": "乞食"
-    },
-    "Fuzhou": {
-        "1": "乞食"
-    },
-    "Changle": {
-        "1": "乞食"
-    },
-    "Fuqing": {
-        "1": "乞食"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "乞食"
-    },
-    "Gutian": {
-        "1": "乞食"
-    },
-    "Fu'an": {
-        "1": "乞食"
-    },
-    "Ningde": {
-        "1": "乞食"
-    },
-    "Shouning": {
-        "1": "乞食"
-    },
-    "Zhouning": {
-        "1": "乞食"
-    },
-    "Fuding": {
-        "1": "乞食"
-    },
-    "Matsu": {
-        "1": "乞食"
-    },
-    "Jian'ou": {
-        "1": "化食"
-    },
-    "Dikou": {
-        "1": "化食"
-    },
-    "Songxi": {
-        "1": "化食"
-    },
-    "Zhenghe": {
-        "1": "化食"
-    },
-    "Zhenqian": {
-        "1": "化食"
-    },
-    "Jianyang": {
-        "1": "化食"
-    },
-    "Wuyishan": {
-        "1": "討飯"
-    },
-    "Shibei": {
-        "1": "化食"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "乞人",
+        "乞丐",
+        "乞兒",
+        "丐者",
+        "丐"
+    ],
+    "Formal": [
+        "乞丐"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "要飯的",
+        "老花子"
+    ],
+    "Taiwan": [
+        "乞丐"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "叫花子",
+        "要飯花子"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "要飯的"
+    ],
+    "Ulan Hot": [
+        "要飯的",
+        "要飯花子"
+    ],
+    "Tongliao": [
+        "要飯的"
+    ],
+    "Chifeng": [
+        "要飯的"
+    ],
+    "Bayanhot": [
+        "討吃",
+        "要飯的"
+    ],
+    "Jinan": [
+        "要飯的",
+        "叫花子"
+    ],
+    "Muping": [
+        "要飯兒的",
+        "叫花子",
+        "要飯的"
+    ],
+    "Luoyang": [
+        "叫花子",
+        "要飯吃的",
+        "靠門傍子"
+    ],
+    "Wanrong": [
+        "要飯的",
+        "尋饃的"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "要飯的",
+        "叫花子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "要飯哩"
+    ],
+    "Xining": [
+        "尋口",
+        "要饃饃的"
+    ],
+    "Xuzhou": [
+        "要飯的"
+    ],
+    "Yinchuan": [
+        "討吃"
+    ],
+    "Lanzhou": [
+        "要飯的",
+        "要要吃"
+    ],
+    "Ürümqi": [
+        "要飯的"
+    ],
+    "Wuhan": [
+        "告花子",
+        "花子",
+        "討飯的",
+        "要飯的",
+        "乞丐",
+        "討米的",
+        "睡門樓的"
+    ],
+    "Huanggang": [
+        "告殼子"
+    ],
+    "Chengdu": [
+        "叫花子",
+        "討口子"
+    ],
+    "Guiyang": [
+        "叫化子"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "討飯佬",
+        "叫化子",
+        "叫化"
+    ],
+    "Kunming": [
+        "花子"
+    ],
+    "Yangzhou": [
+        "花子",
+        "要飯花子",
+        "要飯的",
+        "告花子"
+    ],
+    "Nanjing": [
+        "花子",
+        "要飯花子",
+        "要飯的"
+    ],
+    "Hefei": [
+        "要飯的",
+        "叫花子"
+    ],
+    "Nantong": [
+        "告花子",
+        "討飯子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "抄花子",
+        "討吃",
+        "要乜貼的",
+        "要的吃的"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "討吃吃",
+        "討吃子",
+        "要飯的",
+        "叫花子"
+    ],
+    "Pingyao": [
+        "叫花子"
+    ],
+    "Xinzhou": [
+        "討吃子",
+        "要窩窩哩"
+    ],
+    "Baochang": [
+        "要飯的"
+    ],
+    "Jining": [
+        "討吃子"
+    ],
+    "Hohhot": [
+        "討吃子"
+    ],
+    "Baotou": [
+        "討吃子"
+    ],
+    "Dongsheng": [
+        "討吃子"
+    ],
+    "Linhe": [
+        "討吃子"
+    ],
+    "Haibowan": [
+        "討吃子"
+    ],
+    "Shanghai": [
+        "告花子",
+        "癟三"
+    ],
+    "Suzhou": [
+        "告化子",
+        "癟三"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "叫化子",
+        "討飯子"
+    ],
+    "Chongming": [
+        "掛花子"
+    ],
+    "Wenzhou": [
+        "丐兒",
+        "討飯丐兒",
+        "討飯人",
+        "取米丐兒",
+        "取米個"
+    ],
+    "Danyang": [
+        "告花子",
+        "告花嫚嫚"
+    ],
+    "Jinhua": [
+        "討飯"
+    ],
+    "Tangxi": [
+        "討飯老丐兒"
+    ],
+    "Ningbo": [
+        "告花子",
+        "討飯"
+    ],
+    "Changsha": [
+        "告化子",
+        "討飯的"
+    ],
+    "Shuangfeng": [
+        "告化子"
+    ],
+    "Xiangtan": [
+        "告化子"
+    ],
+    "Loudi": [
+        "叫化子",
+        "叫化"
+    ],
+    "Quanzhou-X": [
+        "乞丐"
+    ],
+    "Nanchang": [
+        "告化子",
+        "討飯個"
+    ],
+    "Lichuan": [
+        "告化子",
+        "乞兒"
+    ],
+    "Pingxiang": [
+        "告化子",
+        "花子",
+        "討米個"
+    ],
+    "Meixian": [
+        "告化仔",
+        "討食個"
+    ],
+    "Xingning": [
+        "告化哩"
+    ],
+    "Huizhou": [
+        "攞食",
+        "攞食佬:male",
+        "攞食婆:female",
+        "攞食仔:young"
+    ],
+    "Huizhou-SK": [
+        "攞食佬"
+    ],
+    "Huizhou-HL": [
+        "攞食"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "攞食仔"
+    ],
+    "Huidong-DL": [
+        "攞食"
+    ],
+    "Dongguan-H": [
+        "攞食佬:male",
+        "攞食婆:female",
+        "攞食仔:young"
+    ],
+    "Longmen-PL": [
+        "乞食佬",
+        "攞食"
+    ],
+    "Longmen-LX": [
+        "攞食佬"
+    ],
+    "Boluo": [
+        "攞食伊",
+        "攞食佬"
+    ],
+    "Shenzhen-H": [
+        "攞食佬:male",
+        "攞食婆:female",
+        "攞食仔:young"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "乞兒"
+    ],
+    "Wuhua-SZ": [
+        "酌食哩",
+        "乞丐"
+    ],
+    "Wuhua-HC": [
+        "告化哩",
+        "酌食個",
+        "絡食個"
+    ],
+    "Wuhua-CB": [
+        "告化哩"
+    ],
+    "Wuhua-MY": [
+        "絡食哩"
+    ],
+    "Heyuan": [
+        "攞食的",
+        "攞食"
+    ],
+    "Zijin-GZ": [
+        "攞食佬"
+    ],
+    "Longchuan-TC": [
+        "告化佬"
+    ],
+    "Longchuan-SD": [
+        "攞食哎"
+    ],
+    "Heping-LZ": [
+        "告化"
+    ],
+    "Lianping-ZX": [
+        "攞食"
+    ],
+    "Lianping-LJ": [
+        "叫化"
+    ],
+    "Qujiang": [
+        "告化子"
+    ],
+    "Xinfeng-MT": [
+        "叫化"
+    ],
+    "Xinfeng-DX": [
+        "攞食佬"
+    ],
+    "Xiaosanjiang": [
+        "狗化公"
+    ],
+    "Liannan": [
+        "攞食佬"
+    ],
+    "Conghua-H": [
+        "攞食佬"
+    ],
+    "Jiexi": [
+        "乞食"
+    ],
+    "Luchuan-LC": [
+        "乞食佬"
+    ],
+    "Luchuan-DQ": [],
+    "Changting": [
+        "告化子",
+        "告化"
+    ],
+    "Pingyu": [
+        "告化"
+    ],
+    "Wuping": [
+        "告化"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "乞食"
+    ],
+    "Yudu": [
+        "告化子"
+    ],
+    "Ruijin": [
+        "告化"
+    ],
+    "Shicheng": [
+        "告化"
+    ],
+    "Shangyou": [
+        "告化子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "乞食仔"
+    ],
+    "Liudui": [
+        "乞食仔",
+        "教化仔",
+        "打幫仔"
+    ],
+    "Hsinchu": [
+        "乞食仔"
+    ],
+    "Dongshi": [
+        "乞食",
+        "仙人"
+    ],
+    "Raoping": [
+        "乞食仔",
+        "乞食"
+    ],
+    "Yunlin": [
+        "乞食"
+    ],
+    "Hong Kong-H": [
+        "攞食佬",
+        "乞兒"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "攞食佬"
+    ],
+    "Senai": [
+        "攞食佬"
+    ],
+    "Singkawang": [
+        "乞食"
+    ],
+    "Jixi": [
+        "討飯仂",
+        "討飯佬:humorous",
+        "討飯鬼:derogatory"
+    ],
+    "Shexian": [
+        "討飯唉"
+    ],
+    "Tunxi": [
+        "丐食",
+        "討飯個"
+    ],
+    "Xiuning": [
+        "丐食",
+        "討飯仂"
+    ],
+    "Yixian": [
+        "討飯漢"
+    ],
+    "Qimen": [
+        "討飯個"
+    ],
+    "Wuyuan": [
+        "討飯個",
+        "討飯仂"
+    ],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "乞兒"
+    ],
+    "Hong Kong": [
+        "乞兒"
+    ],
+    "HK Weitou": [
+        "乞兒"
+    ],
+    "Kam Tin": [
+        "乞兒",
+        "乞兒佬"
+    ],
+    "Ting Kok": [
+        "攞食佬"
+    ],
+    "Tung Ping Chau": [
+        "攞食佬"
+    ],
+    "Macau": [
+        "乞兒"
+    ],
+    "Panyu": [
+        "乞兒"
+    ],
+    "Huadu": [
+        "乞兒"
+    ],
+    "Conghua": [
+        "乞兒"
+    ],
+    "Zengcheng": [
+        "乞食佬:male",
+        "乞食婆:female",
+        "乞食仔:young"
+    ],
+    "Foshan": [
+        "乞兒"
+    ],
+    "Nanhai": [
+        "乞兒"
+    ],
+    "Shunde": [
+        "乞兒"
+    ],
+    "Sanshui": [
+        "乞兒"
+    ],
+    "Gaoming": [
+        "乞兒"
+    ],
+    "Zhongshan": [
+        "乞兒"
+    ],
+    "Zhuhai": [
+        "乞兒"
+    ],
+    "Doumen-T": [
+        "乞兒"
+    ],
+    "Doumen-S": [
+        "乞耳"
+    ],
+    "Jiangmen": [
+        "乞兒"
+    ],
+    "Xinhui": [
+        "乞兒"
+    ],
+    "Taishan": [
+        "乞米仔"
+    ],
+    "Kaiping": [
+        "乞米仔"
+    ],
+    "Enping": [
+        "乞米仔"
+    ],
+    "Heshan": [
+        "乞兒"
+    ],
+    "Dongguan": [
+        "乞食佬:male",
+        "乞食婆:female",
+        "乞食仔:young"
+    ],
+    "Bao'an": [
+        "乞兒"
+    ],
+    "Dapeng": [
+        "攞食佬"
+    ],
+    "Shaoguan": [
+        "乞兒"
+    ],
+    "Yunfu": [
+        "乞兒"
+    ],
+    "Yangjiang": [
+        "乞兒",
+        "乞米佬:male",
+        "乞米婆:female"
+    ],
+    "Xinyi": [
+        "乞兒"
+    ],
+    "Lianjiang": [
+        "乞兒"
+    ],
+    "Nanning": [
+        "乞兒"
+    ],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [
+        "覓吃佬"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "乞兒"
+    ],
+    "Ho Chi Minh City": [
+        "乞兒"
+    ],
+    "Nanning-P": [
+        "救化子",
+        "乞兒"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "乞食"
+    ],
+    "Tong'an": [
+        "乞食"
+    ],
+    "Quanzhou": [
+        "乞食"
+    ],
+    "Jinjiang": [
+        "乞食",
+        "分米的",
+        "分食的"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [
+        "乞食"
+    ],
+    "Anxi": [],
+    "Yongchun": [
+        "乞食"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "乞食"
+    ],
+    "Longhai": [
+        "乞食"
+    ],
+    "Changtai": [
+        "乞食"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [
+        "乞食"
+    ],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "乞食"
+    ],
+    "Taipei": [
+        "乞食"
+    ],
+    "Kaohsiung": [
+        "乞食"
+    ],
+    "Tainan": [
+        "乞食"
+    ],
+    "Taichung": [
+        "乞食"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "乞食"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "乞食"
+    ],
+    "Sanxia": [
+        "乞食"
+    ],
+    "Yilan": [
+        "乞食"
+    ],
+    "Kinmen": [
+        "乞食"
+    ],
+    "Magong": [
+        "乞食"
+    ],
+    "Malaysia-MN": [
+        "乞食",
+        "乞食仔"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "乞食"
+    ],
+    "Medan": [],
+    "Longyan": [
+        "乞食"
+    ],
+    "Zhangping": [
+        "乞食"
+    ],
+    "Yongfu": [
+        "乞食"
+    ],
+    "Datian": [
+        "乞食"
+    ],
+    "Pingnan": [
+        "乞兒"
+    ],
+    "Chaozhou": [
+        "乞食"
+    ],
+    "Shantou": [
+        "乞食"
+    ],
+    "Haifeng": [
+        "乞食"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "乞食"
+    ],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [
+        "乞食"
+    ],
+    "Putian": [
+        "乞食"
+    ],
+    "Xianyou": [
+        "乞食"
+    ],
+    "Fuzhou": [
+        "乞食"
+    ],
+    "Changle": [
+        "乞食"
+    ],
+    "Fuqing": [
+        "乞食"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "乞食"
+    ],
+    "Gutian": [
+        "乞食"
+    ],
+    "Fu'an": [
+        "乞食"
+    ],
+    "Ningde": [
+        "乞食"
+    ],
+    "Shouning": [
+        "乞食"
+    ],
+    "Zhouning": [
+        "乞食"
+    ],
+    "Fuding": [
+        "乞食"
+    ],
+    "Matsu": [
+        "乞食"
+    ],
+    "Jian'ou": [
+        "化食"
+    ],
+    "Dikou": [
+        "化食"
+    ],
+    "Songxi": [
+        "化食"
+    ],
+    "Zhenghe": [
+        "化食"
+    ],
+    "Zhenqian": [
+        "化食"
+    ],
+    "Jianyang": [
+        "化食"
+    ],
+    "Wuyishan": [
+        "討飯"
+    ],
+    "Shibei": [
+        "化食"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

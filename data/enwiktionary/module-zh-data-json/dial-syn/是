@@ -1,346 +1,210 @@
 {
     "meaning": "to be (+ noun)",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "是"
-    },
-    "Taiwan": {
-        "1": "是"
-    },
-    "Tianjin": {
-        "1": "是"
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "是"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "是"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "是"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "是"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "是"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "是"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "是"
-    },
-    "Taiyuan": {
-        "1": "是"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "是"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "是"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "是"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "是"
-    },
-    "Shuangfeng": {
-        "1": "是"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "是"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "係"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "係"
-    },
-    "Liudui": {
-        "1": "係"
-    },
-    "Hsinchu": {
-        "1": "係"
-    },
-    "Dongshi": {
-        "1": "係"
-    },
-    "Raoping": {
-        "1": "係"
-    },
-    "Yunlin": {
-        "1": "係"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "係"
-    },
-    "Hong Kong": {
-        "1": "係"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "係"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "係"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "是"
-    },
-    "Quanzhou": {
-        "1": "是"
-    },
-    "Zhangzhou": {
-        "1": "是"
-    },
-    "Taipei": {
-        "1": "是"
-    },
-    "Kaohsiung": {
-        "1": "是"
-    },
-    "Tainan": {
-        "1": "是"
-    },
-    "Taichung": {
-        "1": "是"
-    },
-    "Yilan": {
-        "1": "是"
-    },
-    "Lukang": {
-        "1": "是"
-    },
-    "Sanxia": {
-        "1": "是"
-    },
-    "Kinmen": {
-        "1": "是"
-    },
-    "Magong": {
-        "1": "是"
-    },
-    "Hsinchu-MN": {
-        "1": "是"
-    },
-    "Malaysia-MN": {
-        "1": "是"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "是"
-    },
-    "Shantou": {
-        "1": "是"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "是"
-    },
-    "Jian'ou": {
-        "1": "是"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Beijing": [
+        "是"
+    ],
+    "Taiwan": [
+        "是"
+    ],
+    "Tianjin": [
+        "是"
+    ],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "是"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "是"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "是"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "是"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "是"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "是"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "是"
+    ],
+    "Taiyuan": [
+        "是"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "是"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "是"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "是"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "是"
+    ],
+    "Shuangfeng": [
+        "是"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "是"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "係"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "係"
+    ],
+    "Liudui": [
+        "係"
+    ],
+    "Hsinchu": [
+        "係"
+    ],
+    "Dongshi": [
+        "係"
+    ],
+    "Raoping": [
+        "係"
+    ],
+    "Yunlin": [
+        "係"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "係"
+    ],
+    "Hong Kong": [
+        "係"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "係"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "係"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "是"
+    ],
+    "Quanzhou": [
+        "是"
+    ],
+    "Zhangzhou": [
+        "是"
+    ],
+    "Taipei": [
+        "是"
+    ],
+    "Kaohsiung": [
+        "是"
+    ],
+    "Tainan": [
+        "是"
+    ],
+    "Taichung": [
+        "是"
+    ],
+    "Yilan": [
+        "是"
+    ],
+    "Lukang": [
+        "是"
+    ],
+    "Sanxia": [
+        "是"
+    ],
+    "Kinmen": [
+        "是"
+    ],
+    "Magong": [
+        "是"
+    ],
+    "Hsinchu-MN": [
+        "是"
+    ],
+    "Malaysia-MN": [
+        "是"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "是"
+    ],
+    "Shantou": [
+        "是"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "是"
+    ],
+    "Jian'ou": [
+        "是"
+    ]
 }

@@ -1,526 +1,366 @@
 {
     "meaning": "Chinese character component 亻",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "單人旁",
-        "2": "單立人"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "單立人兒",
-        "2": "立人兒",
-        "3": "單人旁兒"
-    },
-    "Taiwan": {
-        "1": "單人旁"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "單立人兒"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "單立人兒"
-    },
-    "Muping": {
-        "1": "單立人兒"
-    },
-    "Luoyang": {
-        "1": "單立人兒"
-    },
-    "Wanrong": {
-        "1": "立人"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "單立人兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "立人兒"
-    },
-    "Xuzhou": {
-        "1": "單人兒旁兒",
-        "2": "單人旁兒",
-        "3": "單立人兒",
-        "4": "單點兒人兒:dated"
-    },
-    "Yinchuan": {
-        "1": "單立人"
-    },
-    "Lanzhou": {
-        "1": "立人兒",
-        "2": "單立人"
-    },
-    "Ürümqi": {
-        "1": "單立人兒"
-    },
-    "Wuhan": {
-        "1": "人旁"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "單立人兒",
-        "2": "單立人",
-        "3": "單人旁"
-    },
-    "Guiyang": {
-        "1": "單人旁"
-    },
-    "Guilin": {
-        "1": "人字旁"
-    },
-    "Liuzhou": {
-        "1": "單人邊",
-        "2": "單人旁"
-    },
-    "Kunming": {
-        "1": "單人旁"
-    },
-    "Yangzhou": {
-        "1": "單人旁"
-    },
-    "Nanjing": {
-        "1": "單人旁"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "單立人兒"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "單眼人"
-    },
-    "Hangzhou": {
-        "1": "單隑人"
-    },
-    "Shanghai": {
-        "1": "單隑人"
-    },
-    "Chongming": {
-        "1": "隑人旁"
-    },
-    "Wenzhou": {
-        "1": "單隑人"
-    },
-    "Danyang": {
-        "1": "單人旁"
-    },
-    "Jinhua": {
-        "1": "單徛人",
-        "2": "徛人旁"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "單隑人"
-    },
-    "Changsha": {
-        "1": "單人旁",
-        "2": "單徛人",
-        "3": "徛人旁"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "單徛人"
-    },
-    "Quanzhou-X": {
-        "1": "單徛人"
-    },
-    "Nanchang": {
-        "1": "徛人旁"
-    },
-    "Lichuan": {
-        "1": "徛人旁"
-    },
-    "Pingxiang": {
-        "1": "單徛人"
-    },
-    "Meixian": {
-        "1": "單徛人"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "單人旁"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "單徛人"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": ""
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": ""
-    },
-    "Dongshi": {
-        "1": ""
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": ""
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "單隑人"
-    },
-    "Guangzhou": {
-        "1": "徛人邊"
-    },
-    "Hong Kong": {
-        "1": "徛人邊",
-        "2": "單徛人"
-    },
-    "Kam Tin": {
-        "1": "徛人邊"
-    },
-    "Macau": {
-        "1": "徛人邊"
-    },
-    "Panyu": {
-        "1": "徛人邊"
-    },
-    "Huadu": {
-        "1": "徛人邊"
-    },
-    "Conghua": {
-        "1": "人字邊"
-    },
-    "Zengcheng": {
-        "1": "徛人邊"
-    },
-    "Foshan": {
-        "1": "徛人邊"
-    },
-    "Nanhai": {
-        "1": "徛人邊"
-    },
-    "Shunde": {
-        "1": "徛人邊"
-    },
-    "Sanshui": {
-        "1": "徛人邊"
-    },
-    "Gaoming": {
-        "1": "徛人邊"
-    },
-    "Zhongshan": {
-        "1": "徛人邊"
-    },
-    "Zhuhai": {
-        "1": "徛人邊"
-    },
-    "Doumen-T": {
-        "1": "徛人邊"
-    },
-    "Doumen-S": {
-        "1": "徛人邊"
-    },
-    "Jiangmen": {
-        "1": "徛人邊"
-    },
-    "Xinhui": {
-        "1": "徛人邊"
-    },
-    "Taishan": {
-        "1": "徛人旁",
-        "2": "單人旁"
-    },
-    "Kaiping": {
-        "1": "徛人旁"
-    },
-    "Enping": {
-        "1": "單人旁"
-    },
-    "Heshan": {
-        "1": "徛人邊"
-    },
-    "Dongguan": {
-        "1": "徛人邊"
-    },
-    "Bao'an": {
-        "1": "徛人邊"
-    },
-    "Shaoguan": {
-        "1": "徛人邊"
-    },
-    "Yunfu": {
-        "1": "徛人邊"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "徛人旁"
-    },
-    "Lianjiang": {
-        "1": "徛人旁"
-    },
-    "Nanning": {
-        "1": "單人旁",
-        "2": "單人邊"
-    },
-    "Wuzhou": {
-        "1": "徛人旁"
-    },
-    "Yulin": {
-        "1": "徛人旁"
-    },
-    "Hepu": {
-        "1": "單徛人"
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "單徛人",
-        "2": "單人旁",
-        "3": "徛人旁",
-        "4": "單人邊"
-    },
-    "Guilin-P": {
-        "1": "立人",
-        "2": "單人邊"
-    },
-    "Xiamen": {
-        "1": "單人爿",
-        "2": "單徛儂",
-        "3": "徛儂爿",
-        "4": "徛人爿"
-    },
-    "Quanzhou": {
-        "1": "單人爿",
-        "2": "單徛儂",
-        "3": "徛儂爿"
-    },
-    "Zhangzhou": {
-        "1": "單人爿",
-        "2": "徛人爿"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": "徛儂爿",
-        "2": "單人爿"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "單人旁"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "單徛儂"
-    },
-    "Leizhou": {
-        "1": "單徛儂爿"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "徛儂人"
-    },
-    "Fuqing": {
-        "1": "徛儂人"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "單人旁",
+        "單立人"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "單立人兒",
+        "立人兒",
+        "單人旁兒"
+    ],
+    "Taiwan": [
+        "單人旁"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "單立人兒"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "單立人兒"
+    ],
+    "Muping": [
+        "單立人兒"
+    ],
+    "Luoyang": [
+        "單立人兒"
+    ],
+    "Wanrong": [
+        "立人"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "單立人兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "立人兒"
+    ],
+    "Xuzhou": [
+        "單人兒旁兒",
+        "單人旁兒",
+        "單立人兒",
+        "單點兒人兒:dated"
+    ],
+    "Yinchuan": [
+        "單立人"
+    ],
+    "Lanzhou": [
+        "立人兒",
+        "單立人"
+    ],
+    "Ürümqi": [
+        "單立人兒"
+    ],
+    "Wuhan": [
+        "人旁"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "單立人兒",
+        "單立人",
+        "單人旁"
+    ],
+    "Guiyang": [
+        "單人旁"
+    ],
+    "Guilin": [
+        "人字旁"
+    ],
+    "Liuzhou": [
+        "單人邊",
+        "單人旁"
+    ],
+    "Kunming": [
+        "單人旁"
+    ],
+    "Yangzhou": [
+        "單人旁"
+    ],
+    "Nanjing": [
+        "單人旁"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "單立人兒"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "單眼人"
+    ],
+    "Hangzhou": [
+        "單隑人"
+    ],
+    "Shanghai": [
+        "單隑人"
+    ],
+    "Chongming": [
+        "隑人旁"
+    ],
+    "Wenzhou": [
+        "單隑人"
+    ],
+    "Danyang": [
+        "單人旁"
+    ],
+    "Jinhua": [
+        "單徛人",
+        "徛人旁"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "單隑人"
+    ],
+    "Changsha": [
+        "單人旁",
+        "單徛人",
+        "徛人旁"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "單徛人"
+    ],
+    "Quanzhou-X": [
+        "單徛人"
+    ],
+    "Nanchang": [
+        "徛人旁"
+    ],
+    "Lichuan": [
+        "徛人旁"
+    ],
+    "Pingxiang": [
+        "單徛人"
+    ],
+    "Meixian": [
+        "單徛人"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "單人旁"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "單徛人"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "單隑人"
+    ],
+    "Guangzhou": [
+        "徛人邊"
+    ],
+    "Hong Kong": [
+        "徛人邊",
+        "單徛人"
+    ],
+    "Kam Tin": [
+        "徛人邊"
+    ],
+    "Macau": [
+        "徛人邊"
+    ],
+    "Panyu": [
+        "徛人邊"
+    ],
+    "Huadu": [
+        "徛人邊"
+    ],
+    "Conghua": [
+        "人字邊"
+    ],
+    "Zengcheng": [
+        "徛人邊"
+    ],
+    "Foshan": [
+        "徛人邊"
+    ],
+    "Nanhai": [
+        "徛人邊"
+    ],
+    "Shunde": [
+        "徛人邊"
+    ],
+    "Sanshui": [
+        "徛人邊"
+    ],
+    "Gaoming": [
+        "徛人邊"
+    ],
+    "Zhongshan": [
+        "徛人邊"
+    ],
+    "Zhuhai": [
+        "徛人邊"
+    ],
+    "Doumen-T": [
+        "徛人邊"
+    ],
+    "Doumen-S": [
+        "徛人邊"
+    ],
+    "Jiangmen": [
+        "徛人邊"
+    ],
+    "Xinhui": [
+        "徛人邊"
+    ],
+    "Taishan": [
+        "徛人旁",
+        "單人旁"
+    ],
+    "Kaiping": [
+        "徛人旁"
+    ],
+    "Enping": [
+        "單人旁"
+    ],
+    "Heshan": [
+        "徛人邊"
+    ],
+    "Dongguan": [
+        "徛人邊"
+    ],
+    "Bao'an": [
+        "徛人邊"
+    ],
+    "Shaoguan": [
+        "徛人邊"
+    ],
+    "Yunfu": [
+        "徛人邊"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "徛人旁"
+    ],
+    "Lianjiang": [
+        "徛人旁"
+    ],
+    "Nanning": [
+        "單人旁",
+        "單人邊"
+    ],
+    "Wuzhou": [
+        "徛人旁"
+    ],
+    "Yulin": [
+        "徛人旁"
+    ],
+    "Hepu": [
+        "單徛人"
+    ],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "單徛人",
+        "單人旁",
+        "徛人旁",
+        "單人邊"
+    ],
+    "Guilin-P": [
+        "立人",
+        "單人邊"
+    ],
+    "Xiamen": [
+        "單人爿",
+        "單徛儂",
+        "徛儂爿",
+        "徛人爿"
+    ],
+    "Quanzhou": [
+        "單人爿",
+        "單徛儂",
+        "徛儂爿"
+    ],
+    "Zhangzhou": [
+        "單人爿",
+        "徛人爿"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "徛儂爿",
+        "單人爿"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [
+        "單人旁"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "單徛儂"
+    ],
+    "Leizhou": [
+        "單徛儂爿"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "徛儂人"
+    ],
+    "Fuqing": [
+        "徛儂人"
+    ],
+    "Matsu": [],
+    "Jian'ou": []
 }

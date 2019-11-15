@@ -1,449 +1,333 @@
 {
     "meaning": "to take a shower or bath",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "沐浴"
-    },
-    "Beijing": {
-        "1": "洗澡"
-    },
-    "Taiwan": {
-        "1": "洗澡"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": "洗澡兒"
-    },
-    "Jinan": {
-        "1": "洗澡"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "洗澡"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "洗澡"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "洗澡"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": "洗澡"
-    },
-    "Yangzhou": {
-        "1": "洗澡"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "洗澡",
-        "2": "抹澡"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "沖涼"
-    },
-    "Singapore-M": {
-        "1": "沖涼"
-    },
-    "Taiyuan": {
-        "1": "洗澡"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "淴浴"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "洗浴",
-        "2": "洗身體"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "洗澡"
-    },
-    "Shuangfeng": {
-        "1": "洗澡"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "洗澡"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "沖涼"
-    },
-    "Shenzhen-H": {
-        "1": "沖涼"
-    },
-    "Zhongshan-NLHS": {
-        "1": "沖涼"
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "洗身"
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "沖涼",
-        "2": "洗身",
-        "3": "洗身腳"
-    },
-    "Liudui": {
-        "1": "沖涼",
-        "2": "洗身",
-        "3": "洗身腳"
-    },
-    "Hsinchu": {
-        "1": "沖涼",
-        "2": "洗身",
-        "3": "洗身腳"
-    },
-    "Dongshi": {
-        "1": "沖涼",
-        "2": "洗身",
-        "3": "洗浴",
-        "4": "洗身腳"
-    },
-    "Raoping": {
-        "1": "沖涼",
-        "2": "洗浴",
-        "3": "洗浴腳"
-    },
-    "Yunlin": {
-        "1": "沖涼",
-        "2": "洗浴"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Hong Kong": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Kam Tin": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Macau": {
-        "1": "沖涼"
-    },
-    "Panyu": {
-        "1": "沖涼"
-    },
-    "Huadu": {
-        "1": "沖涼"
-    },
-    "Conghua": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Zengcheng": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Foshan": {
-        "1": "沖涼"
-    },
-    "Nanhai": {
-        "1": "洗涼"
-    },
-    "Shunde": {
-        "1": "沖涼"
-    },
-    "Sanshui": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Gaoming": {
-        "1": "洗身"
-    },
-    "Zhongshan": {
-        "1": "洗身"
-    },
-    "Zhuhai": {
-        "1": "洗身"
-    },
-    "Doumen-T": {
-        "1": "洗身"
-    },
-    "Doumen-S": {
-        "1": "沖涼",
-        "2": "洗身"
-    },
-    "Jiangmen": {
-        "1": "洗身"
-    },
-    "Xinhui": {
-        "1": "洗身"
-    },
-    "Taishan": {
-        "1": "沖涼"
-    },
-    "Kaiping": {
-        "1": "洗身"
-    },
-    "Enping": {
-        "1": "沖涼"
-    },
-    "Heshan": {
-        "1": "洗身"
-    },
-    "Dongguan": {
-        "1": "沖涼"
-    },
-    "Bao'an": {
-        "1": "沖涼"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "洗身"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "洗身軀",
-        "2": "洗身",
-        "3": "洗浴",
-        "4": "灇浴"
-    },
-    "Quanzhou": {
-        "1": "洗身軀",
-        "2": "洗身",
-        "3": "洗浴"
-    },
-    "Jinjiang": {
-        "1": "灇肉"
-    },
-    "Zhangzhou": {
-        "1": "洗身軀",
-        "2": "洗身",
-        "3": "洗浴",
-        "4": "灇浴"
-    },
-    "Taipei": {
-        "1": "洗身軀"
-    },
-    "Kaohsiung": {
-        "1": "洗身軀"
-    },
-    "Tainan": {
-        "1": "洗身軀"
-    },
-    "Taichung": {
-        "1": "洗身軀"
-    },
-    "Yilan": {
-        "1": "洗身軀"
-    },
-    "Lukang": {
-        "1": "洗身軀"
-    },
-    "Sanxia": {
-        "1": "洗身軀"
-    },
-    "Kinmen": {
-        "1": "洗身軀"
-    },
-    "Magong": {
-        "1": "洗身軀"
-    },
-    "Hsinchu-MN": {
-        "1": "洗身軀"
-    },
-    "Malaysia-MN": {
-        "1": "灇",
-        "2": "灇浴",
-        "3": "灇水"
-    },
-    "Singapore-MN": {
-        "1": "灇水"
-    },
-    "Philippine-MN": {
-        "1": "灇肉"
-    },
-    "Chaozhou": {
-        "1": "洗浴"
-    },
-    "Shantou": {
-        "1": "洗浴"
-    },
-    "Haifeng": {
-        "1": "洗浴"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "洗湯",
-        "2": "洗身"
-    },
-    "Jian'ou": {
-        "1": "洗浴"
-    }
+    "Classical": [],
+    "Formal": [
+        "沐浴"
+    ],
+    "Beijing": [
+        "洗澡"
+    ],
+    "Taiwan": [
+        "洗澡"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [
+        "洗澡兒"
+    ],
+    "Jinan": [
+        "洗澡"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "洗澡"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "洗澡"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "洗澡"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [
+        "洗澡"
+    ],
+    "Yangzhou": [
+        "洗澡"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "洗澡",
+        "抹澡"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "沖涼"
+    ],
+    "Singapore-M": [
+        "沖涼"
+    ],
+    "Taiyuan": [
+        "洗澡"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "淴浴"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "洗浴",
+        "洗身體"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "洗澡"
+    ],
+    "Shuangfeng": [
+        "洗澡"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "洗澡"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "沖涼",
+        "洗身"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "沖涼",
+        "洗身"
+    ],
+    "Huidong": [],
+    "Dongguan-H": [
+        "沖涼"
+    ],
+    "Shenzhen-H": [
+        "沖涼"
+    ],
+    "Zhongshan-NLHS": [
+        "沖涼"
+    ],
+    "Qujiang": [],
+    "Conghua-H": [
+        "洗身"
+    ],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "沖涼",
+        "洗身",
+        "洗身腳"
+    ],
+    "Liudui": [
+        "沖涼",
+        "洗身",
+        "洗身腳"
+    ],
+    "Hsinchu": [
+        "沖涼",
+        "洗身",
+        "洗身腳"
+    ],
+    "Dongshi": [
+        "沖涼",
+        "洗身",
+        "洗浴",
+        "洗身腳"
+    ],
+    "Raoping": [
+        "沖涼",
+        "洗浴",
+        "洗浴腳"
+    ],
+    "Yunlin": [
+        "沖涼",
+        "洗浴"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "沖涼",
+        "洗身"
+    ],
+    "Hong Kong": [
+        "沖涼",
+        "洗身"
+    ],
+    "Kam Tin": [
+        "沖涼",
+        "洗身"
+    ],
+    "Macau": [
+        "沖涼"
+    ],
+    "Panyu": [
+        "沖涼"
+    ],
+    "Huadu": [
+        "沖涼"
+    ],
+    "Conghua": [
+        "沖涼",
+        "洗身"
+    ],
+    "Zengcheng": [
+        "沖涼",
+        "洗身"
+    ],
+    "Foshan": [
+        "沖涼"
+    ],
+    "Nanhai": [
+        "洗涼"
+    ],
+    "Shunde": [
+        "沖涼"
+    ],
+    "Sanshui": [
+        "沖涼",
+        "洗身"
+    ],
+    "Gaoming": [
+        "洗身"
+    ],
+    "Zhongshan": [
+        "洗身"
+    ],
+    "Zhuhai": [
+        "洗身"
+    ],
+    "Doumen-T": [
+        "洗身"
+    ],
+    "Doumen-S": [
+        "沖涼",
+        "洗身"
+    ],
+    "Jiangmen": [
+        "洗身"
+    ],
+    "Xinhui": [
+        "洗身"
+    ],
+    "Taishan": [
+        "沖涼"
+    ],
+    "Kaiping": [
+        "洗身"
+    ],
+    "Enping": [
+        "沖涼"
+    ],
+    "Heshan": [
+        "洗身"
+    ],
+    "Dongguan": [
+        "沖涼"
+    ],
+    "Bao'an": [
+        "沖涼"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "洗身"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "洗身軀",
+        "洗身",
+        "洗浴",
+        "灇浴"
+    ],
+    "Quanzhou": [
+        "洗身軀",
+        "洗身",
+        "洗浴"
+    ],
+    "Jinjiang": [
+        "灇肉"
+    ],
+    "Zhangzhou": [
+        "洗身軀",
+        "洗身",
+        "洗浴",
+        "灇浴"
+    ],
+    "Taipei": [
+        "洗身軀"
+    ],
+    "Kaohsiung": [
+        "洗身軀"
+    ],
+    "Tainan": [
+        "洗身軀"
+    ],
+    "Taichung": [
+        "洗身軀"
+    ],
+    "Yilan": [
+        "洗身軀"
+    ],
+    "Lukang": [
+        "洗身軀"
+    ],
+    "Sanxia": [
+        "洗身軀"
+    ],
+    "Kinmen": [
+        "洗身軀"
+    ],
+    "Magong": [
+        "洗身軀"
+    ],
+    "Hsinchu-MN": [
+        "洗身軀"
+    ],
+    "Malaysia-MN": [
+        "灇",
+        "灇浴",
+        "灇水"
+    ],
+    "Singapore-MN": [
+        "灇水"
+    ],
+    "Philippine-MN": [
+        "灇肉"
+    ],
+    "Chaozhou": [
+        "洗浴"
+    ],
+    "Shantou": [
+        "洗浴"
+    ],
+    "Haifeng": [
+        "洗浴"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "洗湯",
+        "洗身"
+    ],
+    "Jian'ou": [
+        "洗浴"
+    ]
 }

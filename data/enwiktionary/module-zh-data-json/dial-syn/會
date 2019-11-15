@@ -1,427 +1,257 @@
 {
     "meaning": "to know how to; to be able to",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "會"
-    },
-    "Taiwan": {
-        "1": "會"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "會"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "會"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "會",
-        "2": "曉得"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "會"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "會"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "會"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "會"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "會"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "會",
-        "2": "曉得"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "會"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "會",
-        "2": "曉得"
-    },
-    "Shuangfeng": {
-        "1": "會",
-        "2": "曉得"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "會",
-        "2": "曉得"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "會",
-        "2": "識得",
-        "3": "曉"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "曉得",
-        "2": "會"
-    },
-    "Liudui": {
-        "1": "曉得",
-        "2": "會"
-    },
-    "Hsinchu": {
-        "1": "曉得",
-        "2": "會"
-    },
-    "Dongshi": {
-        "1": "曉得",
-        "2": "曉"
-    },
-    "Raoping": {
-        "1": "曉得",
-        "2": "會"
-    },
-    "Yunlin": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Hong Kong-H": {
-        "1": "曉"
-    },
-    "Sabah-B": {
-        "1": "曉"
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "會",
-        "2": "識",
-        "3": "識得",
-        "4": "曉"
-    },
-    "Hong Kong": {
-        "1": "識",
-        "2": "識得",
-        "3": "曉"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": "識"
-    },
-    "Taishan": {
-        "1": "會",
-        "2": "識",
-        "3": "識領",
-        "4": "曉",
-        "5": "曉領"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "會",
-        "2": "識"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Quanzhou": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Zhangzhou": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Taipei": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Kaohsiung": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Tainan": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Taichung": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "會"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Sanxia": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Yilan": {
-        "1": "會",
-        "2": "會曉"
-    },
-    "Kinmen": {
-        "1": "會"
-    },
-    "Magong": {
-        "1": "會"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "會"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "會"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "惡"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "會"
+    ],
+    "Taiwan": [
+        "會"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "會"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "會"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "會",
+        "曉得"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "會"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "會"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "會"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "會"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "會"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "會",
+        "曉得"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "會"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "會",
+        "曉得"
+    ],
+    "Shuangfeng": [
+        "會",
+        "曉得"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "會",
+        "曉得"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "會",
+        "識得",
+        "曉"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "曉得",
+        "會"
+    ],
+    "Liudui": [
+        "曉得",
+        "會"
+    ],
+    "Hsinchu": [
+        "曉得",
+        "會"
+    ],
+    "Dongshi": [
+        "曉得",
+        "曉"
+    ],
+    "Raoping": [
+        "曉得",
+        "會"
+    ],
+    "Yunlin": [
+        "會",
+        "會曉"
+    ],
+    "Hong Kong-H": [
+        "曉"
+    ],
+    "Sabah-B": [
+        "曉"
+    ],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "會",
+        "識",
+        "識得",
+        "曉"
+    ],
+    "Hong Kong": [
+        "識",
+        "識得",
+        "曉"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [
+        "識"
+    ],
+    "Taishan": [
+        "會",
+        "識",
+        "識領",
+        "曉",
+        "曉領"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "會",
+        "識"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "會",
+        "會曉"
+    ],
+    "Quanzhou": [
+        "會",
+        "會曉"
+    ],
+    "Zhangzhou": [
+        "會",
+        "會曉"
+    ],
+    "Taipei": [
+        "會",
+        "會曉"
+    ],
+    "Kaohsiung": [
+        "會",
+        "會曉"
+    ],
+    "Tainan": [
+        "會",
+        "會曉"
+    ],
+    "Taichung": [
+        "會",
+        "會曉"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "會"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "會",
+        "會曉"
+    ],
+    "Sanxia": [
+        "會",
+        "會曉"
+    ],
+    "Yilan": [
+        "會",
+        "會曉"
+    ],
+    "Kinmen": [
+        "會"
+    ],
+    "Magong": [
+        "會"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "會"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "會"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "惡"
+    ]
 }

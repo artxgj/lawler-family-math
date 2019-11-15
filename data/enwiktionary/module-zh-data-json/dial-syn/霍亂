@@ -1,420 +1,290 @@
 {
     "meaning": "cholera",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "霍亂",
-        "2": "虎疫:dated"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "虎列拉"
-    },
-    "Taiwan": {
-        "1": "霍亂"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "霍亂"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "霍亂",
-        "2": "痧子"
-    },
-    "Muping": {
-        "1": "霍亂病"
-    },
-    "Luoyang": {
-        "1": "霍亂",
-        "2": "呼浪兒病"
-    },
-    "Wanrong": {
-        "1": "霍亂"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "霍亂"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "霍亂"
-    },
-    "Xuzhou": {
-        "1": "二號病"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "霍亂"
-    },
-    "Ürümqi": {
-        "1": "霍亂"
-    },
-    "Wuhan": {
-        "1": "霍亂症"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "霍亂"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "霍亂"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "癟腡痧",
-        "2": "絞腸痧"
-    },
-    "Nanjing": {
-        "1": "霍亂",
-        "2": "鬼偷肉"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "癟腡痧",
-        "2": "絞腸痧"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "霍亂子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "霍亂子"
-    },
-    "Suzhou": {
-        "1": "癟腡痧"
-    },
-    "Hangzhou": {
-        "1": "癟腡痧"
-    },
-    "Shanghai": {
-        "1": "霍亂",
-        "2": "冷麻痧",
-        "3": "絞腸痧:dated"
-    },
-    "Chongming": {
-        "1": "麻痧",
-        "2": "霍亂吐瀉"
-    },
-    "Wenzhou": {
-        "1": "兩頭脫"
-    },
-    "Danyang": {
-        "1": "癟腡痧"
-    },
-    "Jinhua": {
-        "1": "霍亂"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "霍亂吐瀉",
-        "2": "時疫病",
-        "3": "癟腡痧"
-    },
-    "Changsha": {
-        "1": "霍亂症"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "霍亂"
-    },
-    "Lichuan": {
-        "1": "霍亂"
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "霍亂"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "霍亂"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Liudui": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Hsinchu": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Dongshi": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Raoping": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Yunlin": {
-        "1": "霍亂",
-        "2": "可列拉"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": "絞腸痧"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "霍亂"
-    },
-    "Guangzhou": {
-        "1": "霍亂"
-    },
-    "Hong Kong": {
-        "1": "霍亂"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "霍亂"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "霍亂"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "人瘟"
-    },
-    "Xiamen": {
-        "1": "霍亂",
-        "2": "落吐症",
-        "3": "落吐",
-        "4": "漏吐症"
-    },
-    "Quanzhou": {
-        "1": "霍亂",
-        "2": "落吐症",
-        "3": "落吐"
-    },
-    "Zhangzhou": {
-        "1": "霍亂",
-        "2": "嘔落",
-        "3": "吐瀉"
-    },
-    "Taipei": {
-        "1": "呼列拉"
-    },
-    "Kaohsiung": {
-        "1": "呼列拉",
-        "2": "落吐症"
-    },
-    "Tainan": {
-        "1": "呼列拉",
-        "2": "落吐症"
-    },
-    "Taichung": {
-        "1": "呼列拉"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "呼列拉"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "呼列拉"
-    },
-    "Sanxia": {
-        "1": "呼列拉"
-    },
-    "Yilan": {
-        "1": "呼列拉",
-        "2": "落吐症"
-    },
-    "Kinmen": {
-        "1": "霍亂",
-        "2": "落吐症"
-    },
-    "Magong": {
-        "1": "落瀉吐"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "嘔吐瀉"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "病吐瀉"
-    },
-    "Fuqing": {
-        "1": "吐瀉",
-        "2": "病吐瀉"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "病吐瀉"
-    }
+    "Classical": [],
+    "Formal": [
+        "霍亂",
+        "虎疫:dated"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "虎列拉"
+    ],
+    "Taiwan": [
+        "霍亂"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "霍亂"
+    ],
+    "Shenyang": [],
+    "Jinan": [
+        "霍亂",
+        "痧子"
+    ],
+    "Muping": [
+        "霍亂病"
+    ],
+    "Luoyang": [
+        "霍亂",
+        "呼浪兒病"
+    ],
+    "Wanrong": [
+        "霍亂"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "霍亂"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "霍亂"
+    ],
+    "Xuzhou": [
+        "二號病"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "霍亂"
+    ],
+    "Ürümqi": [
+        "霍亂"
+    ],
+    "Wuhan": [
+        "霍亂症"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "霍亂"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [
+        "霍亂"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "癟腡痧",
+        "絞腸痧"
+    ],
+    "Nanjing": [
+        "霍亂",
+        "鬼偷肉"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "癟腡痧",
+        "絞腸痧"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "霍亂子"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "霍亂子"
+    ],
+    "Suzhou": [
+        "癟腡痧"
+    ],
+    "Hangzhou": [
+        "癟腡痧"
+    ],
+    "Shanghai": [
+        "霍亂",
+        "冷麻痧",
+        "絞腸痧:dated"
+    ],
+    "Chongming": [
+        "麻痧",
+        "霍亂吐瀉"
+    ],
+    "Wenzhou": [
+        "兩頭脫"
+    ],
+    "Danyang": [
+        "癟腡痧"
+    ],
+    "Jinhua": [
+        "霍亂"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "霍亂吐瀉",
+        "時疫病",
+        "癟腡痧"
+    ],
+    "Changsha": [
+        "霍亂症"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "霍亂"
+    ],
+    "Lichuan": [
+        "霍亂"
+    ],
+    "Pingxiang": [],
+    "Meixian": [
+        "霍亂"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "霍亂"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Liudui": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Hsinchu": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Dongshi": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Raoping": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Yunlin": [
+        "霍亂",
+        "可列拉"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [
+        "絞腸痧"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "霍亂"
+    ],
+    "Guangzhou": [
+        "霍亂"
+    ],
+    "Hong Kong": [
+        "霍亂"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "霍亂"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "霍亂"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "人瘟"
+    ],
+    "Xiamen": [
+        "霍亂",
+        "落吐症",
+        "落吐",
+        "漏吐症"
+    ],
+    "Quanzhou": [
+        "霍亂",
+        "落吐症",
+        "落吐"
+    ],
+    "Zhangzhou": [
+        "霍亂",
+        "嘔落",
+        "吐瀉"
+    ],
+    "Taipei": [
+        "呼列拉"
+    ],
+    "Kaohsiung": [
+        "呼列拉",
+        "落吐症"
+    ],
+    "Tainan": [
+        "呼列拉",
+        "落吐症"
+    ],
+    "Taichung": [
+        "呼列拉"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "呼列拉"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "呼列拉"
+    ],
+    "Sanxia": [
+        "呼列拉"
+    ],
+    "Yilan": [
+        "呼列拉",
+        "落吐症"
+    ],
+    "Kinmen": [
+        "霍亂",
+        "落吐症"
+    ],
+    "Magong": [
+        "落瀉吐"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [
+        "嘔吐瀉"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "病吐瀉"
+    ],
+    "Fuqing": [
+        "吐瀉",
+        "病吐瀉"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "病吐瀉"
+    ]
 }

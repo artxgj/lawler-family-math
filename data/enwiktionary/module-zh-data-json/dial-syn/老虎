@@ -1,605 +1,505 @@
 {
     "meaning": "tiger",
     "note": "",
-    "Classical": {
-        "1": "虎",
-        "2": "李父",
-        "3": "李耳",
-        "4": "於菟",
-        "5": "伯都"
-    },
-    "Formal": {
-        "1": "虎"
-    },
-    "Taxonomic": {
-        "1": "虎"
-    },
-    "Beijing": {
-        "1": "老虎"
-    },
-    "Taiwan": {
-        "1": "老虎"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "老虎",
-        "2": "老虎媽子"
-    },
-    "Shenyang": {
-        "1": "老虎"
-    },
-    "Hailar": {
-        "1": "老虎",
-        "2": "山中王"
-    },
-    "Ulan Hot": {
-        "1": "老虎",
-        "2": "山中王"
-    },
-    "Tongliao": {
-        "1": "老虎"
-    },
-    "Chifeng": {
-        "1": "老虎"
-    },
-    "Baochang": {
-        "1": "老虎"
-    },
-    "Bayanhot": {
-        "1": "老虎"
-    },
-    "Jinan": {
-        "1": "老虎"
-    },
-    "Muping": {
-        "1": "老虎"
-    },
-    "Luoyang": {
-        "1": "老虎"
-    },
-    "Wanrong": {
-        "1": "老虎"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "老虎"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "老虎"
-    },
-    "Xining": {
-        "1": "老虎"
-    },
-    "Xuzhou": {
-        "1": "老虎"
-    },
-    "Yinchuan": {
-        "1": "老虎"
-    },
-    "Lanzhou": {
-        "1": "老虎"
-    },
-    "Ürümqi": {
-        "1": "老虎"
-    },
-    "Wuhan": {
-        "1": "老虎"
-    },
-    "Huanggang": {
-        "1": "老虎"
-    },
-    "Chengdu": {
-        "1": "老虎",
-        "2": "大貓兒",
-        "3": "貓貓"
-    },
-    "Guiyang": {
-        "1": "老虎"
-    },
-    "Guilin": {
-        "1": "老虎"
-    },
-    "Liuzhou": {
-        "1": "老虎"
-    },
-    "Kunming": {
-        "1": "老虎"
-    },
-    "Yangzhou": {
-        "1": "老虎"
-    },
-    "Nanjing": {
-        "1": "老虎"
-    },
-    "Hefei": {
-        "1": "老虎"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "老虎"
-    },
-    "Singapore-M": {
-        "1": "老虎"
-    },
-    "Taiyuan": {
-        "1": "老虎"
-    },
-    "Pingyao": {
-        "1": "老虎"
-    },
-    "Xinzhou": {
-        "1": "老虎"
-    },
-    "Jining": {
-        "1": "老虎"
-    },
-    "Hohhot": {
-        "1": "老虎"
-    },
-    "Baotou": {
-        "1": "老虎"
-    },
-    "Dongsheng": {
-        "1": "老虎"
-    },
-    "Linhe": {
-        "1": "老虎"
-    },
-    "Haibowan": {
-        "1": "老虎"
-    },
-    "Shanghai": {
-        "1": "老虎"
-    },
-    "Suzhou": {
-        "1": "老虎"
-    },
-    "Wuxi": {
-        "1": "老虎"
-    },
-    "Hangzhou": {
-        "1": "老虎"
-    },
-    "Chongming": {
-        "1": "老虎"
-    },
-    "Wenzhou": {
-        "1": "老虎",
-        "2": "大貓"
-    },
-    "Danyang": {
-        "1": "老虎"
-    },
-    "Jinhua": {
-        "1": "老虎"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "老虎"
-    },
-    "Changsha": {
-        "1": "老虎",
-        "2": "老蟲",
-        "3": "大蟲",
-        "4": "大貓",
-        "5": "爬山子"
-    },
-    "Shuangfeng": {
-        "1": "老蟲",
-        "2": "山貓兒"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "老蟲",
-        "2": "山貓子"
-    },
-    "Quanzhou-X": {
-        "1": "老虎"
-    },
-    "Nanchang": {
-        "1": "老虎"
-    },
-    "Lichuan": {
-        "1": "老虎"
-    },
-    "Pingxiang": {
-        "1": "老虎"
-    },
-    "Meixian": {
-        "1": "老虎"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "大蟲"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "老虎"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "老虎"
-    },
-    "Liudui": {
-        "1": "老虎"
-    },
-    "Hsinchu": {
-        "1": "老虎"
-    },
-    "Dongshi": {
-        "1": "老虎"
-    },
-    "Raoping": {
-        "1": "老虎"
-    },
-    "Yunlin": {
-        "1": "虎",
-        "2": "老虎"
-    },
-    "Hong Kong-H": {
-        "1": "老虎"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "老虎"
-    },
-    "Singkawang": {
-        "1": "老虎"
-    },
-    "Jixi": {
-        "1": "老虎"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": "老虎"
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "老虎"
-    },
-    "Hong Kong": {
-        "1": "老虎"
-    },
-    "Shunde": {
-        "1": "老虎"
-    },
-    "Foshan": {
-        "1": "老虎"
-    },
-    "Zhongshan": {
-        "1": "老虎"
-    },
-    "Dongguan": {
-        "1": "老虎"
-    },
-    "HK Weitou": {
-        "1": "老虎"
-    },
-    "Taishan": {
-        "1": "老虎"
-    },
-    "Doumen": {
-        "1": "老虎"
-    },
-    "Kaiping": {
-        "1": "老虎"
-    },
-    "Shaoguan": {
-        "1": "老虎"
-    },
-    "Yunfu": {
-        "1": "老虎"
-    },
-    "Yangjiang": {
-        "1": "大蟲",
-        "2": "大貓",
-        "3": "老虎"
-    },
-    "Xinyi": {
-        "1": "老虎"
-    },
-    "Lianjiang": {
-        "1": "老虎"
-    },
-    "Nanning": {
-        "1": "老虎"
-    },
-    "Wuzhou": {
-        "1": "老虎",
-        "2": "大蟲"
-    },
-    "Yulin": {
-        "1": "老虎",
-        "2": "大蟲"
-    },
-    "Hepu": {
-        "1": "老虎",
-        "2": "大蟲"
-    },
-    "Danzhou": {
-        "1": "老虎"
-    },
-    "Kuala Lumpur": {
-        "1": "老虎"
-    },
-    "Ho Chi Minh City": {
-        "1": "老虎"
-    },
-    "Nanning-P": {
-        "1": "老虎"
-    },
-    "Guilin-P": {
-        "1": "老虎"
-    },
-    "Xiamen": {
-        "1": "虎"
-    },
-    "Quanzhou": {
-        "1": "虎"
-    },
-    "Zhangzhou": {
-        "1": "虎"
-    },
-    "Taipei": {
-        "1": "虎"
-    },
-    "Kaohsiung": {
-        "1": "虎"
-    },
-    "Tainan": {
-        "1": "虎"
-    },
-    "Taichung": {
-        "1": "虎"
-    },
-    "Wuqi": {
-        "1": "虎"
-    },
-    "Hsinchu-MN": {
-        "1": "虎"
-    },
-    "Taitung": {
-        "1": "虎"
-    },
-    "Lukang": {
-        "1": "虎"
-    },
-    "Sanxia": {
-        "1": "虎"
-    },
-    "Yilan": {
-        "1": "虎"
-    },
-    "Kinmen": {
-        "1": "虎"
-    },
-    "Magong": {
-        "1": "虎"
-    },
-    "Malaysia-MN": {
-        "1": "老虎"
-    },
-    "Singapore-MN": {
-        "1": "虎",
-        "2": "虎仔",
-        "3": "老虎",
-        "4": "伯公馬:dated"
-    },
-    "Philippine-MN": {
-        "1": "虎"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "虎"
-    },
-    "Chaozhou": {
-        "1": "老虎"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "老虎"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "老虎"
-    },
-    "Wenchang": {
-        "1": "老虎"
-    },
-    "Haikou": {
-        "1": "虎"
-    },
-    "Leizhou": {
-        "1": "虎"
-    },
-    "Putian": {
-        "1": "老虎"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "老虎"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "老虎"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "老虎"
-    },
-    "Jian'ou": {
-        "1": "老虎"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "老虎"
-    },
-    "Fuding-She": {
-        "1": "老虎"
-    },
-    "Luoyuan-She": {
-        "1": "老虎"
-    },
-    "Sanming-She": {
-        "1": "老虎"
-    },
-    "Shunchang-She": {
-        "1": "老虎"
-    },
-    "Hua'an-She": {
-        "1": "老虎"
-    },
-    "Guixi-She": {
-        "1": "老虎"
-    },
-    "Cangnan-She": {
-        "1": "老虎"
-    },
-    "Jingning-She": {
-        "1": "老虎"
-    },
-    "Lishui-She": {
-        "1": "老虎"
-    },
-    "Longyou-She": {
-        "1": "老虎"
-    },
-    "Chaozhou-She": {
-        "1": "老虎"
-    },
-    "Fengshun-She": {
-        "1": "老虎"
-    }
+    "Classical": [
+        "虎",
+        "李父",
+        "李耳",
+        "於菟",
+        "伯都"
+    ],
+    "Formal": [
+        "虎"
+    ],
+    "Taxonomic": [
+        "虎"
+    ],
+    "Beijing": [
+        "老虎"
+    ],
+    "Taiwan": [
+        "老虎"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "老虎",
+        "老虎媽子"
+    ],
+    "Shenyang": [
+        "老虎"
+    ],
+    "Hailar": [
+        "老虎",
+        "山中王"
+    ],
+    "Ulan Hot": [
+        "老虎",
+        "山中王"
+    ],
+    "Tongliao": [
+        "老虎"
+    ],
+    "Chifeng": [
+        "老虎"
+    ],
+    "Baochang": [
+        "老虎"
+    ],
+    "Bayanhot": [
+        "老虎"
+    ],
+    "Jinan": [
+        "老虎"
+    ],
+    "Muping": [
+        "老虎"
+    ],
+    "Luoyang": [
+        "老虎"
+    ],
+    "Wanrong": [
+        "老虎"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "老虎"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "老虎"
+    ],
+    "Xining": [
+        "老虎"
+    ],
+    "Xuzhou": [
+        "老虎"
+    ],
+    "Yinchuan": [
+        "老虎"
+    ],
+    "Lanzhou": [
+        "老虎"
+    ],
+    "Ürümqi": [
+        "老虎"
+    ],
+    "Wuhan": [
+        "老虎"
+    ],
+    "Huanggang": [
+        "老虎"
+    ],
+    "Chengdu": [
+        "老虎",
+        "大貓兒",
+        "貓貓"
+    ],
+    "Guiyang": [
+        "老虎"
+    ],
+    "Guilin": [
+        "老虎"
+    ],
+    "Liuzhou": [
+        "老虎"
+    ],
+    "Kunming": [
+        "老虎"
+    ],
+    "Yangzhou": [
+        "老虎"
+    ],
+    "Nanjing": [
+        "老虎"
+    ],
+    "Hefei": [
+        "老虎"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "老虎"
+    ],
+    "Singapore-M": [
+        "老虎"
+    ],
+    "Taiyuan": [
+        "老虎"
+    ],
+    "Pingyao": [
+        "老虎"
+    ],
+    "Xinzhou": [
+        "老虎"
+    ],
+    "Jining": [
+        "老虎"
+    ],
+    "Hohhot": [
+        "老虎"
+    ],
+    "Baotou": [
+        "老虎"
+    ],
+    "Dongsheng": [
+        "老虎"
+    ],
+    "Linhe": [
+        "老虎"
+    ],
+    "Haibowan": [
+        "老虎"
+    ],
+    "Shanghai": [
+        "老虎"
+    ],
+    "Suzhou": [
+        "老虎"
+    ],
+    "Wuxi": [
+        "老虎"
+    ],
+    "Hangzhou": [
+        "老虎"
+    ],
+    "Chongming": [
+        "老虎"
+    ],
+    "Wenzhou": [
+        "老虎",
+        "大貓"
+    ],
+    "Danyang": [
+        "老虎"
+    ],
+    "Jinhua": [
+        "老虎"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "老虎"
+    ],
+    "Changsha": [
+        "老虎",
+        "老蟲",
+        "大蟲",
+        "大貓",
+        "爬山子"
+    ],
+    "Shuangfeng": [
+        "老蟲",
+        "山貓兒"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "老蟲",
+        "山貓子"
+    ],
+    "Quanzhou-X": [
+        "老虎"
+    ],
+    "Nanchang": [
+        "老虎"
+    ],
+    "Lichuan": [
+        "老虎"
+    ],
+    "Pingxiang": [
+        "老虎"
+    ],
+    "Meixian": [
+        "老虎"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "大蟲"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "老虎"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "老虎"
+    ],
+    "Liudui": [
+        "老虎"
+    ],
+    "Hsinchu": [
+        "老虎"
+    ],
+    "Dongshi": [
+        "老虎"
+    ],
+    "Raoping": [
+        "老虎"
+    ],
+    "Yunlin": [
+        "虎",
+        "老虎"
+    ],
+    "Hong Kong-H": [
+        "老虎"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "老虎"
+    ],
+    "Singkawang": [
+        "老虎"
+    ],
+    "Jixi": [
+        "老虎"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [
+        "老虎"
+    ],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "老虎"
+    ],
+    "Hong Kong": [
+        "老虎"
+    ],
+    "Shunde": [
+        "老虎"
+    ],
+    "Foshan": [
+        "老虎"
+    ],
+    "Zhongshan": [
+        "老虎"
+    ],
+    "Dongguan": [
+        "老虎"
+    ],
+    "HK Weitou": [
+        "老虎"
+    ],
+    "Taishan": [
+        "老虎"
+    ],
+    "Doumen": [
+        "老虎"
+    ],
+    "Kaiping": [
+        "老虎"
+    ],
+    "Shaoguan": [
+        "老虎"
+    ],
+    "Yunfu": [
+        "老虎"
+    ],
+    "Yangjiang": [
+        "大蟲",
+        "大貓",
+        "老虎"
+    ],
+    "Xinyi": [
+        "老虎"
+    ],
+    "Lianjiang": [
+        "老虎"
+    ],
+    "Nanning": [
+        "老虎"
+    ],
+    "Wuzhou": [
+        "老虎",
+        "大蟲"
+    ],
+    "Yulin": [
+        "老虎",
+        "大蟲"
+    ],
+    "Hepu": [
+        "老虎",
+        "大蟲"
+    ],
+    "Danzhou": [
+        "老虎"
+    ],
+    "Kuala Lumpur": [
+        "老虎"
+    ],
+    "Ho Chi Minh City": [
+        "老虎"
+    ],
+    "Nanning-P": [
+        "老虎"
+    ],
+    "Guilin-P": [
+        "老虎"
+    ],
+    "Xiamen": [
+        "虎"
+    ],
+    "Quanzhou": [
+        "虎"
+    ],
+    "Zhangzhou": [
+        "虎"
+    ],
+    "Taipei": [
+        "虎"
+    ],
+    "Kaohsiung": [
+        "虎"
+    ],
+    "Tainan": [
+        "虎"
+    ],
+    "Taichung": [
+        "虎"
+    ],
+    "Wuqi": [
+        "虎"
+    ],
+    "Hsinchu-MN": [
+        "虎"
+    ],
+    "Taitung": [
+        "虎"
+    ],
+    "Lukang": [
+        "虎"
+    ],
+    "Sanxia": [
+        "虎"
+    ],
+    "Yilan": [
+        "虎"
+    ],
+    "Kinmen": [
+        "虎"
+    ],
+    "Magong": [
+        "虎"
+    ],
+    "Malaysia-MN": [
+        "老虎"
+    ],
+    "Singapore-MN": [
+        "虎",
+        "虎仔",
+        "老虎",
+        "伯公馬:dated"
+    ],
+    "Philippine-MN": [
+        "虎"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "虎"
+    ],
+    "Chaozhou": [
+        "老虎"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "老虎"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "老虎"
+    ],
+    "Wenchang": [
+        "老虎"
+    ],
+    "Haikou": [
+        "虎"
+    ],
+    "Leizhou": [
+        "虎"
+    ],
+    "Putian": [
+        "老虎"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "老虎"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "老虎"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "老虎"
+    ],
+    "Jian'ou": [
+        "老虎"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "老虎"
+    ],
+    "Fuding-She": [
+        "老虎"
+    ],
+    "Luoyuan-She": [
+        "老虎"
+    ],
+    "Sanming-She": [
+        "老虎"
+    ],
+    "Shunchang-She": [
+        "老虎"
+    ],
+    "Hua'an-She": [
+        "老虎"
+    ],
+    "Guixi-She": [
+        "老虎"
+    ],
+    "Cangnan-She": [
+        "老虎"
+    ],
+    "Jingning-She": [
+        "老虎"
+    ],
+    "Lishui-She": [
+        "老虎"
+    ],
+    "Longyou-She": [
+        "老虎"
+    ],
+    "Chaozhou-She": [
+        "老虎"
+    ],
+    "Fengshun-She": [
+        "老虎"
+    ]
 }

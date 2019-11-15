@@ -1,569 +1,425 @@
 {
     "meaning": "eyeglasses",
     "note": "",
-    "Classical": {
-        "1": "靉靆",
-        "2": "眼鏡"
-    },
-    "Formal": {
-        "1": "眼鏡"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "眼鏡兒"
-    },
-    "Taiwan": {
-        "1": "眼鏡"
-    },
-    "Tianjin": {
-        "1": "眼鏡兒"
-    },
-    "Harbin": {
-        "1": "眼鏡兒",
-        "2": "鏡子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "眼鏡子",
-        "2": "鏡子"
-    },
-    "Muping": {
-        "1": "眼鏡"
-    },
-    "Luoyang": {
-        "1": "眼鏡兒",
-        "2": "二餅兒:derogatory"
-    },
-    "Wanrong": {
-        "1": "眼鏡",
-        "2": "鏡子:dated",
-        "3": "二柄子:derogatory"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "眼鏡"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "眼鏡"
-    },
-    "Xining": {
-        "1": "眼鏡兒",
-        "2": "眼鏡兒子"
-    },
-    "Xuzhou": {
-        "1": "二餅:humorous"
-    },
-    "Yinchuan": {
-        "1": "眼鏡"
-    },
-    "Lanzhou": {
-        "1": "眼鏡子",
-        "2": "鏡子",
-        "3": "二軲轆:humorous"
-    },
-    "Ürümqi": {
-        "1": "眼鏡子",
-        "2": "鏡子"
-    },
-    "Wuhan": {
-        "1": "眼鏡",
-        "2": "鏡子:dated",
-        "3": "玻璃:humorous"
-    },
-    "Huanggang": {
-        "1": "眼鏡兒"
-    },
-    "Chengdu": {
-        "1": "眼鏡兒",
-        "2": "眼鏡"
-    },
-    "Guiyang": {
-        "1": "眼鏡"
-    },
-    "Guilin": {
-        "1": "眼鏡"
-    },
-    "Liuzhou": {
-        "1": "眼鏡"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "眼鏡子"
-    },
-    "Nanjing": {
-        "1": "眼鏡",
-        "2": "二餅:humorous"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "眼鏡"
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "眼鏡子"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "眼鏡"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "眼鏡",
-        "2": "二餅子:derogatory"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "眼鏡兒"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "眼鏡",
-        "2": "托力克"
-    },
-    "Suzhou": {
-        "1": "眼鏡"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "眼鏡兒"
-    },
-    "Chongming": {
-        "1": "眼鏡"
-    },
-    "Wenzhou": {
-        "1": "眼鏡",
-        "2": "眼視鏡"
-    },
-    "Danyang": {
-        "1": "眼鏡子"
-    },
-    "Jinhua": {
-        "1": "眼鏡"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蔡眼"
-    },
-    "Changsha": {
-        "1": "眼鏡"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "眼鏡"
-    },
-    "Quanzhou-X": {
-        "1": "眼鏡"
-    },
-    "Nanchang": {
-        "1": "眼鏡子"
-    },
-    "Lichuan": {
-        "1": "眼鏡"
-    },
-    "Pingxiang": {
-        "1": "眼鏡"
-    },
-    "Meixian": {
-        "1": "目鏡",
-        "2": "眼鏡"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "眼鏡"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "眼鏡"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "目鏡",
-        "2": "眼枷仔:dated",
-        "3": "眼枷:dated"
-    },
-    "Liudui": {
-        "1": "目鏡",
-        "2": "眼鏡",
-        "3": "眼枷仔",
-        "4": "眼枷"
-    },
-    "Hsinchu": {
-        "1": "目鏡"
-    },
-    "Dongshi": {
-        "1": "目鏡"
-    },
-    "Raoping": {
-        "1": "目鏡"
-    },
-    "Yunlin": {
-        "1": "目鏡"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "眼鏡"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "眼鏡"
-    },
-    "Hong Kong": {
-        "1": "眼鏡"
-    },
-    "Shunde": {
-        "1": "眼鏡"
-    },
-    "Foshan": {
-        "1": "眼鏡"
-    },
-    "Zhongshan": {
-        "1": "眼鏡"
-    },
-    "Dongguan": {
-        "1": "眼鏡",
-        "2": "二文錢:dated"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "眼鏡"
-    },
-    "Doumen": {
-        "1": "眼鏡"
-    },
-    "Kaiping": {
-        "1": "眼鏡"
-    },
-    "Shaoguan": {
-        "1": "眼鏡"
-    },
-    "Yunfu": {
-        "1": "眼鏡"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "眼鏡"
-    },
-    "Lianjiang": {
-        "1": "眼鏡"
-    },
-    "Nanning": {
-        "1": "眼鏡"
-    },
-    "Wuzhou": {
-        "1": "眼鏡"
-    },
-    "Yulin": {
-        "1": "眼鏡"
-    },
-    "Hepu": {
-        "1": "眼鏡"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "眼鏡",
-        "2": "眼枷"
-    },
-    "Guilin-P": {
-        "1": "眼鏡子"
-    },
-    "Xiamen": {
-        "1": "目鏡"
-    },
-    "Quanzhou": {
-        "1": "目鏡"
-    },
-    "Zhangzhou": {
-        "1": "目鏡"
-    },
-    "Taipei": {
-        "1": "目鏡"
-    },
-    "Kaohsiung": {
-        "1": "目鏡"
-    },
-    "Tainan": {
-        "1": "目鏡"
-    },
-    "Taichung": {
-        "1": "目鏡"
-    },
-    "Wuqi": {
-        "1": "目鏡"
-    },
-    "Taitung": {
-        "1": "目鏡"
-    },
-    "Hsinchu-MN": {
-        "1": "目鏡"
-    },
-    "Lukang": {
-        "1": "目鏡"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "目鏡"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "目鏡"
-    },
-    "Malaysia-MN": {
-        "1": "目鏡"
-    },
-    "Singapore-MN": {
-        "1": "目鏡"
-    },
-    "Philippine-MN": {
-        "1": "目鏡"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "眼鏡"
-    },
-    "Chaozhou": {
-        "1": "目鏡"
-    },
-    "Shantou": {
-        "1": "目鏡"
-    },
-    "Haifeng": {
-        "1": "目鏡"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": "目鏡"
-    },
-    "Haikou": {
-        "1": "目鏡"
-    },
-    "Leizhou": {
-        "1": "目鏡"
-    },
-    "Putian": {
-        "1": "目鏡"
-    },
-    "Xianyou": {
-        "1": "目鏡"
-    },
-    "Fuzhou": {
-        "1": "眼鏡"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "眼鏡"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": "眼鏡"
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "眼鏡"
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": "眼鏡"
-    },
-    "Fuding": {
-        "1": "眼鏡"
-    },
-    "Matsu": {
-        "1": "眼鏡"
-    },
-    "Jian'ou": {
-        "1": "眼鏡"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": "眼鏡"
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "眼鏡"
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [
+        "靉靆",
+        "眼鏡"
+    ],
+    "Formal": [
+        "眼鏡"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "眼鏡兒"
+    ],
+    "Taiwan": [
+        "眼鏡"
+    ],
+    "Tianjin": [
+        "眼鏡兒"
+    ],
+    "Harbin": [
+        "眼鏡兒",
+        "鏡子"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "眼鏡子",
+        "鏡子"
+    ],
+    "Muping": [
+        "眼鏡"
+    ],
+    "Luoyang": [
+        "眼鏡兒",
+        "二餅兒:derogatory"
+    ],
+    "Wanrong": [
+        "眼鏡",
+        "鏡子:dated",
+        "二柄子:derogatory"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "眼鏡"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "眼鏡"
+    ],
+    "Xining": [
+        "眼鏡兒",
+        "眼鏡兒子"
+    ],
+    "Xuzhou": [
+        "二餅:humorous"
+    ],
+    "Yinchuan": [
+        "眼鏡"
+    ],
+    "Lanzhou": [
+        "眼鏡子",
+        "鏡子",
+        "二軲轆:humorous"
+    ],
+    "Ürümqi": [
+        "眼鏡子",
+        "鏡子"
+    ],
+    "Wuhan": [
+        "眼鏡",
+        "鏡子:dated",
+        "玻璃:humorous"
+    ],
+    "Huanggang": [
+        "眼鏡兒"
+    ],
+    "Chengdu": [
+        "眼鏡兒",
+        "眼鏡"
+    ],
+    "Guiyang": [
+        "眼鏡"
+    ],
+    "Guilin": [
+        "眼鏡"
+    ],
+    "Liuzhou": [
+        "眼鏡"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "眼鏡子"
+    ],
+    "Nanjing": [
+        "眼鏡",
+        "二餅:humorous"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [
+        "眼鏡"
+    ],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "眼鏡子"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "眼鏡"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "眼鏡",
+        "二餅子:derogatory"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "眼鏡兒"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "眼鏡",
+        "托力克"
+    ],
+    "Suzhou": [
+        "眼鏡"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "眼鏡兒"
+    ],
+    "Chongming": [
+        "眼鏡"
+    ],
+    "Wenzhou": [
+        "眼鏡",
+        "眼視鏡"
+    ],
+    "Danyang": [
+        "眼鏡子"
+    ],
+    "Jinhua": [
+        "眼鏡"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蔡眼"
+    ],
+    "Changsha": [
+        "眼鏡"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "眼鏡"
+    ],
+    "Quanzhou-X": [
+        "眼鏡"
+    ],
+    "Nanchang": [
+        "眼鏡子"
+    ],
+    "Lichuan": [
+        "眼鏡"
+    ],
+    "Pingxiang": [
+        "眼鏡"
+    ],
+    "Meixian": [
+        "目鏡",
+        "眼鏡"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "眼鏡"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "眼鏡"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "目鏡",
+        "眼枷仔:dated",
+        "眼枷:dated"
+    ],
+    "Liudui": [
+        "目鏡",
+        "眼鏡",
+        "眼枷仔",
+        "眼枷"
+    ],
+    "Hsinchu": [
+        "目鏡"
+    ],
+    "Dongshi": [
+        "目鏡"
+    ],
+    "Raoping": [
+        "目鏡"
+    ],
+    "Yunlin": [
+        "目鏡"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "眼鏡"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "眼鏡"
+    ],
+    "Hong Kong": [
+        "眼鏡"
+    ],
+    "Shunde": [
+        "眼鏡"
+    ],
+    "Foshan": [
+        "眼鏡"
+    ],
+    "Zhongshan": [
+        "眼鏡"
+    ],
+    "Dongguan": [
+        "眼鏡",
+        "二文錢:dated"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "眼鏡"
+    ],
+    "Doumen": [
+        "眼鏡"
+    ],
+    "Kaiping": [
+        "眼鏡"
+    ],
+    "Shaoguan": [
+        "眼鏡"
+    ],
+    "Yunfu": [
+        "眼鏡"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "眼鏡"
+    ],
+    "Lianjiang": [
+        "眼鏡"
+    ],
+    "Nanning": [
+        "眼鏡"
+    ],
+    "Wuzhou": [
+        "眼鏡"
+    ],
+    "Yulin": [
+        "眼鏡"
+    ],
+    "Hepu": [
+        "眼鏡"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "眼鏡",
+        "眼枷"
+    ],
+    "Guilin-P": [
+        "眼鏡子"
+    ],
+    "Xiamen": [
+        "目鏡"
+    ],
+    "Quanzhou": [
+        "目鏡"
+    ],
+    "Zhangzhou": [
+        "目鏡"
+    ],
+    "Taipei": [
+        "目鏡"
+    ],
+    "Kaohsiung": [
+        "目鏡"
+    ],
+    "Tainan": [
+        "目鏡"
+    ],
+    "Taichung": [
+        "目鏡"
+    ],
+    "Wuqi": [
+        "目鏡"
+    ],
+    "Taitung": [
+        "目鏡"
+    ],
+    "Hsinchu-MN": [
+        "目鏡"
+    ],
+    "Lukang": [
+        "目鏡"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "目鏡"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "目鏡"
+    ],
+    "Malaysia-MN": [
+        "目鏡"
+    ],
+    "Singapore-MN": [
+        "目鏡"
+    ],
+    "Philippine-MN": [
+        "目鏡"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "眼鏡"
+    ],
+    "Chaozhou": [
+        "目鏡"
+    ],
+    "Shantou": [
+        "目鏡"
+    ],
+    "Haifeng": [
+        "目鏡"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [
+        "目鏡"
+    ],
+    "Haikou": [
+        "目鏡"
+    ],
+    "Leizhou": [
+        "目鏡"
+    ],
+    "Putian": [
+        "目鏡"
+    ],
+    "Xianyou": [
+        "目鏡"
+    ],
+    "Fuzhou": [
+        "眼鏡"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "眼鏡"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [
+        "眼鏡"
+    ],
+    "Fu'an": [],
+    "Ningde": [
+        "眼鏡"
+    ],
+    "Shouning": [],
+    "Zhouning": [
+        "眼鏡"
+    ],
+    "Fuding": [
+        "眼鏡"
+    ],
+    "Matsu": [
+        "眼鏡"
+    ],
+    "Jian'ou": [
+        "眼鏡"
+    ],
+    "Dikou": [],
+    "Songxi": [
+        "眼鏡"
+    ],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "眼鏡"
+    ],
+    "Wuyishan": [],
+    "Shibei": []
 }

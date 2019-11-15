@@ -1,842 +1,670 @@
 {
     "meaning": "farmer; peasant",
     "note": "",
-    "Classical": {
-        "1": "農",
-        "2": "農民",
-        "3": "農人",
-        "4": "農夫"
-    },
-    "Formal": {
-        "1": "農民",
-        "2": "農人"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "農民",
-        "2": "莊稼人",
-        "3": "莊稼漢:male"
-    },
-    "Taiwan": {
-        "1": "農夫",
-        "2": "農民",
-        "3": "農人"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "農民",
-        "2": "莊稼人",
-        "3": "莊稼漢:male",
-        "4": "莊稼佬兒:derogatory"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "老農",
-        "2": "種地的"
-    },
-    "Ulan Hot": {
-        "1": "莊稼人"
-    },
-    "Tongliao": {
-        "1": "老農",
-        "2": "種地的"
-    },
-    "Chifeng": {
-        "1": "莊稼漢"
-    },
-    "Bayanhot": {
-        "1": "種田的",
-        "2": "莊稼漢"
-    },
-    "Jinan": {
-        "1": "農民",
-        "2": "農哥兒們",
-        "3": "農哥們兒",
-        "4": "農哥兒們兒"
-    },
-    "Muping": {
-        "1": "農民",
-        "2": "莊稼人",
-        "3": "莊戶孫",
-        "4": "老農:honorific or humorous",
-        "5": "莊稼霸子:derogatory"
-    },
-    "Luoyang": {
-        "1": "農民",
-        "2": "莊稼人",
-        "3": "莊稼漢",
-        "4": "種地的"
-    },
-    "Wanrong": {
-        "1": "莊稼戶",
-        "2": "做莊稼的",
-        "3": "農民"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "做莊稼的",
-        "2": "莊稼人",
-        "3": "農民"
-    },
-    "Qingdao": {
-        "1": "莊戶人"
-    },
-    "Zhengzhou": {
-        "1": "莊稼人"
-    },
-    "Xining": {
-        "1": "莊稼人"
-    },
-    "Xuzhou": {
-        "1": "種地的",
-        "2": "莊戶人"
-    },
-    "Yinchuan": {
-        "1": "莊戶",
-        "2": "莊稼漢",
-        "3": "農人:dated"
-    },
-    "Lanzhou": {
-        "1": "莊稼人"
-    },
-    "Ürümqi": {
-        "1": "農民"
-    },
-    "Wuhan": {
-        "1": "農民",
-        "2": "農人",
-        "3": "種田的"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "農民",
-        "2": "農村人",
-        "3": "鄉下人",
-        "4": "鄉巴佬兒:derogatory",
-        "5": "鄉巴佬:derogatory",
-        "6": "鄉廣廣:derogatory",
-        "7": "老坎:derogatory",
-        "8": "黃泥巴腳桿:derogatory",
-        "9": "泥巴腳桿:derogatory",
-        "10": "彎腳桿:derogatory",
-        "11": "農二哥:derogatory",
-        "12": "欒二哥:dated, derogatory",
-        "13": "欒二:dated, derogatory",
-        "14": "欒豁皮:dated, derogatory",
-        "15": "欒豁:dated, derogatory",
-        "16": "老欒:dated, derogatory",
-        "17": "欒民:dated, derogatory"
-    },
-    "Guiyang": {
-        "1": "農人"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "種田的",
-        "2": "農民",
-        "3": "農民佬"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "種田的",
-        "2": "二哥哥",
-        "3": "捧牛屁股的:dated, derogatory"
-    },
-    "Nanjing": {
-        "1": "種田的",
-        "2": "農民"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "種田哩"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "戶家"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "莊稼人",
-        "2": "農民",
-        "3": "受苦人:self-appellation"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "農業上哩",
-        "2": "受苦人:dated",
-        "3": "莊戶人:dated",
-        "4": "黑脊背:dated"
-    },
-    "Baochang": {
-        "1": "莊戶人"
-    },
-    "Jining": {
-        "1": "莊戶人"
-    },
-    "Hohhot": {
-        "1": "莊戶人"
-    },
-    "Baotou": {
-        "1": "莊戶人"
-    },
-    "Dongsheng": {
-        "1": "莊戶人"
-    },
-    "Linhe": {
-        "1": "莊戶人"
-    },
-    "Haibowan": {
-        "1": "莊稼漢"
-    },
-    "Shanghai": {
-        "1": "種田個",
-        "2": "農民"
-    },
-    "Suzhou": {
-        "1": "農民",
-        "2": "鄉下人",
-        "3": "種田個"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "農民"
-    },
-    "Chongming": {
-        "1": "種田地人",
-        "2": "種田人"
-    },
-    "Wenzhou": {
-        "1": "種田人"
-    },
-    "Danyang": {
-        "1": "農民",
-        "2": "種田人"
-    },
-    "Jinhua": {
-        "1": "種田地個",
-        "2": "種田個",
-        "3": "農民"
-    },
-    "Tangxi": {
-        "1": "種田儂"
-    },
-    "Ningbo": {
-        "1": "種田人"
-    },
-    "Changsha": {
-        "1": "農民",
-        "2": "作田的"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "作田個"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "作田個"
-    },
-    "Lichuan": {
-        "1": "作田個"
-    },
-    "Pingxiang": {
-        "1": "作田人",
-        "2": "農民"
-    },
-    "Meixian": {
-        "1": "耕田佬",
-        "2": "耕田儕"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "做田人"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "作田儕"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "做田個"
-    },
-    "Yudu": {
-        "1": "作田佬"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "耕田人",
-        "2": "耕種人",
-        "3": "耕田儕",
-        "4": "農民",
-        "5": "農家人"
-    },
-    "Liudui": {
-        "1": "耕田人",
-        "2": "耕種人",
-        "3": "農民",
-        "4": "農民仔",
-        "5": "農家人"
-    },
-    "Hsinchu": {
-        "1": "耕田人",
-        "2": "耕種人",
-        "3": "農民",
-        "4": "農家人"
-    },
-    "Dongshi": {
-        "1": "耕田人",
-        "2": "耕種人",
-        "3": "耕田個",
-        "4": "農民",
-        "5": "農家人"
-    },
-    "Raoping": {
-        "1": "耕田人",
-        "2": "耕種人",
-        "3": "農民",
-        "4": "農家人"
-    },
-    "Yunlin": {
-        "1": "作穡人",
-        "2": "農民",
-        "3": "農家人"
-    },
-    "Hong Kong-H": {
-        "1": "耕田佬"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "農人",
-        "2": "耕田佬"
-    },
-    "Senai": {
-        "1": "耕田佬"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "農民",
-        "2": "種田仂",
-        "3": "務農佬:derogatory",
-        "4": "務農坯:derogatory"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "農民",
-        "2": "耕田佬",
-        "3": "㩧佬:derogatory"
-    },
-    "Hong Kong": {
-        "1": "農夫",
-        "2": "農人",
-        "3": "耕田佬",
-        "4": "㩧佬:derogatory"
-    },
-    "HK Weitou": {
-        "1": "耕田佬"
-    },
-    "Kam Tin": {
-        "1": "耕田佬"
-    },
-    "Ting Kok": {
-        "1": "耕田佬"
-    },
-    "Tung Ping Chau": {
-        "1": "耕田佬"
-    },
-    "Macau": {
-        "1": "農民"
-    },
-    "Panyu": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Huadu": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Conghua": {
-        "1": "耕田佬"
-    },
-    "Zengcheng": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Foshan": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Nanhai": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Shunde": {
-        "1": "農民"
-    },
-    "Sanshui": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Gaoming": {
-        "1": "耕田佬"
-    },
-    "Zhongshan": {
-        "1": "農民"
-    },
-    "Zhuhai": {
-        "1": "農民"
-    },
-    "Doumen-T": {
-        "1": "耕田佬"
-    },
-    "Doumen-S": {
-        "1": "耕田佬"
-    },
-    "Jiangmen": {
-        "1": "耕田佬"
-    },
-    "Xinhui": {
-        "1": "耕田佬"
-    },
-    "Taishan": {
-        "1": "農民"
-    },
-    "Kaiping": {
-        "1": "農民"
-    },
-    "Enping": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Heshan": {
-        "1": "耕田佬"
-    },
-    "Dongguan": {
-        "1": "農民",
-        "2": "耕田佬"
-    },
-    "Bao'an": {
-        "1": "耕田佬"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "農民"
-    },
-    "Yunfu": {
-        "1": "耕田佬",
-        "2": "撚泥頭"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "耕田佬"
-    },
-    "Lianjiang": {
-        "1": "農民",
-        "2": "㩧佬",
-        "3": "耕田佬"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "耕田佬"
-    },
-    "Ho Chi Minh City": {
-        "1": "耕田佬"
-    },
-    "Nanning-P": {
-        "1": "農民"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "作塍儂",
-        "2": "作穡儂",
-        "3": "農民",
-        "4": "農哥:slightly derogatory or humble"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "作塍儂",
-        "2": "作穡儂",
-        "3": "農民",
-        "4": "農哥:slightly derogatory or humble"
-    },
-    "Jinjiang": {
-        "1": "作塍儂",
-        "2": "作穡儂"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "作塍儂"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "作塍儂",
-        "2": "農民",
-        "3": "農哥:slightly derogatory or humble"
-    },
-    "Longhai": {
-        "1": "作塍儂"
-    },
-    "Changtai": {
-        "1": "作塍儂"
-    },
-    "Hua'an": {
-        "1": "作塍儂"
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": "作塍儂"
-    },
-    "Zhangpu": {
-        "1": "作塍儂"
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "作穡儂",
-        "2": "農民"
-    },
-    "Taipei": {
-        "1": "做穡的"
-    },
-    "Kaohsiung": {
-        "1": "作穡的",
-        "2": "作穡儂"
-    },
-    "Tainan": {
-        "1": "作穡的",
-        "2": "作園的",
-        "3": "作穡儂"
-    },
-    "Taichung": {
-        "1": "作穡儂",
-        "2": "作塍儂"
-    },
-    "Wuqi": {
-        "1": "作穡儂"
-    },
-    "Hsinchu-MN": {
-        "1": "作穡儂"
-    },
-    "Taitung": {
-        "1": "作穡儂"
-    },
-    "Lukang": {
-        "1": "作穡的",
-        "2": "作園的",
-        "3": "作塍儂"
-    },
-    "Sanxia": {
-        "1": "作塍儂"
-    },
-    "Yilan": {
-        "1": "作穡的",
-        "2": "作園的",
-        "3": "作塍儂"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "做穡的",
-        "2": "做山的"
-    },
-    "Malaysia-MN": {
-        "1": "種塍的儂"
-    },
-    "Singapore-MN": {
-        "1": "作巴的"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "做塍儂"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "作塍儂"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "作塍儂"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "做百姓個",
-        "2": "做農個",
-        "3": "農民",
-        "4": "做塍爹:male",
-        "5": "做塍姩:female"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "農夫"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "農民",
-        "2": "做塍其",
-        "3": "做塍儂"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "做塍其儂",
-        "2": "農民"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "做塍儂"
-    },
-    "Jian'ou": {
-        "1": "打粗人",
-        "2": "打塍人"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "做田人"
-    },
-    "Fuding-She": {
-        "1": "做田人"
-    },
-    "Luoyuan-She": {
-        "1": "做田人"
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": "做田人"
-    },
-    "Hua'an-She": {
-        "1": "做田人"
-    },
-    "Guixi-She": {
-        "1": "做田人"
-    },
-    "Cangnan-She": {
-        "1": "做田人"
-    },
-    "Jingning-She": {
-        "1": "做田人"
-    },
-    "Lishui-She": {
-        "1": "做田人"
-    },
-    "Longyou-She": {
-        "1": "做田人"
-    },
-    "Chaozhou-She": {
-        "1": "做田人"
-    },
-    "Fengshun-She": {
-        "1": "做田人"
-    }
+    "Classical": [
+        "農",
+        "農民",
+        "農人",
+        "農夫"
+    ],
+    "Formal": [
+        "農民",
+        "農人"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "農民",
+        "莊稼人",
+        "莊稼漢:male"
+    ],
+    "Taiwan": [
+        "農夫",
+        "農民",
+        "農人"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "農民",
+        "莊稼人",
+        "莊稼漢:male",
+        "莊稼佬兒:derogatory"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "老農",
+        "種地的"
+    ],
+    "Ulan Hot": [
+        "莊稼人"
+    ],
+    "Tongliao": [
+        "老農",
+        "種地的"
+    ],
+    "Chifeng": [
+        "莊稼漢"
+    ],
+    "Bayanhot": [
+        "種田的",
+        "莊稼漢"
+    ],
+    "Jinan": [
+        "農民",
+        "農哥兒們",
+        "農哥們兒",
+        "農哥兒們兒"
+    ],
+    "Muping": [
+        "農民",
+        "莊稼人",
+        "莊戶孫",
+        "老農:honorific or humorous",
+        "莊稼霸子:derogatory"
+    ],
+    "Luoyang": [
+        "農民",
+        "莊稼人",
+        "莊稼漢",
+        "種地的"
+    ],
+    "Wanrong": [
+        "莊稼戶",
+        "做莊稼的",
+        "農民"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "做莊稼的",
+        "莊稼人",
+        "農民"
+    ],
+    "Qingdao": [
+        "莊戶人"
+    ],
+    "Zhengzhou": [
+        "莊稼人"
+    ],
+    "Xining": [
+        "莊稼人"
+    ],
+    "Xuzhou": [
+        "種地的",
+        "莊戶人"
+    ],
+    "Yinchuan": [
+        "莊戶",
+        "莊稼漢",
+        "農人:dated"
+    ],
+    "Lanzhou": [
+        "莊稼人"
+    ],
+    "Ürümqi": [
+        "農民"
+    ],
+    "Wuhan": [
+        "農民",
+        "農人",
+        "種田的"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "農民",
+        "農村人",
+        "鄉下人",
+        "鄉巴佬兒:derogatory",
+        "鄉巴佬:derogatory",
+        "鄉廣廣:derogatory",
+        "老坎:derogatory",
+        "黃泥巴腳桿:derogatory",
+        "泥巴腳桿:derogatory",
+        "彎腳桿:derogatory",
+        "農二哥:derogatory",
+        "欒二哥:dated, derogatory",
+        "欒二:dated, derogatory",
+        "欒豁皮:dated, derogatory",
+        "欒豁:dated, derogatory",
+        "老欒:dated, derogatory",
+        "欒民:dated, derogatory"
+    ],
+    "Guiyang": [
+        "農人"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "種田的",
+        "農民",
+        "農民佬"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "種田的",
+        "二哥哥",
+        "捧牛屁股的:dated, derogatory"
+    ],
+    "Nanjing": [
+        "種田的",
+        "農民"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "種田哩"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "戶家"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "莊稼人",
+        "農民",
+        "受苦人:self-appellation"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "農業上哩",
+        "受苦人:dated",
+        "莊戶人:dated",
+        "黑脊背:dated"
+    ],
+    "Baochang": [
+        "莊戶人"
+    ],
+    "Jining": [
+        "莊戶人"
+    ],
+    "Hohhot": [
+        "莊戶人"
+    ],
+    "Baotou": [
+        "莊戶人"
+    ],
+    "Dongsheng": [
+        "莊戶人"
+    ],
+    "Linhe": [
+        "莊戶人"
+    ],
+    "Haibowan": [
+        "莊稼漢"
+    ],
+    "Shanghai": [
+        "種田個",
+        "農民"
+    ],
+    "Suzhou": [
+        "農民",
+        "鄉下人",
+        "種田個"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "農民"
+    ],
+    "Chongming": [
+        "種田地人",
+        "種田人"
+    ],
+    "Wenzhou": [
+        "種田人"
+    ],
+    "Danyang": [
+        "農民",
+        "種田人"
+    ],
+    "Jinhua": [
+        "種田地個",
+        "種田個",
+        "農民"
+    ],
+    "Tangxi": [
+        "種田儂"
+    ],
+    "Ningbo": [
+        "種田人"
+    ],
+    "Changsha": [
+        "農民",
+        "作田的"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "作田個"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "作田個"
+    ],
+    "Lichuan": [
+        "作田個"
+    ],
+    "Pingxiang": [
+        "作田人",
+        "農民"
+    ],
+    "Meixian": [
+        "耕田佬",
+        "耕田儕"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "做田人"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "作田儕"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "做田個"
+    ],
+    "Yudu": [
+        "作田佬"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "耕田人",
+        "耕種人",
+        "耕田儕",
+        "農民",
+        "農家人"
+    ],
+    "Liudui": [
+        "耕田人",
+        "耕種人",
+        "農民",
+        "農民仔",
+        "農家人"
+    ],
+    "Hsinchu": [
+        "耕田人",
+        "耕種人",
+        "農民",
+        "農家人"
+    ],
+    "Dongshi": [
+        "耕田人",
+        "耕種人",
+        "耕田個",
+        "農民",
+        "農家人"
+    ],
+    "Raoping": [
+        "耕田人",
+        "耕種人",
+        "農民",
+        "農家人"
+    ],
+    "Yunlin": [
+        "作穡人",
+        "農民",
+        "農家人"
+    ],
+    "Hong Kong-H": [
+        "耕田佬"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "農人",
+        "耕田佬"
+    ],
+    "Senai": [
+        "耕田佬"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "農民",
+        "種田仂",
+        "務農佬:derogatory",
+        "務農坯:derogatory"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "農民",
+        "耕田佬",
+        "㩧佬:derogatory"
+    ],
+    "Hong Kong": [
+        "農夫",
+        "農人",
+        "耕田佬",
+        "㩧佬:derogatory"
+    ],
+    "HK Weitou": [
+        "耕田佬"
+    ],
+    "Kam Tin": [
+        "耕田佬"
+    ],
+    "Ting Kok": [
+        "耕田佬"
+    ],
+    "Tung Ping Chau": [
+        "耕田佬"
+    ],
+    "Macau": [
+        "農民"
+    ],
+    "Panyu": [
+        "農民",
+        "耕田佬"
+    ],
+    "Huadu": [
+        "農民",
+        "耕田佬"
+    ],
+    "Conghua": [
+        "耕田佬"
+    ],
+    "Zengcheng": [
+        "農民",
+        "耕田佬"
+    ],
+    "Foshan": [
+        "農民",
+        "耕田佬"
+    ],
+    "Nanhai": [
+        "農民",
+        "耕田佬"
+    ],
+    "Shunde": [
+        "農民"
+    ],
+    "Sanshui": [
+        "農民",
+        "耕田佬"
+    ],
+    "Gaoming": [
+        "耕田佬"
+    ],
+    "Zhongshan": [
+        "農民"
+    ],
+    "Zhuhai": [
+        "農民"
+    ],
+    "Doumen-T": [
+        "耕田佬"
+    ],
+    "Doumen-S": [
+        "耕田佬"
+    ],
+    "Jiangmen": [
+        "耕田佬"
+    ],
+    "Xinhui": [
+        "耕田佬"
+    ],
+    "Taishan": [
+        "農民"
+    ],
+    "Kaiping": [
+        "農民"
+    ],
+    "Enping": [
+        "農民",
+        "耕田佬"
+    ],
+    "Heshan": [
+        "耕田佬"
+    ],
+    "Dongguan": [
+        "農民",
+        "耕田佬"
+    ],
+    "Bao'an": [
+        "耕田佬"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "農民"
+    ],
+    "Yunfu": [
+        "耕田佬",
+        "撚泥頭"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "耕田佬"
+    ],
+    "Lianjiang": [
+        "農民",
+        "㩧佬",
+        "耕田佬"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "耕田佬"
+    ],
+    "Ho Chi Minh City": [
+        "耕田佬"
+    ],
+    "Nanning-P": [
+        "農民"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "作塍儂",
+        "作穡儂",
+        "農民",
+        "農哥:slightly derogatory or humble"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "作塍儂",
+        "作穡儂",
+        "農民",
+        "農哥:slightly derogatory or humble"
+    ],
+    "Jinjiang": [
+        "作塍儂",
+        "作穡儂"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "作塍儂"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "作塍儂",
+        "農民",
+        "農哥:slightly derogatory or humble"
+    ],
+    "Longhai": [
+        "作塍儂"
+    ],
+    "Changtai": [
+        "作塍儂"
+    ],
+    "Hua'an": [
+        "作塍儂"
+    ],
+    "Nanjing-MN": [],
+    "Pinghe": [
+        "作塍儂"
+    ],
+    "Zhangpu": [
+        "作塍儂"
+    ],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "作穡儂",
+        "農民"
+    ],
+    "Taipei": [
+        "做穡的"
+    ],
+    "Kaohsiung": [
+        "作穡的",
+        "作穡儂"
+    ],
+    "Tainan": [
+        "作穡的",
+        "作園的",
+        "作穡儂"
+    ],
+    "Taichung": [
+        "作穡儂",
+        "作塍儂"
+    ],
+    "Wuqi": [
+        "作穡儂"
+    ],
+    "Hsinchu-MN": [
+        "作穡儂"
+    ],
+    "Taitung": [
+        "作穡儂"
+    ],
+    "Lukang": [
+        "作穡的",
+        "作園的",
+        "作塍儂"
+    ],
+    "Sanxia": [
+        "作塍儂"
+    ],
+    "Yilan": [
+        "作穡的",
+        "作園的",
+        "作塍儂"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "做穡的",
+        "做山的"
+    ],
+    "Malaysia-MN": [
+        "種塍的儂"
+    ],
+    "Singapore-MN": [
+        "作巴的"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "做塍儂"
+    ],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "作塍儂"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "作塍儂"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "做百姓個",
+        "做農個",
+        "農民",
+        "做塍爹:male",
+        "做塍姩:female"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "農夫"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "農民",
+        "做塍其",
+        "做塍儂"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "做塍其儂",
+        "農民"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "做塍儂"
+    ],
+    "Jian'ou": [
+        "打粗人",
+        "打塍人"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [
+        "做田人"
+    ],
+    "Fuding-She": [
+        "做田人"
+    ],
+    "Luoyuan-She": [
+        "做田人"
+    ],
+    "Sanming-She": [],
+    "Shunchang-She": [
+        "做田人"
+    ],
+    "Hua'an-She": [
+        "做田人"
+    ],
+    "Guixi-She": [
+        "做田人"
+    ],
+    "Cangnan-She": [
+        "做田人"
+    ],
+    "Jingning-She": [
+        "做田人"
+    ],
+    "Lishui-She": [
+        "做田人"
+    ],
+    "Longyou-She": [
+        "做田人"
+    ],
+    "Chaozhou-She": [
+        "做田人"
+    ],
+    "Fengshun-She": [
+        "做田人"
+    ]
 }

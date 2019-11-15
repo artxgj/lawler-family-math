@@ -1,487 +1,437 @@
 {
     "meaning": "daikon; Chinese radish",
     "note": "",
-    "Classical": {
-        "1": "萊菔",
-        "2": "蘆菔",
-        "3": "紫花菘",
-        "4": "溫菘",
-        "5": "土酥",
-        "6": "葖"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "蘿蔔"
-    },
-    "Beijing": {
-        "1": "蘿蔔"
-    },
-    "Taiwan": {
-        "1": "蘿蔔",
-        "2": "菜頭"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "蘿蔔",
-        "2": "蘿貝"
-    },
-    "Shenyang": {
-        "1": "蘿蔔"
-    },
-    "Hailar": {
-        "1": "大蘿蔔"
-    },
-    "Ulan Hot": {
-        "1": "大蘿蔔"
-    },
-    "Tongliao": {
-        "1": "蘿蔔"
-    },
-    "Chifeng": {
-        "1": "蘿蔔"
-    },
-    "Baochang": {
-        "1": "蘿蔔"
-    },
-    "Bayanhot": {
-        "1": "蘿蔔"
-    },
-    "Jinan": {
-        "1": "蘿蔔"
-    },
-    "Muping": {
-        "1": "蘿蔔"
-    },
-    "Luoyang": {
-        "1": "蘿蔔"
-    },
-    "Wanrong": {
-        "1": "蘿蔔"
-    },
-    "Xi'an": {
-        "1": "蘿蔔"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "蘿蔔"
-    },
-    "Xining": {
-        "1": "蘿蔔"
-    },
-    "Xuzhou": {
-        "1": "蘿蔔",
-        "2": "辣蘿蔔"
-    },
-    "Yinchuan": {
-        "1": "蘿蔔"
-    },
-    "Lanzhou": {
-        "1": "蘿蔔"
-    },
-    "Ürümqi": {
-        "1": "蘿蔔"
-    },
-    "Wuhan": {
-        "1": "蘿蔔"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蘿蔔"
-    },
-    "Guiyang": {
-        "1": "蘿蔔"
-    },
-    "Guilin": {
-        "1": "蘿蔔"
-    },
-    "Liuzhou": {
-        "1": "蘿蔔"
-    },
-    "Kunming": {
-        "1": "蘿蔔"
-    },
-    "Yangzhou": {
-        "1": "蘿蔔"
-    },
-    "Nanjing": {
-        "1": "蘿蔔"
-    },
-    "Hefei": {
-        "1": "蘿蔔"
-    },
-    "Nantong": {
-        "1": "蘿蔔"
-    },
-    "Malaysia-M": {
-        "1": "蘿蔔"
-    },
-    "Singapore-M": {
-        "1": "蘿蔔"
-    },
-    "Taiyuan": {
-        "1": "蘿蔔"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "蘿蔔"
-    },
-    "Jining": {
-        "1": "蘿蔔"
-    },
-    "Hohhot": {
-        "1": "蘿蔔"
-    },
-    "Baotou": {
-        "1": "蘿蔔"
-    },
-    "Dongsheng": {
-        "1": "蘿蔔"
-    },
-    "Linhe": {
-        "1": "蘿蔔"
-    },
-    "Haibowan": {
-        "1": "青蘿蔔"
-    },
-    "Suzhou": {
-        "1": "蘿蔔"
-    },
-    "Hangzhou": {
-        "1": "蘿蔔"
-    },
-    "Shanghai": {
-        "1": "蘿蔔"
-    },
-    "Chongming": {
-        "1": "勞蔔"
-    },
-    "Wenzhou": {
-        "1": "菜頭"
-    },
-    "Danyang": {
-        "1": "老蔔"
-    },
-    "Jinhua": {
-        "1": "蘿蔔"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蘿蔔"
-    },
-    "Changsha": {
-        "1": "蘿蔔"
-    },
-    "Shuangfeng": {
-        "1": "蘿蔔"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "蘿蔔"
-    },
-    "Quanzhou-X": {
-        "1": "蘿蔔"
-    },
-    "Nanchang": {
-        "1": "蘿蔔"
-    },
-    "Lichuan": {
-        "1": "蘿蔔"
-    },
-    "Pingxiang": {
-        "1": "蘿蔔"
-    },
-    "Meixian": {
-        "1": "蘿蔔",
-        "2": "長菜"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "蘿蔔"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "蘿蔔"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "蘿蔔",
-        "2": "蘿蔔仔",
-        "3": "菜頭"
-    },
-    "Liudui": {
-        "1": "蘿蔔仔",
-        "2": "菜頭"
-    },
-    "Hsinchu": {
-        "1": "菜頭",
-        "2": "蘿蔔"
-    },
-    "Dongshi": {
-        "1": "蘿蔔",
-        "2": "菜頭"
-    },
-    "Raoping": {
-        "1": "菜頭"
-    },
-    "Yunlin": {
-        "1": "菜頭"
-    },
-    "Hong Kong-H": {
-        "1": "蘿蔔"
-    },
-    "Sabah": {
-        "1": "蘿蔔"
-    },
-    "Senai": {
-        "1": "蘿蔔"
-    },
-    "Singkawang": {
-        "1": "菜頭"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "蘿蔔"
-    },
-    "Guangzhou": {
-        "1": "蘿蔔"
-    },
-    "Hong Kong": {
-        "1": "蘿蔔"
-    },
-    "Shunde": {
-        "1": "蘿蔔"
-    },
-    "Foshan": {
-        "1": "蘿蔔"
-    },
-    "Zhongshan": {
-        "1": "蘿蔔"
-    },
-    "Dongguan": {
-        "1": "蘿蔔",
-        "2": "蘿蔔菜"
-    },
-    "HK Weitou": {
-        "1": "菜頭"
-    },
-    "Taishan": {
-        "1": "蘿蔔"
-    },
-    "Doumen": {
-        "1": "蘿蔔"
-    },
-    "Kaiping": {
-        "1": "蘿蔔"
-    },
-    "Shaoguan": {
-        "1": "蘿蔔"
-    },
-    "Yunfu": {
-        "1": "蘿蔔"
-    },
-    "Yangjiang": {
-        "1": "蘿蔔"
-    },
-    "Xinyi": {
-        "1": "蘿蔔"
-    },
-    "Lianjiang": {
-        "1": "菜頭"
-    },
-    "Nanning": {
-        "1": "蘿蔔"
-    },
-    "Wuzhou": {
-        "1": "蘿蔔"
-    },
-    "Yulin": {
-        "1": "蘿蔔"
-    },
-    "Hepu": {
-        "1": "菜頭"
-    },
-    "Kuala Lumpur": {
-        "1": "蘿蔔"
-    },
-    "Nanning-P": {
-        "1": "蘿蔔"
-    },
-    "Guilin-P": {
-        "1": "蘿蔔"
-    },
-    "Xiamen": {
-        "1": "菜頭"
-    },
-    "Quanzhou": {
-        "1": "菜頭"
-    },
-    "Zhangzhou": {
-        "1": "菜頭"
-    },
-    "Taipei": {
-        "1": "菜頭"
-    },
-    "Kaohsiung": {
-        "1": "菜頭"
-    },
-    "Tainan": {
-        "1": "菜頭"
-    },
-    "Taichung": {
-        "1": "菜頭"
-    },
-    "Yilan": {
-        "1": "菜頭"
-    },
-    "Lukang": {
-        "1": "菜頭"
-    },
-    "Sanxia": {
-        "1": "菜頭"
-    },
-    "Kinmen": {
-        "1": "菜頭"
-    },
-    "Magong": {
-        "1": "菜頭"
-    },
-    "Hsinchu-MN": {
-        "1": "菜頭"
-    },
-    "Malaysia-MN": {
-        "1": "菜頭"
-    },
-    "Singapore-MN": {
-        "1": "菜頭"
-    },
-    "Philippine-MN": {
-        "1": "菜頭"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "菜頭"
-    },
-    "Chaozhou": {
-        "1": "菜頭"
-    },
-    "Shantou": {
-        "1": "菜頭"
-    },
-    "Haifeng": {
-        "1": "菜頭"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "菜頭"
-    },
-    "Haikou": {
-        "1": "菜頭"
-    },
-    "Leizhou": {
-        "1": "菜頭"
-    },
-    "Putian": {
-        "1": "菜頭"
-    },
-    "Xianyou": {
-        "1": "菜頭"
-    },
-    "Fuzhou": {
-        "1": "菜頭"
-    },
-    "Changle": {
-        "1": "菜頭"
-    },
-    "Fuqing": {
-        "1": "菜頭"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "菜頭"
-    },
-    "Gutian": {
-        "1": "蘿蔔"
-    },
-    "Fu'an": {
-        "1": "菜頭"
-    },
-    "Ningde": {
-        "1": "蘿蔔"
-    },
-    "Shouning": {
-        "1": "菜頭"
-    },
-    "Zhouning": {
-        "1": "菜頭"
-    },
-    "Fuding": {
-        "1": "菜頭"
-    },
-    "Matsu": {
-        "1": "菜頭"
-    },
-    "Jian'ou": {
-        "1": "蘿蔔"
-    }
+    "Classical": [
+        "萊菔",
+        "蘆菔",
+        "紫花菘",
+        "溫菘",
+        "土酥",
+        "葖"
+    ],
+    "Formal": [],
+    "Taxonomic": [
+        "蘿蔔"
+    ],
+    "Beijing": [
+        "蘿蔔"
+    ],
+    "Taiwan": [
+        "蘿蔔",
+        "菜頭"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "蘿蔔",
+        "蘿貝"
+    ],
+    "Shenyang": [
+        "蘿蔔"
+    ],
+    "Hailar": [
+        "大蘿蔔"
+    ],
+    "Ulan Hot": [
+        "大蘿蔔"
+    ],
+    "Tongliao": [
+        "蘿蔔"
+    ],
+    "Chifeng": [
+        "蘿蔔"
+    ],
+    "Baochang": [
+        "蘿蔔"
+    ],
+    "Bayanhot": [
+        "蘿蔔"
+    ],
+    "Jinan": [
+        "蘿蔔"
+    ],
+    "Muping": [
+        "蘿蔔"
+    ],
+    "Luoyang": [
+        "蘿蔔"
+    ],
+    "Wanrong": [
+        "蘿蔔"
+    ],
+    "Xi'an": [
+        "蘿蔔"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "蘿蔔"
+    ],
+    "Xining": [
+        "蘿蔔"
+    ],
+    "Xuzhou": [
+        "蘿蔔",
+        "辣蘿蔔"
+    ],
+    "Yinchuan": [
+        "蘿蔔"
+    ],
+    "Lanzhou": [
+        "蘿蔔"
+    ],
+    "Ürümqi": [
+        "蘿蔔"
+    ],
+    "Wuhan": [
+        "蘿蔔"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蘿蔔"
+    ],
+    "Guiyang": [
+        "蘿蔔"
+    ],
+    "Guilin": [
+        "蘿蔔"
+    ],
+    "Liuzhou": [
+        "蘿蔔"
+    ],
+    "Kunming": [
+        "蘿蔔"
+    ],
+    "Yangzhou": [
+        "蘿蔔"
+    ],
+    "Nanjing": [
+        "蘿蔔"
+    ],
+    "Hefei": [
+        "蘿蔔"
+    ],
+    "Nantong": [
+        "蘿蔔"
+    ],
+    "Malaysia-M": [
+        "蘿蔔"
+    ],
+    "Singapore-M": [
+        "蘿蔔"
+    ],
+    "Taiyuan": [
+        "蘿蔔"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "蘿蔔"
+    ],
+    "Jining": [
+        "蘿蔔"
+    ],
+    "Hohhot": [
+        "蘿蔔"
+    ],
+    "Baotou": [
+        "蘿蔔"
+    ],
+    "Dongsheng": [
+        "蘿蔔"
+    ],
+    "Linhe": [
+        "蘿蔔"
+    ],
+    "Haibowan": [
+        "青蘿蔔"
+    ],
+    "Suzhou": [
+        "蘿蔔"
+    ],
+    "Hangzhou": [
+        "蘿蔔"
+    ],
+    "Shanghai": [
+        "蘿蔔"
+    ],
+    "Chongming": [
+        "勞蔔"
+    ],
+    "Wenzhou": [
+        "菜頭"
+    ],
+    "Danyang": [
+        "老蔔"
+    ],
+    "Jinhua": [
+        "蘿蔔"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蘿蔔"
+    ],
+    "Changsha": [
+        "蘿蔔"
+    ],
+    "Shuangfeng": [
+        "蘿蔔"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "蘿蔔"
+    ],
+    "Quanzhou-X": [
+        "蘿蔔"
+    ],
+    "Nanchang": [
+        "蘿蔔"
+    ],
+    "Lichuan": [
+        "蘿蔔"
+    ],
+    "Pingxiang": [
+        "蘿蔔"
+    ],
+    "Meixian": [
+        "蘿蔔",
+        "長菜"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "蘿蔔"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "蘿蔔"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "蘿蔔",
+        "蘿蔔仔",
+        "菜頭"
+    ],
+    "Liudui": [
+        "蘿蔔仔",
+        "菜頭"
+    ],
+    "Hsinchu": [
+        "菜頭",
+        "蘿蔔"
+    ],
+    "Dongshi": [
+        "蘿蔔",
+        "菜頭"
+    ],
+    "Raoping": [
+        "菜頭"
+    ],
+    "Yunlin": [
+        "菜頭"
+    ],
+    "Hong Kong-H": [
+        "蘿蔔"
+    ],
+    "Sabah": [
+        "蘿蔔"
+    ],
+    "Senai": [
+        "蘿蔔"
+    ],
+    "Singkawang": [
+        "菜頭"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "蘿蔔"
+    ],
+    "Guangzhou": [
+        "蘿蔔"
+    ],
+    "Hong Kong": [
+        "蘿蔔"
+    ],
+    "Shunde": [
+        "蘿蔔"
+    ],
+    "Foshan": [
+        "蘿蔔"
+    ],
+    "Zhongshan": [
+        "蘿蔔"
+    ],
+    "Dongguan": [
+        "蘿蔔",
+        "蘿蔔菜"
+    ],
+    "HK Weitou": [
+        "菜頭"
+    ],
+    "Taishan": [
+        "蘿蔔"
+    ],
+    "Doumen": [
+        "蘿蔔"
+    ],
+    "Kaiping": [
+        "蘿蔔"
+    ],
+    "Shaoguan": [
+        "蘿蔔"
+    ],
+    "Yunfu": [
+        "蘿蔔"
+    ],
+    "Yangjiang": [
+        "蘿蔔"
+    ],
+    "Xinyi": [
+        "蘿蔔"
+    ],
+    "Lianjiang": [
+        "菜頭"
+    ],
+    "Nanning": [
+        "蘿蔔"
+    ],
+    "Wuzhou": [
+        "蘿蔔"
+    ],
+    "Yulin": [
+        "蘿蔔"
+    ],
+    "Hepu": [
+        "菜頭"
+    ],
+    "Kuala Lumpur": [
+        "蘿蔔"
+    ],
+    "Nanning-P": [
+        "蘿蔔"
+    ],
+    "Guilin-P": [
+        "蘿蔔"
+    ],
+    "Xiamen": [
+        "菜頭"
+    ],
+    "Quanzhou": [
+        "菜頭"
+    ],
+    "Zhangzhou": [
+        "菜頭"
+    ],
+    "Taipei": [
+        "菜頭"
+    ],
+    "Kaohsiung": [
+        "菜頭"
+    ],
+    "Tainan": [
+        "菜頭"
+    ],
+    "Taichung": [
+        "菜頭"
+    ],
+    "Yilan": [
+        "菜頭"
+    ],
+    "Lukang": [
+        "菜頭"
+    ],
+    "Sanxia": [
+        "菜頭"
+    ],
+    "Kinmen": [
+        "菜頭"
+    ],
+    "Magong": [
+        "菜頭"
+    ],
+    "Hsinchu-MN": [
+        "菜頭"
+    ],
+    "Malaysia-MN": [
+        "菜頭"
+    ],
+    "Singapore-MN": [
+        "菜頭"
+    ],
+    "Philippine-MN": [
+        "菜頭"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "菜頭"
+    ],
+    "Chaozhou": [
+        "菜頭"
+    ],
+    "Shantou": [
+        "菜頭"
+    ],
+    "Haifeng": [
+        "菜頭"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "菜頭"
+    ],
+    "Haikou": [
+        "菜頭"
+    ],
+    "Leizhou": [
+        "菜頭"
+    ],
+    "Putian": [
+        "菜頭"
+    ],
+    "Xianyou": [
+        "菜頭"
+    ],
+    "Fuzhou": [
+        "菜頭"
+    ],
+    "Changle": [
+        "菜頭"
+    ],
+    "Fuqing": [
+        "菜頭"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "菜頭"
+    ],
+    "Gutian": [
+        "蘿蔔"
+    ],
+    "Fu'an": [
+        "菜頭"
+    ],
+    "Ningde": [
+        "蘿蔔"
+    ],
+    "Shouning": [
+        "菜頭"
+    ],
+    "Zhouning": [
+        "菜頭"
+    ],
+    "Fuding": [
+        "菜頭"
+    ],
+    "Matsu": [
+        "菜頭"
+    ],
+    "Jian'ou": [
+        "蘿蔔"
+    ]
 }

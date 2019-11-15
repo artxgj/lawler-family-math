@@ -1,574 +1,452 @@
 {
     "meaning": "(to contract) malaria",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "瘧疾:noun"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "瘧子:noun",
-        "2": "發瘧子:verb"
-    },
-    "Taiwan": {
-        "1": "瘧疾:noun"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "瘧子:noun",
-        "2": "發瘧子:verb"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "瘧疾:noun"
-    },
-    "Ulan Hot": {
-        "1": "瘧疾:noun"
-    },
-    "Tongliao": {
-        "1": "瘧疾:noun"
-    },
-    "Chifeng": {
-        "1": "發瘧子:verb"
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "脾寒:noun",
-        "2": "發瘧子:verb",
-        "3": "發擺子:verb",
-        "4": "發脾寒:verb"
-    },
-    "Muping": {
-        "1": "發瘧子:verb"
-    },
-    "Luoyang": {
-        "1": "發瘧子:verb",
-        "2": "打擺子:verb",
-        "3": "趕牛腱:verb",
-        "4": "放牛:verb"
-    },
-    "Wanrong": {
-        "1": "發瘧子:verb"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "打擺子:verb",
-        "2": "乏擺子:verb"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "打擺子:verb",
-        "2": "發瘧子:verb",
-        "3": "發瘧疾:verb",
-        "4": "做官兒:verb, dated"
-    },
-    "Yinchuan": {
-        "1": "打擺子:verb"
-    },
-    "Lanzhou": {
-        "1": "打擺子:verb"
-    },
-    "Ürümqi": {
-        "1": "打擺子:verb"
-    },
-    "Wuhan": {
-        "1": "打脾寒:verb",
-        "2": "打擺子:verb"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "打擺子:verb",
-        "2": "發瘧疾:verb"
-    },
-    "Guiyang": {
-        "1": "打擺子:verb"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "打擺子:verb"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "擺子:noun",
-        "2": "打擺子:verb",
-        "3": "打瘧疾:verb"
-    },
-    "Nanjing": {
-        "1": "瘧疾:noun",
-        "2": "打擺子:verb",
-        "3": "打瘧疾:verb"
-    },
-    "Hefei": {
-        "1": "打脾寒:verb",
-        "2": "打擺子:verb"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "打擺子:verb"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "打擺子:verb"
-    },
-    "Baochang": {
-        "1": "瘧疾:noun"
-    },
-    "Jining": {
-        "1": "瘧疾:noun"
-    },
-    "Hohhot": {
-        "1": "疾敗子"
-    },
-    "Baotou": {
-        "1": "瘧疾:noun"
-    },
-    "Dongsheng": {
-        "1": "瘧疾:noun"
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": "打百子"
-    },
-    "Shanghai": {
-        "1": "發瘧子:verb"
-    },
-    "Suzhou": {
-        "1": "發瘧子:verb",
-        "2": "發三日頭:verb"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "打擺子:verb",
-        "2": "生抖抖病:verb, dated"
-    },
-    "Chongming": {
-        "1": "發寒熱:verb"
-    },
-    "Wenzhou": {
-        "1": "打潮:verb",
-        "2": "半日病:noun"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": "打半日:verb",
-        "2": "打大鼓:verb"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "間日班:noun",
-        "2": "四日兩頭班:noun",
-        "3": "發買柴病:verb",
-        "4": "發冷熱病:verb",
-        "5": "打板子:verb, dated"
-    },
-    "Changsha": {
-        "1": "打擺子:verb",
-        "2": "打脾寒:verb"
-    },
-    "Shuangfeng": {
-        "1": "打擺子:verb"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "擺子:noun",
-        "2": "打擺子:verb"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "打脾寒:verb",
-        "2": "打擺子:verb"
-    },
-    "Lichuan": {
-        "1": "打擺子:verb"
-    },
-    "Pingxiang": {
-        "1": "打擺子:verb"
-    },
-    "Meixian": {
-        "1": "打擺:verb",
-        "2": "打擺仔:verb",
-        "3": "發寒燒:verb"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "打擺子:verb"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "發冷仔:verb",
-        "2": "馬拉利亞:noun"
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": "發冷仔:verb",
-        "2": "馬拉利亞:noun"
-    },
-    "Dongshi": {
-        "1": "發冷:verb",
-        "2": "馬拉利亞:noun"
-    },
-    "Raoping": {
-        "1": "發冷仔:verb",
-        "2": "馬拉利亞:noun"
-    },
-    "Yunlin": {
-        "1": "寒熱症:noun",
-        "2": "馬拉利亞:noun"
-    },
-    "Hong Kong-H": {
-        "1": "發大冷:verb"
-    },
-    "Sabah": {
-        "1": "蚊蟲病:noun"
-    },
-    "Senai": {
-        "1": "蚊症:noun",
-        "2": "發冷:verb"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": "打半日:verb",
-        "2": "打三日頭:verb"
-    },
-    "Tunxi": {
-        "1": "打脾寒:verb",
-        "2": "三日頭:verb"
-    },
-    "Jixi": {
-        "1": "打半晝:verb"
-    },
-    "Guangzhou": {
-        "1": "發冷:verb",
-        "2": "打擺子:verb"
-    },
-    "Hong Kong": {
-        "1": "發冷:verb"
-    },
-    "Shunde": {
-        "1": "發冷:verb"
-    },
-    "Foshan": {
-        "1": "發冷:verb"
-    },
-    "Zhongshan": {
-        "1": "發冷:verb"
-    },
-    "Dongguan": {
-        "1": "發冷:verb",
-        "2": "打擺:verb"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "打發冷:verb"
-    },
-    "Doumen": {
-        "1": "發冷:verb"
-    },
-    "Kaiping": {
-        "1": "發冷:verb"
-    },
-    "Shaoguan": {
-        "1": "打擺子:verb"
-    },
-    "Yunfu": {
-        "1": "生發冷:verb"
-    },
-    "Yangjiang": {
-        "1": "擻發冷:verb"
-    },
-    "Xinyi": {
-        "1": "發冷:verb"
-    },
-    "Lianjiang": {
-        "1": "發冷:verb",
-        "2": "發冷震:verb"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "蚊症:noun",
-        "2": "發冷:verb"
-    },
-    "Nanning-P": {
-        "1": "擺子病:noun"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "寒熱仔:noun",
-        "2": "寒熱:noun",
-        "3": "著寒熱:verb",
-        "4": "拍寒熱:verb"
-    },
-    "Quanzhou": {
-        "1": "寒熱:noun",
-        "2": "著寒熱:verb"
-    },
-    "Zhangzhou": {
-        "1": "寒熱仔:noun",
-        "2": "寒熱:noun",
-        "3": "著寒熱:verb",
-        "4": "拍寒熱:verb",
-        "5": "起寒熱:verb"
-    },
-    "Taipei": {
-        "1": "著寒熱:verb"
-    },
-    "Kaohsiung": {
-        "1": "寒熱仔:noun"
-    },
-    "Tainan": {
-        "1": "寒熱仔:noun"
-    },
-    "Taichung": {
-        "1": "馬拉利亞:noun"
-    },
-    "Wuqi": {
-        "1": "馬拉利亞:noun"
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": "馬拉利亞:noun"
-    },
-    "Lukang": {
-        "1": "乞食症:noun"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "拍寒熱:verb",
-        "2": "馬拉利亞:noun"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "馬拉利亞:noun"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "著腹寒:verb",
-        "2": "發瘧:verb"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "蠓病:noun"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "腹寒病:noun",
-        "2": "腹寒:noun",
-        "3": "海北客病:noun",
-        "4": "海北客:noun",
-        "5": "發寒熱病:verb",
-        "6": "做腹寒:verb",
-        "7": "做海北客:verb"
-    },
-    "Leizhou": {
-        "1": "腹寒:noun"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "瘧症:noun",
-        "2": "拍腹寒:verb",
-        "3": "拍寒:verb"
-    },
-    "Changle": {
-        "1": "拍寒:verb"
-    },
-    "Fuqing": {
-        "1": "拍寒:verb"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "拍寒:verb"
-    },
-    "Gutian": {
-        "1": "拍腹寒:verb"
-    },
-    "Fu'an": {
-        "1": "拍寒:verb"
-    },
-    "Ningde": {
-        "1": "拍寒:verb"
-    },
-    "Shouning": {
-        "1": "拍寒:verb"
-    },
-    "Zhouning": {
-        "1": "拍寒病:verb"
-    },
-    "Fuding": {
-        "1": "拍寒:verb"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "𢫦腹寒:verb"
-    },
-    "Dikou": {
-        "1": "病腹寒:verb"
-    },
-    "Songxi": {
-        "1": "病老人:verb"
-    },
-    "Zhenghe": {
-        "1": "𢫦作寒:verb"
-    },
-    "Zhenqian": {
-        "1": "𢫦寒病:verb"
-    },
-    "Jianyang": {
-        "1": "𢫦擺仔:verb"
-    },
-    "Wuyishan": {
-        "1": "𢫦擺仔:verb"
-    },
-    "Shibei": {
-        "1": "裝擺仔:verb",
-        "2": "自自寒:verb"
-    }
+    "Classical": [],
+    "Formal": [
+        "瘧疾:noun"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "瘧子:noun",
+        "發瘧子:verb"
+    ],
+    "Taiwan": [
+        "瘧疾:noun"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "瘧子:noun",
+        "發瘧子:verb"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "瘧疾:noun"
+    ],
+    "Ulan Hot": [
+        "瘧疾:noun"
+    ],
+    "Tongliao": [
+        "瘧疾:noun"
+    ],
+    "Chifeng": [
+        "發瘧子:verb"
+    ],
+    "Bayanhot": [],
+    "Jinan": [
+        "脾寒:noun",
+        "發瘧子:verb",
+        "發擺子:verb",
+        "發脾寒:verb"
+    ],
+    "Muping": [
+        "發瘧子:verb"
+    ],
+    "Luoyang": [
+        "發瘧子:verb",
+        "打擺子:verb",
+        "趕牛腱:verb",
+        "放牛:verb"
+    ],
+    "Wanrong": [
+        "發瘧子:verb"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "打擺子:verb",
+        "乏擺子:verb"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "打擺子:verb",
+        "發瘧子:verb",
+        "發瘧疾:verb",
+        "做官兒:verb, dated"
+    ],
+    "Yinchuan": [
+        "打擺子:verb"
+    ],
+    "Lanzhou": [
+        "打擺子:verb"
+    ],
+    "Ürümqi": [
+        "打擺子:verb"
+    ],
+    "Wuhan": [
+        "打脾寒:verb",
+        "打擺子:verb"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "打擺子:verb",
+        "發瘧疾:verb"
+    ],
+    "Guiyang": [
+        "打擺子:verb"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "打擺子:verb"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "擺子:noun",
+        "打擺子:verb",
+        "打瘧疾:verb"
+    ],
+    "Nanjing": [
+        "瘧疾:noun",
+        "打擺子:verb",
+        "打瘧疾:verb"
+    ],
+    "Hefei": [
+        "打脾寒:verb",
+        "打擺子:verb"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "打擺子:verb"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "打擺子:verb"
+    ],
+    "Baochang": [
+        "瘧疾:noun"
+    ],
+    "Jining": [
+        "瘧疾:noun"
+    ],
+    "Hohhot": [
+        "疾敗子"
+    ],
+    "Baotou": [
+        "瘧疾:noun"
+    ],
+    "Dongsheng": [
+        "瘧疾:noun"
+    ],
+    "Linhe": [],
+    "Haibowan": [
+        "打百子"
+    ],
+    "Shanghai": [
+        "發瘧子:verb"
+    ],
+    "Suzhou": [
+        "發瘧子:verb",
+        "發三日頭:verb"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "打擺子:verb",
+        "生抖抖病:verb, dated"
+    ],
+    "Chongming": [
+        "發寒熱:verb"
+    ],
+    "Wenzhou": [
+        "打潮:verb",
+        "半日病:noun"
+    ],
+    "Danyang": [],
+    "Jinhua": [
+        "打半日:verb",
+        "打大鼓:verb"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "間日班:noun",
+        "四日兩頭班:noun",
+        "發買柴病:verb",
+        "發冷熱病:verb",
+        "打板子:verb, dated"
+    ],
+    "Changsha": [
+        "打擺子:verb",
+        "打脾寒:verb"
+    ],
+    "Shuangfeng": [
+        "打擺子:verb"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "擺子:noun",
+        "打擺子:verb"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "打脾寒:verb",
+        "打擺子:verb"
+    ],
+    "Lichuan": [
+        "打擺子:verb"
+    ],
+    "Pingxiang": [
+        "打擺子:verb"
+    ],
+    "Meixian": [
+        "打擺:verb",
+        "打擺仔:verb",
+        "發寒燒:verb"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "打擺子:verb"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "發冷仔:verb",
+        "馬拉利亞:noun"
+    ],
+    "Liudui": [],
+    "Hsinchu": [
+        "發冷仔:verb",
+        "馬拉利亞:noun"
+    ],
+    "Dongshi": [
+        "發冷:verb",
+        "馬拉利亞:noun"
+    ],
+    "Raoping": [
+        "發冷仔:verb",
+        "馬拉利亞:noun"
+    ],
+    "Yunlin": [
+        "寒熱症:noun",
+        "馬拉利亞:noun"
+    ],
+    "Hong Kong-H": [
+        "發大冷:verb"
+    ],
+    "Sabah": [
+        "蚊蟲病:noun"
+    ],
+    "Senai": [
+        "蚊症:noun",
+        "發冷:verb"
+    ],
+    "Singkawang": [],
+    "Shexian": [
+        "打半日:verb",
+        "打三日頭:verb"
+    ],
+    "Tunxi": [
+        "打脾寒:verb",
+        "三日頭:verb"
+    ],
+    "Jixi": [
+        "打半晝:verb"
+    ],
+    "Guangzhou": [
+        "發冷:verb",
+        "打擺子:verb"
+    ],
+    "Hong Kong": [
+        "發冷:verb"
+    ],
+    "Shunde": [
+        "發冷:verb"
+    ],
+    "Foshan": [
+        "發冷:verb"
+    ],
+    "Zhongshan": [
+        "發冷:verb"
+    ],
+    "Dongguan": [
+        "發冷:verb",
+        "打擺:verb"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "打發冷:verb"
+    ],
+    "Doumen": [
+        "發冷:verb"
+    ],
+    "Kaiping": [
+        "發冷:verb"
+    ],
+    "Shaoguan": [
+        "打擺子:verb"
+    ],
+    "Yunfu": [
+        "生發冷:verb"
+    ],
+    "Yangjiang": [
+        "擻發冷:verb"
+    ],
+    "Xinyi": [
+        "發冷:verb"
+    ],
+    "Lianjiang": [
+        "發冷:verb",
+        "發冷震:verb"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "蚊症:noun",
+        "發冷:verb"
+    ],
+    "Nanning-P": [
+        "擺子病:noun"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "寒熱仔:noun",
+        "寒熱:noun",
+        "著寒熱:verb",
+        "拍寒熱:verb"
+    ],
+    "Quanzhou": [
+        "寒熱:noun",
+        "著寒熱:verb"
+    ],
+    "Zhangzhou": [
+        "寒熱仔:noun",
+        "寒熱:noun",
+        "著寒熱:verb",
+        "拍寒熱:verb",
+        "起寒熱:verb"
+    ],
+    "Taipei": [
+        "著寒熱:verb"
+    ],
+    "Kaohsiung": [
+        "寒熱仔:noun"
+    ],
+    "Tainan": [
+        "寒熱仔:noun"
+    ],
+    "Taichung": [
+        "馬拉利亞:noun"
+    ],
+    "Wuqi": [
+        "馬拉利亞:noun"
+    ],
+    "Hsinchu-MN": [],
+    "Taitung": [
+        "馬拉利亞:noun"
+    ],
+    "Lukang": [
+        "乞食症:noun"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "拍寒熱:verb",
+        "馬拉利亞:noun"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "馬拉利亞:noun"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "著腹寒:verb",
+        "發瘧:verb"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "蠓病:noun"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "腹寒病:noun",
+        "腹寒:noun",
+        "海北客病:noun",
+        "海北客:noun",
+        "發寒熱病:verb",
+        "做腹寒:verb",
+        "做海北客:verb"
+    ],
+    "Leizhou": [
+        "腹寒:noun"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "瘧症:noun",
+        "拍腹寒:verb",
+        "拍寒:verb"
+    ],
+    "Changle": [
+        "拍寒:verb"
+    ],
+    "Fuqing": [
+        "拍寒:verb"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "拍寒:verb"
+    ],
+    "Gutian": [
+        "拍腹寒:verb"
+    ],
+    "Fu'an": [
+        "拍寒:verb"
+    ],
+    "Ningde": [
+        "拍寒:verb"
+    ],
+    "Shouning": [
+        "拍寒:verb"
+    ],
+    "Zhouning": [
+        "拍寒病:verb"
+    ],
+    "Fuding": [
+        "拍寒:verb"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "𢫦腹寒:verb"
+    ],
+    "Dikou": [
+        "病腹寒:verb"
+    ],
+    "Songxi": [
+        "病老人:verb"
+    ],
+    "Zhenghe": [
+        "𢫦作寒:verb"
+    ],
+    "Zhenqian": [
+        "𢫦寒病:verb"
+    ],
+    "Jianyang": [
+        "𢫦擺仔:verb"
+    ],
+    "Wuyishan": [
+        "𢫦擺仔:verb"
+    ],
+    "Shibei": [
+        "裝擺仔:verb",
+        "自自寒:verb"
+    ]
 }

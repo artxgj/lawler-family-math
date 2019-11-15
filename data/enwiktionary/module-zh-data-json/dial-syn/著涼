@@ -1,490 +1,290 @@
 {
     "meaning": "to fall ill from inadequate warm-keeping",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "著涼",
-        "2": "受涼",
-        "3": "閃著"
-    },
-    "Taiwan": {
-        "1": "著涼",
-        "2": "受涼"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "受涼",
-        "2": "涼著",
-        "3": "凍著"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "涼著",
-        "2": "受涼"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "受涼",
-        "2": "涼了"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "涼囉",
-        "2": "涼倒"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "受涼"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "受涼"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "受涼",
-        "2": "涼著"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "著蔭",
-        "2": "受蔭",
-        "3": "受寒",
-        "4": "受冷"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "凍著"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "受涼",
-        "2": "受寒",
-        "3": "凍噠"
-    },
-    "Shuangfeng": {
-        "1": "受寒",
-        "2": "凍哩",
-        "3": "冷哩"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "受寒",
-        "2": "冷倒"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "凍倒",
-        "2": "受倒風",
-        "3": "著涼"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "寒著"
-    },
-    "Liudui": {
-        "1": "寒著",
-        "2": "冷著"
-    },
-    "Hsinchu": {
-        "1": "冷著"
-    },
-    "Dongshi": {
-        "1": "寒著",
-        "2": "冷著"
-    },
-    "Raoping": {
-        "1": "寒著",
-        "2": "冷著"
-    },
-    "Yunlin": {
-        "1": "寒著",
-        "2": "冷著"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "冷嚫"
-    },
-    "Hong Kong": {
-        "1": "冷嚫",
-        "2": "凍嚫"
-    },
-    "Shunde": {
-        "1": "冷嚫"
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": "冷嚫"
-    },
-    "Dongguan": {
-        "1": "凍著"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "冷著",
-        "2": "颼著"
-    },
-    "Doumen": {
-        "1": "冷嚫"
-    },
-    "Kaiping": {
-        "1": "冷著",
-        "2": "涼著"
-    },
-    "Shaoguan": {
-        "1": "冷嚫"
-    },
-    "Yunfu": {
-        "1": "冷倒"
-    },
-    "Yangjiang": {
-        "1": "冷緊"
-    },
-    "Xinyi": {
-        "1": "冷到地"
-    },
-    "Lianjiang": {
-        "1": "冷到地"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "寒著",
-        "2": "冷著",
-        "3": "感著"
-    },
-    "Quanzhou": {
-        "1": "寒著",
-        "2": "冷著"
-    },
-    "Zhangzhou": {
-        "1": "寒著",
-        "2": "冷著",
-        "3": "感著"
-    },
-    "Taipei": {
-        "1": "寒著"
-    },
-    "Kaohsiung": {
-        "1": "寒著",
-        "2": "感著"
-    },
-    "Tainan": {
-        "1": "寒著",
-        "2": "感著"
-    },
-    "Taichung": {
-        "1": "寒著",
-        "2": "感著"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "寒著"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "寒著",
-        "2": "感著"
-    },
-    "Sanxia": {
-        "1": "冷著"
-    },
-    "Yilan": {
-        "1": "寒著",
-        "2": "感著"
-    },
-    "Kinmen": {
-        "1": "寒著"
-    },
-    "Magong": {
-        "1": "寒著"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "寒著"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "寒去"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "凊著"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "著涼",
+        "受涼",
+        "閃著"
+    ],
+    "Taiwan": [
+        "著涼",
+        "受涼"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "受涼",
+        "涼著",
+        "凍著"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "涼著",
+        "受涼"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "受涼",
+        "涼了"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "涼囉",
+        "涼倒"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "受涼"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "受涼"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "受涼",
+        "涼著"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "著蔭",
+        "受蔭",
+        "受寒",
+        "受冷"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "凍著"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "受涼",
+        "受寒",
+        "凍噠"
+    ],
+    "Shuangfeng": [
+        "受寒",
+        "凍哩",
+        "冷哩"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "受寒",
+        "冷倒"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "凍倒",
+        "受倒風",
+        "著涼"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "寒著"
+    ],
+    "Liudui": [
+        "寒著",
+        "冷著"
+    ],
+    "Hsinchu": [
+        "冷著"
+    ],
+    "Dongshi": [
+        "寒著",
+        "冷著"
+    ],
+    "Raoping": [
+        "寒著",
+        "冷著"
+    ],
+    "Yunlin": [
+        "寒著",
+        "冷著"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "冷嚫"
+    ],
+    "Hong Kong": [
+        "冷嚫",
+        "凍嚫"
+    ],
+    "Shunde": [
+        "冷嚫"
+    ],
+    "Foshan": [],
+    "Zhongshan": [
+        "冷嚫"
+    ],
+    "Dongguan": [
+        "凍著"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "冷著",
+        "颼著"
+    ],
+    "Doumen": [
+        "冷嚫"
+    ],
+    "Kaiping": [
+        "冷著",
+        "涼著"
+    ],
+    "Shaoguan": [
+        "冷嚫"
+    ],
+    "Yunfu": [
+        "冷倒"
+    ],
+    "Yangjiang": [
+        "冷緊"
+    ],
+    "Xinyi": [
+        "冷到地"
+    ],
+    "Lianjiang": [
+        "冷到地"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [],
+    "Guilin-P": [],
+    "Xiamen": [
+        "寒著",
+        "冷著",
+        "感著"
+    ],
+    "Quanzhou": [
+        "寒著",
+        "冷著"
+    ],
+    "Zhangzhou": [
+        "寒著",
+        "冷著",
+        "感著"
+    ],
+    "Taipei": [
+        "寒著"
+    ],
+    "Kaohsiung": [
+        "寒著",
+        "感著"
+    ],
+    "Tainan": [
+        "寒著",
+        "感著"
+    ],
+    "Taichung": [
+        "寒著",
+        "感著"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "寒著"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "寒著",
+        "感著"
+    ],
+    "Sanxia": [
+        "冷著"
+    ],
+    "Yilan": [
+        "寒著",
+        "感著"
+    ],
+    "Kinmen": [
+        "寒著"
+    ],
+    "Magong": [
+        "寒著"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "寒著"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "寒去"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "凊著"
+    ]
 }

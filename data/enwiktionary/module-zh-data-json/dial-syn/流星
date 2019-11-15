@@ -1,757 +1,599 @@
 {
     "meaning": "meteor; shooting star",
     "note": "",
-    "Classical": {
-        "1": "飛星",
-        "2": "流星"
-    },
-    "Formal": {
-        "1": "流星"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Taiwan": {
-        "1": "流星"
-    },
-    "Tianjin": {
-        "1": "賊星"
-    },
-    "Harbin": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Shenyang": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Hailar": {
-        "1": "流星"
-    },
-    "Ulan Hot": {
-        "1": "流星"
-    },
-    "Tongliao": {
-        "1": "賊星"
-    },
-    "Chifeng": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Bayanhot": {
-        "1": "流星"
-    },
-    "Jinan": {
-        "1": "賊星"
-    },
-    "Muping": {
-        "1": "賊星"
-    },
-    "Luoyang": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Wanrong": {
-        "1": "流宿"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "賊星"
-    },
-    "Qingdao": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Zhengzhou": {
-        "1": "賊星",
-        "2": "流星"
-    },
-    "Xining": {
-        "1": "賊星"
-    },
-    "Xuzhou": {
-        "1": "賊星",
-        "2": "流星"
-    },
-    "Yinchuan": {
-        "1": "賊星"
-    },
-    "Lanzhou": {
-        "1": "賊星"
-    },
-    "Ürümqi": {
-        "1": "賊星",
-        "2": "流星"
-    },
-    "Wuhan": {
-        "1": "溜星",
-        "2": "流星",
-        "3": "飛星"
-    },
-    "Huanggang": {
-        "1": "屙屎星"
-    },
-    "Chengdu": {
-        "1": "流星",
-        "2": "星宿兒屙屎",
-        "3": "星子屙屎"
-    },
-    "Guiyang": {
-        "1": "拖尾巴星",
-        "2": "星宿屙屎",
-        "3": "流星",
-        "4": "火星"
-    },
-    "Guilin": {
-        "1": "流星",
-        "2": "星子過斗"
-    },
-    "Liuzhou": {
-        "1": "流星"
-    },
-    "Kunming": {
-        "1": "星宿屙屎",
-        "2": "流星"
-    },
-    "Yangzhou": {
-        "1": "過天星",
-        "2": "沙星",
-        "3": "流星"
-    },
-    "Nanjing": {
-        "1": "跐星",
-        "2": "流星"
-    },
-    "Hefei": {
-        "1": "流星",
-        "2": "賊星"
-    },
-    "Nantong": {
-        "1": "拉屎星"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "賊星"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "走星",
-        "2": "流星"
-    },
-    "Pingyao": {
-        "1": "走星"
-    },
-    "Xinzhou": {
-        "1": "走星"
-    },
-    "Baochang": {
-        "1": "跑星"
-    },
-    "Jining": {
-        "1": "賊星"
-    },
-    "Hohhot": {
-        "1": "賊星",
-        "2": "流星"
-    },
-    "Baotou": {
-        "1": "賊星"
-    },
-    "Dongsheng": {
-        "1": "流星"
-    },
-    "Linhe": {
-        "1": "賊星"
-    },
-    "Haibowan": {
-        "1": "賊星"
-    },
-    "Shanghai": {
-        "1": "流星",
-        "2": "搬場星:dated"
-    },
-    "Suzhou": {
-        "1": "流星",
-        "2": "移星",
-        "3": "星移場"
-    },
-    "Wuxi": {
-        "1": "流星"
-    },
-    "Hangzhou": {
-        "1": "流星"
-    },
-    "Chongming": {
-        "1": "拖惡頭星",
-        "2": "拖惡星"
-    },
-    "Wenzhou": {
-        "1": "星過渡",
-        "2": "流星"
-    },
-    "Danyang": {
-        "1": "射星",
-        "2": "流星"
-    },
-    "Jinhua": {
-        "1": "流星"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "離星",
-        "2": "流星"
-    },
-    "Changsha": {
-        "1": "射火子星",
-        "2": "射火星",
-        "3": "賊星",
-        "4": "流星"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": "星子屙屎"
-    },
-    "Loudi": {
-        "1": "星子屙屎"
-    },
-    "Quanzhou-X": {
-        "1": "流星"
-    },
-    "Nanchang": {
-        "1": "星子過位"
-    },
-    "Lichuan": {
-        "1": "掃帚星"
-    },
-    "Pingxiang": {
-        "1": "星子屙屎"
-    },
-    "Meixian": {
-        "1": "星仔瀉屎"
-    },
-    "Xingning": {
-        "1": "星哩瀉屎"
-    },
-    "Huidong": {
-        "1": "星火"
-    },
-    "Qujiang": {
-        "1": "星子瀉屎"
-    },
-    "Xiaosanjiang": {
-        "1": "天星過位"
-    },
-    "Luchuan": {
-        "1": "天星過位"
-    },
-    "Changting": {
-        "1": "星宿瀉屎"
-    },
-    "Pingyu": {
-        "1": "星瀉屎"
-    },
-    "Wuping": {
-        "1": "星瀉屎"
-    },
-    "Liancheng": {
-        "1": "星宿屍屎"
-    },
-    "Ninghua": {
-        "1": "天星瀉屎"
-    },
-    "Yudu": {
-        "1": "流天星"
-    },
-    "Ruijin": {
-        "1": "瀉屍星"
-    },
-    "Shicheng": {
-        "1": "流星"
-    },
-    "Shangyou": {
-        "1": "瀉屎星"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "星仔瀉屎",
-        "2": "星仔過江"
-    },
-    "Liudui": {
-        "1": "星仔瀉屎"
-    },
-    "Hsinchu": {
-        "1": "星仔瀉屎",
-        "2": "星仔過江"
-    },
-    "Dongshi": {
-        "1": "星洩屎",
-        "2": "洩屎星"
-    },
-    "Raoping": {
-        "1": "星仔瀉屎",
-        "2": "星瀉屎",
-        "3": "星仔過江"
-    },
-    "Yunlin": {
-        "1": "落屎星"
-    },
-    "Hong Kong-H": {
-        "1": "天瀉屎"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "星瀉屎"
-    },
-    "Senai": {
-        "1": "流星",
-        "2": "天瀉屎:dated"
-    },
-    "Singkawang": {
-        "1": "飛星",
-        "2": "流星",
-        "3": "星屙屎"
-    },
-    "Jixi": {
-        "1": "流星"
-    },
-    "Shexian": {
-        "1": "流星"
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "流星"
-    },
-    "Hong Kong": {
-        "1": "流星"
-    },
-    "HK Weitou": {
-        "1": "飛星"
-    },
-    "Kam Tin": {
-        "1": ""
-    },
-    "Ting Kok": {
-        "1": "賴屎星",
-        "2": "天瀉屎"
-    },
-    "Tung Ping Chau": {
-        "1": "賴屎星"
-    },
-    "Macau": {
-        "1": ""
-    },
-    "Panyu": {
-        "1": ""
-    },
-    "Huadu": {
-        "1": ""
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Nanhai": {
-        "1": ""
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Sanshui": {
-        "1": ""
-    },
-    "Gaoming": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Zhuhai": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": ""
-    },
-    "Doumen-S": {
-        "1": ""
-    },
-    "Jiangmen": {
-        "1": ""
-    },
-    "Xinhui": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "流星"
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Enping": {
-        "1": ""
-    },
-    "Heshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "流星"
-    },
-    "Bao'an": {
-        "1": ""
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "天星屎"
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "流星"
-    },
-    "Wuzhou": {
-        "1": "流星"
-    },
-    "Yulin": {
-        "1": "天星屎"
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "流星"
-    },
-    "Ho Chi Minh City": {
-        "1": "流星"
-    },
-    "Nanning-P": {
-        "1": "流星"
-    },
-    "Guilin-P": {
-        "1": "流星"
-    },
-    "Xiamen": {
-        "1": "疶屎星",
-        "2": "落屎星",
-        "3": "飛星"
-    },
-    "Tong'an": {
-        "1": "滲屎星"
-    },
-    "Quanzhou": {
-        "1": "疶屎星"
-    },
-    "Jinjiang": {
-        "1": "疶屎星"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "疶屎星"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "疶屎星",
-        "2": "飛星",
-        "3": "星過宮"
-    },
-    "Longhai": {
-        "1": "星過宮"
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": "星過宮"
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": "過宮星"
-    },
-    "Zhangpu": {
-        "1": "星過宮"
-    },
-    "Yunxiao": {
-        "1": "星過宮"
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "星過宮",
-        "2": "流星"
-    },
-    "Taipei": {
-        "1": "落屎星"
-    },
-    "Kaohsiung": {
-        "1": "臭屎星"
-    },
-    "Tainan": {
-        "1": "流星"
-    },
-    "Taichung": {
-        "1": "落屎星"
-    },
-    "Wuqi": {
-        "1": "落屎星"
-    },
-    "Hsinchu-MN": {
-        "1": "落屎星"
-    },
-    "Taitung": {
-        "1": "流星"
-    },
-    "Lukang": {
-        "1": "落屎星"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "落屎星"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "流星"
-    },
-    "Malaysia-MN": {
-        "1": "落屎星"
-    },
-    "Singapore-MN": {
-        "1": "疶屎星"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": "天星屎"
-    },
-    "Datian": {
-        "1": "瀉屎星",
-        "2": "流星"
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": "流星"
-    },
-    "Johor Bahru": {
-        "1": "流星"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": "星徙處"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "星搬厝",
-        "2": "流星"
-    },
-    "Changle": {
-        "1": "尾星搬厝"
-    },
-    "Fuqing": {
-        "1": "瀉屎星"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "天星洩窩"
-    },
-    "Gutian": {
-        "1": "天星洩窠"
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "流星"
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "星搬厝"
-    },
-    "Jian'ou": {
-        "1": "星宿過宮"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "星宿過宮"
-    },
-    "Wuyishan": {
-        "1": "星過宮"
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": "火災"
-    },
-    "Fuding-She": {
-        "1": "流屎星"
-    },
-    "Luoyuan-She": {
-        "1": "竿掃星"
-    },
-    "Sanming-She": {
-        "1": "星鑊"
-    },
-    "Shunchang-She": {
-        "1": "星飛龍"
-    },
-    "Hua'an-She": {
-        "1": "疶屎星"
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": "竿掃星"
-    },
-    "Jingning-She": {
-        "1": "竿掃星"
-    },
-    "Lishui-She": {
-        "1": "竿掃星"
-    },
-    "Longyou-She": {
-        "1": "竿掃星"
-    },
-    "Chaozhou-She": {
-        "1": "流星"
-    },
-    "Fengshun-She": {
-        "1": "星瀉屎"
-    }
+    "Classical": [
+        "飛星",
+        "流星"
+    ],
+    "Formal": [
+        "流星"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "流星",
+        "賊星"
+    ],
+    "Taiwan": [
+        "流星"
+    ],
+    "Tianjin": [
+        "賊星"
+    ],
+    "Harbin": [
+        "流星",
+        "賊星"
+    ],
+    "Shenyang": [
+        "流星",
+        "賊星"
+    ],
+    "Hailar": [
+        "流星"
+    ],
+    "Ulan Hot": [
+        "流星"
+    ],
+    "Tongliao": [
+        "賊星"
+    ],
+    "Chifeng": [
+        "流星",
+        "賊星"
+    ],
+    "Bayanhot": [
+        "流星"
+    ],
+    "Jinan": [
+        "賊星"
+    ],
+    "Muping": [
+        "賊星"
+    ],
+    "Luoyang": [
+        "流星",
+        "賊星"
+    ],
+    "Wanrong": [
+        "流宿"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "賊星"
+    ],
+    "Qingdao": [
+        "流星",
+        "賊星"
+    ],
+    "Zhengzhou": [
+        "賊星",
+        "流星"
+    ],
+    "Xining": [
+        "賊星"
+    ],
+    "Xuzhou": [
+        "賊星",
+        "流星"
+    ],
+    "Yinchuan": [
+        "賊星"
+    ],
+    "Lanzhou": [
+        "賊星"
+    ],
+    "Ürümqi": [
+        "賊星",
+        "流星"
+    ],
+    "Wuhan": [
+        "溜星",
+        "流星",
+        "飛星"
+    ],
+    "Huanggang": [
+        "屙屎星"
+    ],
+    "Chengdu": [
+        "流星",
+        "星宿兒屙屎",
+        "星子屙屎"
+    ],
+    "Guiyang": [
+        "拖尾巴星",
+        "星宿屙屎",
+        "流星",
+        "火星"
+    ],
+    "Guilin": [
+        "流星",
+        "星子過斗"
+    ],
+    "Liuzhou": [
+        "流星"
+    ],
+    "Kunming": [
+        "星宿屙屎",
+        "流星"
+    ],
+    "Yangzhou": [
+        "過天星",
+        "沙星",
+        "流星"
+    ],
+    "Nanjing": [
+        "跐星",
+        "流星"
+    ],
+    "Hefei": [
+        "流星",
+        "賊星"
+    ],
+    "Nantong": [
+        "拉屎星"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "賊星"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "走星",
+        "流星"
+    ],
+    "Pingyao": [
+        "走星"
+    ],
+    "Xinzhou": [
+        "走星"
+    ],
+    "Baochang": [
+        "跑星"
+    ],
+    "Jining": [
+        "賊星"
+    ],
+    "Hohhot": [
+        "賊星",
+        "流星"
+    ],
+    "Baotou": [
+        "賊星"
+    ],
+    "Dongsheng": [
+        "流星"
+    ],
+    "Linhe": [
+        "賊星"
+    ],
+    "Haibowan": [
+        "賊星"
+    ],
+    "Shanghai": [
+        "流星",
+        "搬場星:dated"
+    ],
+    "Suzhou": [
+        "流星",
+        "移星",
+        "星移場"
+    ],
+    "Wuxi": [
+        "流星"
+    ],
+    "Hangzhou": [
+        "流星"
+    ],
+    "Chongming": [
+        "拖惡頭星",
+        "拖惡星"
+    ],
+    "Wenzhou": [
+        "星過渡",
+        "流星"
+    ],
+    "Danyang": [
+        "射星",
+        "流星"
+    ],
+    "Jinhua": [
+        "流星"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "離星",
+        "流星"
+    ],
+    "Changsha": [
+        "射火子星",
+        "射火星",
+        "賊星",
+        "流星"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [
+        "星子屙屎"
+    ],
+    "Loudi": [
+        "星子屙屎"
+    ],
+    "Quanzhou-X": [
+        "流星"
+    ],
+    "Nanchang": [
+        "星子過位"
+    ],
+    "Lichuan": [
+        "掃帚星"
+    ],
+    "Pingxiang": [
+        "星子屙屎"
+    ],
+    "Meixian": [
+        "星仔瀉屎"
+    ],
+    "Xingning": [
+        "星哩瀉屎"
+    ],
+    "Huidong": [
+        "星火"
+    ],
+    "Qujiang": [
+        "星子瀉屎"
+    ],
+    "Xiaosanjiang": [
+        "天星過位"
+    ],
+    "Luchuan": [
+        "天星過位"
+    ],
+    "Changting": [
+        "星宿瀉屎"
+    ],
+    "Pingyu": [
+        "星瀉屎"
+    ],
+    "Wuping": [
+        "星瀉屎"
+    ],
+    "Liancheng": [
+        "星宿屍屎"
+    ],
+    "Ninghua": [
+        "天星瀉屎"
+    ],
+    "Yudu": [
+        "流天星"
+    ],
+    "Ruijin": [
+        "瀉屍星"
+    ],
+    "Shicheng": [
+        "流星"
+    ],
+    "Shangyou": [
+        "瀉屎星"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "星仔瀉屎",
+        "星仔過江"
+    ],
+    "Liudui": [
+        "星仔瀉屎"
+    ],
+    "Hsinchu": [
+        "星仔瀉屎",
+        "星仔過江"
+    ],
+    "Dongshi": [
+        "星洩屎",
+        "洩屎星"
+    ],
+    "Raoping": [
+        "星仔瀉屎",
+        "星瀉屎",
+        "星仔過江"
+    ],
+    "Yunlin": [
+        "落屎星"
+    ],
+    "Hong Kong-H": [
+        "天瀉屎"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "星瀉屎"
+    ],
+    "Senai": [
+        "流星",
+        "天瀉屎:dated"
+    ],
+    "Singkawang": [
+        "飛星",
+        "流星",
+        "星屙屎"
+    ],
+    "Jixi": [
+        "流星"
+    ],
+    "Shexian": [
+        "流星"
+    ],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "流星"
+    ],
+    "Hong Kong": [
+        "流星"
+    ],
+    "HK Weitou": [
+        "飛星"
+    ],
+    "Kam Tin": [],
+    "Ting Kok": [
+        "賴屎星",
+        "天瀉屎"
+    ],
+    "Tung Ping Chau": [
+        "賴屎星"
+    ],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [
+        "流星"
+    ],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [
+        "流星"
+    ],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [
+        "天星屎"
+    ],
+    "Lianjiang": [],
+    "Nanning": [
+        "流星"
+    ],
+    "Wuzhou": [
+        "流星"
+    ],
+    "Yulin": [
+        "天星屎"
+    ],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "流星"
+    ],
+    "Ho Chi Minh City": [
+        "流星"
+    ],
+    "Nanning-P": [
+        "流星"
+    ],
+    "Guilin-P": [
+        "流星"
+    ],
+    "Xiamen": [
+        "疶屎星",
+        "落屎星",
+        "飛星"
+    ],
+    "Tong'an": [
+        "滲屎星"
+    ],
+    "Quanzhou": [
+        "疶屎星"
+    ],
+    "Jinjiang": [
+        "疶屎星"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "疶屎星"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "疶屎星",
+        "飛星",
+        "星過宮"
+    ],
+    "Longhai": [
+        "星過宮"
+    ],
+    "Changtai": [],
+    "Hua'an": [
+        "星過宮"
+    ],
+    "Nanjing-MN": [],
+    "Pinghe": [
+        "過宮星"
+    ],
+    "Zhangpu": [
+        "星過宮"
+    ],
+    "Yunxiao": [
+        "星過宮"
+    ],
+    "Zhao'an": [],
+    "Dongshan": [
+        "星過宮",
+        "流星"
+    ],
+    "Taipei": [
+        "落屎星"
+    ],
+    "Kaohsiung": [
+        "臭屎星"
+    ],
+    "Tainan": [
+        "流星"
+    ],
+    "Taichung": [
+        "落屎星"
+    ],
+    "Wuqi": [
+        "落屎星"
+    ],
+    "Hsinchu-MN": [
+        "落屎星"
+    ],
+    "Taitung": [
+        "流星"
+    ],
+    "Lukang": [
+        "落屎星"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "落屎星"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "流星"
+    ],
+    "Malaysia-MN": [
+        "落屎星"
+    ],
+    "Singapore-MN": [
+        "疶屎星"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [
+        "天星屎"
+    ],
+    "Datian": [
+        "瀉屎星",
+        "流星"
+    ],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [
+        "流星"
+    ],
+    "Johor Bahru": [
+        "流星"
+    ],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [
+        "星徙處"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "星搬厝",
+        "流星"
+    ],
+    "Changle": [
+        "尾星搬厝"
+    ],
+    "Fuqing": [
+        "瀉屎星"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "天星洩窩"
+    ],
+    "Gutian": [
+        "天星洩窠"
+    ],
+    "Fu'an": [],
+    "Ningde": [
+        "流星"
+    ],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "星搬厝"
+    ],
+    "Jian'ou": [
+        "星宿過宮"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "星宿過宮"
+    ],
+    "Wuyishan": [
+        "星過宮"
+    ],
+    "Shibei": [],
+    "Fu'an-She": [
+        "火災"
+    ],
+    "Fuding-She": [
+        "流屎星"
+    ],
+    "Luoyuan-She": [
+        "竿掃星"
+    ],
+    "Sanming-She": [
+        "星鑊"
+    ],
+    "Shunchang-She": [
+        "星飛龍"
+    ],
+    "Hua'an-She": [
+        "疶屎星"
+    ],
+    "Guixi-She": [],
+    "Cangnan-She": [
+        "竿掃星"
+    ],
+    "Jingning-She": [
+        "竿掃星"
+    ],
+    "Lishui-She": [
+        "竿掃星"
+    ],
+    "Longyou-She": [
+        "竿掃星"
+    ],
+    "Chaozhou-She": [
+        "流星"
+    ],
+    "Fengshun-She": [
+        "星瀉屎"
+    ]
 }

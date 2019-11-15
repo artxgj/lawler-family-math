@@ -1,525 +1,311 @@
 {
     "meaning": "to fart",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "排氣"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "放屁"
-    },
-    "Taiwan": {
-        "1": "放屁"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "放屁"
-    },
-    "Muping": {
-        "1": "放屁",
-        "2": "放臊"
-    },
-    "Luoyang": {
-        "1": "放屁"
-    },
-    "Wanrong": {
-        "1": "放屁"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "放屁"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": "放屁"
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "放屁",
-        "2": "打屁"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "放屁",
-        "2": "打屁"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "屙屁"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "放屁"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "放屁"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "放屁"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "放屁"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "放屁",
-        "2": "惹屁"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "拉屁"
-    },
-    "Danyang": {
-        "1": "放屁"
-    },
-    "Jinhua": {
-        "1": "放屁"
-    },
-    "Tangxi": {
-        "1": "射屁"
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "打屁"
-    },
-    "Shuangfeng": {
-        "1": "打屁"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "打屁"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "打屁"
-    },
-    "Lichuan": {
-        "1": "打屁"
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "打屁卵"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "屙屁"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": "打屁"
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": "打屁"
-    },
-    "Yudu": {
-        "1": "打屁"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "打屁",
-        "2": "打屁卵"
-    },
-    "Liudui": {
-        "1": "打屁",
-        "2": "打屁卵"
-    },
-    "Hsinchu": {
-        "1": "打屁",
-        "2": "打屁卵"
-    },
-    "Dongshi": {
-        "1": "打屁",
-        "2": "打屁卵"
-    },
-    "Raoping": {
-        "1": "打屁",
-        "2": "打屁卵"
-    },
-    "Yunlin": {
-        "1": "屙屁"
-    },
-    "Hong Kong-H": {
-        "1": "打屁"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "打屁"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": "放屁"
-    },
-    "Tunxi": {
-        "1": "放屁"
-    },
-    "Jixi": {
-        "1": "放屁"
-    },
-    "Guangzhou": {
-        "1": "放屁",
-        "2": "屙屁"
-    },
-    "Hong Kong": {
-        "1": "放屁"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": "屙屁",
-        "2": "放屁"
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "屙屁"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "屙屁",
-        "2": "放屁"
-    },
-    "Nanning-P": {
-        "1": "屙屁",
-        "2": "放屁"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "放屁"
-    },
-    "Quanzhou": {
-        "1": "放屁"
-    },
-    "Zhangzhou": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "放屁"
-    },
-    "Kaohsiung": {
-        "1": "放屁"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "放屁"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "放屁"
-    },
-    "Singapore-MN": {
-        "1": "放屁"
-    },
-    "Philippine-MN": {
-        "1": "放屁"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "放屁"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "放屁"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "放屁",
-        "2": "放腸風"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "放屁"
-    },
-    "Dikou": {
-        "1": "放屁"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "放屁"
-    }
+    "Classical": [],
+    "Formal": [
+        "排氣"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "放屁"
+    ],
+    "Taiwan": [
+        "放屁"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "放屁"
+    ],
+    "Muping": [
+        "放屁",
+        "放臊"
+    ],
+    "Luoyang": [
+        "放屁"
+    ],
+    "Wanrong": [
+        "放屁"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "放屁"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [
+        "放屁"
+    ],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "放屁",
+        "打屁"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "放屁",
+        "打屁"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [
+        "屙屁"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "放屁"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "放屁"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "放屁"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [],
+    "Suzhou": [
+        "放屁"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "放屁",
+        "惹屁"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "拉屁"
+    ],
+    "Danyang": [
+        "放屁"
+    ],
+    "Jinhua": [
+        "放屁"
+    ],
+    "Tangxi": [
+        "射屁"
+    ],
+    "Ningbo": [],
+    "Changsha": [
+        "打屁"
+    ],
+    "Shuangfeng": [
+        "打屁"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "打屁"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "打屁"
+    ],
+    "Lichuan": [
+        "打屁"
+    ],
+    "Pingxiang": [],
+    "Meixian": [
+        "打屁卵"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [
+        "屙屁"
+    ],
+    "Pingyu": [],
+    "Wuping": [
+        "打屁"
+    ],
+    "Liancheng": [],
+    "Ninghua": [
+        "打屁"
+    ],
+    "Yudu": [
+        "打屁"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "打屁",
+        "打屁卵"
+    ],
+    "Liudui": [
+        "打屁",
+        "打屁卵"
+    ],
+    "Hsinchu": [
+        "打屁",
+        "打屁卵"
+    ],
+    "Dongshi": [
+        "打屁",
+        "打屁卵"
+    ],
+    "Raoping": [
+        "打屁",
+        "打屁卵"
+    ],
+    "Yunlin": [
+        "屙屁"
+    ],
+    "Hong Kong-H": [
+        "打屁"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "打屁"
+    ],
+    "Singkawang": [],
+    "Shexian": [
+        "放屁"
+    ],
+    "Tunxi": [
+        "放屁"
+    ],
+    "Jixi": [
+        "放屁"
+    ],
+    "Guangzhou": [
+        "放屁",
+        "屙屁"
+    ],
+    "Hong Kong": [
+        "放屁"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [
+        "屙屁",
+        "放屁"
+    ],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "屙屁"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "屙屁",
+        "放屁"
+    ],
+    "Nanning-P": [
+        "屙屁",
+        "放屁"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "放屁"
+    ],
+    "Quanzhou": [
+        "放屁"
+    ],
+    "Zhangzhou": [],
+    "Taipei": [
+        "放屁"
+    ],
+    "Kaohsiung": [
+        "放屁"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [
+        "放屁"
+    ],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "放屁"
+    ],
+    "Singapore-MN": [
+        "放屁"
+    ],
+    "Philippine-MN": [
+        "放屁"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "放屁"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "放屁"
+    ],
+    "Wenchang": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "放屁",
+        "放腸風"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "放屁"
+    ],
+    "Dikou": [
+        "放屁"
+    ],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [
+        "放屁"
+    ]
 }

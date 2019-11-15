@@ -1,420 +1,362 @@
 {
     "meaning": "paternal aunt (wife of father's elder brother)",
     "note": "",
-    "Classical": {
-        "1": "伯母"
-    },
-    "Formal": {
-        "1": "伯母"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "大媽"
-    },
-    "Taiwan": {
-        "1": "伯母"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "大娘"
-    },
-    "Shenyang": {
-        "1": "大娘"
-    },
-    "Jinan": {
-        "1": "大娘"
-    },
-    "Muping": {
-        "1": "大媽"
-    },
-    "Luoyang": {
-        "1": "大媽",
-        "2": "大娘"
-    },
-    "Wanrong": {
-        "1": "娘",
-        "2": "親嬤",
-        "3": "大大"
-    },
-    "Ronghe": {
-        "1": "嬤"
-    },
-    "Xi'an": {
-        "1": "媽媽"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "大娘"
-    },
-    "Yinchuan": {
-        "1": "大媽",
-        "2": "親媽:Hui"
-    },
-    "Lanzhou": {
-        "1": "禡禡"
-    },
-    "Ürümqi": {
-        "1": "嬸嬸"
-    },
-    "Wuhan": {
-        "1": "女伯伯",
-        "2": "伯媽",
-        "3": "伯伯"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "伯娘",
-        "2": "伯母"
-    },
-    "Guiyang": {
-        "1": "伯媽"
-    },
-    "Liuzhou": {
-        "1": "伯媽",
-        "2": "伯娘"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "大媽媽"
-    },
-    "Nanjing": {
-        "1": "大媽"
-    },
-    "Hefei": {
-        "1": "大大"
-    },
-    "Nantong": {
-        "1": "嬤嬤"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "媽媽",
-        "2": "媽",
-        "3": "大娘"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "伯娘",
-        "2": "伯娘啊"
-    },
-    "Suzhou": {
-        "1": "姆娒"
-    },
-    "Hangzhou": {
-        "1": "大媽媽",
-        "2": "大姆媽"
-    },
-    "Shanghai": {
-        "1": "伯母"
-    },
-    "Chongming": {
-        "1": "媽媽"
-    },
-    "Wenzhou": {
-        "1": "阿嬤"
-    },
-    "Danyang": {
-        "1": "娘娘"
-    },
-    "Jinhua": {
-        "1": "姆媽"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "阿姆"
-    },
-    "Changsha": {
-        "1": "伯媽",
-        "2": "伯伯"
-    },
-    "Shuangfeng": {
-        "1": "伯基"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "伯唧"
-    },
-    "Nanchang": {
-        "1": "母娘",
-        "2": "伯娘"
-    },
-    "Lichuan": {
-        "1": "大娘",
-        "2": "大兒"
-    },
-    "Pingxiang": {
-        "1": "姆姆"
-    },
-    "Meixian": {
-        "1": "伯姆"
-    },
-    "Xingning": {
-        "1": "阿劃"
-    },
-    "Huidong": {
-        "1": "阿娘"
-    },
-    "Qujiang": {
-        "1": "伯姆"
-    },
-    "Xiaosanjiang": {
-        "1": "伯姆"
-    },
-    "Changting": {
-        "1": "伯姆"
-    },
-    "Pingyu": {
-        "1": "伯姆"
-    },
-    "Wuping": {
-        "1": "伯姆"
-    },
-    "Liancheng": {
-        "1": "伯姆"
-    },
-    "Ninghua": {
-        "1": "姐姐"
-    },
-    "Yudu": {
-        "1": "伯奶",
-        "2": "奶奶"
-    },
-    "Ruijin": {
-        "1": "娭娭"
-    },
-    "Shicheng": {
-        "1": "姐姐"
-    },
-    "Shangyou": {
-        "1": "姐姐"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "伯姆"
-    },
-    "Liudui": {
-        "1": "伯姆"
-    },
-    "Hsinchu": {
-        "1": "伯姆"
-    },
-    "Dongshi": {
-        "1": "伯姆"
-    },
-    "Raoping": {
-        "1": "伯姆"
-    },
-    "Yunlin": {
-        "1": "伯㜷"
-    },
-    "Hong Kong-H": {
-        "1": "阿娘"
-    },
-    "Sabah": {
-        "1": "阿娘",
-        "2": "伯娘"
-    },
-    "Senai": {
-        "1": "阿娘"
-    },
-    "Singkawang": {
-        "1": "伯姆"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "媽媽",
-        "2": "媽"
-    },
-    "Guangzhou": {
-        "1": "伯娘"
-    },
-    "Hong Kong": {
-        "1": "伯娘"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "伯娘"
-    },
-    "HK Weitou": {
-        "1": "伯娘"
-    },
-    "Taishan": {
-        "1": "阿姆",
-        "2": "姆"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "阿姆"
-    },
-    "Xinyi": {
-        "1": "伯奶"
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "伯母",
-        "2": "伯娘"
-    },
-    "Kuala Lumpur": {
-        "1": "伯母"
-    },
-    "Nanning-P": {
-        "1": "伯娘"
-    },
-    "Xiamen": {
-        "1": "阿姆",
-        "2": "姆仔",
-        "3": "姆"
-    },
-    "Quanzhou": {
-        "1": "阿姆",
-        "2": "姆仔",
-        "3": "姆"
-    },
-    "Zhangzhou": {
-        "1": "阿姆",
-        "2": "姆"
-    },
-    "Taipei": {
-        "1": "阿姆"
-    },
-    "Kaohsiung": {
-        "1": "阿姆"
-    },
-    "Tainan": {
-        "1": "阿姆"
-    },
-    "Taichung": {
-        "1": "阿姆"
-    },
-    "Wuqi": {
-        "1": "阿姆"
-    },
-    "Hsinchu-MN": {
-        "1": "阿姆"
-    },
-    "Taitung": {
-        "1": "阿姆"
-    },
-    "Lukang": {
-        "1": "阿姆"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "阿姆"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "阿姆"
-    },
-    "Malaysia-MN": {
-        "1": "阿姆",
-        "2": "姆"
-    },
-    "Singapore-MN": {
-        "1": "阿姆"
-    },
-    "Philippine-MN": {
-        "1": "阿姆"
-    },
-    "Chaozhou": {
-        "1": "阿姆"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "姆"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "阿姆"
-    },
-    "Haikou": {
-        "1": "伯姩"
-    },
-    "Leizhou": {
-        "1": "姆",
-        "2": "尼姆"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "依姆",
-        "2": "姆姆"
-    },
-    "Fuqing": {
-        "1": "姆"
-    },
-    "Matsu": {
-        "1": "依姆"
-    },
-    "Jian'ou": {
-        "1": "伯奶",
-        "2": "奶奶"
-    }
+    "Classical": [
+        "伯母"
+    ],
+    "Formal": [
+        "伯母"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "大媽"
+    ],
+    "Taiwan": [
+        "伯母"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "大娘"
+    ],
+    "Shenyang": [
+        "大娘"
+    ],
+    "Jinan": [
+        "大娘"
+    ],
+    "Muping": [
+        "大媽"
+    ],
+    "Luoyang": [
+        "大媽",
+        "大娘"
+    ],
+    "Wanrong": [
+        "娘",
+        "親嬤",
+        "大大"
+    ],
+    "Ronghe": [
+        "嬤"
+    ],
+    "Xi'an": [
+        "媽媽"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "大娘"
+    ],
+    "Yinchuan": [
+        "大媽",
+        "親媽:Hui"
+    ],
+    "Lanzhou": [
+        "禡禡"
+    ],
+    "Ürümqi": [
+        "嬸嬸"
+    ],
+    "Wuhan": [
+        "女伯伯",
+        "伯媽",
+        "伯伯"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "伯娘",
+        "伯母"
+    ],
+    "Guiyang": [
+        "伯媽"
+    ],
+    "Liuzhou": [
+        "伯媽",
+        "伯娘"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "大媽媽"
+    ],
+    "Nanjing": [
+        "大媽"
+    ],
+    "Hefei": [
+        "大大"
+    ],
+    "Nantong": [
+        "嬤嬤"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "媽媽",
+        "媽",
+        "大娘"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [
+        "伯娘",
+        "伯娘啊"
+    ],
+    "Suzhou": [
+        "姆娒"
+    ],
+    "Hangzhou": [
+        "大媽媽",
+        "大姆媽"
+    ],
+    "Shanghai": [
+        "伯母"
+    ],
+    "Chongming": [
+        "媽媽"
+    ],
+    "Wenzhou": [
+        "阿嬤"
+    ],
+    "Danyang": [
+        "娘娘"
+    ],
+    "Jinhua": [
+        "姆媽"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "阿姆"
+    ],
+    "Changsha": [
+        "伯媽",
+        "伯伯"
+    ],
+    "Shuangfeng": [
+        "伯基"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "伯唧"
+    ],
+    "Nanchang": [
+        "母娘",
+        "伯娘"
+    ],
+    "Lichuan": [
+        "大娘",
+        "大兒"
+    ],
+    "Pingxiang": [
+        "姆姆"
+    ],
+    "Meixian": [
+        "伯姆"
+    ],
+    "Xingning": [
+        "阿劃"
+    ],
+    "Huidong": [
+        "阿娘"
+    ],
+    "Qujiang": [
+        "伯姆"
+    ],
+    "Xiaosanjiang": [
+        "伯姆"
+    ],
+    "Changting": [
+        "伯姆"
+    ],
+    "Pingyu": [
+        "伯姆"
+    ],
+    "Wuping": [
+        "伯姆"
+    ],
+    "Liancheng": [
+        "伯姆"
+    ],
+    "Ninghua": [
+        "姐姐"
+    ],
+    "Yudu": [
+        "伯奶",
+        "奶奶"
+    ],
+    "Ruijin": [
+        "娭娭"
+    ],
+    "Shicheng": [
+        "姐姐"
+    ],
+    "Shangyou": [
+        "姐姐"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "伯姆"
+    ],
+    "Liudui": [
+        "伯姆"
+    ],
+    "Hsinchu": [
+        "伯姆"
+    ],
+    "Dongshi": [
+        "伯姆"
+    ],
+    "Raoping": [
+        "伯姆"
+    ],
+    "Yunlin": [
+        "伯㜷"
+    ],
+    "Hong Kong-H": [
+        "阿娘"
+    ],
+    "Sabah": [
+        "阿娘",
+        "伯娘"
+    ],
+    "Senai": [
+        "阿娘"
+    ],
+    "Singkawang": [
+        "伯姆"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "媽媽",
+        "媽"
+    ],
+    "Guangzhou": [
+        "伯娘"
+    ],
+    "Hong Kong": [
+        "伯娘"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "伯娘"
+    ],
+    "HK Weitou": [
+        "伯娘"
+    ],
+    "Taishan": [
+        "阿姆",
+        "姆"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "阿姆"
+    ],
+    "Xinyi": [
+        "伯奶"
+    ],
+    "Lianjiang": [],
+    "Nanning": [
+        "伯母",
+        "伯娘"
+    ],
+    "Kuala Lumpur": [
+        "伯母"
+    ],
+    "Nanning-P": [
+        "伯娘"
+    ],
+    "Xiamen": [
+        "阿姆",
+        "姆仔",
+        "姆"
+    ],
+    "Quanzhou": [
+        "阿姆",
+        "姆仔",
+        "姆"
+    ],
+    "Zhangzhou": [
+        "阿姆",
+        "姆"
+    ],
+    "Taipei": [
+        "阿姆"
+    ],
+    "Kaohsiung": [
+        "阿姆"
+    ],
+    "Tainan": [
+        "阿姆"
+    ],
+    "Taichung": [
+        "阿姆"
+    ],
+    "Wuqi": [
+        "阿姆"
+    ],
+    "Hsinchu-MN": [
+        "阿姆"
+    ],
+    "Taitung": [
+        "阿姆"
+    ],
+    "Lukang": [
+        "阿姆"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "阿姆"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "阿姆"
+    ],
+    "Malaysia-MN": [
+        "阿姆",
+        "姆"
+    ],
+    "Singapore-MN": [
+        "阿姆"
+    ],
+    "Philippine-MN": [
+        "阿姆"
+    ],
+    "Chaozhou": [
+        "阿姆"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "姆"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "阿姆"
+    ],
+    "Haikou": [
+        "伯姩"
+    ],
+    "Leizhou": [
+        "姆",
+        "尼姆"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "依姆",
+        "姆姆"
+    ],
+    "Fuqing": [
+        "姆"
+    ],
+    "Matsu": [
+        "依姆"
+    ],
+    "Jian'ou": [
+        "伯奶",
+        "奶奶"
+    ]
 }

@@ -1,884 +1,632 @@
 {
     "meaning": "pig's blood (as food)",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "豬血"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "豬血"
-    },
-    "Taiwan": {
-        "1": "豬血"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "豬血"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "豬血"
-    },
-    "Muping": {
-        "1": "豬血"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "豬血"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "豬血"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "豬血"
-    },
-    "Xuzhou": {
-        "1": "豬血"
-    },
-    "Yinchuan": {
-        "1": "豬血"
-    },
-    "Lanzhou": {
-        "1": "豬血"
-    },
-    "Ürümqi": {
-        "1": "豬血"
-    },
-    "Wuhan": {
-        "1": "豬血"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": "豬血"
-    },
-    "Liuzhou": {
-        "1": "豬紅"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "豬血子",
-        "2": "豬旺子"
-    },
-    "Nanjing": {
-        "1": "豬血",
-        "2": "豬奐"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "豬血"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "豬血"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "豬血"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "豬血"
-    },
-    "Chongming": {
-        "1": "豬血"
-    },
-    "Wenzhou": {
-        "1": "豬血"
-    },
-    "Danyang": {
-        "1": "豬血"
-    },
-    "Jinhua": {
-        "1": "豬血"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "豬血"
-    },
-    "Changsha": {
-        "1": "豬血"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "豬血"
-    },
-    "Quanzhou-X": {
-        "1": "豬血"
-    },
-    "Nanchang": {
-        "1": "豬旺子"
-    },
-    "Lichuan": {
-        "1": "豬血"
-    },
-    "Pingxiang": {
-        "1": "豬旺子"
-    },
-    "Meixian": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Xingning": {
-        "1": "豬旺哩"
-    },
-    "Huizhou": {
-        "1": "豬紅"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": "豬紅"
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": "豬紅"
-    },
-    "Huidong-DL": {
-        "1": "豬旺"
-    },
-    "Dongguan-H": {
-        "1": "豬旺"
-    },
-    "Longmen-PL": {
-        "1": "豬紅"
-    },
-    "Longmen-LX": {
-        "1": "豬紅"
-    },
-    "Boluo": {
-        "1": "豬紅"
-    },
-    "Shenzhen-H": {
-        "1": "豬紅"
-    },
-    "Zengcheng-ZG": {
-        "1": "豬紅"
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "豬血"
-    },
-    "Wuhua-SZ": {
-        "1": "豬紅"
-    },
-    "Wuhua-HC": {
-        "1": "豬紅"
-    },
-    "Wuhua-CB": {
-        "1": "豬紅"
-    },
-    "Wuhua-MY": {
-        "1": "豬紅"
-    },
-    "Heyuan": {
-        "1": "豬血",
-        "2": "豬紅"
-    },
-    "Zijin-GZ": {
-        "1": "豬紅"
-    },
-    "Longchuan-TC": {
-        "1": "豬紅"
-    },
-    "Longchuan-SD": {
-        "1": "豬紅"
-    },
-    "Heping-LZ": {
-        "1": "豬紅"
-    },
-    "Lianping-ZX": {
-        "1": "豬旺"
-    },
-    "Lianping-LJ": {
-        "1": "豬血"
-    },
-    "Qujiang": {
-        "1": "豬紅"
-    },
-    "Xinfeng-MT": {
-        "1": "豬血"
-    },
-    "Xinfeng-DX": {
-        "1": "豬血",
-        "2": "豬紅",
-        "3": "豬旺"
-    },
-    "Xiaosanjiang": {
-        "1": "豬紅"
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "豬紅"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "豬紅"
-    },
-    "Changting": {
-        "1": "豬血"
-    },
-    "Pingyu": {
-        "1": "豬旺子"
-    },
-    "Wuping": {
-        "1": "豬血"
-    },
-    "Liancheng": {
-        "1": "豬血"
-    },
-    "Ninghua": {
-        "1": "豬血"
-    },
-    "Yudu": {
-        "1": "豬旺子",
-        "2": "豬血"
-    },
-    "Ruijin": {
-        "1": "豬血"
-    },
-    "Shicheng": {
-        "1": "豬血"
-    },
-    "Shangyou": {
-        "1": "豬旺子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "豬紅",
-        "2": "豬旺仔"
-    },
-    "Liudui": {
-        "1": "豬血",
-        "2": "豬紅",
-        "3": "豬旺仔"
-    },
-    "Hsinchu": {
-        "1": "豬紅",
-        "2": "豬旺仔"
-    },
-    "Dongshi": {
-        "1": "豬紅"
-    },
-    "Raoping": {
-        "1": "豬紅",
-        "2": "豬旺仔"
-    },
-    "Yunlin": {
-        "1": "豬血"
-    },
-    "Hong Kong-H": {
-        "1": "豬紅",
-        "2": "豬旺"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "豬紅"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "豬血"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "豬紅"
-    },
-    "Hong Kong": {
-        "1": "豬紅"
-    },
-    "HK Weitou": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Kam Tin": {
-        "1": "豬紅"
-    },
-    "Ting Kok": {
-        "1": "豬紅"
-    },
-    "Tung Ping Chau": {
-        "1": "豬紅"
-    },
-    "Macau": {
-        "1": "豬紅"
-    },
-    "Panyu": {
-        "1": "豬血"
-    },
-    "Huadu": {
-        "1": "豬紅"
-    },
-    "Conghua": {
-        "1": "豬紅"
-    },
-    "Zengcheng": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Foshan": {
-        "1": "豬紅"
-    },
-    "Nanhai": {
-        "1": "豬血"
-    },
-    "Shunde": {
-        "1": "豬紅"
-    },
-    "Sanshui": {
-        "1": "豬紅"
-    },
-    "Gaoming": {
-        "1": "豬血"
-    },
-    "Zhongshan": {
-        "1": "豬紅"
-    },
-    "Zhuhai": {
-        "1": "豬血"
-    },
-    "Doumen-T": {
-        "1": "豬紅"
-    },
-    "Doumen-S": {
-        "1": "豬紅"
-    },
-    "Jiangmen": {
-        "1": "豬紅"
-    },
-    "Xinhui": {
-        "1": "豬紅"
-    },
-    "Taishan": {
-        "1": "豬血"
-    },
-    "Kaiping": {
-        "1": "豬血"
-    },
-    "Enping": {
-        "1": "豬血"
-    },
-    "Heshan": {
-        "1": "豬紅"
-    },
-    "Dongguan": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Bao'an": {
-        "1": "豬紅"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Qingyuan": {
-        "1": "豬紅"
-    },
-    "Fogang": {
-        "1": "豬紅"
-    },
-    "Yingde": {
-        "1": "豬紅"
-    },
-    "Yangshan": {
-        "1": "豬紅"
-    },
-    "Lianshan": {
-        "1": "豬血"
-    },
-    "Lianzhou": {
-        "1": "豬血"
-    },
-    "Shaoguan": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Qujiang-C": {
-        "1": "豬紅"
-    },
-    "Renhua": {
-        "1": "豬紅"
-    },
-    "Lechang": {
-        "1": "豬紅"
-    },
-    "Gaoyao": {
-        "1": "豬血",
-        "2": "豬紅"
-    },
-    "Sihui": {
-        "1": "豬血"
-    },
-    "Guangning": {
-        "1": "豬血"
-    },
-    "Deqing": {
-        "1": "豬紅"
-    },
-    "Huaiji": {
-        "1": "豬紅"
-    },
-    "Fengkai": {
-        "1": "豬紅"
-    },
-    "Yunfu": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Xinxing": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Luoding": {
-        "1": "豬血"
-    },
-    "Yunan": {
-        "1": "豬紅"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "豬紅"
-    },
-    "Zhanjiang": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": "豬紅"
-    },
-    "Wuchuan": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "豬紅"
-    },
-    "Wuzhou": {
-        "1": "豬紅"
-    },
-    "Yulin": {
-        "1": "豬紅"
-    },
-    "Hepu": {
-        "1": "豬紅"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "豬紅"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "豬紅",
-        "2": "豬血"
-    },
-    "Guilin-P": {
-        "1": "豬血"
-    },
-    "Xiamen": {
-        "1": "豬血"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "豬血",
-        "2": "豬料"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "豬血"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "豬血"
-    },
-    "Kaohsiung": {
-        "1": "豬血"
-    },
-    "Tainan": {
-        "1": "豬血"
-    },
-    "Taichung": {
-        "1": "豬血"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "豬血"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "豬血"
-    },
-    "Sanxia": {
-        "1": "豬血"
-    },
-    "Yilan": {
-        "1": "豬血"
-    },
-    "Kinmen": {
-        "1": "豬血"
-    },
-    "Magong": {
-        "1": "豬血"
-    },
-    "Malaysia-MN": {
-        "1": "豬血"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "豬血"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "豬血"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": "豬血"
-    },
-    "Johor Bahru": {
-        "1": "豬血"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "豬血"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Shaxi": {
-        "1": "豬血"
-    },
-    "Sanxiang": {
-        "1": "豬血"
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "豨血"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "豬血"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "豬血"
+    ],
+    "Taiwan": [
+        "豬血"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "豬血"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "豬血"
+    ],
+    "Muping": [
+        "豬血"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "豬血"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "豬血"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "豬血"
+    ],
+    "Xuzhou": [
+        "豬血"
+    ],
+    "Yinchuan": [
+        "豬血"
+    ],
+    "Lanzhou": [
+        "豬血"
+    ],
+    "Ürümqi": [
+        "豬血"
+    ],
+    "Wuhan": [
+        "豬血"
+    ],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [],
+    "Guilin": [
+        "豬血"
+    ],
+    "Liuzhou": [
+        "豬紅"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "豬血子",
+        "豬旺子"
+    ],
+    "Nanjing": [
+        "豬血",
+        "豬奐"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "豬血"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "豬血"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [],
+    "Suzhou": [
+        "豬血"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "豬血"
+    ],
+    "Chongming": [
+        "豬血"
+    ],
+    "Wenzhou": [
+        "豬血"
+    ],
+    "Danyang": [
+        "豬血"
+    ],
+    "Jinhua": [
+        "豬血"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "豬血"
+    ],
+    "Changsha": [
+        "豬血"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "豬血"
+    ],
+    "Quanzhou-X": [
+        "豬血"
+    ],
+    "Nanchang": [
+        "豬旺子"
+    ],
+    "Lichuan": [
+        "豬血"
+    ],
+    "Pingxiang": [
+        "豬旺子"
+    ],
+    "Meixian": [
+        "豬紅",
+        "豬血"
+    ],
+    "Xingning": [
+        "豬旺哩"
+    ],
+    "Huizhou": [
+        "豬紅"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [
+        "豬紅"
+    ],
+    "Huiyang": [],
+    "Huidong-PS": [
+        "豬紅"
+    ],
+    "Huidong-DL": [
+        "豬旺"
+    ],
+    "Dongguan-H": [
+        "豬旺"
+    ],
+    "Longmen-PL": [
+        "豬紅"
+    ],
+    "Longmen-LX": [
+        "豬紅"
+    ],
+    "Boluo": [
+        "豬紅"
+    ],
+    "Shenzhen-H": [
+        "豬紅"
+    ],
+    "Zengcheng-ZG": [
+        "豬紅"
+    ],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "豬血"
+    ],
+    "Wuhua-SZ": [
+        "豬紅"
+    ],
+    "Wuhua-HC": [
+        "豬紅"
+    ],
+    "Wuhua-CB": [
+        "豬紅"
+    ],
+    "Wuhua-MY": [
+        "豬紅"
+    ],
+    "Heyuan": [
+        "豬血",
+        "豬紅"
+    ],
+    "Zijin-GZ": [
+        "豬紅"
+    ],
+    "Longchuan-TC": [
+        "豬紅"
+    ],
+    "Longchuan-SD": [
+        "豬紅"
+    ],
+    "Heping-LZ": [
+        "豬紅"
+    ],
+    "Lianping-ZX": [
+        "豬旺"
+    ],
+    "Lianping-LJ": [
+        "豬血"
+    ],
+    "Qujiang": [
+        "豬紅"
+    ],
+    "Xinfeng-MT": [
+        "豬血"
+    ],
+    "Xinfeng-DX": [
+        "豬血",
+        "豬紅",
+        "豬旺"
+    ],
+    "Xiaosanjiang": [
+        "豬紅"
+    ],
+    "Liannan": [],
+    "Conghua-H": [
+        "豬紅"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "豬紅"
+    ],
+    "Changting": [
+        "豬血"
+    ],
+    "Pingyu": [
+        "豬旺子"
+    ],
+    "Wuping": [
+        "豬血"
+    ],
+    "Liancheng": [
+        "豬血"
+    ],
+    "Ninghua": [
+        "豬血"
+    ],
+    "Yudu": [
+        "豬旺子",
+        "豬血"
+    ],
+    "Ruijin": [
+        "豬血"
+    ],
+    "Shicheng": [
+        "豬血"
+    ],
+    "Shangyou": [
+        "豬旺子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "豬紅",
+        "豬旺仔"
+    ],
+    "Liudui": [
+        "豬血",
+        "豬紅",
+        "豬旺仔"
+    ],
+    "Hsinchu": [
+        "豬紅",
+        "豬旺仔"
+    ],
+    "Dongshi": [
+        "豬紅"
+    ],
+    "Raoping": [
+        "豬紅",
+        "豬旺仔"
+    ],
+    "Yunlin": [
+        "豬血"
+    ],
+    "Hong Kong-H": [
+        "豬紅",
+        "豬旺"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "豬紅"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "豬血"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "豬紅"
+    ],
+    "Hong Kong": [
+        "豬紅"
+    ],
+    "HK Weitou": [
+        "豬紅",
+        "豬血"
+    ],
+    "Kam Tin": [
+        "豬紅"
+    ],
+    "Ting Kok": [
+        "豬紅"
+    ],
+    "Tung Ping Chau": [
+        "豬紅"
+    ],
+    "Macau": [
+        "豬紅"
+    ],
+    "Panyu": [
+        "豬血"
+    ],
+    "Huadu": [
+        "豬紅"
+    ],
+    "Conghua": [
+        "豬紅"
+    ],
+    "Zengcheng": [
+        "豬紅",
+        "豬血"
+    ],
+    "Foshan": [
+        "豬紅"
+    ],
+    "Nanhai": [
+        "豬血"
+    ],
+    "Shunde": [
+        "豬紅"
+    ],
+    "Sanshui": [
+        "豬紅"
+    ],
+    "Gaoming": [
+        "豬血"
+    ],
+    "Zhongshan": [
+        "豬紅"
+    ],
+    "Zhuhai": [
+        "豬血"
+    ],
+    "Doumen-T": [
+        "豬紅"
+    ],
+    "Doumen-S": [
+        "豬紅"
+    ],
+    "Jiangmen": [
+        "豬紅"
+    ],
+    "Xinhui": [
+        "豬紅"
+    ],
+    "Taishan": [
+        "豬血"
+    ],
+    "Kaiping": [
+        "豬血"
+    ],
+    "Enping": [
+        "豬血"
+    ],
+    "Heshan": [
+        "豬紅"
+    ],
+    "Dongguan": [
+        "豬紅",
+        "豬血"
+    ],
+    "Bao'an": [
+        "豬紅"
+    ],
+    "Dapeng": [],
+    "Qingyuan": [
+        "豬紅"
+    ],
+    "Fogang": [
+        "豬紅"
+    ],
+    "Yingde": [
+        "豬紅"
+    ],
+    "Yangshan": [
+        "豬紅"
+    ],
+    "Lianshan": [
+        "豬血"
+    ],
+    "Lianzhou": [
+        "豬血"
+    ],
+    "Shaoguan": [
+        "豬紅",
+        "豬血"
+    ],
+    "Qujiang-C": [
+        "豬紅"
+    ],
+    "Renhua": [
+        "豬紅"
+    ],
+    "Lechang": [
+        "豬紅"
+    ],
+    "Gaoyao": [
+        "豬血",
+        "豬紅"
+    ],
+    "Sihui": [
+        "豬血"
+    ],
+    "Guangning": [
+        "豬血"
+    ],
+    "Deqing": [
+        "豬紅"
+    ],
+    "Huaiji": [
+        "豬紅"
+    ],
+    "Fengkai": [
+        "豬紅"
+    ],
+    "Yunfu": [
+        "豬紅",
+        "豬血"
+    ],
+    "Xinxing": [
+        "豬紅",
+        "豬血"
+    ],
+    "Luoding": [
+        "豬血"
+    ],
+    "Yunan": [
+        "豬紅"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "豬紅"
+    ],
+    "Zhanjiang": [],
+    "Lianjiang": [
+        "豬紅"
+    ],
+    "Wuchuan": [],
+    "Nanning": [
+        "豬紅"
+    ],
+    "Wuzhou": [
+        "豬紅"
+    ],
+    "Yulin": [
+        "豬紅"
+    ],
+    "Hepu": [
+        "豬紅"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "豬紅"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "豬紅",
+        "豬血"
+    ],
+    "Guilin-P": [
+        "豬血"
+    ],
+    "Xiamen": [
+        "豬血"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "豬血",
+        "豬料"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "豬血"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "豬血"
+    ],
+    "Kaohsiung": [
+        "豬血"
+    ],
+    "Tainan": [
+        "豬血"
+    ],
+    "Taichung": [
+        "豬血"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "豬血"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "豬血"
+    ],
+    "Sanxia": [
+        "豬血"
+    ],
+    "Yilan": [
+        "豬血"
+    ],
+    "Kinmen": [
+        "豬血"
+    ],
+    "Magong": [
+        "豬血"
+    ],
+    "Malaysia-MN": [
+        "豬血"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [
+        "豬血"
+    ],
+    "Chaozhou": [],
+    "Shantou": [
+        "豬血"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [
+        "豬血"
+    ],
+    "Johor Bahru": [
+        "豬血"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "豬血"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Shaxi": [
+        "豬血"
+    ],
+    "Sanxiang": [
+        "豬血"
+    ],
+    "Fuzhou": [],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "豨血"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

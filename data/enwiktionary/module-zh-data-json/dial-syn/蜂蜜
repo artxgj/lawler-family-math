@@ -1,365 +1,207 @@
 {
     "meaning": "honey",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "蜂蜜"
-    },
-    "Taiwan": {
-        "1": "蜂蜜"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "蜂蜜",
-        "2": "蜂糖"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "蜂蜜"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蜂糖",
-        "2": "蜂蜜"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "蜂蜜"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "蜂蜜",
-        "2": "蜜糖"
-    },
-    "Singapore-M": {
-        "1": "蜂蜜",
-        "2": "蜜糖"
-    },
-    "Taiyuan": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "蜜糖",
-        "2": "蜜"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "蜜糖"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "蜜",
-        "2": "蜂蜜"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "蜜糖"
-    },
-    "Shuangfeng": {
-        "1": "蜂糖",
-        "2": "蜜糖"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "蜜糖",
-        "2": "蜜"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "蜂糖"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "蜂糖"
-    },
-    "Liudui": {
-        "1": "蜂糖"
-    },
-    "Hsinchu": {
-        "1": "蜂糖"
-    },
-    "Dongshi": {
-        "1": "蜂糖"
-    },
-    "Raoping": {
-        "1": "蜂糖"
-    },
-    "Yunlin": {
-        "1": "蜂糖"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "蜜糖"
-    },
-    "Hong Kong": {
-        "1": "蜜糖"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "蜜糖"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "蜜糖"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Quanzhou": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Zhangzhou": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Taipei": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "蜜糖"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "蜂蜜"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "蜂蜜",
-        "2": "蜜"
-    },
-    "Jian'ou": {
-        "1": "蜂糖"
-    }
+    "Classical": [],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "蜂蜜"
+    ],
+    "Taiwan": [
+        "蜂蜜"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "蜂蜜",
+        "蜂糖"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "蜂蜜"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蜂糖",
+        "蜂蜜"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "蜂蜜"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [
+        "蜂蜜",
+        "蜜糖"
+    ],
+    "Singapore-M": [
+        "蜂蜜",
+        "蜜糖"
+    ],
+    "Taiyuan": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "蜜糖",
+        "蜜"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "蜜糖"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "蜜",
+        "蜂蜜"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "蜜糖"
+    ],
+    "Shuangfeng": [
+        "蜂糖",
+        "蜜糖"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "蜜糖",
+        "蜜"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "蜂糖"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "蜂糖"
+    ],
+    "Liudui": [
+        "蜂糖"
+    ],
+    "Hsinchu": [
+        "蜂糖"
+    ],
+    "Dongshi": [
+        "蜂糖"
+    ],
+    "Raoping": [
+        "蜂糖"
+    ],
+    "Yunlin": [
+        "蜂糖"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "蜜糖"
+    ],
+    "Hong Kong": [
+        "蜜糖"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "蜜糖"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "蜜糖"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Quanzhou": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Zhangzhou": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Taipei": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [
+        "蜜糖"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "蜂蜜"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "蜂蜜",
+        "蜜"
+    ],
+    "Jian'ou": [
+        "蜂糖"
+    ]
 }

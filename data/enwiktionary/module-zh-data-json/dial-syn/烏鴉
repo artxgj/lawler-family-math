@@ -1,836 +1,710 @@
 {
     "meaning": "crow; raven",
     "note": "",
-    "Classical": {
-        "1": "烏",
-        "2": "鴉"
-    },
-    "Formal": {
-        "1": "烏鴉"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "老鴰"
-    },
-    "Taiwan": {
-        "1": "烏鴉"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "老哇",
-        "2": "老哇子",
-        "3": "黑老哇",
-        "4": "烏鴉"
-    },
-    "Shenyang": {
-        "1": "老鴰"
-    },
-    "Hailar": {
-        "1": "老鴰"
-    },
-    "Ulan Hot": {
-        "1": "老鴰"
-    },
-    "Tongliao": {
-        "1": "老鴰"
-    },
-    "Chifeng": {
-        "1": "老鴰"
-    },
-    "Bayanhot": {
-        "1": "老哇"
-    },
-    "Jinan": {
-        "1": "老鴰",
-        "2": "黑老鴰"
-    },
-    "Muping": {
-        "1": "黑老哇子"
-    },
-    "Luoyang": {
-        "1": "老鴰"
-    },
-    "Wanrong": {
-        "1": "老哇"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "老哇",
-        "2": "黑老哇"
-    },
-    "Qingdao": {
-        "1": "老哇"
-    },
-    "Zhengzhou": {
-        "1": "老鴰"
-    },
-    "Xining": {
-        "1": "老哇",
-        "2": "鴰老闆"
-    },
-    "Xuzhou": {
-        "1": "老鴰",
-        "2": "烏鴉"
-    },
-    "Yinchuan": {
-        "1": "老哇"
-    },
-    "Lanzhou": {
-        "1": "老哇",
-        "2": "狼老哇"
-    },
-    "Ürümqi": {
-        "1": "老哇"
-    },
-    "Wuhan": {
-        "1": "老哇"
-    },
-    "Huanggang": {
-        "1": "老鴉"
-    },
-    "Chengdu": {
-        "1": "老哇",
-        "2": "烏鴉"
-    },
-    "Guiyang": {
-        "1": "老哇"
-    },
-    "Guilin": {
-        "1": "烏鴉"
-    },
-    "Liuzhou": {
-        "1": "烏鴉",
-        "2": "烏鴉鳥"
-    },
-    "Kunming": {
-        "1": "老哇"
-    },
-    "Yangzhou": {
-        "1": "老鴉"
-    },
-    "Nanjing": {
-        "1": "老哇",
-        "2": "黑老哇"
-    },
-    "Hefei": {
-        "1": "老鴰子",
-        "2": "老鴰"
-    },
-    "Nantong": {
-        "1": "老鴉"
-    },
-    "Malaysia-M": {
-        "1": "烏鴉"
-    },
-    "Singapore-M": {
-        "1": "烏鴉"
-    },
-    "Gansu-DG": {
-        "1": "老哇",
-        "2": "黑老哇",
-        "3": "烏鴉"
-    },
-    "Shaanxi-DG": {
-        "1": "黑老哇"
-    },
-    "Taiyuan": {
-        "1": "黑老哇"
-    },
-    "Pingyao": {
-        "1": "黑老哇"
-    },
-    "Xinzhou": {
-        "1": "黑澇鴉兒"
-    },
-    "Baochang": {
-        "1": "黑老哇"
-    },
-    "Jining": {
-        "1": "黑老哇"
-    },
-    "Hohhot": {
-        "1": "黑老哇"
-    },
-    "Baotou": {
-        "1": "烏鴉"
-    },
-    "Dongsheng": {
-        "1": "黑老哇"
-    },
-    "Linhe": {
-        "1": "黑老哇"
-    },
-    "Haibowan": {
-        "1": "黑老哇"
-    },
-    "Suzhou": {
-        "1": "老鴉",
-        "2": "烏鴉"
-    },
-    "Hangzhou": {
-        "1": "烏老鴉",
-        "2": "烏老鴉兒",
-        "3": "烏鴉"
-    },
-    "Shanghai": {
-        "1": "烏鴉",
-        "2": "老鴉"
-    },
-    "Chongming": {
-        "1": "老鴉"
-    },
-    "Wenzhou": {
-        "1": "老鴉",
-        "2": "烏老鴉"
-    },
-    "Danyang": {
-        "1": "烏老鴉",
-        "2": "烏鴉",
-        "3": "老鴉"
-    },
-    "Jinhua": {
-        "1": "烏老鴉",
-        "2": "烏鴉"
-    },
-    "Tangxi": {
-        "1": "烏老鴉"
-    },
-    "Ningbo": {
-        "1": "老鴉",
-        "2": "烏鴉"
-    },
-    "Changsha": {
-        "1": "老哇子",
-        "2": "老哇"
-    },
-    "Shuangfeng": {
-        "1": "老哇子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "老哇子",
-        "2": "老哇"
-    },
-    "Quanzhou-X": {
-        "1": "烏鴉"
-    },
-    "Nanchang": {
-        "1": "老鴉"
-    },
-    "Lichuan": {
-        "1": "老鴉"
-    },
-    "Pingxiang": {
-        "1": "老鴉",
-        "2": "鴉雀"
-    },
-    "Meixian": {
-        "1": "老鴉"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "烏鴉"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "烏鴉"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "烏鴉"
-    },
-    "Zengcheng-ZG": {
-        "1": "老鴉"
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "烏鴉"
-    },
-    "Wuhua-SZ": {
-        "1": "烏鴉"
-    },
-    "Wuhua-HC": {
-        "1": "烏鴉"
-    },
-    "Wuhua-CB": {
-        "1": "烏鴉"
-    },
-    "Wuhua-MY": {
-        "1": "烏鴉"
-    },
-    "Heyuan": {
-        "1": "老鴉"
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": "老鴉"
-    },
-    "Conghua-H": {
-        "1": "烏鴉"
-    },
-    "Jiexi": {
-        "1": "老鴉"
-    },
-    "Luchuan-LC": {
-        "1": "烏鴉"
-    },
-    "Luchuan-DQ": {
-        "1": "老鴉",
-        "2": "烏鴉"
-    },
-    "Changting": {
-        "1": "烏鴉鵲"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": "老鴉"
-    },
-    "Ninghua": {
-        "1": "老鴉子"
-    },
-    "Yudu": {
-        "1": "老鴉"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "老鴉"
-    },
-    "Shangyou": {
-        "1": "老鴉"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "老鴉仔"
-    },
-    "Liudui": {
-        "1": "烏鴉仔",
-        "2": "老鴉仔",
-        "3": "烏鴉"
-    },
-    "Hsinchu": {
-        "1": "烏鴉"
-    },
-    "Dongshi": {
-        "1": "老鴉",
-        "2": "烏鴉"
-    },
-    "Raoping": {
-        "1": "烏鴉"
-    },
-    "Yunlin": {
-        "1": "烏鴉"
-    },
-    "Hong Kong-H": {
-        "1": "老鴉",
-        "2": "烏鴉"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "烏鴉"
-    },
-    "Senai": {
-        "1": "老鴉"
-    },
-    "Singkawang": {
-        "1": "烏鴉"
-    },
-    "Jixi": {
-        "1": "老鴉"
-    },
-    "Shexian": {
-        "1": "老鴉"
-    },
-    "Tunxi": {
-        "1": "老鴉"
-    },
-    "Xiuning": {
-        "1": "老鴉"
-    },
-    "Yixian": {
-        "1": "老鴉"
-    },
-    "Qimen": {
-        "1": "老鴉"
-    },
-    "Wuyuan": {
-        "1": "老鴉"
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": "老鴉"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "烏鴉",
-        "2": "老鴉"
-    },
-    "Hong Kong": {
-        "1": "烏鴉"
-    },
-    "HK Weitou": {
-        "1": "老鴉"
-    },
-    "Kam Tin": {
-        "1": "烏鴉"
-    },
-    "Ting Kok": {
-        "1": "烏鴉"
-    },
-    "Tung Ping Chau": {
-        "1": "老鴉"
-    },
-    "Macau": {
-        "1": "烏鴉"
-    },
-    "Panyu": {
-        "1": "烏鴉"
-    },
-    "Huadu": {
-        "1": "老鴉"
-    },
-    "Conghua": {
-        "1": "呱乸"
-    },
-    "Zengcheng": {
-        "1": "烏鴉"
-    },
-    "Foshan": {
-        "1": "烏鴉"
-    },
-    "Nanhai": {
-        "1": "烏鴉"
-    },
-    "Shunde": {
-        "1": "烏鴉"
-    },
-    "Sanshui": {
-        "1": "鴉雀"
-    },
-    "Gaoming": {
-        "1": "烏鴉"
-    },
-    "Zhongshan": {
-        "1": "烏鴉"
-    },
-    "Zhuhai": {
-        "1": "烏鴉"
-    },
-    "Doumen-T": {
-        "1": "烏鴉"
-    },
-    "Doumen-S": {
-        "1": "烏鴉"
-    },
-    "Jiangmen": {
-        "1": "烏鴉"
-    },
-    "Xinhui": {
-        "1": "烏鴉"
-    },
-    "Taishan": {
-        "1": "烏鴉"
-    },
-    "Kaiping": {
-        "1": "烏鴉"
-    },
-    "Enping": {
-        "1": "烏鴉"
-    },
-    "Heshan": {
-        "1": "烏鴉"
-    },
-    "Dongguan": {
-        "1": "烏鴉"
-    },
-    "Bao'an": {
-        "1": "烏鴉"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "烏鴉"
-    },
-    "Yunfu": {
-        "1": "烏鴉"
-    },
-    "Yangjiang": {
-        "1": "老鴉"
-    },
-    "Xinyi": {
-        "1": "烏鴉"
-    },
-    "Lianjiang": {
-        "1": "烏鴉"
-    },
-    "Nanning": {
-        "1": "烏鴉"
-    },
-    "Wuzhou": {
-        "1": "烏鴉"
-    },
-    "Yulin": {
-        "1": "烏鴉"
-    },
-    "Hepu": {
-        "1": "烏鴉"
-    },
-    "Danzhou": {
-        "1": "老鴉"
-    },
-    "Kuala Lumpur": {
-        "1": "烏鴉"
-    },
-    "Ho Chi Minh City": {
-        "1": "烏鴉"
-    },
-    "Nanning-P": {
-        "1": "烏鴉",
-        "2": "老鴉"
-    },
-    "Guilin-P": {
-        "1": "烏鴉"
-    },
-    "Xiamen": {
-        "1": "烏鴉"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "烏鴉"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "烏鴉"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "烏鴉"
-    },
-    "Taipei": {
-        "1": "烏鴉"
-    },
-    "Kaohsiung": {
-        "1": "烏鴉",
-        "2": "烏鴉仔"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": "烏鴉"
-    },
-    "Yilan": {
-        "1": "烏鴉仔"
-    },
-    "Kinmen": {
-        "1": "烏鴉"
-    },
-    "Magong": {
-        "1": "烏鴉"
-    },
-    "Malaysia-MN": {
-        "1": "烏鴉"
-    },
-    "Singapore-MN": {
-        "1": "烏鴉",
-        "2": "歹鳥"
-    },
-    "Philippine-MN": {
-        "1": "烏鴉"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": "老鴉"
-    },
-    "Yongfu": {
-        "1": "老鴉"
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "老鴉"
-    },
-    "Chaozhou": {
-        "1": "烏鴉"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "烏鴉"
-    },
-    "Thailand-MN-T": {
-        "1": "烏鴉"
-    },
-    "Johor Bahru": {
-        "1": "烏鴉"
-    },
-    "Wenchang": {
-        "1": "衫烏"
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": "沙烏"
-    },
-    "Putian": {
-        "1": "鶚卵",
-        "2": "烏鴉"
-    },
-    "Xianyou": {
-        "1": "鶚卵"
-    },
-    "Shaxi": {
-        "1": "烏鴉"
-    },
-    "Sanxiang": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "老鴉"
-    },
-    "Changle": {
-        "1": "老鴉"
-    },
-    "Fuqing": {
-        "1": "老鴉"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "老鴰"
-    },
-    "Gutian": {
-        "1": "老鴉"
-    },
-    "Fu'an": {
-        "1": "老鴉"
-    },
-    "Ningde": {
-        "1": "老鴉"
-    },
-    "Shouning": {
-        "1": "老鴉"
-    },
-    "Zhouning": {
-        "1": "老鴉"
-    },
-    "Fuding": {
-        "1": "老鴉"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "老鴉"
-    },
-    "Dikou": {
-        "1": "老鴉"
-    },
-    "Songxi": {
-        "1": "老鴉"
-    },
-    "Zhenghe": {
-        "1": "老鴉"
-    },
-    "Zhenqian": {
-        "1": "老烏"
-    },
-    "Jianyang": {
-        "1": "老鴉"
-    },
-    "Wuyishan": {
-        "1": "老鴉"
-    },
-    "Shibei": {
-        "1": "老鴉"
-    },
-    "Fu'an-She": {
-        "1": "老鴉"
-    },
-    "Fuding-She": {
-        "1": "老鴉"
-    },
-    "Luoyuan-She": {
-        "1": "老鴉"
-    },
-    "Sanming-She": {
-        "1": "老鴉"
-    },
-    "Shunchang-She": {
-        "1": "老鴉"
-    },
-    "Hua'an-She": {
-        "1": "老鴉"
-    },
-    "Guixi-She": {
-        "1": "老鴉"
-    },
-    "Cangnan-She": {
-        "1": "老鴉"
-    },
-    "Jingning-She": {
-        "1": "老鴉"
-    },
-    "Lishui-She": {
-        "1": "老鴉"
-    },
-    "Longyou-She": {
-        "1": "老鴉"
-    },
-    "Chaozhou-She": {
-        "1": "烏鴉"
-    },
-    "Fengshun-She": {
-        "1": "老鴉"
-    }
+    "Classical": [
+        "烏",
+        "鴉"
+    ],
+    "Formal": [
+        "烏鴉"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "老鴰"
+    ],
+    "Taiwan": [
+        "烏鴉"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "老哇",
+        "老哇子",
+        "黑老哇",
+        "烏鴉"
+    ],
+    "Shenyang": [
+        "老鴰"
+    ],
+    "Hailar": [
+        "老鴰"
+    ],
+    "Ulan Hot": [
+        "老鴰"
+    ],
+    "Tongliao": [
+        "老鴰"
+    ],
+    "Chifeng": [
+        "老鴰"
+    ],
+    "Bayanhot": [
+        "老哇"
+    ],
+    "Jinan": [
+        "老鴰",
+        "黑老鴰"
+    ],
+    "Muping": [
+        "黑老哇子"
+    ],
+    "Luoyang": [
+        "老鴰"
+    ],
+    "Wanrong": [
+        "老哇"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "老哇",
+        "黑老哇"
+    ],
+    "Qingdao": [
+        "老哇"
+    ],
+    "Zhengzhou": [
+        "老鴰"
+    ],
+    "Xining": [
+        "老哇",
+        "鴰老闆"
+    ],
+    "Xuzhou": [
+        "老鴰",
+        "烏鴉"
+    ],
+    "Yinchuan": [
+        "老哇"
+    ],
+    "Lanzhou": [
+        "老哇",
+        "狼老哇"
+    ],
+    "Ürümqi": [
+        "老哇"
+    ],
+    "Wuhan": [
+        "老哇"
+    ],
+    "Huanggang": [
+        "老鴉"
+    ],
+    "Chengdu": [
+        "老哇",
+        "烏鴉"
+    ],
+    "Guiyang": [
+        "老哇"
+    ],
+    "Guilin": [
+        "烏鴉"
+    ],
+    "Liuzhou": [
+        "烏鴉",
+        "烏鴉鳥"
+    ],
+    "Kunming": [
+        "老哇"
+    ],
+    "Yangzhou": [
+        "老鴉"
+    ],
+    "Nanjing": [
+        "老哇",
+        "黑老哇"
+    ],
+    "Hefei": [
+        "老鴰子",
+        "老鴰"
+    ],
+    "Nantong": [
+        "老鴉"
+    ],
+    "Malaysia-M": [
+        "烏鴉"
+    ],
+    "Singapore-M": [
+        "烏鴉"
+    ],
+    "Gansu-DG": [
+        "老哇",
+        "黑老哇",
+        "烏鴉"
+    ],
+    "Shaanxi-DG": [
+        "黑老哇"
+    ],
+    "Taiyuan": [
+        "黑老哇"
+    ],
+    "Pingyao": [
+        "黑老哇"
+    ],
+    "Xinzhou": [
+        "黑澇鴉兒"
+    ],
+    "Baochang": [
+        "黑老哇"
+    ],
+    "Jining": [
+        "黑老哇"
+    ],
+    "Hohhot": [
+        "黑老哇"
+    ],
+    "Baotou": [
+        "烏鴉"
+    ],
+    "Dongsheng": [
+        "黑老哇"
+    ],
+    "Linhe": [
+        "黑老哇"
+    ],
+    "Haibowan": [
+        "黑老哇"
+    ],
+    "Suzhou": [
+        "老鴉",
+        "烏鴉"
+    ],
+    "Hangzhou": [
+        "烏老鴉",
+        "烏老鴉兒",
+        "烏鴉"
+    ],
+    "Shanghai": [
+        "烏鴉",
+        "老鴉"
+    ],
+    "Chongming": [
+        "老鴉"
+    ],
+    "Wenzhou": [
+        "老鴉",
+        "烏老鴉"
+    ],
+    "Danyang": [
+        "烏老鴉",
+        "烏鴉",
+        "老鴉"
+    ],
+    "Jinhua": [
+        "烏老鴉",
+        "烏鴉"
+    ],
+    "Tangxi": [
+        "烏老鴉"
+    ],
+    "Ningbo": [
+        "老鴉",
+        "烏鴉"
+    ],
+    "Changsha": [
+        "老哇子",
+        "老哇"
+    ],
+    "Shuangfeng": [
+        "老哇子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "老哇子",
+        "老哇"
+    ],
+    "Quanzhou-X": [
+        "烏鴉"
+    ],
+    "Nanchang": [
+        "老鴉"
+    ],
+    "Lichuan": [
+        "老鴉"
+    ],
+    "Pingxiang": [
+        "老鴉",
+        "鴉雀"
+    ],
+    "Meixian": [
+        "老鴉"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "烏鴉"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "烏鴉"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "烏鴉"
+    ],
+    "Zengcheng-ZG": [
+        "老鴉"
+    ],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "烏鴉"
+    ],
+    "Wuhua-SZ": [
+        "烏鴉"
+    ],
+    "Wuhua-HC": [
+        "烏鴉"
+    ],
+    "Wuhua-CB": [
+        "烏鴉"
+    ],
+    "Wuhua-MY": [
+        "烏鴉"
+    ],
+    "Heyuan": [
+        "老鴉"
+    ],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [
+        "老鴉"
+    ],
+    "Conghua-H": [
+        "烏鴉"
+    ],
+    "Jiexi": [
+        "老鴉"
+    ],
+    "Luchuan-LC": [
+        "烏鴉"
+    ],
+    "Luchuan-DQ": [
+        "老鴉",
+        "烏鴉"
+    ],
+    "Changting": [
+        "烏鴉鵲"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [
+        "老鴉"
+    ],
+    "Ninghua": [
+        "老鴉子"
+    ],
+    "Yudu": [
+        "老鴉"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "老鴉"
+    ],
+    "Shangyou": [
+        "老鴉"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "老鴉仔"
+    ],
+    "Liudui": [
+        "烏鴉仔",
+        "老鴉仔",
+        "烏鴉"
+    ],
+    "Hsinchu": [
+        "烏鴉"
+    ],
+    "Dongshi": [
+        "老鴉",
+        "烏鴉"
+    ],
+    "Raoping": [
+        "烏鴉"
+    ],
+    "Yunlin": [
+        "烏鴉"
+    ],
+    "Hong Kong-H": [
+        "老鴉",
+        "烏鴉"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "烏鴉"
+    ],
+    "Senai": [
+        "老鴉"
+    ],
+    "Singkawang": [
+        "烏鴉"
+    ],
+    "Jixi": [
+        "老鴉"
+    ],
+    "Shexian": [
+        "老鴉"
+    ],
+    "Tunxi": [
+        "老鴉"
+    ],
+    "Xiuning": [
+        "老鴉"
+    ],
+    "Yixian": [
+        "老鴉"
+    ],
+    "Qimen": [
+        "老鴉"
+    ],
+    "Wuyuan": [
+        "老鴉"
+    ],
+    "Fuliang": [],
+    "Dexing": [
+        "老鴉"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "烏鴉",
+        "老鴉"
+    ],
+    "Hong Kong": [
+        "烏鴉"
+    ],
+    "HK Weitou": [
+        "老鴉"
+    ],
+    "Kam Tin": [
+        "烏鴉"
+    ],
+    "Ting Kok": [
+        "烏鴉"
+    ],
+    "Tung Ping Chau": [
+        "老鴉"
+    ],
+    "Macau": [
+        "烏鴉"
+    ],
+    "Panyu": [
+        "烏鴉"
+    ],
+    "Huadu": [
+        "老鴉"
+    ],
+    "Conghua": [
+        "呱乸"
+    ],
+    "Zengcheng": [
+        "烏鴉"
+    ],
+    "Foshan": [
+        "烏鴉"
+    ],
+    "Nanhai": [
+        "烏鴉"
+    ],
+    "Shunde": [
+        "烏鴉"
+    ],
+    "Sanshui": [
+        "鴉雀"
+    ],
+    "Gaoming": [
+        "烏鴉"
+    ],
+    "Zhongshan": [
+        "烏鴉"
+    ],
+    "Zhuhai": [
+        "烏鴉"
+    ],
+    "Doumen-T": [
+        "烏鴉"
+    ],
+    "Doumen-S": [
+        "烏鴉"
+    ],
+    "Jiangmen": [
+        "烏鴉"
+    ],
+    "Xinhui": [
+        "烏鴉"
+    ],
+    "Taishan": [
+        "烏鴉"
+    ],
+    "Kaiping": [
+        "烏鴉"
+    ],
+    "Enping": [
+        "烏鴉"
+    ],
+    "Heshan": [
+        "烏鴉"
+    ],
+    "Dongguan": [
+        "烏鴉"
+    ],
+    "Bao'an": [
+        "烏鴉"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "烏鴉"
+    ],
+    "Yunfu": [
+        "烏鴉"
+    ],
+    "Yangjiang": [
+        "老鴉"
+    ],
+    "Xinyi": [
+        "烏鴉"
+    ],
+    "Lianjiang": [
+        "烏鴉"
+    ],
+    "Nanning": [
+        "烏鴉"
+    ],
+    "Wuzhou": [
+        "烏鴉"
+    ],
+    "Yulin": [
+        "烏鴉"
+    ],
+    "Hepu": [
+        "烏鴉"
+    ],
+    "Danzhou": [
+        "老鴉"
+    ],
+    "Kuala Lumpur": [
+        "烏鴉"
+    ],
+    "Ho Chi Minh City": [
+        "烏鴉"
+    ],
+    "Nanning-P": [
+        "烏鴉",
+        "老鴉"
+    ],
+    "Guilin-P": [
+        "烏鴉"
+    ],
+    "Xiamen": [
+        "烏鴉"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "烏鴉"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "烏鴉"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "烏鴉"
+    ],
+    "Taipei": [
+        "烏鴉"
+    ],
+    "Kaohsiung": [
+        "烏鴉",
+        "烏鴉仔"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [
+        "烏鴉"
+    ],
+    "Yilan": [
+        "烏鴉仔"
+    ],
+    "Kinmen": [
+        "烏鴉"
+    ],
+    "Magong": [
+        "烏鴉"
+    ],
+    "Malaysia-MN": [
+        "烏鴉"
+    ],
+    "Singapore-MN": [
+        "烏鴉",
+        "歹鳥"
+    ],
+    "Philippine-MN": [
+        "烏鴉"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [
+        "老鴉"
+    ],
+    "Yongfu": [
+        "老鴉"
+    ],
+    "Datian": [],
+    "Pingnan": [
+        "老鴉"
+    ],
+    "Chaozhou": [
+        "烏鴉"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "烏鴉"
+    ],
+    "Thailand-MN-T": [
+        "烏鴉"
+    ],
+    "Johor Bahru": [
+        "烏鴉"
+    ],
+    "Wenchang": [
+        "衫烏"
+    ],
+    "Haikou": [],
+    "Leizhou": [
+        "沙烏"
+    ],
+    "Putian": [
+        "鶚卵",
+        "烏鴉"
+    ],
+    "Xianyou": [
+        "鶚卵"
+    ],
+    "Shaxi": [
+        "烏鴉"
+    ],
+    "Sanxiang": [],
+    "Fuzhou": [
+        "老鴉"
+    ],
+    "Changle": [
+        "老鴉"
+    ],
+    "Fuqing": [
+        "老鴉"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "老鴰"
+    ],
+    "Gutian": [
+        "老鴉"
+    ],
+    "Fu'an": [
+        "老鴉"
+    ],
+    "Ningde": [
+        "老鴉"
+    ],
+    "Shouning": [
+        "老鴉"
+    ],
+    "Zhouning": [
+        "老鴉"
+    ],
+    "Fuding": [
+        "老鴉"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "老鴉"
+    ],
+    "Dikou": [
+        "老鴉"
+    ],
+    "Songxi": [
+        "老鴉"
+    ],
+    "Zhenghe": [
+        "老鴉"
+    ],
+    "Zhenqian": [
+        "老烏"
+    ],
+    "Jianyang": [
+        "老鴉"
+    ],
+    "Wuyishan": [
+        "老鴉"
+    ],
+    "Shibei": [
+        "老鴉"
+    ],
+    "Fu'an-She": [
+        "老鴉"
+    ],
+    "Fuding-She": [
+        "老鴉"
+    ],
+    "Luoyuan-She": [
+        "老鴉"
+    ],
+    "Sanming-She": [
+        "老鴉"
+    ],
+    "Shunchang-She": [
+        "老鴉"
+    ],
+    "Hua'an-She": [
+        "老鴉"
+    ],
+    "Guixi-She": [
+        "老鴉"
+    ],
+    "Cangnan-She": [
+        "老鴉"
+    ],
+    "Jingning-She": [
+        "老鴉"
+    ],
+    "Lishui-She": [
+        "老鴉"
+    ],
+    "Longyou-She": [
+        "老鴉"
+    ],
+    "Chaozhou-She": [
+        "烏鴉"
+    ],
+    "Fengshun-She": [
+        "老鴉"
+    ]
 }

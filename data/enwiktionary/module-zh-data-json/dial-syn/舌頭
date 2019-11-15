@@ -1,661 +1,597 @@
 {
     "meaning": "tongue",
     "note": "",
-    "Classical": {
-        "1": "舌"
-    },
-    "Formal": {
-        "1": "舌頭",
-        "2": "舌"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "舌頭"
-    },
-    "Taiwan": {
-        "1": "舌頭"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "舌頭"
-    },
-    "Shenyang": {
-        "1": "舌頭"
-    },
-    "Hailar": {
-        "1": "舌頭"
-    },
-    "Ulan Hot": {
-        "1": "舌頭"
-    },
-    "Tongliao": {
-        "1": "舌頭"
-    },
-    "Chifeng": {
-        "1": "舌頭"
-    },
-    "Bayanhot": {
-        "1": "舌頭"
-    },
-    "Jinan": {
-        "1": "舌頭"
-    },
-    "Muping": {
-        "1": "舌頭"
-    },
-    "Luoyang": {
-        "1": "舌頭"
-    },
-    "Wanrong": {
-        "1": "舌頭"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "舌頭"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "舌頭"
-    },
-    "Xining": {
-        "1": "舌頭"
-    },
-    "Xuzhou": {
-        "1": "舌頭"
-    },
-    "Yinchuan": {
-        "1": "舌頭"
-    },
-    "Lanzhou": {
-        "1": "舌頭"
-    },
-    "Ürümqi": {
-        "1": "舌頭"
-    },
-    "Wuhan": {
-        "1": "舌頭",
-        "2": "賺頭"
-    },
-    "Huanggang": {
-        "1": "舌頭"
-    },
-    "Chengdu": {
-        "1": "舌頭兒"
-    },
-    "Guiyang": {
-        "1": "舌頭"
-    },
-    "Guilin": {
-        "1": "舌頭"
-    },
-    "Liuzhou": {
-        "1": "脷錢"
-    },
-    "Kunming": {
-        "1": "舌頭"
-    },
-    "Yangzhou": {
-        "1": "舌頭"
-    },
-    "Nanjing": {
-        "1": "舌頭"
-    },
-    "Hefei": {
-        "1": "舌頭"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "舌頭"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "舌頭"
-    },
-    "Pingyao": {
-        "1": "舌頭"
-    },
-    "Xinzhou": {
-        "1": "舌頭"
-    },
-    "Baochang": {
-        "1": "舌頭"
-    },
-    "Jining": {
-        "1": "舌頭"
-    },
-    "Hohhot": {
-        "1": "舌頭"
-    },
-    "Baotou": {
-        "1": "舌頭"
-    },
-    "Dongsheng": {
-        "1": "舌頭"
-    },
-    "Linhe": {
-        "1": "舌頭"
-    },
-    "Haibowan": {
-        "1": "舌頭"
-    },
-    "Shanghai": {
-        "1": "舌頭"
-    },
-    "Suzhou": {
-        "1": "舌頭"
-    },
-    "Wuxi": {
-        "1": "舌頭"
-    },
-    "Hangzhou": {
-        "1": "舌頭"
-    },
-    "Chongming": {
-        "1": "舌頭"
-    },
-    "Wenzhou": {
-        "1": "口舌"
-    },
-    "Danyang": {
-        "1": "舌頭"
-    },
-    "Jinhua": {
-        "1": "口舌"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "舌頭"
-    },
-    "Changsha": {
-        "1": "舌子"
-    },
-    "Shuangfeng": {
-        "1": "舌子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "舌子"
-    },
-    "Quanzhou-X": {
-        "1": "舌子"
-    },
-    "Nanchang": {
-        "1": "舌頭"
-    },
-    "Lichuan": {
-        "1": "舌"
-    },
-    "Pingxiang": {
-        "1": "舌頭",
-        "2": "舌子"
-    },
-    "Meixian": {
-        "1": "舌嫲"
-    },
-    "Xingning": {
-        "1": "舌嫲"
-    },
-    "Huidong": {
-        "1": "舌嫲"
-    },
-    "Qujiang": {
-        "1": "舌頭"
-    },
-    "Xiaosanjiang": {
-        "1": "舌嫲"
-    },
-    "Luchuan": {
-        "1": "脷錢"
-    },
-    "Changting": {
-        "1": "舌頭"
-    },
-    "Pingyu": {
-        "1": "舌嫲"
-    },
-    "Wuping": {
-        "1": "舌嫲"
-    },
-    "Liancheng": {
-        "1": "舌頭"
-    },
-    "Ninghua": {
-        "1": "舌頭"
-    },
-    "Yudu": {
-        "1": "舌頭",
-        "2": "舌刁"
-    },
-    "Ruijin": {
-        "1": "舌頭"
-    },
-    "Shicheng": {
-        "1": "舌咀"
-    },
-    "Shangyou": {
-        "1": "舌刁"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "舌嫲"
-    },
-    "Liudui": {
-        "1": "舌嫲"
-    },
-    "Hsinchu": {
-        "1": "舌嫲"
-    },
-    "Dongshi": {
-        "1": "舌嫲"
-    },
-    "Raoping": {
-        "1": "舌嫲"
-    },
-    "Yunlin": {
-        "1": "舌"
-    },
-    "Hong Kong-H": {
-        "1": "舌嫲"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "舌嫲"
-    },
-    "Senai": {
-        "1": "舌嫲"
-    },
-    "Singkawang": {
-        "1": "舌嫲"
-    },
-    "Jixi": {
-        "1": "口舌"
-    },
-    "Shexian": {
-        "1": "口舌",
-        "2": "嘴舌"
-    },
-    "Tunxi": {
-        "1": "舌兒"
-    },
-    "Xiuning": {
-        "1": "舌兒"
-    },
-    "Yixian": {
-        "1": "舌"
-    },
-    "Qimen": {
-        "1": "舌條"
-    },
-    "Wuyuan": {
-        "1": "舌頭"
-    },
-    "Fuliang": {
-        "1": "舌條"
-    },
-    "Dexing": {
-        "1": "舌頭"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": "舌條"
-    },
-    "Guangzhou": {
-        "1": "脷"
-    },
-    "Hong Kong": {
-        "1": "脷"
-    },
-    "Shunde": {
-        "1": "脷"
-    },
-    "Foshan": {
-        "1": "脷"
-    },
-    "Zhongshan": {
-        "1": "脷"
-    },
-    "Dongguan": {
-        "1": "脷"
-    },
-    "HK Weitou": {
-        "1": "脷"
-    },
-    "Doumen-T": {
-        "1": "脷"
-    },
-    "Doumen-S": {
-        "1": "脷"
-    },
-    "Taishan": {
-        "1": "脷"
-    },
-    "Kaiping": {
-        "1": "脷"
-    },
-    "Shaoguan": {
-        "1": "脷"
-    },
-    "Yunfu": {
-        "1": "脷"
-    },
-    "Yangjiang": {
-        "1": "脷"
-    },
-    "Xinyi": {
-        "1": "脷"
-    },
-    "Lianjiang": {
-        "1": "脷"
-    },
-    "Nanning": {
-        "1": "脷錢",
-        "2": "脷"
-    },
-    "Wuzhou": {
-        "1": "脷"
-    },
-    "Yulin": {
-        "1": "脷錢"
-    },
-    "Hepu": {
-        "1": "脷錢"
-    },
-    "Danzhou": {
-        "1": "舌頭臉"
-    },
-    "Kuala Lumpur": {
-        "1": "脷"
-    },
-    "Ho Chi Minh City": {
-        "1": "脷"
-    },
-    "Nanning-P": {
-        "1": "脷錢"
-    },
-    "Guilin-P": {
-        "1": "舌頭"
-    },
-    "Xiamen": {
-        "1": "舌仔"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "舌仔"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": "喙舌"
-    },
-    "Yongchun": {
-        "1": "喙舌"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "舌仔"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": "舌仔"
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": "舌"
-    },
-    "Taipei": {
-        "1": "喙舌"
-    },
-    "Kaohsiung": {
-        "1": "舌"
-    },
-    "Tainan": {
-        "1": "舌"
-    },
-    "Taichung": {
-        "1": "喙舌"
-    },
-    "Wuqi": {
-        "1": "喙舌"
-    },
-    "Hsinchu-MN": {
-        "1": "喙舌"
-    },
-    "Taitung": {
-        "1": "喙舌"
-    },
-    "Lukang": {
-        "1": "舌"
-    },
-    "Sanxia": {
-        "1": "喙舌"
-    },
-    "Yilan": {
-        "1": "舌",
-        "2": "喙舌"
-    },
-    "Kinmen": {
-        "1": "舌"
-    },
-    "Magong": {
-        "1": "舌"
-    },
-    "Malaysia-MN": {
-        "1": "舌"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "舌仔"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": "舌仔"
-    },
-    "Zhangping": {
-        "1": "舌"
-    },
-    "Yongfu": {
-        "1": "舌"
-    },
-    "Datian": {
-        "1": "舌頭"
-    },
-    "Pingnan": {
-        "1": "舌頭"
-    },
-    "Chaozhou": {
-        "1": "舌"
-    },
-    "Shantou": {
-        "1": "舌"
-    },
-    "Haifeng": {
-        "1": "舌"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "舌"
-    },
-    "Wenchang": {
-        "1": "舌"
-    },
-    "Haikou": {
-        "1": "舌"
-    },
-    "Leizhou": {
-        "1": "舌"
-    },
-    "Putian": {
-        "1": "喙舌"
-    },
-    "Xianyou": {
-        "1": "喙舌"
-    },
-    "Fuzhou": {
-        "1": "喙舌"
-    },
-    "Changle": {
-        "1": "喙舌"
-    },
-    "Fuqing": {
-        "1": "喙舌"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "喙舌"
-    },
-    "Gutian": {
-        "1": "喙舌"
-    },
-    "Fu'an": {
-        "1": "喙舌"
-    },
-    "Ningde": {
-        "1": "喙舌"
-    },
-    "Shouning": {
-        "1": "喙舌"
-    },
-    "Zhouning": {
-        "1": "喙舌"
-    },
-    "Fuding": {
-        "1": "喙舌"
-    },
-    "Matsu": {
-        "1": "抹老",
-        "2": "舌",
-        "3": "喙舌"
-    },
-    "Jian'ou": {
-        "1": "舌"
-    },
-    "Dikou": {
-        "1": "喙舌"
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": "舌"
-    },
-    "Zhenqian": {
-        "1": "喙舌"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": "舌"
-    },
-    "Shibei": {
-        "1": "舌"
-    },
-    "Fu'an-She": {
-        "1": "舌"
-    },
-    "Fuding-She": {
-        "1": "嘴舌"
-    },
-    "Luoyuan-She": {
-        "1": "嘴舌"
-    },
-    "Sanming-She": {
-        "1": "舌"
-    },
-    "Shunchang-She": {
-        "1": "舌"
-    },
-    "Hua'an-She": {
-        "1": "舌"
-    },
-    "Guixi-She": {
-        "1": "舌"
-    },
-    "Cangnan-She": {
-        "1": "舌"
-    },
-    "Jingning-She": {
-        "1": "舌"
-    },
-    "Lishui-She": {
-        "1": "舌"
-    },
-    "Longyou-She": {
-        "1": "舌"
-    },
-    "Chaozhou-She": {
-        "1": "舌"
-    },
-    "Fengshun-She": {
-        "1": "舌嫲"
-    }
+    "Classical": [
+        "舌"
+    ],
+    "Formal": [
+        "舌頭",
+        "舌"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "舌頭"
+    ],
+    "Taiwan": [
+        "舌頭"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "舌頭"
+    ],
+    "Shenyang": [
+        "舌頭"
+    ],
+    "Hailar": [
+        "舌頭"
+    ],
+    "Ulan Hot": [
+        "舌頭"
+    ],
+    "Tongliao": [
+        "舌頭"
+    ],
+    "Chifeng": [
+        "舌頭"
+    ],
+    "Bayanhot": [
+        "舌頭"
+    ],
+    "Jinan": [
+        "舌頭"
+    ],
+    "Muping": [
+        "舌頭"
+    ],
+    "Luoyang": [
+        "舌頭"
+    ],
+    "Wanrong": [
+        "舌頭"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "舌頭"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "舌頭"
+    ],
+    "Xining": [
+        "舌頭"
+    ],
+    "Xuzhou": [
+        "舌頭"
+    ],
+    "Yinchuan": [
+        "舌頭"
+    ],
+    "Lanzhou": [
+        "舌頭"
+    ],
+    "Ürümqi": [
+        "舌頭"
+    ],
+    "Wuhan": [
+        "舌頭",
+        "賺頭"
+    ],
+    "Huanggang": [
+        "舌頭"
+    ],
+    "Chengdu": [
+        "舌頭兒"
+    ],
+    "Guiyang": [
+        "舌頭"
+    ],
+    "Guilin": [
+        "舌頭"
+    ],
+    "Liuzhou": [
+        "脷錢"
+    ],
+    "Kunming": [
+        "舌頭"
+    ],
+    "Yangzhou": [
+        "舌頭"
+    ],
+    "Nanjing": [
+        "舌頭"
+    ],
+    "Hefei": [
+        "舌頭"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "舌頭"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "舌頭"
+    ],
+    "Pingyao": [
+        "舌頭"
+    ],
+    "Xinzhou": [
+        "舌頭"
+    ],
+    "Baochang": [
+        "舌頭"
+    ],
+    "Jining": [
+        "舌頭"
+    ],
+    "Hohhot": [
+        "舌頭"
+    ],
+    "Baotou": [
+        "舌頭"
+    ],
+    "Dongsheng": [
+        "舌頭"
+    ],
+    "Linhe": [
+        "舌頭"
+    ],
+    "Haibowan": [
+        "舌頭"
+    ],
+    "Shanghai": [
+        "舌頭"
+    ],
+    "Suzhou": [
+        "舌頭"
+    ],
+    "Wuxi": [
+        "舌頭"
+    ],
+    "Hangzhou": [
+        "舌頭"
+    ],
+    "Chongming": [
+        "舌頭"
+    ],
+    "Wenzhou": [
+        "口舌"
+    ],
+    "Danyang": [
+        "舌頭"
+    ],
+    "Jinhua": [
+        "口舌"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "舌頭"
+    ],
+    "Changsha": [
+        "舌子"
+    ],
+    "Shuangfeng": [
+        "舌子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "舌子"
+    ],
+    "Quanzhou-X": [
+        "舌子"
+    ],
+    "Nanchang": [
+        "舌頭"
+    ],
+    "Lichuan": [
+        "舌"
+    ],
+    "Pingxiang": [
+        "舌頭",
+        "舌子"
+    ],
+    "Meixian": [
+        "舌嫲"
+    ],
+    "Xingning": [
+        "舌嫲"
+    ],
+    "Huidong": [
+        "舌嫲"
+    ],
+    "Qujiang": [
+        "舌頭"
+    ],
+    "Xiaosanjiang": [
+        "舌嫲"
+    ],
+    "Luchuan": [
+        "脷錢"
+    ],
+    "Changting": [
+        "舌頭"
+    ],
+    "Pingyu": [
+        "舌嫲"
+    ],
+    "Wuping": [
+        "舌嫲"
+    ],
+    "Liancheng": [
+        "舌頭"
+    ],
+    "Ninghua": [
+        "舌頭"
+    ],
+    "Yudu": [
+        "舌頭",
+        "舌刁"
+    ],
+    "Ruijin": [
+        "舌頭"
+    ],
+    "Shicheng": [
+        "舌咀"
+    ],
+    "Shangyou": [
+        "舌刁"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "舌嫲"
+    ],
+    "Liudui": [
+        "舌嫲"
+    ],
+    "Hsinchu": [
+        "舌嫲"
+    ],
+    "Dongshi": [
+        "舌嫲"
+    ],
+    "Raoping": [
+        "舌嫲"
+    ],
+    "Yunlin": [
+        "舌"
+    ],
+    "Hong Kong-H": [
+        "舌嫲"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "舌嫲"
+    ],
+    "Senai": [
+        "舌嫲"
+    ],
+    "Singkawang": [
+        "舌嫲"
+    ],
+    "Jixi": [
+        "口舌"
+    ],
+    "Shexian": [
+        "口舌",
+        "嘴舌"
+    ],
+    "Tunxi": [
+        "舌兒"
+    ],
+    "Xiuning": [
+        "舌兒"
+    ],
+    "Yixian": [
+        "舌"
+    ],
+    "Qimen": [
+        "舌條"
+    ],
+    "Wuyuan": [
+        "舌頭"
+    ],
+    "Fuliang": [
+        "舌條"
+    ],
+    "Dexing": [
+        "舌頭"
+    ],
+    "Jingde": [],
+    "Zhanda": [
+        "舌條"
+    ],
+    "Guangzhou": [
+        "脷"
+    ],
+    "Hong Kong": [
+        "脷"
+    ],
+    "Shunde": [
+        "脷"
+    ],
+    "Foshan": [
+        "脷"
+    ],
+    "Zhongshan": [
+        "脷"
+    ],
+    "Dongguan": [
+        "脷"
+    ],
+    "HK Weitou": [
+        "脷"
+    ],
+    "Doumen-T": [
+        "脷"
+    ],
+    "Doumen-S": [
+        "脷"
+    ],
+    "Taishan": [
+        "脷"
+    ],
+    "Kaiping": [
+        "脷"
+    ],
+    "Shaoguan": [
+        "脷"
+    ],
+    "Yunfu": [
+        "脷"
+    ],
+    "Yangjiang": [
+        "脷"
+    ],
+    "Xinyi": [
+        "脷"
+    ],
+    "Lianjiang": [
+        "脷"
+    ],
+    "Nanning": [
+        "脷錢",
+        "脷"
+    ],
+    "Wuzhou": [
+        "脷"
+    ],
+    "Yulin": [
+        "脷錢"
+    ],
+    "Hepu": [
+        "脷錢"
+    ],
+    "Danzhou": [
+        "舌頭臉"
+    ],
+    "Kuala Lumpur": [
+        "脷"
+    ],
+    "Ho Chi Minh City": [
+        "脷"
+    ],
+    "Nanning-P": [
+        "脷錢"
+    ],
+    "Guilin-P": [
+        "舌頭"
+    ],
+    "Xiamen": [
+        "舌仔"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "舌仔"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [
+        "喙舌"
+    ],
+    "Yongchun": [
+        "喙舌"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "舌仔"
+    ],
+    "Longhai": [],
+    "Changtai": [
+        "舌仔"
+    ],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [
+        "舌"
+    ],
+    "Taipei": [
+        "喙舌"
+    ],
+    "Kaohsiung": [
+        "舌"
+    ],
+    "Tainan": [
+        "舌"
+    ],
+    "Taichung": [
+        "喙舌"
+    ],
+    "Wuqi": [
+        "喙舌"
+    ],
+    "Hsinchu-MN": [
+        "喙舌"
+    ],
+    "Taitung": [
+        "喙舌"
+    ],
+    "Lukang": [
+        "舌"
+    ],
+    "Sanxia": [
+        "喙舌"
+    ],
+    "Yilan": [
+        "舌",
+        "喙舌"
+    ],
+    "Kinmen": [
+        "舌"
+    ],
+    "Magong": [
+        "舌"
+    ],
+    "Malaysia-MN": [
+        "舌"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "舌仔"
+    ],
+    "Medan": [],
+    "Longyan": [
+        "舌仔"
+    ],
+    "Zhangping": [
+        "舌"
+    ],
+    "Yongfu": [
+        "舌"
+    ],
+    "Datian": [
+        "舌頭"
+    ],
+    "Pingnan": [
+        "舌頭"
+    ],
+    "Chaozhou": [
+        "舌"
+    ],
+    "Shantou": [
+        "舌"
+    ],
+    "Haifeng": [
+        "舌"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "舌"
+    ],
+    "Wenchang": [
+        "舌"
+    ],
+    "Haikou": [
+        "舌"
+    ],
+    "Leizhou": [
+        "舌"
+    ],
+    "Putian": [
+        "喙舌"
+    ],
+    "Xianyou": [
+        "喙舌"
+    ],
+    "Fuzhou": [
+        "喙舌"
+    ],
+    "Changle": [
+        "喙舌"
+    ],
+    "Fuqing": [
+        "喙舌"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "喙舌"
+    ],
+    "Gutian": [
+        "喙舌"
+    ],
+    "Fu'an": [
+        "喙舌"
+    ],
+    "Ningde": [
+        "喙舌"
+    ],
+    "Shouning": [
+        "喙舌"
+    ],
+    "Zhouning": [
+        "喙舌"
+    ],
+    "Fuding": [
+        "喙舌"
+    ],
+    "Matsu": [
+        "抹老",
+        "舌",
+        "喙舌"
+    ],
+    "Jian'ou": [
+        "舌"
+    ],
+    "Dikou": [
+        "喙舌"
+    ],
+    "Songxi": [],
+    "Zhenghe": [
+        "舌"
+    ],
+    "Zhenqian": [
+        "喙舌"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [
+        "舌"
+    ],
+    "Shibei": [
+        "舌"
+    ],
+    "Fu'an-She": [
+        "舌"
+    ],
+    "Fuding-She": [
+        "嘴舌"
+    ],
+    "Luoyuan-She": [
+        "嘴舌"
+    ],
+    "Sanming-She": [
+        "舌"
+    ],
+    "Shunchang-She": [
+        "舌"
+    ],
+    "Hua'an-She": [
+        "舌"
+    ],
+    "Guixi-She": [
+        "舌"
+    ],
+    "Cangnan-She": [
+        "舌"
+    ],
+    "Jingning-She": [
+        "舌"
+    ],
+    "Lishui-She": [
+        "舌"
+    ],
+    "Longyou-She": [
+        "舌"
+    ],
+    "Chaozhou-She": [
+        "舌"
+    ],
+    "Fengshun-She": [
+        "舌嫲"
+    ]
 }

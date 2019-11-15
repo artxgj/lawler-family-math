@@ -1,359 +1,227 @@
 {
     "meaning": "oneself",
     "note": "",
-    "Classical": {
-        "1": "己",
-        "2": "自己",
-        "3": "自家"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "自個兒",
-        "2": "自己個兒",
-        "3": "各個兒"
-    },
-    "Taiwan": {
-        "1": "自己"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "自家",
-        "2": "自個兒"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "自個兒",
-        "2": "自己個兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "自家",
-        "2": "自己"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "自家",
-        "2": "各人",
-        "3": "自己"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "自簡",
-        "2": "自己"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": "自家"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "自己",
-        "2": "自家"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "自家"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "自"
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "自家"
-    },
-    "Shuangfeng": {
-        "1": "自家",
-        "2": "自己"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "自簡"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "自家"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "自家"
-    },
-    "Liudui": {
-        "1": "自家"
-    },
-    "Hsinchu": {
-        "1": "自家"
-    },
-    "Dongshi": {
-        "1": "自家"
-    },
-    "Raoping": {
-        "1": "自家"
-    },
-    "Yunlin": {
-        "1": "自家"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "自家"
-    },
-    "Guangzhou": {
-        "1": "自己"
-    },
-    "Hong Kong": {
-        "1": "自己"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "自己",
-        "2": "家己"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "自己"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "家己"
-    },
-    "Quanzhou": {
-        "1": "家己"
-    },
-    "Zhangzhou": {
-        "1": "家己"
-    },
-    "Taipei": {
-        "1": "家己"
-    },
-    "Kaohsiung": {
-        "1": "家己"
-    },
-    "Tainan": {
-        "1": "家己"
-    },
-    "Taichung": {
-        "1": "家己"
-    },
-    "Yilan": {
-        "1": "家己"
-    },
-    "Lukang": {
-        "1": "家己"
-    },
-    "Sanxia": {
-        "1": "家己"
-    },
-    "Kinmen": {
-        "1": "家己"
-    },
-    "Magong": {
-        "1": "家己"
-    },
-    "Hsinchu-MN": {
-        "1": "家己"
-    },
-    "Malaysia-MN": {
-        "1": "家己"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "家己"
-    },
-    "Chaozhou": {
-        "1": "家己"
-    },
-    "Shantou": {
-        "1": "家己"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "家己"
-    },
-    "Leizhou": {
-        "1": "家己"
-    },
-    "Fuzhou": {
-        "1": "自家"
-    },
-    "Jian'ou": {
-        "1": "自己"
-    }
+    "Classical": [
+        "己",
+        "自己",
+        "自家"
+    ],
+    "Formal": [],
+    "Taxonomic": [],
+    "Beijing": [
+        "自個兒",
+        "自己個兒",
+        "各個兒"
+    ],
+    "Taiwan": [
+        "自己"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "自家",
+        "自個兒"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [
+        "自個兒",
+        "自己個兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "自家",
+        "自己"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "自家",
+        "各人",
+        "自己"
+    ],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "自簡",
+        "自己"
+    ],
+    "Nanjing": [],
+    "Hefei": [
+        "自家"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "自己",
+        "自家"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "自家"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [
+        "自"
+    ],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "自家"
+    ],
+    "Shuangfeng": [
+        "自家",
+        "自己"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [
+        "自簡"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "自家"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "自家"
+    ],
+    "Liudui": [
+        "自家"
+    ],
+    "Hsinchu": [
+        "自家"
+    ],
+    "Dongshi": [
+        "自家"
+    ],
+    "Raoping": [
+        "自家"
+    ],
+    "Yunlin": [
+        "自家"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "自家"
+    ],
+    "Guangzhou": [
+        "自己"
+    ],
+    "Hong Kong": [
+        "自己"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "自己",
+        "家己"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "自己"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "家己"
+    ],
+    "Quanzhou": [
+        "家己"
+    ],
+    "Zhangzhou": [
+        "家己"
+    ],
+    "Taipei": [
+        "家己"
+    ],
+    "Kaohsiung": [
+        "家己"
+    ],
+    "Tainan": [
+        "家己"
+    ],
+    "Taichung": [
+        "家己"
+    ],
+    "Yilan": [
+        "家己"
+    ],
+    "Lukang": [
+        "家己"
+    ],
+    "Sanxia": [
+        "家己"
+    ],
+    "Kinmen": [
+        "家己"
+    ],
+    "Magong": [
+        "家己"
+    ],
+    "Hsinchu-MN": [
+        "家己"
+    ],
+    "Malaysia-MN": [
+        "家己"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "家己"
+    ],
+    "Chaozhou": [
+        "家己"
+    ],
+    "Shantou": [
+        "家己"
+    ],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "家己"
+    ],
+    "Leizhou": [
+        "家己"
+    ],
+    "Fuzhou": [
+        "自家"
+    ],
+    "Jian'ou": [
+        "自己"
+    ]
 }

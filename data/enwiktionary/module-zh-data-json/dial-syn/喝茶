@@ -1,509 +1,391 @@
 {
     "meaning": "to drink tea",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "喝茶",
-        "2": "飲茶",
-        "3": "品茶",
-        "4": "品茗"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "喝茶"
-    },
-    "Taiwan": {
-        "1": "喝茶"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "喝茶"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "喝茶"
-    },
-    "Ulan Hot": {
-        "1": "喝茶"
-    },
-    "Tongliao": {
-        "1": "喝茶"
-    },
-    "Chifeng": {
-        "1": "喝茶"
-    },
-    "Baochang": {
-        "1": "喝茶"
-    },
-    "Bayanhot": {
-        "1": "喝茶"
-    },
-    "Jinan": {
-        "1": "喝茶"
-    },
-    "Muping": {
-        "1": "喝茶"
-    },
-    "Luoyang": {
-        "1": "喝茶"
-    },
-    "Wanrong": {
-        "1": "喝茶"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "喝茶"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "喝茶"
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "喝茶",
-        "2": "吃茶"
-    },
-    "Yinchuan": {
-        "1": "喝茶"
-    },
-    "Lanzhou": {
-        "1": "喝茶"
-    },
-    "Ürümqi": {
-        "1": "喝茶"
-    },
-    "Wuhan": {
-        "1": "喝茶",
-        "2": "灌茶:humorous",
-        "3": "灌消:offensive"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "喝茶",
-        "2": "吃茶"
-    },
-    "Guiyang": {
-        "1": "吃茶",
-        "2": "喝茶"
-    },
-    "Guilin": {
-        "1": "喝茶"
-    },
-    "Liuzhou": {
-        "1": "喝茶",
-        "2": "吃茶"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "吃茶",
-        "2": "喝茶"
-    },
-    "Nanjing": {
-        "1": "吃茶",
-        "2": "喝茶"
-    },
-    "Hefei": {
-        "1": "喝茶"
-    },
-    "Nantong": {
-        "1": "吃茶"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "喝茶"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Jining": {
-        "1": "喝茶"
-    },
-    "Hohhot": {
-        "1": "喝茶"
-    },
-    "Baotou": {
-        "1": "喝茶"
-    },
-    "Dongsheng": {
-        "1": "喝茶"
-    },
-    "Linhe": {
-        "1": "喝茶"
-    },
-    "Haibowan": {
-        "1": "喝茶"
-    },
-    "Suzhou": {
-        "1": "吃茶"
-    },
-    "Hangzhou": {
-        "1": "吃茶"
-    },
-    "Shanghai": {
-        "1": "吃茶"
-    },
-    "Chongming": {
-        "1": "吃茶"
-    },
-    "Wenzhou": {
-        "1": "欱茶",
-        "2": "吃茶"
-    },
-    "Danyang": {
-        "1": "吃茶"
-    },
-    "Jinhua": {
-        "1": "吃茶"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "吃茶"
-    },
-    "Changsha": {
-        "1": "吃茶"
-    },
-    "Shuangfeng": {
-        "1": "吃茶"
-    },
-    "Xiangtan": {
-        "1": "吃茶"
-    },
-    "Loudi": {
-        "1": "吃茶"
-    },
-    "Quanzhou-X": {
-        "1": "喝茶"
-    },
-    "Nanchang": {
-        "1": "吃茶"
-    },
-    "Lichuan": {
-        "1": "吃茶"
-    },
-    "Pingxiang": {
-        "1": "吃茶"
-    },
-    "Meixian": {
-        "1": "食茶"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "飲茶"
-    },
-    "Changting": {
-        "1": "食茶"
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "食茶"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "食茶"
-    },
-    "Liudui": {
-        "1": "食茶"
-    },
-    "Hsinchu": {
-        "1": "食茶"
-    },
-    "Dongshi": {
-        "1": "食茶"
-    },
-    "Raoping": {
-        "1": "食茶"
-    },
-    "Yunlin": {
-        "1": "啉茶",
-        "2": "食茶"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": "飲茶"
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": "食茶"
-    },
-    "Shexian": {
-        "1": "吃茶",
-        "2": "喝茶"
-    },
-    "Tunxi": {
-        "1": "吃茶"
-    },
-    "Jixi": {
-        "1": "吃茶"
-    },
-    "Guangzhou": {
-        "1": "飲茶"
-    },
-    "Hong Kong": {
-        "1": "飲茶"
-    },
-    "Shunde": {
-        "1": "飲茶"
-    },
-    "Foshan": {
-        "1": "飲茶"
-    },
-    "Zhongshan": {
-        "1": "飲茶"
-    },
-    "Dongguan": {
-        "1": "飲茶",
-        "2": "食茶"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "飲茶"
-    },
-    "Doumen": {
-        "1": "飲茶"
-    },
-    "Kaiping": {
-        "1": "飲茶"
-    },
-    "Shaoguan": {
-        "1": "飲茶"
-    },
-    "Yunfu": {
-        "1": "飲茶"
-    },
-    "Yangjiang": {
-        "1": "吃茶"
-    },
-    "Xinyi": {
-        "1": "飲茶"
-    },
-    "Lianjiang": {
-        "1": "飲茶"
-    },
-    "Nanning": {
-        "1": "飲茶"
-    },
-    "Wuzhou": {
-        "1": "飲茶"
-    },
-    "Yulin": {
-        "1": "吃茶"
-    },
-    "Hepu": {
-        "1": "吃茶"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "飲茶",
-        "2": "吃茶"
-    },
-    "Guilin-P": {
-        "1": "吃茶"
-    },
-    "Xiamen": {
-        "1": "食茶",
-        "2": "啉茶"
-    },
-    "Quanzhou": {
-        "1": "食茶",
-        "2": "啉茶"
-    },
-    "Zhangzhou": {
-        "1": "食茶",
-        "2": "啉茶"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": "哈茶",
-        "2": "食茶"
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "哈茶",
-        "2": "食茶"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "啉茶",
-        "2": "敲茶"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "啉茶"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "飲茶"
-    },
-    "Chaozhou": {
-        "1": "食茶"
-    },
-    "Shantou": {
-        "1": "食茶"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "食茶"
-    },
-    "Leizhou": {
-        "1": "食茶"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "食茶"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "食茶"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "食茶"
-    }
+    "Classical": [],
+    "Formal": [
+        "喝茶",
+        "飲茶",
+        "品茶",
+        "品茗"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "喝茶"
+    ],
+    "Taiwan": [
+        "喝茶"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "喝茶"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "喝茶"
+    ],
+    "Ulan Hot": [
+        "喝茶"
+    ],
+    "Tongliao": [
+        "喝茶"
+    ],
+    "Chifeng": [
+        "喝茶"
+    ],
+    "Baochang": [
+        "喝茶"
+    ],
+    "Bayanhot": [
+        "喝茶"
+    ],
+    "Jinan": [
+        "喝茶"
+    ],
+    "Muping": [
+        "喝茶"
+    ],
+    "Luoyang": [
+        "喝茶"
+    ],
+    "Wanrong": [
+        "喝茶"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "喝茶"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "喝茶"
+    ],
+    "Xining": [],
+    "Xuzhou": [
+        "喝茶",
+        "吃茶"
+    ],
+    "Yinchuan": [
+        "喝茶"
+    ],
+    "Lanzhou": [
+        "喝茶"
+    ],
+    "Ürümqi": [
+        "喝茶"
+    ],
+    "Wuhan": [
+        "喝茶",
+        "灌茶:humorous",
+        "灌消:offensive"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "喝茶",
+        "吃茶"
+    ],
+    "Guiyang": [
+        "吃茶",
+        "喝茶"
+    ],
+    "Guilin": [
+        "喝茶"
+    ],
+    "Liuzhou": [
+        "喝茶",
+        "吃茶"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "吃茶",
+        "喝茶"
+    ],
+    "Nanjing": [
+        "吃茶",
+        "喝茶"
+    ],
+    "Hefei": [
+        "喝茶"
+    ],
+    "Nantong": [
+        "吃茶"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "喝茶"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Jining": [
+        "喝茶"
+    ],
+    "Hohhot": [
+        "喝茶"
+    ],
+    "Baotou": [
+        "喝茶"
+    ],
+    "Dongsheng": [
+        "喝茶"
+    ],
+    "Linhe": [
+        "喝茶"
+    ],
+    "Haibowan": [
+        "喝茶"
+    ],
+    "Suzhou": [
+        "吃茶"
+    ],
+    "Hangzhou": [
+        "吃茶"
+    ],
+    "Shanghai": [
+        "吃茶"
+    ],
+    "Chongming": [
+        "吃茶"
+    ],
+    "Wenzhou": [
+        "欱茶",
+        "吃茶"
+    ],
+    "Danyang": [
+        "吃茶"
+    ],
+    "Jinhua": [
+        "吃茶"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "吃茶"
+    ],
+    "Changsha": [
+        "吃茶"
+    ],
+    "Shuangfeng": [
+        "吃茶"
+    ],
+    "Xiangtan": [
+        "吃茶"
+    ],
+    "Loudi": [
+        "吃茶"
+    ],
+    "Quanzhou-X": [
+        "喝茶"
+    ],
+    "Nanchang": [
+        "吃茶"
+    ],
+    "Lichuan": [
+        "吃茶"
+    ],
+    "Pingxiang": [
+        "吃茶"
+    ],
+    "Meixian": [
+        "食茶"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "飲茶"
+    ],
+    "Changting": [
+        "食茶"
+    ],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "食茶"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "食茶"
+    ],
+    "Liudui": [
+        "食茶"
+    ],
+    "Hsinchu": [
+        "食茶"
+    ],
+    "Dongshi": [
+        "食茶"
+    ],
+    "Raoping": [
+        "食茶"
+    ],
+    "Yunlin": [
+        "啉茶",
+        "食茶"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [
+        "飲茶"
+    ],
+    "Senai": [],
+    "Singkawang": [
+        "食茶"
+    ],
+    "Shexian": [
+        "吃茶",
+        "喝茶"
+    ],
+    "Tunxi": [
+        "吃茶"
+    ],
+    "Jixi": [
+        "吃茶"
+    ],
+    "Guangzhou": [
+        "飲茶"
+    ],
+    "Hong Kong": [
+        "飲茶"
+    ],
+    "Shunde": [
+        "飲茶"
+    ],
+    "Foshan": [
+        "飲茶"
+    ],
+    "Zhongshan": [
+        "飲茶"
+    ],
+    "Dongguan": [
+        "飲茶",
+        "食茶"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "飲茶"
+    ],
+    "Doumen": [
+        "飲茶"
+    ],
+    "Kaiping": [
+        "飲茶"
+    ],
+    "Shaoguan": [
+        "飲茶"
+    ],
+    "Yunfu": [
+        "飲茶"
+    ],
+    "Yangjiang": [
+        "吃茶"
+    ],
+    "Xinyi": [
+        "飲茶"
+    ],
+    "Lianjiang": [
+        "飲茶"
+    ],
+    "Nanning": [
+        "飲茶"
+    ],
+    "Wuzhou": [
+        "飲茶"
+    ],
+    "Yulin": [
+        "吃茶"
+    ],
+    "Hepu": [
+        "吃茶"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "飲茶",
+        "吃茶"
+    ],
+    "Guilin-P": [
+        "吃茶"
+    ],
+    "Xiamen": [
+        "食茶",
+        "啉茶"
+    ],
+    "Quanzhou": [
+        "食茶",
+        "啉茶"
+    ],
+    "Zhangzhou": [
+        "食茶",
+        "啉茶"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [
+        "哈茶",
+        "食茶"
+    ],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [
+        "哈茶",
+        "食茶"
+    ],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "啉茶",
+        "敲茶"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "啉茶"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "飲茶"
+    ],
+    "Chaozhou": [
+        "食茶"
+    ],
+    "Shantou": [
+        "食茶"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "食茶"
+    ],
+    "Leizhou": [
+        "食茶"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "食茶"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "食茶"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "食茶"
+    ]
 }

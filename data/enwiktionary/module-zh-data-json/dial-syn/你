@@ -1,582 +1,548 @@
 {
     "meaning": "you (''singular'')",
     "note": "",
-    "Classical": {
-        "1": "汝",
-        "2": "爾",
-        "3": "乃",
-        "4": "而",
-        "5": "若",
-        "6": "伊",
-        "7": "子",
-        "8": "君:honorific",
-        "9": "卿:honorific"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Taiwan": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Shenyang": {
-        "1": "你"
-    },
-    "Hailar": {
-        "1": "你"
-    },
-    "Ulan Hot": {
-        "1": "你"
-    },
-    "Tongliao": {
-        "1": "你"
-    },
-    "Chifeng": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Bayanhot": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Jinan": {
-        "1": "你"
-    },
-    "Muping": {
-        "1": "你"
-    },
-    "Luoyang": {
-        "1": "你"
-    },
-    "Wanrong": {
-        "1": "你"
-    },
-    "Xi'an": {
-        "1": "你"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "你"
-    },
-    "Xining": {
-        "1": "你",
-        "2": "喬"
-    },
-    "Xuzhou": {
-        "1": "恁",
-        "2": "你"
-    },
-    "Yinchuan": {
-        "1": "你"
-    },
-    "Lanzhou": {
-        "1": "你"
-    },
-    "Ürümqi": {
-        "1": "你"
-    },
-    "Wuhan": {
-        "1": "你",
-        "2": "你家:honorific"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "你"
-    },
-    "Guiyang": {
-        "1": "你"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "你"
-    },
-    "Kunming": {
-        "1": "你"
-    },
-    "Yangzhou": {
-        "1": "你"
-    },
-    "Nanjing": {
-        "1": "你"
-    },
-    "Hefei": {
-        "1": "你"
-    },
-    "Nantong": {
-        "1": "你"
-    },
-    "Malaysia-M": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Singapore-M": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Taiyuan": {
-        "1": "你"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "你",
-        "2": "你吶:honorific"
-    },
-    "Baochang": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Jining": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Hohhot": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Baotou": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Dongsheng": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Linhe": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Haibowan": {
-        "1": "你",
-        "2": "您:honorific"
-    },
-    "Shanghai": {
-        "1": "儂"
-    },
-    "Suzhou": {
-        "1": "倷"
-    },
-    "Wuxi": {
-        "1": "你"
-    },
-    "Hangzhou": {
-        "1": "你"
-    },
-    "Chongming": {
-        "1": "爾"
-    },
-    "Wenzhou": {
-        "1": "你"
-    },
-    "Danyang": {
-        "1": "爾"
-    },
-    "Jinhua": {
-        "1": "儂"
-    },
-    "Tangxi": {
-        "1": "爾",
-        "2": "爾儂"
-    },
-    "Ningbo": {
-        "1": "儂",
-        "2": "爾",
-        "3": "爾儂"
-    },
-    "Changsha": {
-        "1": "你"
-    },
-    "Shuangfeng": {
-        "1": "你"
-    },
-    "Xiangtan": {
-        "1": "你"
-    },
-    "Loudi": {
-        "1": "你"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "你"
-    },
-    "Lichuan": {
-        "1": "汝"
-    },
-    "Pingxiang": {
-        "1": "恨",
-        "2": "你"
-    },
-    "Meixian": {
-        "1": "你"
-    },
-    "Xingning": {
-        "1": "你"
-    },
-    "Huidong": {
-        "1": "你"
-    },
-    "Qujiang": {
-        "1": "你"
-    },
-    "Xiaosanjiang": {
-        "1": "你"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "你"
-    },
-    "Pingyu": {
-        "1": "你"
-    },
-    "Wuping": {
-        "1": "你"
-    },
-    "Liancheng": {
-        "1": "你"
-    },
-    "Ninghua": {
-        "1": "你"
-    },
-    "Yudu": {
-        "1": "你"
-    },
-    "Ruijin": {
-        "1": "你"
-    },
-    "Shicheng": {
-        "1": "你"
-    },
-    "Shangyou": {
-        "1": "你"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "你"
-    },
-    "Liudui": {
-        "1": "你"
-    },
-    "Hsinchu": {
-        "1": "你"
-    },
-    "Dongshi": {
-        "1": "你"
-    },
-    "Raoping": {
-        "1": "你"
-    },
-    "Yunlin": {
-        "1": "你"
-    },
-    "Hong Kong-H": {
-        "1": "你"
-    },
-    "Sabah": {
-        "1": "你"
-    },
-    "Senai": {
-        "1": "你"
-    },
-    "Singkawang": {
-        "1": "你"
-    },
-    "Shexian": {
-        "1": "爾"
-    },
-    "Tunxi": {
-        "1": "爾",
-        "2": "爾仂"
-    },
-    "Jixi": {
-        "1": "爾",
-        "2": "爾仂"
-    },
-    "Guangzhou": {
-        "1": "你"
-    },
-    "Hong Kong": {
-        "1": "你"
-    },
-    "Kam Tin": {
-        "1": "你"
-    },
-    "Macau": {
-        "1": "你"
-    },
-    "Panyu": {
-        "1": "你"
-    },
-    "Huadu": {
-        "1": "你"
-    },
-    "Conghua": {
-        "1": "你"
-    },
-    "Zengcheng": {
-        "1": "你"
-    },
-    "Foshan": {
-        "1": "你"
-    },
-    "Nanhai": {
-        "1": "你"
-    },
-    "Shunde": {
-        "1": "你"
-    },
-    "Sanshui": {
-        "1": "你"
-    },
-    "Gaoming": {
-        "1": "你"
-    },
-    "Zhongshan": {
-        "1": "你"
-    },
-    "Zhuhai": {
-        "1": "我"
-    },
-    "Doumen-T": {
-        "1": "你"
-    },
-    "Doumen-S": {
-        "1": "你"
-    },
-    "Jiangmen": {
-        "1": "你"
-    },
-    "Xinhui": {
-        "1": "你"
-    },
-    "Taishan": {
-        "1": "你"
-    },
-    "Kaiping": {
-        "1": "你"
-    },
-    "Enping": {
-        "1": "你"
-    },
-    "Heshan": {
-        "1": "你"
-    },
-    "Dongguan": {
-        "1": "你"
-    },
-    "Bao'an": {
-        "1": "你"
-    },
-    "Shaoguan": {
-        "1": "你"
-    },
-    "Yunfu": {
-        "1": "你"
-    },
-    "Yangjiang": {
-        "1": "你"
-    },
-    "Xinyi": {
-        "1": "你"
-    },
-    "Lianjiang": {
-        "1": "你"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": "你"
-    },
-    "Kuala Lumpur": {
-        "1": "你"
-    },
-    "Nanning-P": {
-        "1": "你"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "汝"
-    },
-    "Quanzhou": {
-        "1": "汝"
-    },
-    "Zhangzhou": {
-        "1": "汝"
-    },
-    "Taipei": {
-        "1": "汝"
-    },
-    "Kaohsiung": {
-        "1": "汝"
-    },
-    "Tainan": {
-        "1": "汝"
-    },
-    "Taichung": {
-        "1": "汝"
-    },
-    "Wuqi": {
-        "1": "汝"
-    },
-    "Hsinchu-MN": {
-        "1": "汝"
-    },
-    "Taitung": {
-        "1": "汝"
-    },
-    "Lukang": {
-        "1": "汝"
-    },
-    "Sanxia": {
-        "1": "汝"
-    },
-    "Yilan": {
-        "1": "汝"
-    },
-    "Kinmen": {
-        "1": "汝"
-    },
-    "Magong": {
-        "1": "汝"
-    },
-    "Malaysia-MN": {
-        "1": "汝"
-    },
-    "Singapore-MN": {
-        "1": "汝"
-    },
-    "Philippine-MN": {
-        "1": "汝"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "汝"
-    },
-    "Shantou": {
-        "1": "汝"
-    },
-    "Haifeng": {
-        "1": "汝"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "汝"
-    },
-    "Wenchang": {
-        "1": "汝"
-    },
-    "Haikou": {
-        "1": "汝"
-    },
-    "Leizhou": {
-        "1": "汝"
-    },
-    "Putian": {
-        "1": "汝"
-    },
-    "Xianyou": {
-        "1": "汝"
-    },
-    "Fuzhou": {
-        "1": "汝"
-    },
-    "Changle": {
-        "1": "汝"
-    },
-    "Fuqing": {
-        "1": "汝"
-    },
-    "Pingtan": {
-        "1": "汝"
-    },
-    "Yongtai": {
-        "1": "汝"
-    },
-    "Gutian": {
-        "1": "汝"
-    },
-    "Fu'an": {
-        "1": "汝"
-    },
-    "Ningde": {
-        "1": "汝"
-    },
-    "Shouning": {
-        "1": "汝"
-    },
-    "Zhouning": {
-        "1": "汝"
-    },
-    "Fuding": {
-        "1": "汝"
-    },
-    "Matsu": {
-        "1": "汝"
-    },
-    "Jian'ou": {
-        "1": "你"
-    },
-    "Dikou": {
-        "1": "你"
-    },
-    "Songxi": {
-        "1": "你"
-    },
-    "Zhenghe": {
-        "1": "你"
-    },
-    "Zhenqian": {
-        "1": "汝"
-    },
-    "Jianyang": {
-        "1": "你"
-    },
-    "Wuyishan": {
-        "1": "你"
-    },
-    "Shibei": {
-        "1": "你"
-    }
+    "Classical": [
+        "汝",
+        "爾",
+        "乃",
+        "而",
+        "若",
+        "伊",
+        "子",
+        "君:honorific",
+        "卿:honorific"
+    ],
+    "Formal": [],
+    "Beijing": [
+        "你",
+        "您:honorific"
+    ],
+    "Taiwan": [
+        "你",
+        "您:honorific"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "你",
+        "您:honorific"
+    ],
+    "Shenyang": [
+        "你"
+    ],
+    "Hailar": [
+        "你"
+    ],
+    "Ulan Hot": [
+        "你"
+    ],
+    "Tongliao": [
+        "你"
+    ],
+    "Chifeng": [
+        "你",
+        "您:honorific"
+    ],
+    "Bayanhot": [
+        "你",
+        "您:honorific"
+    ],
+    "Jinan": [
+        "你"
+    ],
+    "Muping": [
+        "你"
+    ],
+    "Luoyang": [
+        "你"
+    ],
+    "Wanrong": [
+        "你"
+    ],
+    "Xi'an": [
+        "你"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "你"
+    ],
+    "Xining": [
+        "你",
+        "喬"
+    ],
+    "Xuzhou": [
+        "恁",
+        "你"
+    ],
+    "Yinchuan": [
+        "你"
+    ],
+    "Lanzhou": [
+        "你"
+    ],
+    "Ürümqi": [
+        "你"
+    ],
+    "Wuhan": [
+        "你",
+        "你家:honorific"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "你"
+    ],
+    "Guiyang": [
+        "你"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "你"
+    ],
+    "Kunming": [
+        "你"
+    ],
+    "Yangzhou": [
+        "你"
+    ],
+    "Nanjing": [
+        "你"
+    ],
+    "Hefei": [
+        "你"
+    ],
+    "Nantong": [
+        "你"
+    ],
+    "Malaysia-M": [
+        "你",
+        "您:honorific"
+    ],
+    "Singapore-M": [
+        "你",
+        "您:honorific"
+    ],
+    "Taiyuan": [
+        "你"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "你",
+        "你吶:honorific"
+    ],
+    "Baochang": [
+        "你",
+        "您:honorific"
+    ],
+    "Jining": [
+        "你",
+        "您:honorific"
+    ],
+    "Hohhot": [
+        "你",
+        "您:honorific"
+    ],
+    "Baotou": [
+        "你",
+        "您:honorific"
+    ],
+    "Dongsheng": [
+        "你",
+        "您:honorific"
+    ],
+    "Linhe": [
+        "你",
+        "您:honorific"
+    ],
+    "Haibowan": [
+        "你",
+        "您:honorific"
+    ],
+    "Shanghai": [
+        "儂"
+    ],
+    "Suzhou": [
+        "倷"
+    ],
+    "Wuxi": [
+        "你"
+    ],
+    "Hangzhou": [
+        "你"
+    ],
+    "Chongming": [
+        "爾"
+    ],
+    "Wenzhou": [
+        "你"
+    ],
+    "Danyang": [
+        "爾"
+    ],
+    "Jinhua": [
+        "儂"
+    ],
+    "Tangxi": [
+        "爾",
+        "爾儂"
+    ],
+    "Ningbo": [
+        "儂",
+        "爾",
+        "爾儂"
+    ],
+    "Changsha": [
+        "你"
+    ],
+    "Shuangfeng": [
+        "你"
+    ],
+    "Xiangtan": [
+        "你"
+    ],
+    "Loudi": [
+        "你"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "你"
+    ],
+    "Lichuan": [
+        "汝"
+    ],
+    "Pingxiang": [
+        "恨",
+        "你"
+    ],
+    "Meixian": [
+        "你"
+    ],
+    "Xingning": [
+        "你"
+    ],
+    "Huidong": [
+        "你"
+    ],
+    "Qujiang": [
+        "你"
+    ],
+    "Xiaosanjiang": [
+        "你"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "你"
+    ],
+    "Pingyu": [
+        "你"
+    ],
+    "Wuping": [
+        "你"
+    ],
+    "Liancheng": [
+        "你"
+    ],
+    "Ninghua": [
+        "你"
+    ],
+    "Yudu": [
+        "你"
+    ],
+    "Ruijin": [
+        "你"
+    ],
+    "Shicheng": [
+        "你"
+    ],
+    "Shangyou": [
+        "你"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "你"
+    ],
+    "Liudui": [
+        "你"
+    ],
+    "Hsinchu": [
+        "你"
+    ],
+    "Dongshi": [
+        "你"
+    ],
+    "Raoping": [
+        "你"
+    ],
+    "Yunlin": [
+        "你"
+    ],
+    "Hong Kong-H": [
+        "你"
+    ],
+    "Sabah": [
+        "你"
+    ],
+    "Senai": [
+        "你"
+    ],
+    "Singkawang": [
+        "你"
+    ],
+    "Shexian": [
+        "爾"
+    ],
+    "Tunxi": [
+        "爾",
+        "爾仂"
+    ],
+    "Jixi": [
+        "爾",
+        "爾仂"
+    ],
+    "Guangzhou": [
+        "你"
+    ],
+    "Hong Kong": [
+        "你"
+    ],
+    "Kam Tin": [
+        "你"
+    ],
+    "Macau": [
+        "你"
+    ],
+    "Panyu": [
+        "你"
+    ],
+    "Huadu": [
+        "你"
+    ],
+    "Conghua": [
+        "你"
+    ],
+    "Zengcheng": [
+        "你"
+    ],
+    "Foshan": [
+        "你"
+    ],
+    "Nanhai": [
+        "你"
+    ],
+    "Shunde": [
+        "你"
+    ],
+    "Sanshui": [
+        "你"
+    ],
+    "Gaoming": [
+        "你"
+    ],
+    "Zhongshan": [
+        "你"
+    ],
+    "Zhuhai": [
+        "我"
+    ],
+    "Doumen-T": [
+        "你"
+    ],
+    "Doumen-S": [
+        "你"
+    ],
+    "Jiangmen": [
+        "你"
+    ],
+    "Xinhui": [
+        "你"
+    ],
+    "Taishan": [
+        "你"
+    ],
+    "Kaiping": [
+        "你"
+    ],
+    "Enping": [
+        "你"
+    ],
+    "Heshan": [
+        "你"
+    ],
+    "Dongguan": [
+        "你"
+    ],
+    "Bao'an": [
+        "你"
+    ],
+    "Shaoguan": [
+        "你"
+    ],
+    "Yunfu": [
+        "你"
+    ],
+    "Yangjiang": [
+        "你"
+    ],
+    "Xinyi": [
+        "你"
+    ],
+    "Lianjiang": [
+        "你"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [
+        "你"
+    ],
+    "Kuala Lumpur": [
+        "你"
+    ],
+    "Nanning-P": [
+        "你"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "汝"
+    ],
+    "Quanzhou": [
+        "汝"
+    ],
+    "Zhangzhou": [
+        "汝"
+    ],
+    "Taipei": [
+        "汝"
+    ],
+    "Kaohsiung": [
+        "汝"
+    ],
+    "Tainan": [
+        "汝"
+    ],
+    "Taichung": [
+        "汝"
+    ],
+    "Wuqi": [
+        "汝"
+    ],
+    "Hsinchu-MN": [
+        "汝"
+    ],
+    "Taitung": [
+        "汝"
+    ],
+    "Lukang": [
+        "汝"
+    ],
+    "Sanxia": [
+        "汝"
+    ],
+    "Yilan": [
+        "汝"
+    ],
+    "Kinmen": [
+        "汝"
+    ],
+    "Magong": [
+        "汝"
+    ],
+    "Malaysia-MN": [
+        "汝"
+    ],
+    "Singapore-MN": [
+        "汝"
+    ],
+    "Philippine-MN": [
+        "汝"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "汝"
+    ],
+    "Shantou": [
+        "汝"
+    ],
+    "Haifeng": [
+        "汝"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "汝"
+    ],
+    "Wenchang": [
+        "汝"
+    ],
+    "Haikou": [
+        "汝"
+    ],
+    "Leizhou": [
+        "汝"
+    ],
+    "Putian": [
+        "汝"
+    ],
+    "Xianyou": [
+        "汝"
+    ],
+    "Fuzhou": [
+        "汝"
+    ],
+    "Changle": [
+        "汝"
+    ],
+    "Fuqing": [
+        "汝"
+    ],
+    "Pingtan": [
+        "汝"
+    ],
+    "Yongtai": [
+        "汝"
+    ],
+    "Gutian": [
+        "汝"
+    ],
+    "Fu'an": [
+        "汝"
+    ],
+    "Ningde": [
+        "汝"
+    ],
+    "Shouning": [
+        "汝"
+    ],
+    "Zhouning": [
+        "汝"
+    ],
+    "Fuding": [
+        "汝"
+    ],
+    "Matsu": [
+        "汝"
+    ],
+    "Jian'ou": [
+        "你"
+    ],
+    "Dikou": [
+        "你"
+    ],
+    "Songxi": [
+        "你"
+    ],
+    "Zhenghe": [
+        "你"
+    ],
+    "Zhenqian": [
+        "汝"
+    ],
+    "Jianyang": [
+        "你"
+    ],
+    "Wuyishan": [
+        "你"
+    ],
+    "Shibei": [
+        "你"
+    ]
 }

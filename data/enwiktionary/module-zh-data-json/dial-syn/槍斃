@@ -1,846 +1,550 @@
 {
     "meaning": "to execute by firing squad",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "槍斃",
-        "2": "槍決"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "槍斃",
-        "2": "斃",
-        "3": "崩"
-    },
-    "Taiwan": {
-        "1": "槍斃"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "槍斃",
-        "2": "槍癟",
-        "3": "槍崩",
-        "4": "斃",
-        "5": "癟",
-        "6": "崩"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "槍崩"
-    },
-    "Ulan Hot": {
-        "1": "槍崩"
-    },
-    "Tongliao": {
-        "1": "槍崩"
-    },
-    "Chifeng": {
-        "1": "槍斃"
-    },
-    "Bayanhot": {
-        "1": "槍斃"
-    },
-    "Jinan": {
-        "1": "槍斃",
-        "2": "斃",
-        "3": "崩"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "槍斃",
-        "2": "叫炮"
-    },
-    "Wanrong": {
-        "1": "槍斃"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "槍斃"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "槍斃"
-    },
-    "Xuzhou": {
-        "1": "崩",
-        "2": "敲",
-        "3": "斃"
-    },
-    "Yinchuan": {
-        "1": "槍崩",
-        "2": "槍排",
-        "3": "崩",
-        "4": "排"
-    },
-    "Lanzhou": {
-        "1": "槍斃",
-        "2": "斃",
-        "3": "崩"
-    },
-    "Ürümqi": {
-        "1": "槍斃"
-    },
-    "Wuhan": {
-        "1": "槍斃",
-        "2": "扣"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "敲沙罐兒",
-        "2": "敲沙罐"
-    },
-    "Guiyang": {
-        "1": "槍斃",
-        "2": "敲沙罐",
-        "3": "毃沙罐",
-        "4": "捱炮眼"
-    },
-    "Guilin": {
-        "1": "槍斃"
-    },
-    "Liuzhou": {
-        "1": "槍斃",
-        "2": "打靶",
-        "3": "打背"
-    },
-    "Kunming": {
-        "1": "辦掉"
-    },
-    "Yangzhou": {
-        "1": "斃",
-        "2": "銃"
-    },
-    "Nanjing": {
-        "1": "槍斃",
-        "2": "斃"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "槍崩"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "槍崩"
-    },
-    "Baochang": {
-        "1": "槍崩"
-    },
-    "Jining": {
-        "1": "槍斃"
-    },
-    "Hohhot": {
-        "1": "槍崩"
-    },
-    "Baotou": {
-        "1": "槍斃"
-    },
-    "Dongsheng": {
-        "1": "槍崩"
-    },
-    "Linhe": {
-        "1": "槍崩"
-    },
-    "Haibowan": {
-        "1": "槍決"
-    },
-    "Shanghai": {
-        "1": "槍斃"
-    },
-    "Suzhou": {
-        "1": "槍斃"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "槍斃"
-    },
-    "Chongming": {
-        "1": "槍斃"
-    },
-    "Wenzhou": {
-        "1": "槍斃",
-        "2": "斃"
-    },
-    "Danyang": {
-        "1": "槍斃"
-    },
-    "Jinhua": {
-        "1": "槍斃"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": "槍斃"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "槍斃",
-        "2": "打"
-    },
-    "Quanzhou-X": {
-        "1": "槍斃"
-    },
-    "Nanchang": {
-        "1": "槍斃"
-    },
-    "Lichuan": {
-        "1": "槍斃"
-    },
-    "Pingxiang": {
-        "1": "槍斃"
-    },
-    "Meixian": {
-        "1": "打靶",
-        "2": "槍決",
-        "3": "槍斃"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "打靶"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "打靶"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "打靶"
-    },
-    "Zengcheng-ZG": {
-        "1": "打靶"
-    },
-    "Zhongshan-WGS": {
-        "1": "打靶",
-        "2": "槍斃"
-    },
-    "Zhongshan-NLHS": {
-        "1": "打靶"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "槍斃"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": "槍斃"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "槍斃",
-        "2": "打",
-        "3": "斃"
-    },
-    "Ruijin": {
-        "1": "打靶"
-    },
-    "Shicheng": {
-        "1": "槍斃"
-    },
-    "Shangyou": {
-        "1": "打靶"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "銃殺"
-    },
-    "Liudui": {
-        "1": ""
-    },
-    "Hsinchu": {
-        "1": "銃殺"
-    },
-    "Dongshi": {
-        "1": "銃殺"
-    },
-    "Raoping": {
-        "1": "銃殺"
-    },
-    "Yunlin": {
-        "1": "銃殺"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "槍斃"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "打靶",
-        "2": "槍斃"
-    },
-    "Hong Kong": {
-        "1": "打靶",
-        "2": "槍斃"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": "打靶"
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": "打靶"
-    },
-    "Panyu": {
-        "1": "打靶"
-    },
-    "Huadu": {
-        "1": "打靶"
-    },
-    "Conghua": {
-        "1": "打靶"
-    },
-    "Zengcheng": {
-        "1": "打靶"
-    },
-    "Foshan": {
-        "1": "打靶"
-    },
-    "Nanhai": {
-        "1": "打靶"
-    },
-    "Shunde": {
-        "1": "打靶"
-    },
-    "Sanshui": {
-        "1": "打靶"
-    },
-    "Gaoming": {
-        "1": "打靶"
-    },
-    "Zhongshan": {
-        "1": "辣窿"
-    },
-    "Zhuhai": {
-        "1": "打靶"
-    },
-    "Doumen-T": {
-        "1": "打靶"
-    },
-    "Doumen-S": {
-        "1": "打靶"
-    },
-    "Jiangmen": {
-        "1": "打靶"
-    },
-    "Xinhui": {
-        "1": "打靶"
-    },
-    "Taishan": {
-        "1": "打靶"
-    },
-    "Kaiping": {
-        "1": "打靶"
-    },
-    "Enping": {
-        "1": "打靶"
-    },
-    "Heshan": {
-        "1": "打靶"
-    },
-    "Dongguan": {
-        "1": "打靶",
-        "2": "槍斃"
-    },
-    "Bao'an": {
-        "1": "打靶"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": "打靶"
-    },
-    "Yunfu": {
-        "1": "打靶"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "槍斃"
-    },
-    "Lianjiang": {
-        "1": "打靶"
-    },
-    "Nanning": {
-        "1": "槍斃"
-    },
-    "Wuzhou": {
-        "1": "槍斃"
-    },
-    "Yulin": {
-        "1": "槍斃"
-    },
-    "Hepu": {
-        "1": "槍斃",
-        "2": "咬草"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "槍斃"
-    },
-    "Guilin-P": {
-        "1": "槍斃"
-    },
-    "Xiamen": {
-        "1": "拍銃",
-        "2": "銃決",
-        "3": "決",
-        "4": "銃斃"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "拍銃",
-        "2": "決",
-        "3": "銃斃"
-    },
-    "Jinjiang": {
-        "1": "拍銃"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": "拍銃"
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "拍銃",
-        "2": "扢響",
-        "3": "扢穿"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "銃殺"
-    },
-    "Kaohsiung": {
-        "1": "銃殺"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": "拍銃"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "槍斃",
-        "2": "拍靶"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "拍靶"
-    },
-    "Leizhou": {
-        "1": "拍靶"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Shaxi": {
-        "1": "拍靶"
-    },
-    "Sanxiang": {
-        "1": "拍靶"
-    },
-    "Fuzhou": {
-        "1": "槍斃"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "𢫦炮",
-        "2": "槍斃"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "槍斃",
+        "槍決"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "槍斃",
+        "斃",
+        "崩"
+    ],
+    "Taiwan": [
+        "槍斃"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "槍斃",
+        "槍癟",
+        "槍崩",
+        "斃",
+        "癟",
+        "崩"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "槍崩"
+    ],
+    "Ulan Hot": [
+        "槍崩"
+    ],
+    "Tongliao": [
+        "槍崩"
+    ],
+    "Chifeng": [
+        "槍斃"
+    ],
+    "Bayanhot": [
+        "槍斃"
+    ],
+    "Jinan": [
+        "槍斃",
+        "斃",
+        "崩"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "槍斃",
+        "叫炮"
+    ],
+    "Wanrong": [
+        "槍斃"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "槍斃"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "槍斃"
+    ],
+    "Xuzhou": [
+        "崩",
+        "敲",
+        "斃"
+    ],
+    "Yinchuan": [
+        "槍崩",
+        "槍排",
+        "崩",
+        "排"
+    ],
+    "Lanzhou": [
+        "槍斃",
+        "斃",
+        "崩"
+    ],
+    "Ürümqi": [
+        "槍斃"
+    ],
+    "Wuhan": [
+        "槍斃",
+        "扣"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "敲沙罐兒",
+        "敲沙罐"
+    ],
+    "Guiyang": [
+        "槍斃",
+        "敲沙罐",
+        "毃沙罐",
+        "捱炮眼"
+    ],
+    "Guilin": [
+        "槍斃"
+    ],
+    "Liuzhou": [
+        "槍斃",
+        "打靶",
+        "打背"
+    ],
+    "Kunming": [
+        "辦掉"
+    ],
+    "Yangzhou": [
+        "斃",
+        "銃"
+    ],
+    "Nanjing": [
+        "槍斃",
+        "斃"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "槍崩"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "槍崩"
+    ],
+    "Baochang": [
+        "槍崩"
+    ],
+    "Jining": [
+        "槍斃"
+    ],
+    "Hohhot": [
+        "槍崩"
+    ],
+    "Baotou": [
+        "槍斃"
+    ],
+    "Dongsheng": [
+        "槍崩"
+    ],
+    "Linhe": [
+        "槍崩"
+    ],
+    "Haibowan": [
+        "槍決"
+    ],
+    "Shanghai": [
+        "槍斃"
+    ],
+    "Suzhou": [
+        "槍斃"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "槍斃"
+    ],
+    "Chongming": [
+        "槍斃"
+    ],
+    "Wenzhou": [
+        "槍斃",
+        "斃"
+    ],
+    "Danyang": [
+        "槍斃"
+    ],
+    "Jinhua": [
+        "槍斃"
+    ],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [
+        "槍斃"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "槍斃",
+        "打"
+    ],
+    "Quanzhou-X": [
+        "槍斃"
+    ],
+    "Nanchang": [
+        "槍斃"
+    ],
+    "Lichuan": [
+        "槍斃"
+    ],
+    "Pingxiang": [
+        "槍斃"
+    ],
+    "Meixian": [
+        "打靶",
+        "槍決",
+        "槍斃"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "打靶"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "打靶"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "打靶"
+    ],
+    "Zengcheng-ZG": [
+        "打靶"
+    ],
+    "Zhongshan-WGS": [
+        "打靶",
+        "槍斃"
+    ],
+    "Zhongshan-NLHS": [
+        "打靶"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "槍斃"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [
+        "槍斃"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "槍斃",
+        "打",
+        "斃"
+    ],
+    "Ruijin": [
+        "打靶"
+    ],
+    "Shicheng": [
+        "槍斃"
+    ],
+    "Shangyou": [
+        "打靶"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "銃殺"
+    ],
+    "Liudui": [],
+    "Hsinchu": [
+        "銃殺"
+    ],
+    "Dongshi": [
+        "銃殺"
+    ],
+    "Raoping": [
+        "銃殺"
+    ],
+    "Yunlin": [
+        "銃殺"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "槍斃"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "打靶",
+        "槍斃"
+    ],
+    "Hong Kong": [
+        "打靶",
+        "槍斃"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [
+        "打靶"
+    ],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "打靶"
+    ],
+    "Panyu": [
+        "打靶"
+    ],
+    "Huadu": [
+        "打靶"
+    ],
+    "Conghua": [
+        "打靶"
+    ],
+    "Zengcheng": [
+        "打靶"
+    ],
+    "Foshan": [
+        "打靶"
+    ],
+    "Nanhai": [
+        "打靶"
+    ],
+    "Shunde": [
+        "打靶"
+    ],
+    "Sanshui": [
+        "打靶"
+    ],
+    "Gaoming": [
+        "打靶"
+    ],
+    "Zhongshan": [
+        "辣窿"
+    ],
+    "Zhuhai": [
+        "打靶"
+    ],
+    "Doumen-T": [
+        "打靶"
+    ],
+    "Doumen-S": [
+        "打靶"
+    ],
+    "Jiangmen": [
+        "打靶"
+    ],
+    "Xinhui": [
+        "打靶"
+    ],
+    "Taishan": [
+        "打靶"
+    ],
+    "Kaiping": [
+        "打靶"
+    ],
+    "Enping": [
+        "打靶"
+    ],
+    "Heshan": [
+        "打靶"
+    ],
+    "Dongguan": [
+        "打靶",
+        "槍斃"
+    ],
+    "Bao'an": [
+        "打靶"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [
+        "打靶"
+    ],
+    "Yunfu": [
+        "打靶"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "槍斃"
+    ],
+    "Lianjiang": [
+        "打靶"
+    ],
+    "Nanning": [
+        "槍斃"
+    ],
+    "Wuzhou": [
+        "槍斃"
+    ],
+    "Yulin": [
+        "槍斃"
+    ],
+    "Hepu": [
+        "槍斃",
+        "咬草"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "槍斃"
+    ],
+    "Guilin-P": [
+        "槍斃"
+    ],
+    "Xiamen": [
+        "拍銃",
+        "銃決",
+        "決",
+        "銃斃"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "拍銃",
+        "決",
+        "銃斃"
+    ],
+    "Jinjiang": [
+        "拍銃"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [
+        "拍銃"
+    ],
+    "Dehua": [],
+    "Zhangzhou": [
+        "拍銃",
+        "扢響",
+        "扢穿"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "銃殺"
+    ],
+    "Kaohsiung": [
+        "銃殺"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [
+        "拍銃"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "槍斃",
+        "拍靶"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "拍靶"
+    ],
+    "Leizhou": [
+        "拍靶"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Shaxi": [
+        "拍靶"
+    ],
+    "Sanxiang": [
+        "拍靶"
+    ],
+    "Fuzhou": [
+        "槍斃"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "𢫦炮",
+        "槍斃"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

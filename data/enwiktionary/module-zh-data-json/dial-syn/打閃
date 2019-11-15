@@ -1,435 +1,285 @@
 {
     "meaning": "to have lightning",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "閃電"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "打閃"
-    },
-    "Taiwan": {
-        "1": "閃電",
-        "2": "打閃"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "打閃"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "打閃"
-    },
-    "Ulan Hot": {
-        "1": "打閃"
-    },
-    "Tongliao": {
-        "1": "打閃"
-    },
-    "Chifeng": {
-        "1": "打閃"
-    },
-    "Bayanhot": {
-        "1": "閃電"
-    },
-    "Jinan": {
-        "1": "打閃"
-    },
-    "Muping": {
-        "1": "打閃"
-    },
-    "Luoyang": {
-        "1": "打閃",
-        "2": "打忽閃"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "閃電"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "打閃"
-    },
-    "Yinchuan": {
-        "1": "打火閃"
-    },
-    "Lanzhou": {
-        "1": "打閃"
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "掣霍",
-        "2": "扯霍",
-        "3": "𥍉霍"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "扯火閃",
-        "2": "扯閃"
-    },
-    "Guiyang": {
-        "1": "扯火閃",
-        "2": "扯閃"
-    },
-    "Guilin": {
-        "1": "打閃"
-    },
-    "Liuzhou": {
-        "1": "打閃",
-        "2": "閃電"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "打閃",
-        "2": "霍閃"
-    },
-    "Nanjing": {
-        "1": "打閃",
-        "2": "打閃電"
-    },
-    "Hefei": {
-        "1": "打閃"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "打閃"
-    },
-    "Pingyao": {
-        "1": "打閃"
-    },
-    "Xinzhou": {
-        "1": "打閃"
-    },
-    "Baochang": {
-        "1": "放閃"
-    },
-    "Jining": {
-        "1": "打閃"
-    },
-    "Hohhot": {
-        "1": "閃電"
-    },
-    "Baotou": {
-        "1": "打閃"
-    },
-    "Dongsheng": {
-        "1": "打閃"
-    },
-    "Linhe": {
-        "1": "打閃"
-    },
-    "Haibowan": {
-        "1": "打閃"
-    },
-    "Suzhou": {
-        "1": "打霍閃",
-        "2": "霍閃"
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "霍閃",
-        "2": "閃電"
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": "爍龍",
-        "2": "爍電"
-    },
-    "Danyang": {
-        "1": "霍霍閃"
-    },
-    "Jinhua": {
-        "1": "打火閃"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "閃龍光閃",
-        "2": "閃龍山"
-    },
-    "Changsha": {
-        "1": "扯閃",
-        "2": "扯霍閃子"
-    },
-    "Shuangfeng": {
-        "1": "霍閃",
-        "2": "扯電",
-        "3": "抽電"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "打霍閃"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "𥍉火蛇"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "火蛇閃"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "𥍉爧"
-    },
-    "Liudui": {
-        "1": "𥍉爧"
-    },
-    "Hsinchu": {
-        "1": "𥍉爧"
-    },
-    "Dongshi": {
-        "1": "𥍉爧"
-    },
-    "Raoping": {
-        "1": "𥍉爧"
-    },
-    "Yunlin": {
-        "1": "𥍉爧"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "閃電",
-        "2": "閃爧",
-        "3": "攝電",
-        "4": "攝爧"
-    },
-    "Hong Kong": {
-        "1": "閃電"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": ""
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "攝爧",
-        "2": "天攝"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "閃電"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "爍爁"
-    },
-    "Quanzhou": {
-        "1": "䟙掣",
-        "2": "䟙光"
-    },
-    "Zhangzhou": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "爍爁"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "爍",
-        "2": "阿公𥍉目"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "亮線𥍉",
-        "2": "拍亮線"
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "焰刀"
-    }
+    "Classical": [],
+    "Formal": [
+        "閃電"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "打閃"
+    ],
+    "Taiwan": [
+        "閃電",
+        "打閃"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "打閃"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "打閃"
+    ],
+    "Ulan Hot": [
+        "打閃"
+    ],
+    "Tongliao": [
+        "打閃"
+    ],
+    "Chifeng": [
+        "打閃"
+    ],
+    "Bayanhot": [
+        "閃電"
+    ],
+    "Jinan": [
+        "打閃"
+    ],
+    "Muping": [
+        "打閃"
+    ],
+    "Luoyang": [
+        "打閃",
+        "打忽閃"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "閃電"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "打閃"
+    ],
+    "Yinchuan": [
+        "打火閃"
+    ],
+    "Lanzhou": [
+        "打閃"
+    ],
+    "Ürümqi": [],
+    "Wuhan": [
+        "掣霍",
+        "扯霍",
+        "𥍉霍"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "扯火閃",
+        "扯閃"
+    ],
+    "Guiyang": [
+        "扯火閃",
+        "扯閃"
+    ],
+    "Guilin": [
+        "打閃"
+    ],
+    "Liuzhou": [
+        "打閃",
+        "閃電"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "打閃",
+        "霍閃"
+    ],
+    "Nanjing": [
+        "打閃",
+        "打閃電"
+    ],
+    "Hefei": [
+        "打閃"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "打閃"
+    ],
+    "Pingyao": [
+        "打閃"
+    ],
+    "Xinzhou": [
+        "打閃"
+    ],
+    "Baochang": [
+        "放閃"
+    ],
+    "Jining": [
+        "打閃"
+    ],
+    "Hohhot": [
+        "閃電"
+    ],
+    "Baotou": [
+        "打閃"
+    ],
+    "Dongsheng": [
+        "打閃"
+    ],
+    "Linhe": [
+        "打閃"
+    ],
+    "Haibowan": [
+        "打閃"
+    ],
+    "Suzhou": [
+        "打霍閃",
+        "霍閃"
+    ],
+    "Hangzhou": [],
+    "Shanghai": [
+        "霍閃",
+        "閃電"
+    ],
+    "Chongming": [],
+    "Wenzhou": [
+        "爍龍",
+        "爍電"
+    ],
+    "Danyang": [
+        "霍霍閃"
+    ],
+    "Jinhua": [
+        "打火閃"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "閃龍光閃",
+        "閃龍山"
+    ],
+    "Changsha": [
+        "扯閃",
+        "扯霍閃子"
+    ],
+    "Shuangfeng": [
+        "霍閃",
+        "扯電",
+        "抽電"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "打霍閃"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "𥍉火蛇"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "火蛇閃"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "𥍉爧"
+    ],
+    "Liudui": [
+        "𥍉爧"
+    ],
+    "Hsinchu": [
+        "𥍉爧"
+    ],
+    "Dongshi": [
+        "𥍉爧"
+    ],
+    "Raoping": [
+        "𥍉爧"
+    ],
+    "Yunlin": [
+        "𥍉爧"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "閃電",
+        "閃爧",
+        "攝電",
+        "攝爧"
+    ],
+    "Hong Kong": [
+        "閃電"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "HK Weitou": [],
+    "Taishan": [],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "攝爧",
+        "天攝"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Nanning-P": [
+        "閃電"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "爍爁"
+    ],
+    "Quanzhou": [
+        "䟙掣",
+        "䟙光"
+    ],
+    "Zhangzhou": [],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [
+        "爍爁"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [
+        "爍",
+        "阿公𥍉目"
+    ],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "亮線𥍉",
+        "拍亮線"
+    ],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "焰刀"
+    ]
 }

@@ -1,617 +1,507 @@
 {
     "meaning": "gecko; house lizard",
     "note": "",
-    "Classical": {
-        "1": "蝘蜓",
-        "2": "守宮"
-    },
-    "Formal": {
-        "1": "壁虎"
-    },
-    "Taxonomic": {
-        "1": "壁虎"
-    },
-    "Beijing": {
-        "1": "蠍虎子",
-        "2": "蠍了虎子",
-        "3": "蠍拉虎子"
-    },
-    "Taiwan": {
-        "1": "壁虎",
-        "2": "守宮"
-    },
-    "Tianjin": {
-        "1": "蠍拉虎子"
-    },
-    "Harbin": {
-        "1": "蠍虎子"
-    },
-    "Shenyang": {
-        "1": "馬舌子"
-    },
-    "Hailar": {
-        "1": "蠍拉虎子"
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "蠍虎子",
-        "2": "蠍虎簾子",
-        "3": "壁虎"
-    },
-    "Muping": {
-        "1": "蠍虎子"
-    },
-    "Luoyang": {
-        "1": "蠍虎"
-    },
-    "Wanrong": {
-        "1": "蛇虎子",
-        "2": "蠍虎子"
-    },
-    "Ronghe": {
-        "1": "蛇兒子"
-    },
-    "Xi'an": {
-        "1": "蠍虎子",
-        "2": "蛇夫子"
-    },
-    "Qingdao": {
-        "1": "蠍虎子"
-    },
-    "Zhengzhou": {
-        "1": "蠍虎"
-    },
-    "Xining": {
-        "1": "麻蛇子",
-        "2": "蠍虎子"
-    },
-    "Xuzhou": {
-        "1": "蠍虎子"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "壁虎子"
-    },
-    "Huanggang": {
-        "1": "壁虎兒"
-    },
-    "Chengdu": {
-        "1": "巴壁虎兒",
-        "2": "四腳蛇"
-    },
-    "Guiyang": {
-        "1": "巴壁虎"
-    },
-    "Guilin": {
-        "1": "壁虎"
-    },
-    "Liuzhou": {
-        "1": "壁虎",
-        "2": "四腳蛇"
-    },
-    "Kunming": {
-        "1": "壁虎"
-    },
-    "Yangzhou": {
-        "1": "壁虎子"
-    },
-    "Nanjing": {
-        "1": "壁虎"
-    },
-    "Hefei": {
-        "1": "蠍虎子",
-        "2": "四腳蛇"
-    },
-    "Nantong": {
-        "1": "壁虎子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "蠍虎兒"
-    },
-    "Pingyao": {
-        "1": "蠍虎兒"
-    },
-    "Xinzhou": {
-        "1": "蠍虎兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "壁虎",
-        "2": "四腳蛇"
-    },
-    "Hangzhou": {
-        "1": "壁虎兒",
-        "2": "壁虎"
-    },
-    "Suzhou": {
-        "1": "壁虎子",
-        "2": "四腳蛇:southern suburbs"
-    },
-    "Wuxi": {
-        "1": "壁虎"
-    },
-    "Chongming": {
-        "1": "壁虎"
-    },
-    "Wenzhou": {
-        "1": "五爪龍",
-        "2": "白蟻龍"
-    },
-    "Danyang": {
-        "1": "壁虎子",
-        "2": "壁虎",
-        "3": "四腳蛇"
-    },
-    "Jinhua": {
-        "1": "蠍壁虎",
-        "2": "蠍壁虎兒"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "壁虎",
-        "2": "壁老虎",
-        "3": "四腳蛇"
-    },
-    "Changsha": {
-        "1": "壁虎",
-        "2": "壁虎子",
-        "3": "巴壁虎"
-    },
-    "Shuangfeng": {
-        "1": "痴虎",
-        "2": "壁虎子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": "壁虎"
-    },
-    "Nanchang": {
-        "1": "壁蛇子",
-        "2": "壁蛇"
-    },
-    "Lichuan": {
-        "1": "壁虎"
-    },
-    "Pingxiang": {
-        "1": "蜘虎"
-    },
-    "Meixian": {
-        "1": "簷蛇仔"
-    },
-    "Xingning": {
-        "1": "壁蛇"
-    },
-    "Huidong": {
-        "1": "壁蛇",
-        "2": "簷蛇"
-    },
-    "Qujiang": {
-        "1": "四腳蛇"
-    },
-    "Xiaosanjiang": {
-        "1": "狗嫲臊"
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": "螭虎"
-    },
-    "Pingyu": {
-        "1": "壁蛇子"
-    },
-    "Wuping": {
-        "1": "壁"
-    },
-    "Liancheng": {
-        "1": "壁虎子"
-    },
-    "Ninghua": {
-        "1": "壁虎子"
-    },
-    "Yudu": {
-        "1": "壁虎",
-        "2": "血子",
-        "3": "壁蛇子"
-    },
-    "Ruijin": {
-        "1": "壁蛇子"
-    },
-    "Shicheng": {
-        "1": "伏壁",
-        "2": "狗婆蛇"
-    },
-    "Shangyou": {
-        "1": "壁蛇子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "壁蛇",
-        "2": "簷蛇"
-    },
-    "Liudui": {
-        "1": "壁蛇",
-        "2": "壁蛇仔",
-        "3": "黏蛇仔"
-    },
-    "Hsinchu": {
-        "1": "壁蛇"
-    },
-    "Dongshi": {
-        "1": "壁蛇"
-    },
-    "Raoping": {
-        "1": "壁蛇"
-    },
-    "Yunlin": {
-        "1": "飛蒂仔",
-        "2": "貼壁蛇"
-    },
-    "Hong Kong-H": {
-        "1": "壁蛇"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": "壁蛇"
-    },
-    "Senai": {
-        "1": "壁蛇"
-    },
-    "Singkawang": {
-        "1": "簷蛇"
-    },
-    "Jixi": {
-        "1": "壁虎"
-    },
-    "Shexian": {
-        "1": "壁壁虎"
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": "壁虎"
-    },
-    "Fuliang": {
-        "1": "壁虎哩"
-    },
-    "Dexing": {
-        "1": "壁虎"
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "簷蛇"
-    },
-    "Hong Kong": {
-        "1": "簷蛇"
-    },
-    "Shunde": {
-        "1": "簷蛇"
-    },
-    "Foshan": {
-        "1": "簷蛇"
-    },
-    "Zhongshan": {
-        "1": "簷蛇"
-    },
-    "Dongguan": {
-        "1": "簷蛇",
-        "2": "炮公魚"
-    },
-    "HK Weitou": {
-        "1": "簷蛇"
-    },
-    "Doumen-T": {
-        "1": "四腳蛇"
-    },
-    "Doumen-S": {
-        "1": "偷鹽蛇"
-    },
-    "Taishan": {
-        "1": "四腳蛇"
-    },
-    "Kaiping": {
-        "1": "四腳蛇"
-    },
-    "Shaoguan": {
-        "1": "簷蛇"
-    },
-    "Yunfu": {
-        "1": "偷鹽蛇"
-    },
-    "Yangjiang": {
-        "1": "簷頭蛇",
-        "2": "懶飯蛇"
-    },
-    "Xinyi": {
-        "1": "偷鹽蛇"
-    },
-    "Lianjiang": {
-        "1": "偷鹽蛇"
-    },
-    "Nanning": {
-        "1": "簷蛇"
-    },
-    "Wuzhou": {
-        "1": "簷蛇"
-    },
-    "Yulin": {
-        "1": "草簷鼠"
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "簷蛇"
-    },
-    "Ho Chi Minh City": {
-        "1": "簷蛇"
-    },
-    "Nanning-P": {
-        "1": "簷蛇"
-    },
-    "Guilin-P": {
-        "1": "簷蛇子"
-    },
-    "Xiamen": {
-        "1": "蟮蟲"
-    },
-    "Quanzhou": {
-        "1": "蟮蟲"
-    },
-    "Zhangzhou": {
-        "1": "蟮蟲"
-    },
-    "Taipei": {
-        "1": "蟮蟲仔",
-        "2": "守宮"
-    },
-    "Kaohsiung": {
-        "1": "蟮蟲"
-    },
-    "Tainan": {
-        "1": "蟮蟲仔"
-    },
-    "Taichung": {
-        "1": "蟮蟲仔"
-    },
-    "Yilan": {
-        "1": "蟮蟲",
-        "2": "壁虎"
-    },
-    "Lukang": {
-        "1": "蟮蟲"
-    },
-    "Sanxia": {
-        "1": "蟮蟲仔"
-    },
-    "Kinmen": {
-        "1": "蟮蟲"
-    },
-    "Magong": {
-        "1": "蟮蟲"
-    },
-    "Hsinchu-MN": {
-        "1": "蟮蟲"
-    },
-    "Malaysia-MN": {
-        "1": "蟮蟲"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "蟮蟲"
-    },
-    "Pingnan": {
-        "1": "簷蛇"
-    },
-    "Chaozhou": {
-        "1": "簷龍"
-    },
-    "Shantou": {
-        "1": "簷龍"
-    },
-    "Haifeng": {
-        "1": "簷蛇"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "簷龍"
-    },
-    "Wenchang": {
-        "1": "神郎"
-    },
-    "Haikou": {
-        "1": "龍船"
-    },
-    "Leizhou": {
-        "1": "孫龍"
-    },
-    "Putian": {
-        "1": "爬豆"
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "𧕇"
-    },
-    "Changle": {
-        "1": "五爪龍"
-    },
-    "Fuqing": {
-        "1": "𧕇"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "簷鼠"
-    },
-    "Gutian": {
-        "1": "𧕇"
-    },
-    "Fu'an": {
-        "1": "牆魚"
-    },
-    "Ningde": {
-        "1": "𧕇虎"
-    },
-    "Shouning": {
-        "1": "牆魚"
-    },
-    "Zhouning": {
-        "1": "杜靛"
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "壁哩蜥"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": "厝貼"
-    },
-    "Zhenghe": {
-        "1": "厝鐵"
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "木客仔"
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "蝘蜓",
+        "守宮"
+    ],
+    "Formal": [
+        "壁虎"
+    ],
+    "Taxonomic": [
+        "壁虎"
+    ],
+    "Beijing": [
+        "蠍虎子",
+        "蠍了虎子",
+        "蠍拉虎子"
+    ],
+    "Taiwan": [
+        "壁虎",
+        "守宮"
+    ],
+    "Tianjin": [
+        "蠍拉虎子"
+    ],
+    "Harbin": [
+        "蠍虎子"
+    ],
+    "Shenyang": [
+        "馬舌子"
+    ],
+    "Hailar": [
+        "蠍拉虎子"
+    ],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "蠍虎子",
+        "蠍虎簾子",
+        "壁虎"
+    ],
+    "Muping": [
+        "蠍虎子"
+    ],
+    "Luoyang": [
+        "蠍虎"
+    ],
+    "Wanrong": [
+        "蛇虎子",
+        "蠍虎子"
+    ],
+    "Ronghe": [
+        "蛇兒子"
+    ],
+    "Xi'an": [
+        "蠍虎子",
+        "蛇夫子"
+    ],
+    "Qingdao": [
+        "蠍虎子"
+    ],
+    "Zhengzhou": [
+        "蠍虎"
+    ],
+    "Xining": [
+        "麻蛇子",
+        "蠍虎子"
+    ],
+    "Xuzhou": [
+        "蠍虎子"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [
+        "壁虎子"
+    ],
+    "Huanggang": [
+        "壁虎兒"
+    ],
+    "Chengdu": [
+        "巴壁虎兒",
+        "四腳蛇"
+    ],
+    "Guiyang": [
+        "巴壁虎"
+    ],
+    "Guilin": [
+        "壁虎"
+    ],
+    "Liuzhou": [
+        "壁虎",
+        "四腳蛇"
+    ],
+    "Kunming": [
+        "壁虎"
+    ],
+    "Yangzhou": [
+        "壁虎子"
+    ],
+    "Nanjing": [
+        "壁虎"
+    ],
+    "Hefei": [
+        "蠍虎子",
+        "四腳蛇"
+    ],
+    "Nantong": [
+        "壁虎子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "蠍虎兒"
+    ],
+    "Pingyao": [
+        "蠍虎兒"
+    ],
+    "Xinzhou": [
+        "蠍虎兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "壁虎",
+        "四腳蛇"
+    ],
+    "Hangzhou": [
+        "壁虎兒",
+        "壁虎"
+    ],
+    "Suzhou": [
+        "壁虎子",
+        "四腳蛇:southern suburbs"
+    ],
+    "Wuxi": [
+        "壁虎"
+    ],
+    "Chongming": [
+        "壁虎"
+    ],
+    "Wenzhou": [
+        "五爪龍",
+        "白蟻龍"
+    ],
+    "Danyang": [
+        "壁虎子",
+        "壁虎",
+        "四腳蛇"
+    ],
+    "Jinhua": [
+        "蠍壁虎",
+        "蠍壁虎兒"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "壁虎",
+        "壁老虎",
+        "四腳蛇"
+    ],
+    "Changsha": [
+        "壁虎",
+        "壁虎子",
+        "巴壁虎"
+    ],
+    "Shuangfeng": [
+        "痴虎",
+        "壁虎子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [
+        "壁虎"
+    ],
+    "Nanchang": [
+        "壁蛇子",
+        "壁蛇"
+    ],
+    "Lichuan": [
+        "壁虎"
+    ],
+    "Pingxiang": [
+        "蜘虎"
+    ],
+    "Meixian": [
+        "簷蛇仔"
+    ],
+    "Xingning": [
+        "壁蛇"
+    ],
+    "Huidong": [
+        "壁蛇",
+        "簷蛇"
+    ],
+    "Qujiang": [
+        "四腳蛇"
+    ],
+    "Xiaosanjiang": [
+        "狗嫲臊"
+    ],
+    "Luchuan": [],
+    "Changting": [
+        "螭虎"
+    ],
+    "Pingyu": [
+        "壁蛇子"
+    ],
+    "Wuping": [
+        "壁"
+    ],
+    "Liancheng": [
+        "壁虎子"
+    ],
+    "Ninghua": [
+        "壁虎子"
+    ],
+    "Yudu": [
+        "壁虎",
+        "血子",
+        "壁蛇子"
+    ],
+    "Ruijin": [
+        "壁蛇子"
+    ],
+    "Shicheng": [
+        "伏壁",
+        "狗婆蛇"
+    ],
+    "Shangyou": [
+        "壁蛇子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "壁蛇",
+        "簷蛇"
+    ],
+    "Liudui": [
+        "壁蛇",
+        "壁蛇仔",
+        "黏蛇仔"
+    ],
+    "Hsinchu": [
+        "壁蛇"
+    ],
+    "Dongshi": [
+        "壁蛇"
+    ],
+    "Raoping": [
+        "壁蛇"
+    ],
+    "Yunlin": [
+        "飛蒂仔",
+        "貼壁蛇"
+    ],
+    "Hong Kong-H": [
+        "壁蛇"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [
+        "壁蛇"
+    ],
+    "Senai": [
+        "壁蛇"
+    ],
+    "Singkawang": [
+        "簷蛇"
+    ],
+    "Jixi": [
+        "壁虎"
+    ],
+    "Shexian": [
+        "壁壁虎"
+    ],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [
+        "壁虎"
+    ],
+    "Fuliang": [
+        "壁虎哩"
+    ],
+    "Dexing": [
+        "壁虎"
+    ],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "簷蛇"
+    ],
+    "Hong Kong": [
+        "簷蛇"
+    ],
+    "Shunde": [
+        "簷蛇"
+    ],
+    "Foshan": [
+        "簷蛇"
+    ],
+    "Zhongshan": [
+        "簷蛇"
+    ],
+    "Dongguan": [
+        "簷蛇",
+        "炮公魚"
+    ],
+    "HK Weitou": [
+        "簷蛇"
+    ],
+    "Doumen-T": [
+        "四腳蛇"
+    ],
+    "Doumen-S": [
+        "偷鹽蛇"
+    ],
+    "Taishan": [
+        "四腳蛇"
+    ],
+    "Kaiping": [
+        "四腳蛇"
+    ],
+    "Shaoguan": [
+        "簷蛇"
+    ],
+    "Yunfu": [
+        "偷鹽蛇"
+    ],
+    "Yangjiang": [
+        "簷頭蛇",
+        "懶飯蛇"
+    ],
+    "Xinyi": [
+        "偷鹽蛇"
+    ],
+    "Lianjiang": [
+        "偷鹽蛇"
+    ],
+    "Nanning": [
+        "簷蛇"
+    ],
+    "Wuzhou": [
+        "簷蛇"
+    ],
+    "Yulin": [
+        "草簷鼠"
+    ],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "簷蛇"
+    ],
+    "Ho Chi Minh City": [
+        "簷蛇"
+    ],
+    "Nanning-P": [
+        "簷蛇"
+    ],
+    "Guilin-P": [
+        "簷蛇子"
+    ],
+    "Xiamen": [
+        "蟮蟲"
+    ],
+    "Quanzhou": [
+        "蟮蟲"
+    ],
+    "Zhangzhou": [
+        "蟮蟲"
+    ],
+    "Taipei": [
+        "蟮蟲仔",
+        "守宮"
+    ],
+    "Kaohsiung": [
+        "蟮蟲"
+    ],
+    "Tainan": [
+        "蟮蟲仔"
+    ],
+    "Taichung": [
+        "蟮蟲仔"
+    ],
+    "Yilan": [
+        "蟮蟲",
+        "壁虎"
+    ],
+    "Lukang": [
+        "蟮蟲"
+    ],
+    "Sanxia": [
+        "蟮蟲仔"
+    ],
+    "Kinmen": [
+        "蟮蟲"
+    ],
+    "Magong": [
+        "蟮蟲"
+    ],
+    "Hsinchu-MN": [
+        "蟮蟲"
+    ],
+    "Malaysia-MN": [
+        "蟮蟲"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "蟮蟲"
+    ],
+    "Pingnan": [
+        "簷蛇"
+    ],
+    "Chaozhou": [
+        "簷龍"
+    ],
+    "Shantou": [
+        "簷龍"
+    ],
+    "Haifeng": [
+        "簷蛇"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "簷龍"
+    ],
+    "Wenchang": [
+        "神郎"
+    ],
+    "Haikou": [
+        "龍船"
+    ],
+    "Leizhou": [
+        "孫龍"
+    ],
+    "Putian": [
+        "爬豆"
+    ],
+    "Xianyou": [],
+    "Fuzhou": [
+        "𧕇"
+    ],
+    "Changle": [
+        "五爪龍"
+    ],
+    "Fuqing": [
+        "𧕇"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "簷鼠"
+    ],
+    "Gutian": [
+        "𧕇"
+    ],
+    "Fu'an": [
+        "牆魚"
+    ],
+    "Ningde": [
+        "𧕇虎"
+    ],
+    "Shouning": [
+        "牆魚"
+    ],
+    "Zhouning": [
+        "杜靛"
+    ],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "壁哩蜥"
+    ],
+    "Dikou": [],
+    "Songxi": [
+        "厝貼"
+    ],
+    "Zhenghe": [
+        "厝鐵"
+    ],
+    "Zhenqian": [],
+    "Jianyang": [
+        "木客仔"
+    ],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

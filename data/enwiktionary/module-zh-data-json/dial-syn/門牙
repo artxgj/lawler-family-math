@@ -1,0 +1,438 @@
+{
+    "meaning": "incisor",
+    "note": "",
+    "Classical": [],
+    "Formal": [
+        "門牙",
+        "門齒",
+        "切牙"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "板兒牙"
+    ],
+    "Taiwan": [
+        "門牙"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "門牙",
+        "板兒牙"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "門牙",
+        "前門牙"
+    ],
+    "Muping": [
+        "大門子牙",
+        "門牙"
+    ],
+    "Luoyang": [
+        "門牙"
+    ],
+    "Wanrong": [
+        "門牙"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "門牙"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "前門牙",
+        "門牙"
+    ],
+    "Xuzhou": [
+        "門牙"
+    ],
+    "Yinchuan": [
+        "門牙"
+    ],
+    "Lanzhou": [
+        "門牙"
+    ],
+    "Ürümqi": [
+        "門牙",
+        "板牙"
+    ],
+    "Wuhan": [
+        "門牙"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "門牙",
+        "板牙"
+    ],
+    "Guiyang": [
+        "門板牙",
+        "門牙"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "門牙"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "門牙"
+    ],
+    "Nanjing": [
+        "門牙"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "門牙"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "門牙"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "門牙"
+    ],
+    "Suzhou": [
+        "門牙"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "門牙"
+    ],
+    "Chongming": [
+        "門牙"
+    ],
+    "Wenzhou": [
+        "門牙"
+    ],
+    "Danyang": [
+        "門牙",
+        "大門"
+    ],
+    "Jinhua": [
+        "門牙"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "門前牙",
+        "門牙"
+    ],
+    "Changsha": [
+        "門牙"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "當面牙齒"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "門牙"
+    ],
+    "Lichuan": [
+        "門牙"
+    ],
+    "Pingxiang": [
+        "當面牙",
+        "門牙"
+    ],
+    "Meixian": [
+        "門牙"
+    ],
+    "Xingning": [],
+    "Huizhou": [],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "門牙"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "當門牙",
+        "門牙",
+        "前牙"
+    ],
+    "Liudui": [
+        "當門牙",
+        "門牙"
+    ],
+    "Hsinchu": [
+        "當門牙",
+        "門牙"
+    ],
+    "Dongshi": [
+        "當門牙",
+        "門牙"
+    ],
+    "Raoping": [
+        "當門牙",
+        "門牙",
+        "前牙"
+    ],
+    "Yunlin": [
+        "門牙",
+        "頭前牙"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "門牙",
+        "登門牙"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [],
+    "Hong Kong": [
+        "門牙"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [],
+    "Panyu": [],
+    "Huadu": [],
+    "Conghua": [],
+    "Zengcheng": [],
+    "Foshan": [],
+    "Nanhai": [],
+    "Shunde": [],
+    "Sanshui": [],
+    "Gaoming": [],
+    "Zhongshan": [],
+    "Zhuhai": [],
+    "Doumen-T": [],
+    "Doumen-S": [],
+    "Jiangmen": [],
+    "Xinhui": [],
+    "Taishan": [],
+    "Kaiping": [],
+    "Enping": [],
+    "Heshan": [],
+    "Dongguan": [
+        "門牙"
+    ],
+    "Bao'an": [],
+    "Dapeng": [],
+    "Qingyuan": [],
+    "Fogang": [],
+    "Yingde": [],
+    "Yangshan": [],
+    "Lianshan": [],
+    "Lianzhou": [],
+    "Shaoguan": [],
+    "Qujiang-C": [],
+    "Renhua": [],
+    "Lechang": [],
+    "Gaoyao": [],
+    "Sihui": [],
+    "Guangning": [],
+    "Deqing": [],
+    "Huaiji": [],
+    "Fengkai": [],
+    "Yunfu": [],
+    "Xinxing": [],
+    "Luoding": [],
+    "Yunan": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Zhanjiang": [],
+    "Lianjiang": [],
+    "Wuchuan": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "門牙",
+        "板牙"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "門牙",
+        "門齒",
+        "人中齒"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "門牙"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "門牙"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "屎桮齒"
+    ],
+    "Kaohsiung": [
+        "屎桮齒"
+    ],
+    "Tainan": [
+        "人中齒"
+    ],
+    "Taichung": [
+        "人中齒"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "頭前齒"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "屎桮齒"
+    ],
+    "Sanxia": [
+        "門齒"
+    ],
+    "Yilan": [
+        "屎桮齒"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "門牙"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "面前齒"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Shaxi": [],
+    "Sanxiang": [],
+    "Fuzhou": [
+        "面前牙"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "門牙"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
+}

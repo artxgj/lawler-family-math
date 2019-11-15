@@ -1,521 +1,319 @@
 {
     "meaning": "die (used in games of chance)",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "骰子"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "色子"
-    },
-    "Taiwan": {
-        "1": "色子"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "色子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "色子"
-    },
-    "Muping": {
-        "1": "色子"
-    },
-    "Luoyang": {
-        "1": "色子",
-        "2": "色兒"
-    },
-    "Wanrong": {
-        "1": "色子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "色子"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": "色子"
-    },
-    "Lanzhou": {
-        "1": "色子"
-    },
-    "Ürümqi": {
-        "1": "色子"
-    },
-    "Wuhan": {
-        "1": "色子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "色子"
-    },
-    "Guiyang": {
-        "1": "色子"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "色子"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "猴子"
-    },
-    "Nanjing": {
-        "1": "猴兒",
-        "2": "猴子"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "色兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "色兒"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "色兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "骰子"
-    },
-    "Suzhou": {
-        "1": "骰子"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "骰子"
-    },
-    "Chongming": {
-        "1": "骰子"
-    },
-    "Wenzhou": {
-        "1": "骰子"
-    },
-    "Danyang": {
-        "1": "骰子"
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "色子"
-    },
-    "Changsha": {
-        "1": "色子"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "骰子"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "色子"
-    },
-    "Lichuan": {
-        "1": "色子"
-    },
-    "Pingxiang": {
-        "1": "色子"
-    },
-    "Meixian": {
-        "1": "骰仔"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "色子"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "骰仔",
-        "2": "猴仔",
-        "3": "寶斗仁"
-    },
-    "Liudui": {
-        "1": "骰仔"
-    },
-    "Hsinchu": {
-        "1": "骰仔",
-        "2": "猴仔",
-        "3": "寶斗仁"
-    },
-    "Dongshi": {
-        "1": "十八啦"
-    },
-    "Raoping": {
-        "1": ""
-    },
-    "Yunlin": {
-        "1": "輾豆"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "寶子"
-    },
-    "Guangzhou": {
-        "1": "色仔"
-    },
-    "Hong Kong": {
-        "1": "色仔",
-        "2": "色"
-    },
-    "Shunde": {
-        "1": "色仔"
-    },
-    "Foshan": {
-        "1": "色仔"
-    },
-    "Zhongshan": {
-        "1": "色仔"
-    },
-    "Dongguan": {
-        "1": "色仔"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "色仔"
-    },
-    "Doumen": {
-        "1": "色仔"
-    },
-    "Kaiping": {
-        "1": "色仔"
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "色子"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "骰仔",
-        "2": "豆仔"
-    },
-    "Quanzhou": {
-        "1": "骰仔",
-        "2": "豆仔"
-    },
-    "Zhangzhou": {
-        "1": "骰仔",
-        "2": "豆仔"
-    },
-    "Taipei": {
-        "1": "救十八"
-    },
-    "Kaohsiung": {
-        "1": "撚骰仔"
-    },
-    "Tainan": {
-        "1": "撚寶"
-    },
-    "Taichung": {
-        "1": "十八骰仔"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "骰九"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "撚骰仔"
-    },
-    "Sanxia": {
-        "1": "膏十八仔"
-    },
-    "Yilan": {
-        "1": "撚骰仔"
-    },
-    "Kinmen": {
-        "1": "骰仔"
-    },
-    "Magong": {
-        "1": "骰仔"
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "色囝"
-    },
-    "Leizhou": {
-        "1": "骰"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "骰"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "骰仔"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "骰子"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "色子"
+    ],
+    "Taiwan": [
+        "色子"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "色子"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "色子"
+    ],
+    "Muping": [
+        "色子"
+    ],
+    "Luoyang": [
+        "色子",
+        "色兒"
+    ],
+    "Wanrong": [
+        "色子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "色子"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [
+        "色子"
+    ],
+    "Lanzhou": [
+        "色子"
+    ],
+    "Ürümqi": [
+        "色子"
+    ],
+    "Wuhan": [
+        "色子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "色子"
+    ],
+    "Guiyang": [
+        "色子"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "色子"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "猴子"
+    ],
+    "Nanjing": [
+        "猴兒",
+        "猴子"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "色兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "色兒"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "色兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "骰子"
+    ],
+    "Suzhou": [
+        "骰子"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "骰子"
+    ],
+    "Chongming": [
+        "骰子"
+    ],
+    "Wenzhou": [
+        "骰子"
+    ],
+    "Danyang": [
+        "骰子"
+    ],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "色子"
+    ],
+    "Changsha": [
+        "色子"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "骰子"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "色子"
+    ],
+    "Lichuan": [
+        "色子"
+    ],
+    "Pingxiang": [
+        "色子"
+    ],
+    "Meixian": [
+        "骰仔"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "色子"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "骰仔",
+        "猴仔",
+        "寶斗仁"
+    ],
+    "Liudui": [
+        "骰仔"
+    ],
+    "Hsinchu": [
+        "骰仔",
+        "猴仔",
+        "寶斗仁"
+    ],
+    "Dongshi": [
+        "十八啦"
+    ],
+    "Raoping": [],
+    "Yunlin": [
+        "輾豆"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "寶子"
+    ],
+    "Guangzhou": [
+        "色仔"
+    ],
+    "Hong Kong": [
+        "色仔",
+        "色"
+    ],
+    "Shunde": [
+        "色仔"
+    ],
+    "Foshan": [
+        "色仔"
+    ],
+    "Zhongshan": [
+        "色仔"
+    ],
+    "Dongguan": [
+        "色仔"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "色仔"
+    ],
+    "Doumen": [
+        "色仔"
+    ],
+    "Kaiping": [
+        "色仔"
+    ],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "色子"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "骰仔",
+        "豆仔"
+    ],
+    "Quanzhou": [
+        "骰仔",
+        "豆仔"
+    ],
+    "Zhangzhou": [
+        "骰仔",
+        "豆仔"
+    ],
+    "Taipei": [
+        "救十八"
+    ],
+    "Kaohsiung": [
+        "撚骰仔"
+    ],
+    "Tainan": [
+        "撚寶"
+    ],
+    "Taichung": [
+        "十八骰仔"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "骰九"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "撚骰仔"
+    ],
+    "Sanxia": [
+        "膏十八仔"
+    ],
+    "Yilan": [
+        "撚骰仔"
+    ],
+    "Kinmen": [
+        "骰仔"
+    ],
+    "Magong": [
+        "骰仔"
+    ],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "色囝"
+    ],
+    "Leizhou": [
+        "骰"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "骰"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "骰仔"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

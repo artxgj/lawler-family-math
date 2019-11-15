@@ -1,611 +1,425 @@
 {
     "meaning": "onion",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "洋蔥"
-    },
-    "Taxonomic": {
-        "1": "洋蔥"
-    },
-    "Beijing": {
-        "1": "洋蔥",
-        "2": "蔥頭"
-    },
-    "Taiwan": {
-        "1": "洋蔥",
-        "2": "蔥頭"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "洋蔥"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "洋蔥",
-        "2": "圓蔥"
-    },
-    "Ulan Hot": {
-        "1": "洋蔥",
-        "2": "圓蔥"
-    },
-    "Tongliao": {
-        "1": "洋蔥",
-        "2": "圓蔥"
-    },
-    "Chifeng": {
-        "1": "蔥頭"
-    },
-    "Baochang": {
-        "1": "蔥頭"
-    },
-    "Bayanhot": {
-        "1": "蔥頭",
-        "2": "線骨朵"
-    },
-    "Jinan": {
-        "1": "洋蔥"
-    },
-    "Muping": {
-        "1": "洋蔥",
-        "2": "洋蔥波豆兒:bulb"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "洋蔥",
-        "2": "洋蔥疙瘩:bulb"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "洋蔥"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "洋蔥",
-        "2": "蔥頭",
-        "3": "海蒜"
-    },
-    "Xining": {
-        "1": "洋蔥",
-        "2": "蔥頭:bulb"
-    },
-    "Xuzhou": {
-        "1": "洋蒜",
-        "2": "洋蔥"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "洋蔥"
-    },
-    "Ürümqi": {
-        "1": "皮牙子"
-    },
-    "Wuhan": {
-        "1": "洋蔥",
-        "2": "洋蔥頭"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "洋蔥"
-    },
-    "Guiyang": {
-        "1": "洋蔥"
-    },
-    "Guilin": {
-        "1": "洋蔥"
-    },
-    "Liuzhou": {
-        "1": "洋蔥",
-        "2": "蔥球"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "洋蔥",
-        "2": "洋蔥頭子:bulb"
-    },
-    "Nanjing": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "皮牙子"
-    },
-    "Shaanxi-DG": {
-        "1": "蔥"
-    },
-    "Taiyuan": {
-        "1": "洋蔥",
-        "2": "蔥頭"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "洋蔥"
-    },
-    "Jining": {
-        "1": "洋蔥頭"
-    },
-    "Hohhot": {
-        "1": "蔥頭"
-    },
-    "Baotou": {
-        "1": "洋蔥頭"
-    },
-    "Dongsheng": {
-        "1": "蔥頭"
-    },
-    "Linhe": {
-        "1": "洋蔥"
-    },
-    "Haibowan": {
-        "1": "洋蔥頭"
-    },
-    "Suzhou": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "Hangzhou": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "Shanghai": {
-        "1": "洋蔥頭"
-    },
-    "Chongming": {
-        "1": "洋蔥頭"
-    },
-    "Wenzhou": {
-        "1": "香蔥",
-        "2": "番蔥"
-    },
-    "Danyang": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "Jinhua": {
-        "1": "洋蔥"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "洋蔥頭"
-    },
-    "Changsha": {
-        "1": "洋蔥"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "洋蔥"
-    },
-    "Quanzhou-X": {
-        "1": "洋蔥"
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": "洋蔥"
-    },
-    "Pingxiang": {
-        "1": "洋蔥"
-    },
-    "Meixian": {
-        "1": "洋蔥",
-        "2": "荷蘭蔥"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "洋蔥"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "洋蔥"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "蔥頭"
-    },
-    "Liudui": {
-        "1": "蔥頭"
-    },
-    "Hsinchu": {
-        "1": "蔥頭"
-    },
-    "Dongshi": {
-        "1": "蔥頭",
-        "2": "大頭蔥"
-    },
-    "Raoping": {
-        "1": "蔥頭"
-    },
-    "Yunlin": {
-        "1": "蔥頭"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "洋蔥"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "洋蔥",
-        "2": "洋蔥頭"
-    },
-    "Hong Kong": {
-        "1": "洋蔥"
-    },
-    "Shunde": {
-        "1": "洋蔥頭"
-    },
-    "Foshan": {
-        "1": "洋蔥頭"
-    },
-    "Zhongshan": {
-        "1": "洋蔥頭"
-    },
-    "Dongguan": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Doumen-T": {
-        "1": "洋蔥頭"
-    },
-    "Doumen-S": {
-        "1": "洋蔥頭"
-    },
-    "Taishan": {
-        "1": "洋蔥"
-    },
-    "Kaiping": {
-        "1": "洋蔥頭"
-    },
-    "Shaoguan": {
-        "1": "洋蔥頭"
-    },
-    "Yunfu": {
-        "1": "洋蔥"
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": "洋蔥頭"
-    },
-    "Lianjiang": {
-        "1": "洋蔥頭"
-    },
-    "Nanning": {
-        "1": "洋蔥頭"
-    },
-    "Wuzhou": {
-        "1": "洋蔥頭"
-    },
-    "Yulin": {
-        "1": "洋蔥頭"
-    },
-    "Hepu": {
-        "1": "洋蔥頭"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "洋蔥",
-        "2": "洋蔥頭:bulb"
-    },
-    "Guilin-P": {
-        "1": "洋蔥"
-    },
-    "Xiamen": {
-        "1": "北蔥"
-    },
-    "Quanzhou": {
-        "1": "北蔥"
-    },
-    "Zhangzhou": {
-        "1": "北蔥"
-    },
-    "Taipei": {
-        "1": "大蔥頭"
-    },
-    "Kaohsiung": {
-        "1": "蔥頭"
-    },
-    "Tainan": {
-        "1": "蔥頭"
-    },
-    "Taichung": {
-        "1": "蔥頭"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "蔥頭"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "蔥頭"
-    },
-    "Sanxia": {
-        "1": "蔥頭"
-    },
-    "Yilan": {
-        "1": "蔥頭"
-    },
-    "Kinmen": {
-        "1": "望蓋仔蔥",
-        "2": "風蔥"
-    },
-    "Magong": {
-        "1": "風蔥"
-    },
-    "Malaysia-MN": {
-        "1": "蔥頭"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "蔥頭"
-    },
-    "Shantou": {
-        "1": "蔥頭"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "番蔥頭"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "洋蔥"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "紅毛蔥",
-        "2": "洋蔥"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "洋蔥"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "洋蔥"
+    ],
+    "Taxonomic": [
+        "洋蔥"
+    ],
+    "Beijing": [
+        "洋蔥",
+        "蔥頭"
+    ],
+    "Taiwan": [
+        "洋蔥",
+        "蔥頭"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "洋蔥"
+    ],
+    "Shenyang": [],
+    "Hailar": [
+        "洋蔥",
+        "圓蔥"
+    ],
+    "Ulan Hot": [
+        "洋蔥",
+        "圓蔥"
+    ],
+    "Tongliao": [
+        "洋蔥",
+        "圓蔥"
+    ],
+    "Chifeng": [
+        "蔥頭"
+    ],
+    "Baochang": [
+        "蔥頭"
+    ],
+    "Bayanhot": [
+        "蔥頭",
+        "線骨朵"
+    ],
+    "Jinan": [
+        "洋蔥"
+    ],
+    "Muping": [
+        "洋蔥",
+        "洋蔥波豆兒:bulb"
+    ],
+    "Luoyang": [],
+    "Wanrong": [
+        "洋蔥",
+        "洋蔥疙瘩:bulb"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "洋蔥"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "洋蔥",
+        "蔥頭",
+        "海蒜"
+    ],
+    "Xining": [
+        "洋蔥",
+        "蔥頭:bulb"
+    ],
+    "Xuzhou": [
+        "洋蒜",
+        "洋蔥"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "洋蔥"
+    ],
+    "Ürümqi": [
+        "皮牙子"
+    ],
+    "Wuhan": [
+        "洋蔥",
+        "洋蔥頭"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "洋蔥"
+    ],
+    "Guiyang": [
+        "洋蔥"
+    ],
+    "Guilin": [
+        "洋蔥"
+    ],
+    "Liuzhou": [
+        "洋蔥",
+        "蔥球"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "洋蔥",
+        "洋蔥頭子:bulb"
+    ],
+    "Nanjing": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "皮牙子"
+    ],
+    "Shaanxi-DG": [
+        "蔥"
+    ],
+    "Taiyuan": [
+        "洋蔥",
+        "蔥頭"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "洋蔥"
+    ],
+    "Jining": [
+        "洋蔥頭"
+    ],
+    "Hohhot": [
+        "蔥頭"
+    ],
+    "Baotou": [
+        "洋蔥頭"
+    ],
+    "Dongsheng": [
+        "蔥頭"
+    ],
+    "Linhe": [
+        "洋蔥"
+    ],
+    "Haibowan": [
+        "洋蔥頭"
+    ],
+    "Suzhou": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "Hangzhou": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "Shanghai": [
+        "洋蔥頭"
+    ],
+    "Chongming": [
+        "洋蔥頭"
+    ],
+    "Wenzhou": [
+        "香蔥",
+        "番蔥"
+    ],
+    "Danyang": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "Jinhua": [
+        "洋蔥"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "洋蔥頭"
+    ],
+    "Changsha": [
+        "洋蔥"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "洋蔥"
+    ],
+    "Quanzhou-X": [
+        "洋蔥"
+    ],
+    "Nanchang": [],
+    "Lichuan": [
+        "洋蔥"
+    ],
+    "Pingxiang": [
+        "洋蔥"
+    ],
+    "Meixian": [
+        "洋蔥",
+        "荷蘭蔥"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "洋蔥"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "洋蔥"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "蔥頭"
+    ],
+    "Liudui": [
+        "蔥頭"
+    ],
+    "Hsinchu": [
+        "蔥頭"
+    ],
+    "Dongshi": [
+        "蔥頭",
+        "大頭蔥"
+    ],
+    "Raoping": [
+        "蔥頭"
+    ],
+    "Yunlin": [
+        "蔥頭"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "洋蔥"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "洋蔥",
+        "洋蔥頭"
+    ],
+    "Hong Kong": [
+        "洋蔥"
+    ],
+    "Shunde": [
+        "洋蔥頭"
+    ],
+    "Foshan": [
+        "洋蔥頭"
+    ],
+    "Zhongshan": [
+        "洋蔥頭"
+    ],
+    "Dongguan": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "HK Weitou": [],
+    "Doumen-T": [
+        "洋蔥頭"
+    ],
+    "Doumen-S": [
+        "洋蔥頭"
+    ],
+    "Taishan": [
+        "洋蔥"
+    ],
+    "Kaiping": [
+        "洋蔥頭"
+    ],
+    "Shaoguan": [
+        "洋蔥頭"
+    ],
+    "Yunfu": [
+        "洋蔥"
+    ],
+    "Yangjiang": [],
+    "Xinyi": [
+        "洋蔥頭"
+    ],
+    "Lianjiang": [
+        "洋蔥頭"
+    ],
+    "Nanning": [
+        "洋蔥頭"
+    ],
+    "Wuzhou": [
+        "洋蔥頭"
+    ],
+    "Yulin": [
+        "洋蔥頭"
+    ],
+    "Hepu": [
+        "洋蔥頭"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "洋蔥",
+        "洋蔥頭:bulb"
+    ],
+    "Guilin-P": [
+        "洋蔥"
+    ],
+    "Xiamen": [
+        "北蔥"
+    ],
+    "Quanzhou": [
+        "北蔥"
+    ],
+    "Zhangzhou": [
+        "北蔥"
+    ],
+    "Taipei": [
+        "大蔥頭"
+    ],
+    "Kaohsiung": [
+        "蔥頭"
+    ],
+    "Tainan": [
+        "蔥頭"
+    ],
+    "Taichung": [
+        "蔥頭"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "蔥頭"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "蔥頭"
+    ],
+    "Sanxia": [
+        "蔥頭"
+    ],
+    "Yilan": [
+        "蔥頭"
+    ],
+    "Kinmen": [
+        "望蓋仔蔥",
+        "風蔥"
+    ],
+    "Magong": [
+        "風蔥"
+    ],
+    "Malaysia-MN": [
+        "蔥頭"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "蔥頭"
+    ],
+    "Shantou": [
+        "蔥頭"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "番蔥頭"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "洋蔥"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "紅毛蔥",
+        "洋蔥"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "洋蔥"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

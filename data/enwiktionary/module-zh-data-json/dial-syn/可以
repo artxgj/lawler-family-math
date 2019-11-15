@@ -1,399 +1,231 @@
 {
     "meaning": "can; may",
     "note": "mT - mainstream Taiwan (no particular region identified)",
-    "Classical": {
-        "1": "可",
-        "2": "可以",
-        "3": "得"
-    },
-    "Formal": {
-        "1": "可",
-        "2": "可以",
-        "3": "得"
-    },
-    "Beijing": {
-        "1": "可以",
-        "2": "能",
-        "3": "能夠"
-    },
-    "Taiwan": {
-        "1": "可以",
-        "2": "能",
-        "3": "能夠"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": ""
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": ""
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": ""
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": ""
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": ""
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": ""
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": ""
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": ""
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "做得"
-    },
-    "Liudui": {
-        "1": "做得",
-        "2": "可以",
-        "3": "使得"
-    },
-    "Hsinchu": {
-        "1": "做得"
-    },
-    "Dongshi": {
-        "1": "使得",
-        "2": "做得"
-    },
-    "Raoping": {
-        "1": "做得"
-    },
-    "Yunlin": {
-        "1": "會用"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "可以",
-        "2": "得"
-    },
-    "Hong Kong": {
-        "1": "可以",
-        "2": "得"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "可以"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "會使",
-        "2": "會當",
-        "3": "會做",
-        "4": "會用",
-        "5": "會用得",
-        "6": "會得",
-        "7": "會得通",
-        "8": "會通",
-        "9": "通"
-    },
-    "Quanzhou": {
-        "1": "會做",
-        "2": "會做得",
-        "3": "會用",
-        "4": "會用得",
-        "5": "會得",
-        "6": "會得通",
-        "7": "會通",
-        "8": "通"
-    },
-    "Zhangzhou": {
-        "1": "會使",
-        "2": "會當",
-        "3": "會用",
-        "4": "會用得",
-        "5": "會得",
-        "6": "會得通",
-        "7": "會通",
-        "8": "通"
-    },
-    "Taipei": {
-        "1": "會使",
-        "2": "會當",
-        "3": "會做得:mT",
-        "4": "會得:mT",
-        "5": "會得通:mT",
-        "6": "通:mT"
-    },
-    "Kaohsiung": {
-        "1": "會用得",
-        "2": "會使",
-        "3": "會當"
-    },
-    "Tainan": {
-        "1": "會用得",
-        "2": "會使",
-        "3": "會當"
-    },
-    "Taichung": {
-        "1": "會用得",
-        "2": "會使得"
-    },
-    "Yilan": {
-        "1": "會使",
-        "2": "會當"
-    },
-    "Lukang": {
-        "1": "會使",
-        "2": "會當"
-    },
-    "Sanxia": {
-        "1": "會使",
-        "2": "會當"
-    },
-    "Kinmen": {
-        "1": "會使",
-        "2": "會當"
-    },
-    "Magong": {
-        "1": "會使",
-        "2": "會當"
-    },
-    "Hsinchu-MN": {
-        "1": "會用得",
-        "2": "會使"
-    },
-    "Malaysia-MN": {
-        "1": "會",
-        "2": "會使"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "會做",
-        "2": "會用",
-        "3": "會用得",
-        "4": "會做得",
-        "5": "會當"
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "會使"
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [
+        "可",
+        "可以",
+        "得"
+    ],
+    "Formal": [
+        "可",
+        "可以",
+        "得"
+    ],
+    "Beijing": [
+        "可以",
+        "能",
+        "能夠"
+    ],
+    "Taiwan": [
+        "可以",
+        "能",
+        "能夠"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [],
+    "Wuhan": [],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [],
+    "Hangzhou": [],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Nanchang": [],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "做得"
+    ],
+    "Liudui": [
+        "做得",
+        "可以",
+        "使得"
+    ],
+    "Hsinchu": [
+        "做得"
+    ],
+    "Dongshi": [
+        "使得",
+        "做得"
+    ],
+    "Raoping": [
+        "做得"
+    ],
+    "Yunlin": [
+        "會用"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "可以",
+        "得"
+    ],
+    "Hong Kong": [
+        "可以",
+        "得"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [],
+    "Taishan": [
+        "可以"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [],
+    "Xiamen": [
+        "會使",
+        "會當",
+        "會做",
+        "會用",
+        "會用得",
+        "會得",
+        "會得通",
+        "會通",
+        "通"
+    ],
+    "Quanzhou": [
+        "會做",
+        "會做得",
+        "會用",
+        "會用得",
+        "會得",
+        "會得通",
+        "會通",
+        "通"
+    ],
+    "Zhangzhou": [
+        "會使",
+        "會當",
+        "會用",
+        "會用得",
+        "會得",
+        "會得通",
+        "會通",
+        "通"
+    ],
+    "Taipei": [
+        "會使",
+        "會當",
+        "會做得:mT",
+        "會得:mT",
+        "會得通:mT",
+        "通:mT"
+    ],
+    "Kaohsiung": [
+        "會用得",
+        "會使",
+        "會當"
+    ],
+    "Tainan": [
+        "會用得",
+        "會使",
+        "會當"
+    ],
+    "Taichung": [
+        "會用得",
+        "會使得"
+    ],
+    "Yilan": [
+        "會使",
+        "會當"
+    ],
+    "Lukang": [
+        "會使",
+        "會當"
+    ],
+    "Sanxia": [
+        "會使",
+        "會當"
+    ],
+    "Kinmen": [
+        "會使",
+        "會當"
+    ],
+    "Magong": [
+        "會使",
+        "會當"
+    ],
+    "Hsinchu-MN": [
+        "會用得",
+        "會使"
+    ],
+    "Malaysia-MN": [
+        "會",
+        "會使"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "會做",
+        "會用",
+        "會用得",
+        "會做得",
+        "會當"
+    ],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Fuzhou": [
+        "會使"
+    ],
+    "Jian'ou": []
 }

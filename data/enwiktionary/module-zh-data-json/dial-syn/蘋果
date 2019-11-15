@@ -1,801 +1,475 @@
 {
     "meaning": "apple",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "蘋果"
-    },
-    "Taxonomic": {
-        "1": "蘋果"
-    },
-    "Beijing": {
-        "1": "蘋果"
-    },
-    "Taiwan": {
-        "1": "蘋果"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "蘋果"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "蘋果"
-    },
-    "Muping": {
-        "1": "蘋果"
-    },
-    "Luoyang": {
-        "1": "蘋果"
-    },
-    "Wanrong": {
-        "1": "蘋果"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "蘋果"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "蘋果"
-    },
-    "Xining": {
-        "1": "蘋果"
-    },
-    "Xuzhou": {
-        "1": "蘋果"
-    },
-    "Yinchuan": {
-        "1": "蘋果"
-    },
-    "Lanzhou": {
-        "1": "蘋果"
-    },
-    "Ürümqi": {
-        "1": "蘋果",
-        "2": "果子"
-    },
-    "Wuhan": {
-        "1": "蘋果"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蘋果"
-    },
-    "Guiyang": {
-        "1": "蘋果"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "蘋果"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "蘋果"
-    },
-    "Nanjing": {
-        "1": "蘋果"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "果子"
-    },
-    "Shaanxi-DG": {
-        "1": "果子"
-    },
-    "Taiyuan": {
-        "1": "蘋果"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "蘋果"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "蘋果"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "蘋果"
-    },
-    "Suzhou": {
-        "1": "蘋果"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "蘋果"
-    },
-    "Chongming": {
-        "1": "蘋果"
-    },
-    "Wenzhou": {
-        "1": "蘋果"
-    },
-    "Danyang": {
-        "1": "蘋果"
-    },
-    "Jinhua": {
-        "1": "蘋果"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蘋果"
-    },
-    "Changsha": {
-        "1": "蘋果"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "蘋果"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "蘋果"
-    },
-    "Lichuan": {
-        "1": "蘋果"
-    },
-    "Pingxiang": {
-        "1": "蘋果"
-    },
-    "Meixian": {
-        "1": "蘋果"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "蘋果"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "蘋果"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "蘋果"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "蘋果"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "蘋果"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "蘋果"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "林檎"
-    },
-    "Liudui": {
-        "1": "林檎"
-    },
-    "Hsinchu": {
-        "1": "林檎"
-    },
-    "Dongshi": {
-        "1": "林檎",
-        "2": "蘋果"
-    },
-    "Raoping": {
-        "1": "林檎"
-    },
-    "Yunlin": {
-        "1": "蘋果",
-        "2": "林檎"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "蘋果"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "蘋果"
-    },
-    "Hong Kong": {
-        "1": "蘋果"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": "蘋果"
-    },
-    "Ting Kok": {
-        "1": ""
-    },
-    "Tung Ping Chau": {
-        "1": ""
-    },
-    "Macau": {
-        "1": "蘋果"
-    },
-    "Panyu": {
-        "1": "蘋果"
-    },
-    "Huadu": {
-        "1": "蘋果"
-    },
-    "Conghua": {
-        "1": "蘋果"
-    },
-    "Zengcheng": {
-        "1": "蘋果"
-    },
-    "Foshan": {
-        "1": "蘋果"
-    },
-    "Nanhai": {
-        "1": "蘋果"
-    },
-    "Shunde": {
-        "1": "蘋果"
-    },
-    "Sanshui": {
-        "1": "蘋果"
-    },
-    "Gaoming": {
-        "1": "蘋果"
-    },
-    "Zhongshan": {
-        "1": "蘋果"
-    },
-    "Zhuhai": {
-        "1": "蘋果"
-    },
-    "Doumen-T": {
-        "1": "蘋果"
-    },
-    "Doumen-S": {
-        "1": "蘋果"
-    },
-    "Jiangmen": {
-        "1": "蘋果"
-    },
-    "Xinhui": {
-        "1": "蘋果"
-    },
-    "Taishan": {
-        "1": "蘋果"
-    },
-    "Kaiping": {
-        "1": "蘋果"
-    },
-    "Enping": {
-        "1": "蘋果"
-    },
-    "Heshan": {
-        "1": "蘋果"
-    },
-    "Dongguan": {
-        "1": "蘋果"
-    },
-    "Bao'an": {
-        "1": "蘋果"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "蘋果"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "蘋果"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "蘋果"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "蘋果"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "瓜果"
-    },
-    "Kaohsiung": {
-        "1": "林檎",
-        "2": "蘋果"
-    },
-    "Tainan": {
-        "1": "林檎",
-        "2": "蘋果"
-    },
-    "Taichung": {
-        "1": "林檎",
-        "2": "蘋果"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "林檎"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "蘋果"
-    },
-    "Sanxia": {
-        "1": "瓜果"
-    },
-    "Yilan": {
-        "1": "林檎",
-        "2": "蘋果"
-    },
-    "Kinmen": {
-        "1": "蘋果"
-    },
-    "Magong": {
-        "1": "蘋果",
-        "2": "林檎"
-    },
-    "Malaysia-MN": {
-        "1": "蘋果"
-    },
-    "Singapore-MN": {
-        "1": "蘋果"
-    },
-    "Philippine-MN": {
-        "1": "蘋果"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "蘋果"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "蘋果"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "蘋果"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "蘋果"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "蘋果"
+    ],
+    "Taxonomic": [
+        "蘋果"
+    ],
+    "Beijing": [
+        "蘋果"
+    ],
+    "Taiwan": [
+        "蘋果"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "蘋果"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "蘋果"
+    ],
+    "Muping": [
+        "蘋果"
+    ],
+    "Luoyang": [
+        "蘋果"
+    ],
+    "Wanrong": [
+        "蘋果"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "蘋果"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "蘋果"
+    ],
+    "Xining": [
+        "蘋果"
+    ],
+    "Xuzhou": [
+        "蘋果"
+    ],
+    "Yinchuan": [
+        "蘋果"
+    ],
+    "Lanzhou": [
+        "蘋果"
+    ],
+    "Ürümqi": [
+        "蘋果",
+        "果子"
+    ],
+    "Wuhan": [
+        "蘋果"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蘋果"
+    ],
+    "Guiyang": [
+        "蘋果"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "蘋果"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "蘋果"
+    ],
+    "Nanjing": [
+        "蘋果"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "果子"
+    ],
+    "Shaanxi-DG": [
+        "果子"
+    ],
+    "Taiyuan": [
+        "蘋果"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "蘋果"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "蘋果"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "蘋果"
+    ],
+    "Suzhou": [
+        "蘋果"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "蘋果"
+    ],
+    "Chongming": [
+        "蘋果"
+    ],
+    "Wenzhou": [
+        "蘋果"
+    ],
+    "Danyang": [
+        "蘋果"
+    ],
+    "Jinhua": [
+        "蘋果"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蘋果"
+    ],
+    "Changsha": [
+        "蘋果"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "蘋果"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "蘋果"
+    ],
+    "Lichuan": [
+        "蘋果"
+    ],
+    "Pingxiang": [
+        "蘋果"
+    ],
+    "Meixian": [
+        "蘋果"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "蘋果"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "蘋果"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "蘋果"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "蘋果"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "蘋果"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "蘋果"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "林檎"
+    ],
+    "Liudui": [
+        "林檎"
+    ],
+    "Hsinchu": [
+        "林檎"
+    ],
+    "Dongshi": [
+        "林檎",
+        "蘋果"
+    ],
+    "Raoping": [
+        "林檎"
+    ],
+    "Yunlin": [
+        "蘋果",
+        "林檎"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "蘋果"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "蘋果"
+    ],
+    "Hong Kong": [
+        "蘋果"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [
+        "蘋果"
+    ],
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "蘋果"
+    ],
+    "Panyu": [
+        "蘋果"
+    ],
+    "Huadu": [
+        "蘋果"
+    ],
+    "Conghua": [
+        "蘋果"
+    ],
+    "Zengcheng": [
+        "蘋果"
+    ],
+    "Foshan": [
+        "蘋果"
+    ],
+    "Nanhai": [
+        "蘋果"
+    ],
+    "Shunde": [
+        "蘋果"
+    ],
+    "Sanshui": [
+        "蘋果"
+    ],
+    "Gaoming": [
+        "蘋果"
+    ],
+    "Zhongshan": [
+        "蘋果"
+    ],
+    "Zhuhai": [
+        "蘋果"
+    ],
+    "Doumen-T": [
+        "蘋果"
+    ],
+    "Doumen-S": [
+        "蘋果"
+    ],
+    "Jiangmen": [
+        "蘋果"
+    ],
+    "Xinhui": [
+        "蘋果"
+    ],
+    "Taishan": [
+        "蘋果"
+    ],
+    "Kaiping": [
+        "蘋果"
+    ],
+    "Enping": [
+        "蘋果"
+    ],
+    "Heshan": [
+        "蘋果"
+    ],
+    "Dongguan": [
+        "蘋果"
+    ],
+    "Bao'an": [
+        "蘋果"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "蘋果"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "蘋果"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "蘋果"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "蘋果"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "瓜果"
+    ],
+    "Kaohsiung": [
+        "林檎",
+        "蘋果"
+    ],
+    "Tainan": [
+        "林檎",
+        "蘋果"
+    ],
+    "Taichung": [
+        "林檎",
+        "蘋果"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "林檎"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "蘋果"
+    ],
+    "Sanxia": [
+        "瓜果"
+    ],
+    "Yilan": [
+        "林檎",
+        "蘋果"
+    ],
+    "Kinmen": [
+        "蘋果"
+    ],
+    "Magong": [
+        "蘋果",
+        "林檎"
+    ],
+    "Malaysia-MN": [
+        "蘋果"
+    ],
+    "Singapore-MN": [
+        "蘋果"
+    ],
+    "Philippine-MN": [
+        "蘋果"
+    ],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "蘋果"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [],
+    "Haikou": [
+        "蘋果"
+    ],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [
+        "蘋果"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "蘋果"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

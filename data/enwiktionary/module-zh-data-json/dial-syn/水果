@@ -1,611 +1,451 @@
 {
     "meaning": "fruit",
     "note": "",
-    "Classical": {
-        "1": "果"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "水果兒",
-        "2": "果子"
-    },
-    "Taiwan": {
-        "1": "水果"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "水果兒"
-    },
-    "Shenyang": {
-        "1": "水果"
-    },
-    "Hailar": {
-        "1": "水果"
-    },
-    "Ulan Hot": {
-        "1": "水果"
-    },
-    "Tongliao": {
-        "1": "水果"
-    },
-    "Chifeng": {
-        "1": "水果"
-    },
-    "Baochang": {
-        "1": "水果"
-    },
-    "Bayanhot": {
-        "1": "水果"
-    },
-    "Jinan": {
-        "1": "水果",
-        "2": "鮮果"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": "水果"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "水果"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "水果"
-    },
-    "Xining": {
-        "1": "果子"
-    },
-    "Xuzhou": {
-        "1": "水果",
-        "2": "鮮果"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": ""
-    },
-    "Ürümqi": {
-        "1": "水果"
-    },
-    "Wuhan": {
-        "1": "水果"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "水果",
-        "2": "果果"
-    },
-    "Guiyang": {
-        "1": "水果"
-    },
-    "Guilin": {
-        "1": "水果"
-    },
-    "Liuzhou": {
-        "1": "水果",
-        "2": "生果"
-    },
-    "Kunming": {
-        "1": "水果"
-    },
-    "Yangzhou": {
-        "1": "水果"
-    },
-    "Nanjing": {
-        "1": "水果"
-    },
-    "Hefei": {
-        "1": "水果"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": "青貨"
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "水果"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "水果"
-    },
-    "Jining": {
-        "1": "水果"
-    },
-    "Hohhot": {
-        "1": "水果"
-    },
-    "Baotou": {
-        "1": "水果"
-    },
-    "Dongsheng": {
-        "1": "水果"
-    },
-    "Linhe": {
-        "1": "水果"
-    },
-    "Haibowan": {
-        "1": "水果"
-    },
-    "Shanghai": {
-        "1": "水果"
-    },
-    "Suzhou": {
-        "1": "水果"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "水果"
-    },
-    "Chongming": {
-        "1": "水果"
-    },
-    "Wenzhou": {
-        "1": "水果"
-    },
-    "Danyang": {
-        "1": "水果"
-    },
-    "Jinhua": {
-        "1": "水果"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "水果"
-    },
-    "Changsha": {
-        "1": "水果"
-    },
-    "Shuangfeng": {
-        "1": "果子實",
-        "2": "水果"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "果子"
-    },
-    "Quanzhou-X": {
-        "1": "水果"
-    },
-    "Nanchang": {
-        "1": "水果"
-    },
-    "Lichuan": {
-        "1": "水果"
-    },
-    "Pingxiang": {
-        "1": "水果"
-    },
-    "Meixian": {
-        "1": "生果",
-        "2": "青果",
-        "3": "果作"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": "水果"
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "水果"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "果子",
-        "2": "水果",
-        "3": "果作"
-    },
-    "Liudui": {
-        "1": "水果",
-        "2": "果作"
-    },
-    "Hsinchu": {
-        "1": "果子",
-        "2": "水果",
-        "3": "果作"
-    },
-    "Dongshi": {
-        "1": "果子",
-        "2": "果作"
-    },
-    "Raoping": {
-        "1": "果子",
-        "2": "果作"
-    },
-    "Yunlin": {
-        "1": "果子"
-    },
-    "Hong Kong-H": {
-        "1": "生果"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "生果"
-    },
-    "Singkawang": {
-        "1": "水果"
-    },
-    "Jixi": {
-        "1": "水果"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "生果"
-    },
-    "Hong Kong": {
-        "1": "生果"
-    },
-    "Shunde": {
-        "1": "生果"
-    },
-    "Foshan": {
-        "1": "生果"
-    },
-    "Zhongshan": {
-        "1": "水果"
-    },
-    "Dongguan": {
-        "1": "生果"
-    },
-    "HK Weitou": {
-        "1": "生果"
-    },
-    "Taishan": {
-        "1": "生果"
-    },
-    "Doumen": {
-        "1": "生果"
-    },
-    "Kaiping": {
-        "1": "生果"
-    },
-    "Shaoguan": {
-        "1": "生果"
-    },
-    "Yunfu": {
-        "1": "水果"
-    },
-    "Yangjiang": {
-        "1": "瓜子"
-    },
-    "Xinyi": {
-        "1": "果子"
-    },
-    "Lianjiang": {
-        "1": "水果"
-    },
-    "Nanning": {
-        "1": "水果",
-        "2": "生果"
-    },
-    "Wuzhou": {
-        "1": "生果"
-    },
-    "Yulin": {
-        "1": "水果"
-    },
-    "Hepu": {
-        "1": "水果"
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "生果"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Guilin-P": {
-        "1": "水果"
-    },
-    "Xiamen": {
-        "1": "果子"
-    },
-    "Quanzhou": {
-        "1": "果子"
-    },
-    "Zhangzhou": {
-        "1": "果子"
-    },
-    "Taipei": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Kaohsiung": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Tainan": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Taichung": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Sanxia": {
-        "1": "水果"
-    },
-    "Yilan": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Kinmen": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Magong": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Malaysia-MN": {
-        "1": "果子",
-        "2": "buah"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "果子"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "水果"
-    },
-    "Chaozhou": {
-        "1": "果子",
-        "2": "生果"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": "生果"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "生果"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "生果"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": "果子"
-    },
-    "Xianyou": {
-        "1": "果子"
-    },
-    "Fuzhou": {
-        "1": "果子",
-        "2": "水果"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": "生果",
-        "2": "水果"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": "水果",
-        "2": "果子"
-    },
-    "Jian'ou": {
-        "1": "水果"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "果"
+    ],
+    "Formal": [],
+    "Beijing": [
+        "水果兒",
+        "果子"
+    ],
+    "Taiwan": [
+        "水果"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "水果兒"
+    ],
+    "Shenyang": [
+        "水果"
+    ],
+    "Hailar": [
+        "水果"
+    ],
+    "Ulan Hot": [
+        "水果"
+    ],
+    "Tongliao": [
+        "水果"
+    ],
+    "Chifeng": [
+        "水果"
+    ],
+    "Baochang": [
+        "水果"
+    ],
+    "Bayanhot": [
+        "水果"
+    ],
+    "Jinan": [
+        "水果",
+        "鮮果"
+    ],
+    "Muping": [],
+    "Luoyang": [
+        "水果"
+    ],
+    "Wanrong": [],
+    "Xi'an": [
+        "水果"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "水果"
+    ],
+    "Xining": [
+        "果子"
+    ],
+    "Xuzhou": [
+        "水果",
+        "鮮果"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [],
+    "Ürümqi": [
+        "水果"
+    ],
+    "Wuhan": [
+        "水果"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "水果",
+        "果果"
+    ],
+    "Guiyang": [
+        "水果"
+    ],
+    "Guilin": [
+        "水果"
+    ],
+    "Liuzhou": [
+        "水果",
+        "生果"
+    ],
+    "Kunming": [
+        "水果"
+    ],
+    "Yangzhou": [
+        "水果"
+    ],
+    "Nanjing": [
+        "水果"
+    ],
+    "Hefei": [
+        "水果"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [
+        "青貨"
+    ],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "水果"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "水果"
+    ],
+    "Jining": [
+        "水果"
+    ],
+    "Hohhot": [
+        "水果"
+    ],
+    "Baotou": [
+        "水果"
+    ],
+    "Dongsheng": [
+        "水果"
+    ],
+    "Linhe": [
+        "水果"
+    ],
+    "Haibowan": [
+        "水果"
+    ],
+    "Shanghai": [
+        "水果"
+    ],
+    "Suzhou": [
+        "水果"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "水果"
+    ],
+    "Chongming": [
+        "水果"
+    ],
+    "Wenzhou": [
+        "水果"
+    ],
+    "Danyang": [
+        "水果"
+    ],
+    "Jinhua": [
+        "水果"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "水果"
+    ],
+    "Changsha": [
+        "水果"
+    ],
+    "Shuangfeng": [
+        "果子實",
+        "水果"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "果子"
+    ],
+    "Quanzhou-X": [
+        "水果"
+    ],
+    "Nanchang": [
+        "水果"
+    ],
+    "Lichuan": [
+        "水果"
+    ],
+    "Pingxiang": [
+        "水果"
+    ],
+    "Meixian": [
+        "生果",
+        "青果",
+        "果作"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [
+        "水果"
+    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "水果"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "果子",
+        "水果",
+        "果作"
+    ],
+    "Liudui": [
+        "水果",
+        "果作"
+    ],
+    "Hsinchu": [
+        "果子",
+        "水果",
+        "果作"
+    ],
+    "Dongshi": [
+        "果子",
+        "果作"
+    ],
+    "Raoping": [
+        "果子",
+        "果作"
+    ],
+    "Yunlin": [
+        "果子"
+    ],
+    "Hong Kong-H": [
+        "生果"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "生果"
+    ],
+    "Singkawang": [
+        "水果"
+    ],
+    "Jixi": [
+        "水果"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "生果"
+    ],
+    "Hong Kong": [
+        "生果"
+    ],
+    "Shunde": [
+        "生果"
+    ],
+    "Foshan": [
+        "生果"
+    ],
+    "Zhongshan": [
+        "水果"
+    ],
+    "Dongguan": [
+        "生果"
+    ],
+    "HK Weitou": [
+        "生果"
+    ],
+    "Taishan": [
+        "生果"
+    ],
+    "Doumen": [
+        "生果"
+    ],
+    "Kaiping": [
+        "生果"
+    ],
+    "Shaoguan": [
+        "生果"
+    ],
+    "Yunfu": [
+        "水果"
+    ],
+    "Yangjiang": [
+        "瓜子"
+    ],
+    "Xinyi": [
+        "果子"
+    ],
+    "Lianjiang": [
+        "水果"
+    ],
+    "Nanning": [
+        "水果",
+        "生果"
+    ],
+    "Wuzhou": [
+        "生果"
+    ],
+    "Yulin": [
+        "水果"
+    ],
+    "Hepu": [
+        "水果"
+    ],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "生果"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "水果",
+        "果子"
+    ],
+    "Guilin-P": [
+        "水果"
+    ],
+    "Xiamen": [
+        "果子"
+    ],
+    "Quanzhou": [
+        "果子"
+    ],
+    "Zhangzhou": [
+        "果子"
+    ],
+    "Taipei": [
+        "水果",
+        "果子"
+    ],
+    "Kaohsiung": [
+        "水果",
+        "果子"
+    ],
+    "Tainan": [
+        "水果",
+        "果子"
+    ],
+    "Taichung": [
+        "水果",
+        "果子"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "水果",
+        "果子"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "水果",
+        "果子"
+    ],
+    "Sanxia": [
+        "水果"
+    ],
+    "Yilan": [
+        "水果",
+        "果子"
+    ],
+    "Kinmen": [
+        "水果",
+        "果子"
+    ],
+    "Magong": [
+        "水果",
+        "果子"
+    ],
+    "Malaysia-MN": [
+        "果子",
+        "buah"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "果子"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "水果"
+    ],
+    "Chaozhou": [
+        "果子",
+        "生果"
+    ],
+    "Shantou": [],
+    "Haifeng": [
+        "生果"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "生果"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "生果"
+    ],
+    "Leizhou": [],
+    "Putian": [
+        "果子"
+    ],
+    "Xianyou": [
+        "果子"
+    ],
+    "Fuzhou": [
+        "果子",
+        "水果"
+    ],
+    "Changle": [],
+    "Fuqing": [
+        "生果",
+        "水果"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [
+        "水果",
+        "果子"
+    ],
+    "Jian'ou": [
+        "水果"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

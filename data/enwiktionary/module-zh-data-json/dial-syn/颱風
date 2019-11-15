@@ -1,671 +1,461 @@
 {
     "meaning": "typhoon",
     "note": "",
-    "Classical": {
-        "1": "颶",
-        "2": "颶風"
-    },
-    "Formal": {
-        "1": "颱風"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "颱風"
-    },
-    "Taiwan": {
-        "1": "颱風"
-    },
-    "Tianjin": {
-        "1": "颱風"
-    },
-    "Harbin": {
-        "1": "颱風"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "颱風"
-    },
-    "Muping": {
-        "1": "颱風"
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": "颱風"
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "颱風"
-    },
-    "Ürümqi": {
-        "1": "颱風"
-    },
-    "Wuhan": {
-        "1": "颱風"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "颱風"
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "颱風"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "颱風"
-    },
-    "Nanjing": {
-        "1": "颱風"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": "颱風"
-    },
-    "Singapore-M": {
-        "1": "颱風"
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "颱風"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "颱風"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "颱風"
-    },
-    "Suzhou": {
-        "1": "颱風"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "颱風"
-    },
-    "Chongming": {
-        "1": "颱風"
-    },
-    "Wenzhou": {
-        "1": "風颸",
-        "2": "風水"
-    },
-    "Danyang": {
-        "1": "颱風",
-        "2": "悶子風"
-    },
-    "Jinhua": {
-        "1": "颱風"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "風水"
-    },
-    "Changsha": {
-        "1": "颱風"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": "颱風"
-    },
-    "Nanchang": {
-        "1": "颱風",
-        "2": "颶風:dated"
-    },
-    "Lichuan": {
-        "1": "颱風"
-    },
-    "Pingxiang": {
-        "1": "颱風"
-    },
-    "Meixian": {
-        "1": "打風搓"
-    },
-    "Xingning": {
-        "1": "颱風"
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "㾭螺風"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "風搓"
-    },
-    "Liudui": {
-        "1": "風搓"
-    },
-    "Hsinchu": {
-        "1": "風搓"
-    },
-    "Dongshi": {
-        "1": "風搓"
-    },
-    "Raoping": {
-        "1": "風搓",
-        "2": "颱風"
-    },
-    "Yunlin": {
-        "1": "颱風",
-        "2": "大風"
-    },
-    "Hong Kong-H": {
-        "1": "風搓"
-    },
-    "Sabah": {
-        "1": "暴風"
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "颱風"
-    },
-    "Guangzhou": {
-        "1": "颱風",
-        "2": "風舊:dated"
-    },
-    "Hong Kong": {
-        "1": "颱風"
-    },
-    "HK Weitou": {
-        "1": "大風"
-    },
-    "Kam Tin": {
-        "1": "風暴"
-    },
-    "Ting Kok": {
-        "1": "大風",
-        "2": "風搓"
-    },
-    "Tung Ping Chau": {
-        "1": "風搓"
-    },
-    "Macau": {
-        "1": "颱風"
-    },
-    "Panyu": {
-        "1": "颱風"
-    },
-    "Huadu": {
-        "1": "颱風"
-    },
-    "Conghua": {
-        "1": "颱風"
-    },
-    "Zengcheng": {
-        "1": "蛟仔過天"
-    },
-    "Foshan": {
-        "1": "颱風"
-    },
-    "Nanhai": {
-        "1": "颱風"
-    },
-    "Shunde": {
-        "1": "颱風"
-    },
-    "Sanshui": {
-        "1": "颱風"
-    },
-    "Gaoming": {
-        "1": "風颶"
-    },
-    "Zhongshan": {
-        "1": "風颱"
-    },
-    "Zhuhai": {
-        "1": "風颱"
-    },
-    "Doumen-T": {
-        "1": "颱風"
-    },
-    "Doumen-S": {
-        "1": "颱風"
-    },
-    "Jiangmen": {
-        "1": "風姑"
-    },
-    "Xinhui": {
-        "1": "颱風"
-    },
-    "Taishan": {
-        "1": "颱風"
-    },
-    "Kaiping": {
-        "1": "颱風"
-    },
-    "Enping": {
-        "1": "颱風"
-    },
-    "Heshan": {
-        "1": "颱風"
-    },
-    "Dongguan": {
-        "1": "颱風"
-    },
-    "Bao'an": {
-        "1": "颱風"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "颱風"
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "颱風"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "風颱"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "風颱"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "風颱"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "風颱"
-    },
-    "Kaohsiung": {
-        "1": "風颱"
-    },
-    "Tainan": {
-        "1": "風颱"
-    },
-    "Taichung": {
-        "1": "風颱"
-    },
-    "Wuqi": {
-        "1": "風颱"
-    },
-    "Hsinchu-MN": {
-        "1": "風颱"
-    },
-    "Taitung": {
-        "1": "風颱"
-    },
-    "Lukang": {
-        "1": "風颱"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "風颱"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": "風颱"
-    },
-    "Malaysia-MN": {
-        "1": "風颱"
-    },
-    "Singapore-MN": {
-        "1": "風颱"
-    },
-    "Philippine-MN": {
-        "1": "風颱"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": "颱風"
-    },
-    "Chaozhou": {
-        "1": "風颱"
-    },
-    "Shantou": {
-        "1": "風颱"
-    },
-    "Haifeng": {
-        "1": "風颱"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Wenchang": {
-        "1": "風颱"
-    },
-    "Haikou": {
-        "1": "風颱"
-    },
-    "Leizhou": {
-        "1": "風颱"
-    },
-    "Putian": {
-        "1": "風颱"
-    },
-    "Xianyou": {
-        "1": "大風"
-    },
-    "Fuzhou": {
-        "1": "風颱"
-    },
-    "Changle": {
-        "1": "風颱"
-    },
-    "Fuqing": {
-        "1": "風颱",
-        "2": "風災"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "風颱"
-    },
-    "Gutian": {
-        "1": "風颱"
-    },
-    "Fu'an": {
-        "1": "風颱"
-    },
-    "Ningde": {
-        "1": "風颱"
-    },
-    "Shouning": {
-        "1": "風颱",
-        "2": "颱風"
-    },
-    "Zhouning": {
-        "1": "風颱"
-    },
-    "Fuding": {
-        "1": "風颱"
-    },
-    "Matsu": {
-        "1": "風颱"
-    },
-    "Jian'ou": {
-        "1": "風颱"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": "颱風"
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": "颱風"
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [
+        "颶",
+        "颶風"
+    ],
+    "Formal": [
+        "颱風"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "颱風"
+    ],
+    "Taiwan": [
+        "颱風"
+    ],
+    "Tianjin": [
+        "颱風"
+    ],
+    "Harbin": [
+        "颱風"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "颱風"
+    ],
+    "Muping": [
+        "颱風"
+    ],
+    "Luoyang": [],
+    "Wanrong": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [
+        "颱風"
+    ],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "颱風"
+    ],
+    "Ürümqi": [
+        "颱風"
+    ],
+    "Wuhan": [
+        "颱風"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "颱風"
+    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [
+        "颱風"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "颱風"
+    ],
+    "Nanjing": [
+        "颱風"
+    ],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [
+        "颱風"
+    ],
+    "Singapore-M": [
+        "颱風"
+    ],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "颱風"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "颱風"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "颱風"
+    ],
+    "Suzhou": [
+        "颱風"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "颱風"
+    ],
+    "Chongming": [
+        "颱風"
+    ],
+    "Wenzhou": [
+        "風颸",
+        "風水"
+    ],
+    "Danyang": [
+        "颱風",
+        "悶子風"
+    ],
+    "Jinhua": [
+        "颱風"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "風水"
+    ],
+    "Changsha": [
+        "颱風"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [
+        "颱風"
+    ],
+    "Nanchang": [
+        "颱風",
+        "颶風:dated"
+    ],
+    "Lichuan": [
+        "颱風"
+    ],
+    "Pingxiang": [
+        "颱風"
+    ],
+    "Meixian": [
+        "打風搓"
+    ],
+    "Xingning": [
+        "颱風"
+    ],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "㾭螺風"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "風搓"
+    ],
+    "Liudui": [
+        "風搓"
+    ],
+    "Hsinchu": [
+        "風搓"
+    ],
+    "Dongshi": [
+        "風搓"
+    ],
+    "Raoping": [
+        "風搓",
+        "颱風"
+    ],
+    "Yunlin": [
+        "颱風",
+        "大風"
+    ],
+    "Hong Kong-H": [
+        "風搓"
+    ],
+    "Sabah": [
+        "暴風"
+    ],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "颱風"
+    ],
+    "Guangzhou": [
+        "颱風",
+        "風舊:dated"
+    ],
+    "Hong Kong": [
+        "颱風"
+    ],
+    "HK Weitou": [
+        "大風"
+    ],
+    "Kam Tin": [
+        "風暴"
+    ],
+    "Ting Kok": [
+        "大風",
+        "風搓"
+    ],
+    "Tung Ping Chau": [
+        "風搓"
+    ],
+    "Macau": [
+        "颱風"
+    ],
+    "Panyu": [
+        "颱風"
+    ],
+    "Huadu": [
+        "颱風"
+    ],
+    "Conghua": [
+        "颱風"
+    ],
+    "Zengcheng": [
+        "蛟仔過天"
+    ],
+    "Foshan": [
+        "颱風"
+    ],
+    "Nanhai": [
+        "颱風"
+    ],
+    "Shunde": [
+        "颱風"
+    ],
+    "Sanshui": [
+        "颱風"
+    ],
+    "Gaoming": [
+        "風颶"
+    ],
+    "Zhongshan": [
+        "風颱"
+    ],
+    "Zhuhai": [
+        "風颱"
+    ],
+    "Doumen-T": [
+        "颱風"
+    ],
+    "Doumen-S": [
+        "颱風"
+    ],
+    "Jiangmen": [
+        "風姑"
+    ],
+    "Xinhui": [
+        "颱風"
+    ],
+    "Taishan": [
+        "颱風"
+    ],
+    "Kaiping": [
+        "颱風"
+    ],
+    "Enping": [
+        "颱風"
+    ],
+    "Heshan": [
+        "颱風"
+    ],
+    "Dongguan": [
+        "颱風"
+    ],
+    "Bao'an": [
+        "颱風"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "颱風"
+    ],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "颱風"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "風颱"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "風颱"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "風颱"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "風颱"
+    ],
+    "Kaohsiung": [
+        "風颱"
+    ],
+    "Tainan": [
+        "風颱"
+    ],
+    "Taichung": [
+        "風颱"
+    ],
+    "Wuqi": [
+        "風颱"
+    ],
+    "Hsinchu-MN": [
+        "風颱"
+    ],
+    "Taitung": [
+        "風颱"
+    ],
+    "Lukang": [
+        "風颱"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "風颱"
+    ],
+    "Kinmen": [],
+    "Magong": [
+        "風颱"
+    ],
+    "Malaysia-MN": [
+        "風颱"
+    ],
+    "Singapore-MN": [
+        "風颱"
+    ],
+    "Philippine-MN": [
+        "風颱"
+    ],
+    "Medan": [],
+    "Pingnan": [
+        "颱風"
+    ],
+    "Chaozhou": [
+        "風颱"
+    ],
+    "Shantou": [
+        "風颱"
+    ],
+    "Haifeng": [
+        "風颱"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [
+        "風颱"
+    ],
+    "Haikou": [
+        "風颱"
+    ],
+    "Leizhou": [
+        "風颱"
+    ],
+    "Putian": [
+        "風颱"
+    ],
+    "Xianyou": [
+        "大風"
+    ],
+    "Fuzhou": [
+        "風颱"
+    ],
+    "Changle": [
+        "風颱"
+    ],
+    "Fuqing": [
+        "風颱",
+        "風災"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "風颱"
+    ],
+    "Gutian": [
+        "風颱"
+    ],
+    "Fu'an": [
+        "風颱"
+    ],
+    "Ningde": [
+        "風颱"
+    ],
+    "Shouning": [
+        "風颱",
+        "颱風"
+    ],
+    "Zhouning": [
+        "風颱"
+    ],
+    "Fuding": [
+        "風颱"
+    ],
+    "Matsu": [
+        "風颱"
+    ],
+    "Jian'ou": [
+        "風颱"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [
+        "颱風"
+    ],
+    "Wuyishan": [],
+    "Shibei": [
+        "颱風"
+    ],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

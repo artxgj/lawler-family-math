@@ -1,772 +1,518 @@
 {
     "meaning": "sewing machine",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "縫紉機"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "縫紉機",
-        "2": "機器"
-    },
-    "Taiwan": {
-        "1": "縫紉機",
-        "2": "裁縫車",
-        "3": "裁縫機",
-        "4": "縫衣機",
-        "5": "針車"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "機器針",
-        "2": "機器",
-        "3": "馬神針:dated",
-        "4": "馬神:dated",
-        "5": "洋針:dated"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "縫紉機",
-        "2": "機子"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "縫紉機子",
-        "2": "機子"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "縫紉機",
-        "2": "裁縫機"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "縫紉機"
-    },
-    "Xuzhou": {
-        "1": "縫紉機",
-        "2": "砸衣裳機子:dated",
-        "3": "砸衣服機子:dated"
-    },
-    "Yinchuan": {
-        "1": "縫紉機"
-    },
-    "Lanzhou": {
-        "1": "縫紉機"
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "縫紉機",
-        "2": "縫衣機",
-        "3": "機器"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "縫紉機",
-        "2": "機器"
-    },
-    "Guiyang": {
-        "1": "縫紉機車",
-        "2": "縫紉車",
-        "3": "縫紉機"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "衣車"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "洋機",
-        "2": "縫紉機"
-    },
-    "Nanjing": {
-        "1": "洋機"
-    },
-    "Hefei": {
-        "1": "縫紉機",
-        "2": "洋機子"
-    },
-    "Nantong": {
-        "1": "洋機"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "縫紉機",
-        "2": "裁縫機",
-        "3": "機子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "裁縫機子",
-        "2": "機子"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": "縫紉機"
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "縫紉機",
-        "2": "鐵車:dated",
-        "3": "洋機:dated"
-    },
-    "Suzhou": {
-        "1": "洋機",
-        "2": "縫紉機"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "縫紉機",
-        "2": "洋車:dated",
-        "3": "洋機:dated"
-    },
-    "Chongming": {
-        "1": "洋針車"
-    },
-    "Wenzhou": {
-        "1": "裁縫機",
-        "2": "鐵裁縫"
-    },
-    "Danyang": {
-        "1": "洋機"
-    },
-    "Jinhua": {
-        "1": "洋車",
-        "2": "縫紉機"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "鐵車",
-        "2": "洋車"
-    },
-    "Changsha": {
-        "1": "縫紉機",
-        "2": "機子"
-    },
-    "Shuangfeng": {
-        "1": "縫紉機",
-        "2": "機子"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "縫紉機",
-        "2": "機子"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "縫紉機"
-    },
-    "Lichuan": {
-        "1": "縫紉機"
-    },
-    "Pingxiang": {
-        "1": "縫紉機",
-        "2": "裁縫機子:dated",
-        "3": "機子:dated"
-    },
-    "Meixian": {
-        "1": "衣車"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "縫衣機"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": "縫衣機"
-    },
-    "Shangyou": {
-        "1": "車子"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "車仔",
-        "2": "米信"
-    },
-    "Liudui": {
-        "1": "米信"
-    },
-    "Hsinchu": {
-        "1": "車仔",
-        "2": "米信"
-    },
-    "Dongshi": {
-        "1": "米信"
-    },
-    "Raoping": {
-        "1": "米信"
-    },
-    "Yunlin": {
-        "1": "米信"
-    },
-    "Hong Kong-H": {
-        "1": "衣車"
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "做衫車",
-        "2": "車衫車"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "裁縫機器",
-        "2": "縫紉機"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "衣車"
-    },
-    "Hong Kong": {
-        "1": "衣車",
-        "2": "車衣機"
-    },
-    "HK Weitou": {
-        "1": "衣車"
-    },
-    "Kam Tin": {
-        "1": "衣車"
-    },
-    "Ting Kok": {
-        "1": "衣車"
-    },
-    "Tung Ping Chau": {
-        "1": "衣車"
-    },
-    "Macau": {
-        "1": "衣車"
-    },
-    "Panyu": {
-        "1": "衣車"
-    },
-    "Huadu": {
-        "1": "車衣機"
-    },
-    "Conghua": {
-        "1": "衣車"
-    },
-    "Zengcheng": {
-        "1": "衣車"
-    },
-    "Foshan": {
-        "1": "衣車"
-    },
-    "Nanhai": {
-        "1": "衣車"
-    },
-    "Shunde": {
-        "1": "衣車"
-    },
-    "Sanshui": {
-        "1": "衣車"
-    },
-    "Gaoming": {
-        "1": "衣車"
-    },
-    "Zhongshan": {
-        "1": "衣車"
-    },
-    "Zhuhai": {
-        "1": "衣車"
-    },
-    "Doumen-T": {
-        "1": "衣車"
-    },
-    "Doumen-S": {
-        "1": "衣車"
-    },
-    "Jiangmen": {
-        "1": "衣車"
-    },
-    "Xinhui": {
-        "1": "衣車"
-    },
-    "Taishan": {
-        "1": "衣車"
-    },
-    "Kaiping": {
-        "1": "衣車"
-    },
-    "Enping": {
-        "1": "衣車"
-    },
-    "Heshan": {
-        "1": "衣車"
-    },
-    "Dongguan": {
-        "1": "衣車"
-    },
-    "Bao'an": {
-        "1": "衣車"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": "衣車"
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "車衫車",
-        "2": "針車"
-    },
-    "Ho Chi Minh City": {
-        "1": "衣車",
-        "2": "車衫機"
-    },
-    "Nanning-P": {
-        "1": "衣車"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "針車",
-        "2": "車仔",
-        "3": "馬擎仔",
-        "4": "馬擎",
-        "5": "手車:dated"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "針車",
-        "2": "車仔",
-        "3": "馬擎"
-    },
-    "Jinjiang": {
-        "1": "針車",
-        "2": "馬擎"
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": "車仔",
-        "2": "馬擎"
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "針車仔",
-        "2": "針車",
-        "3": "車仔",
-        "4": "衫仔車仔",
-        "5": "衫仔車",
-        "6": "手車:dated"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "米信",
-        "2": "裁縫車仔"
-    },
-    "Kaohsiung": {
-        "1": "米信",
-        "2": "裁縫車"
-    },
-    "Tainan": {
-        "1": "米信",
-        "2": "裁縫車"
-    },
-    "Taichung": {
-        "1": "車衫車仔",
-        "2": "米信"
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": "裁縫車",
-        "2": "米信"
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": "米信",
-        "2": "針車"
-    },
-    "Sanxia": {
-        "1": "米信",
-        "2": "裁縫車"
-    },
-    "Yilan": {
-        "1": "米信"
-    },
-    "Kinmen": {
-        "1": "針車",
-        "2": "裁縫車"
-    },
-    "Magong": {
-        "1": "針車"
-    },
-    "Malaysia-MN": {
-        "1": "針車"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "衣車"
-    },
-    "Shantou": {
-        "1": "衣車",
-        "2": "紩衫車"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "紩衫機",
-        "2": "針車"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "衫褲車"
-    },
-    "Leizhou": {
-        "1": "衣車"
-    },
-    "Putian": {
-        "1": "針車",
-        "2": "針機"
-    },
-    "Xianyou": {
-        "1": "針車",
-        "2": "針機"
-    },
-    "Fuzhou": {
-        "1": "衣裳車"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "針工車"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "縫紉機"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "縫紉機",
+        "機器"
+    ],
+    "Taiwan": [
+        "縫紉機",
+        "裁縫車",
+        "裁縫機",
+        "縫衣機",
+        "針車"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "機器針",
+        "機器",
+        "馬神針:dated",
+        "馬神:dated",
+        "洋針:dated"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "縫紉機",
+        "機子"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [
+        "縫紉機子",
+        "機子"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "縫紉機",
+        "裁縫機"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "縫紉機"
+    ],
+    "Xuzhou": [
+        "縫紉機",
+        "砸衣裳機子:dated",
+        "砸衣服機子:dated"
+    ],
+    "Yinchuan": [
+        "縫紉機"
+    ],
+    "Lanzhou": [
+        "縫紉機"
+    ],
+    "Ürümqi": [],
+    "Wuhan": [
+        "縫紉機",
+        "縫衣機",
+        "機器"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "縫紉機",
+        "機器"
+    ],
+    "Guiyang": [
+        "縫紉機車",
+        "縫紉車",
+        "縫紉機"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "衣車"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "洋機",
+        "縫紉機"
+    ],
+    "Nanjing": [
+        "洋機"
+    ],
+    "Hefei": [
+        "縫紉機",
+        "洋機子"
+    ],
+    "Nantong": [
+        "洋機"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "縫紉機",
+        "裁縫機",
+        "機子"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "裁縫機子",
+        "機子"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [
+        "縫紉機"
+    ],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "縫紉機",
+        "鐵車:dated",
+        "洋機:dated"
+    ],
+    "Suzhou": [
+        "洋機",
+        "縫紉機"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "縫紉機",
+        "洋車:dated",
+        "洋機:dated"
+    ],
+    "Chongming": [
+        "洋針車"
+    ],
+    "Wenzhou": [
+        "裁縫機",
+        "鐵裁縫"
+    ],
+    "Danyang": [
+        "洋機"
+    ],
+    "Jinhua": [
+        "洋車",
+        "縫紉機"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "鐵車",
+        "洋車"
+    ],
+    "Changsha": [
+        "縫紉機",
+        "機子"
+    ],
+    "Shuangfeng": [
+        "縫紉機",
+        "機子"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "縫紉機",
+        "機子"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "縫紉機"
+    ],
+    "Lichuan": [
+        "縫紉機"
+    ],
+    "Pingxiang": [
+        "縫紉機",
+        "裁縫機子:dated",
+        "機子:dated"
+    ],
+    "Meixian": [
+        "衣車"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "縫衣機"
+    ],
+    "Ruijin": [],
+    "Shicheng": [
+        "縫衣機"
+    ],
+    "Shangyou": [
+        "車子"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "車仔",
+        "米信"
+    ],
+    "Liudui": [
+        "米信"
+    ],
+    "Hsinchu": [
+        "車仔",
+        "米信"
+    ],
+    "Dongshi": [
+        "米信"
+    ],
+    "Raoping": [
+        "米信"
+    ],
+    "Yunlin": [
+        "米信"
+    ],
+    "Hong Kong-H": [
+        "衣車"
+    ],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [
+        "做衫車",
+        "車衫車"
+    ],
+    "Singkawang": [],
+    "Jixi": [
+        "裁縫機器",
+        "縫紉機"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "衣車"
+    ],
+    "Hong Kong": [
+        "衣車",
+        "車衣機"
+    ],
+    "HK Weitou": [
+        "衣車"
+    ],
+    "Kam Tin": [
+        "衣車"
+    ],
+    "Ting Kok": [
+        "衣車"
+    ],
+    "Tung Ping Chau": [
+        "衣車"
+    ],
+    "Macau": [
+        "衣車"
+    ],
+    "Panyu": [
+        "衣車"
+    ],
+    "Huadu": [
+        "車衣機"
+    ],
+    "Conghua": [
+        "衣車"
+    ],
+    "Zengcheng": [
+        "衣車"
+    ],
+    "Foshan": [
+        "衣車"
+    ],
+    "Nanhai": [
+        "衣車"
+    ],
+    "Shunde": [
+        "衣車"
+    ],
+    "Sanshui": [
+        "衣車"
+    ],
+    "Gaoming": [
+        "衣車"
+    ],
+    "Zhongshan": [
+        "衣車"
+    ],
+    "Zhuhai": [
+        "衣車"
+    ],
+    "Doumen-T": [
+        "衣車"
+    ],
+    "Doumen-S": [
+        "衣車"
+    ],
+    "Jiangmen": [
+        "衣車"
+    ],
+    "Xinhui": [
+        "衣車"
+    ],
+    "Taishan": [
+        "衣車"
+    ],
+    "Kaiping": [
+        "衣車"
+    ],
+    "Enping": [
+        "衣車"
+    ],
+    "Heshan": [
+        "衣車"
+    ],
+    "Dongguan": [
+        "衣車"
+    ],
+    "Bao'an": [
+        "衣車"
+    ],
+    "Dapeng": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [
+        "衣車"
+    ],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "車衫車",
+        "針車"
+    ],
+    "Ho Chi Minh City": [
+        "衣車",
+        "車衫機"
+    ],
+    "Nanning-P": [
+        "衣車"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "針車",
+        "車仔",
+        "馬擎仔",
+        "馬擎",
+        "手車:dated"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "針車",
+        "車仔",
+        "馬擎"
+    ],
+    "Jinjiang": [
+        "針車",
+        "馬擎"
+    ],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [
+        "車仔",
+        "馬擎"
+    ],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "針車仔",
+        "針車",
+        "車仔",
+        "衫仔車仔",
+        "衫仔車",
+        "手車:dated"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "米信",
+        "裁縫車仔"
+    ],
+    "Kaohsiung": [
+        "米信",
+        "裁縫車"
+    ],
+    "Tainan": [
+        "米信",
+        "裁縫車"
+    ],
+    "Taichung": [
+        "車衫車仔",
+        "米信"
+    ],
+    "Wuqi": [],
+    "Hsinchu-MN": [
+        "裁縫車",
+        "米信"
+    ],
+    "Taitung": [],
+    "Lukang": [
+        "米信",
+        "針車"
+    ],
+    "Sanxia": [
+        "米信",
+        "裁縫車"
+    ],
+    "Yilan": [
+        "米信"
+    ],
+    "Kinmen": [
+        "針車",
+        "裁縫車"
+    ],
+    "Magong": [
+        "針車"
+    ],
+    "Malaysia-MN": [
+        "針車"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "衣車"
+    ],
+    "Shantou": [
+        "衣車",
+        "紩衫車"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "紩衫機",
+        "針車"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "衫褲車"
+    ],
+    "Leizhou": [
+        "衣車"
+    ],
+    "Putian": [
+        "針車",
+        "針機"
+    ],
+    "Xianyou": [
+        "針車",
+        "針機"
+    ],
+    "Fuzhou": [
+        "衣裳車"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "針工車"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

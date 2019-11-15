@@ -1,454 +1,366 @@
 {
     "meaning": "substance in eyes after waking",
     "note": "",
-    "Classical": {
-        "1": "眵"
-    },
-    "Formal": {
-        "1": "眼眵"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "眵目糊"
-    },
-    "Taiwan": {
-        "1": "眼屎"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "眵目糊兒"
-    },
-    "Shenyang": {
-        "1": "眵目糊"
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": "眵目糊"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "眵目糊",
-        "2": "眼眵"
-    },
-    "Muping": {
-        "1": "眵",
-        "2": "眼眵"
-    },
-    "Luoyang": {
-        "1": "眵麻糊"
-    },
-    "Wanrong": {
-        "1": "眵頭"
-    },
-    "Xi'an": {
-        "1": "眼角屎"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "眼角屎"
-    },
-    "Xuzhou": {
-        "1": "眵目糊",
-        "2": "眼屎"
-    },
-    "Yinchuan": {
-        "1": "眼屎"
-    },
-    "Lanzhou": {
-        "1": "眼屎"
-    },
-    "Ürümqi": {
-        "1": "眼屎"
-    },
-    "Wuhan": {
-        "1": "眼屎",
-        "2": "眼㞎㞎"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "眼屎"
-    },
-    "Guiyang": {
-        "1": "眼屎"
-    },
-    "Guilin": {
-        "1": "眼屎"
-    },
-    "Liuzhou": {
-        "1": "眼屎"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "眼屎"
-    },
-    "Nanjing": {
-        "1": "眼屎"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "眼眵",
-        "2": "眼屎"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "眵麻糊"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "眵糊"
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "眼眵"
-    },
-    "Hangzhou": {
-        "1": "眼眵污"
-    },
-    "Shanghai": {
-        "1": "眼眵",
-        "2": "眼污"
-    },
-    "Chongming": {
-        "1": "眼眵"
-    },
-    "Wenzhou": {
-        "1": "眼汪"
-    },
-    "Danyang": {
-        "1": "眼眵",
-        "2": "眼睛屎"
-    },
-    "Jinhua": {
-        "1": "眼淚涴",
-        "2": "眼粒涴"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "眼屙"
-    },
-    "Changsha": {
-        "1": "眼屎"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "眼屎"
-    },
-    "Quanzhou-X": {
-        "1": "眼屎",
-        "2": "眼裡屎"
-    },
-    "Nanchang": {
-        "1": "眼屎"
-    },
-    "Lichuan": {
-        "1": "眼屎"
-    },
-    "Pingxiang": {
-        "1": "眼屎"
-    },
-    "Meixian": {
-        "1": "目屎"
-    },
-    "Xingning": {
-        "1": "眼屎"
-    },
-    "Huidong": {
-        "1": "眼屎"
-    },
-    "Qujiang": {
-        "1": "眼屎"
-    },
-    "Xiaosanjiang": {
-        "1": "眼屎"
-    },
-    "Luchuan": {
-        "1": "眼屎"
-    },
-    "Changting": {
-        "1": "目屎"
-    },
-    "Pingyu": {
-        "1": "眼屎"
-    },
-    "Wuping": {
-        "1": "目屎"
-    },
-    "Liancheng": {
-        "1": "目屎"
-    },
-    "Ninghua": {
-        "1": "眼屎"
-    },
-    "Yudu": {
-        "1": "眼屎"
-    },
-    "Ruijin": {
-        "1": "眼屎"
-    },
-    "Shicheng": {
-        "1": "眼屎"
-    },
-    "Shangyou": {
-        "1": "眼屎"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "目屎"
-    },
-    "Liudui": {
-        "1": "目屎"
-    },
-    "Hsinchu": {
-        "1": "目屎"
-    },
-    "Dongshi": {
-        "1": "目屎"
-    },
-    "Raoping": {
-        "1": "目屎"
-    },
-    "Yunlin": {
-        "1": "目屎"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": "眼屎"
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": "目屎"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "眼睛屎"
-    },
-    "Guangzhou": {
-        "1": "眼屎"
-    },
-    "Hong Kong": {
-        "1": "眼屎"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": "眼屎"
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "眼屎"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "眼屎"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": "眼屎"
-    },
-    "Wuzhou": {
-        "1": "眼屎"
-    },
-    "Yulin": {
-        "1": "眼屎"
-    },
-    "Hepu": {
-        "1": "眼屎"
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "眼屎"
-    },
-    "Guilin-P": {
-        "1": "眼屎"
-    },
-    "Xiamen": {
-        "1": "目屎膏"
-    },
-    "Quanzhou": {
-        "1": "目屎膏"
-    },
-    "Zhangzhou": {
-        "1": "目屎膏",
-        "2": "目滓膏",
-        "3": "目屎"
-    },
-    "Taipei": {
-        "1": "目屎膏"
-    },
-    "Kaohsiung": {
-        "1": "目屎膏"
-    },
-    "Tainan": {
-        "1": "目屎膏"
-    },
-    "Taichung": {
-        "1": "目屎膏"
-    },
-    "Yilan": {
-        "1": "目屎膏"
-    },
-    "Lukang": {
-        "1": "目屎膏"
-    },
-    "Sanxia": {
-        "1": "目屎膏"
-    },
-    "Kinmen": {
-        "1": "目屎膏"
-    },
-    "Magong": {
-        "1": "目屎膏"
-    },
-    "Hsinchu-MN": {
-        "1": "目屎膏"
-    },
-    "Malaysia-MN": {
-        "1": "目屎膏",
-        "2": "目屎"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": "目屎"
-    },
-    "Pingnan": {
-        "1": "眼屎"
-    },
-    "Chaozhou": {
-        "1": "目屎"
-    },
-    "Shantou": {
-        "1": "目屎"
-    },
-    "Haifeng": {
-        "1": "目屎"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "目屎"
-    },
-    "Leizhou": {
-        "1": "目屎"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": "目屎"
-    },
-    "Fuzhou": {
-        "1": "目屎"
-    },
-    "Fuqing": {
-        "1": "目屎"
-    },
-    "Matsu": {
-        "1": "目淚"
-    },
-    "Jian'ou": {
-        "1": "目睭屎"
-    }
+    "Classical": [
+        "眵"
+    ],
+    "Formal": [
+        "眼眵"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "眵目糊"
+    ],
+    "Taiwan": [
+        "眼屎"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "眵目糊兒"
+    ],
+    "Shenyang": [
+        "眵目糊"
+    ],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [
+        "眵目糊"
+    ],
+    "Baochang": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "眵目糊",
+        "眼眵"
+    ],
+    "Muping": [
+        "眵",
+        "眼眵"
+    ],
+    "Luoyang": [
+        "眵麻糊"
+    ],
+    "Wanrong": [
+        "眵頭"
+    ],
+    "Xi'an": [
+        "眼角屎"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "眼角屎"
+    ],
+    "Xuzhou": [
+        "眵目糊",
+        "眼屎"
+    ],
+    "Yinchuan": [
+        "眼屎"
+    ],
+    "Lanzhou": [
+        "眼屎"
+    ],
+    "Ürümqi": [
+        "眼屎"
+    ],
+    "Wuhan": [
+        "眼屎",
+        "眼㞎㞎"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "眼屎"
+    ],
+    "Guiyang": [
+        "眼屎"
+    ],
+    "Guilin": [
+        "眼屎"
+    ],
+    "Liuzhou": [
+        "眼屎"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "眼屎"
+    ],
+    "Nanjing": [
+        "眼屎"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "眼眵",
+        "眼屎"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "眵麻糊"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "眵糊"
+    ],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Suzhou": [
+        "眼眵"
+    ],
+    "Hangzhou": [
+        "眼眵污"
+    ],
+    "Shanghai": [
+        "眼眵",
+        "眼污"
+    ],
+    "Chongming": [
+        "眼眵"
+    ],
+    "Wenzhou": [
+        "眼汪"
+    ],
+    "Danyang": [
+        "眼眵",
+        "眼睛屎"
+    ],
+    "Jinhua": [
+        "眼淚涴",
+        "眼粒涴"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "眼屙"
+    ],
+    "Changsha": [
+        "眼屎"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "眼屎"
+    ],
+    "Quanzhou-X": [
+        "眼屎",
+        "眼裡屎"
+    ],
+    "Nanchang": [
+        "眼屎"
+    ],
+    "Lichuan": [
+        "眼屎"
+    ],
+    "Pingxiang": [
+        "眼屎"
+    ],
+    "Meixian": [
+        "目屎"
+    ],
+    "Xingning": [
+        "眼屎"
+    ],
+    "Huidong": [
+        "眼屎"
+    ],
+    "Qujiang": [
+        "眼屎"
+    ],
+    "Xiaosanjiang": [
+        "眼屎"
+    ],
+    "Luchuan": [
+        "眼屎"
+    ],
+    "Changting": [
+        "目屎"
+    ],
+    "Pingyu": [
+        "眼屎"
+    ],
+    "Wuping": [
+        "目屎"
+    ],
+    "Liancheng": [
+        "目屎"
+    ],
+    "Ninghua": [
+        "眼屎"
+    ],
+    "Yudu": [
+        "眼屎"
+    ],
+    "Ruijin": [
+        "眼屎"
+    ],
+    "Shicheng": [
+        "眼屎"
+    ],
+    "Shangyou": [
+        "眼屎"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "目屎"
+    ],
+    "Liudui": [
+        "目屎"
+    ],
+    "Hsinchu": [
+        "目屎"
+    ],
+    "Dongshi": [
+        "目屎"
+    ],
+    "Raoping": [
+        "目屎"
+    ],
+    "Yunlin": [
+        "目屎"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [
+        "眼屎"
+    ],
+    "Senai": [],
+    "Singkawang": [
+        "目屎"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "眼睛屎"
+    ],
+    "Guangzhou": [
+        "眼屎"
+    ],
+    "Hong Kong": [
+        "眼屎"
+    ],
+    "Shunde": [],
+    "Foshan": [
+        "眼屎"
+    ],
+    "Zhongshan": [],
+    "Dongguan": [
+        "眼屎"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "眼屎"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [
+        "眼屎"
+    ],
+    "Wuzhou": [
+        "眼屎"
+    ],
+    "Yulin": [
+        "眼屎"
+    ],
+    "Hepu": [
+        "眼屎"
+    ],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "眼屎"
+    ],
+    "Guilin-P": [
+        "眼屎"
+    ],
+    "Xiamen": [
+        "目屎膏"
+    ],
+    "Quanzhou": [
+        "目屎膏"
+    ],
+    "Zhangzhou": [
+        "目屎膏",
+        "目滓膏",
+        "目屎"
+    ],
+    "Taipei": [
+        "目屎膏"
+    ],
+    "Kaohsiung": [
+        "目屎膏"
+    ],
+    "Tainan": [
+        "目屎膏"
+    ],
+    "Taichung": [
+        "目屎膏"
+    ],
+    "Yilan": [
+        "目屎膏"
+    ],
+    "Lukang": [
+        "目屎膏"
+    ],
+    "Sanxia": [
+        "目屎膏"
+    ],
+    "Kinmen": [
+        "目屎膏"
+    ],
+    "Magong": [
+        "目屎膏"
+    ],
+    "Hsinchu-MN": [
+        "目屎膏"
+    ],
+    "Malaysia-MN": [
+        "目屎膏",
+        "目屎"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [
+        "目屎"
+    ],
+    "Pingnan": [
+        "眼屎"
+    ],
+    "Chaozhou": [
+        "目屎"
+    ],
+    "Shantou": [
+        "目屎"
+    ],
+    "Haifeng": [
+        "目屎"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [
+        "目屎"
+    ],
+    "Leizhou": [
+        "目屎"
+    ],
+    "Putian": [],
+    "Xianyou": [
+        "目屎"
+    ],
+    "Fuzhou": [
+        "目屎"
+    ],
+    "Fuqing": [
+        "目屎"
+    ],
+    "Matsu": [
+        "目淚"
+    ],
+    "Jian'ou": [
+        "目睭屎"
+    ]
 }

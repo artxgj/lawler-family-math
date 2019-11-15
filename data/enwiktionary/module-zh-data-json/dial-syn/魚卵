@@ -1,871 +1,487 @@
 {
     "meaning": "fish roe",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": "魚卵",
-        "2": "魚子"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "魚子"
-    },
-    "Taiwan": {
-        "1": "魚子",
-        "2": "魚卵"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "魚子"
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": ""
-    },
-    "Ulan Hot": {
-        "1": ""
-    },
-    "Tongliao": {
-        "1": ""
-    },
-    "Chifeng": {
-        "1": ""
-    },
-    "Bayanhot": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "魚子"
-    },
-    "Muping": {
-        "1": "魚子"
-    },
-    "Luoyang": {
-        "1": "魚子兒"
-    },
-    "Wanrong": {
-        "1": ""
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "魚子兒"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": "魚子"
-    },
-    "Xuzhou": {
-        "1": "魚子"
-    },
-    "Yinchuan": {
-        "1": "魚子"
-    },
-    "Lanzhou": {
-        "1": "魚子兒"
-    },
-    "Ürümqi": {
-        "1": "魚子"
-    },
-    "Wuhan": {
-        "1": "魚子"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "魚蛋",
-        "2": "魚子"
-    },
-    "Guiyang": {
-        "1": "魚子"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "魚蛋"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "魚子"
-    },
-    "Nanjing": {
-        "1": "魚子"
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "魚子"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Gansu-DG": {
-        "1": ""
-    },
-    "Shaanxi-DG": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "魚子"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "魚兒子兒"
-    },
-    "Baochang": {
-        "1": ""
-    },
-    "Jining": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Baotou": {
-        "1": ""
-    },
-    "Dongsheng": {
-        "1": ""
-    },
-    "Linhe": {
-        "1": ""
-    },
-    "Haibowan": {
-        "1": ""
-    },
-    "Shanghai": {
-        "1": "魚子"
-    },
-    "Suzhou": {
-        "1": "魚子"
-    },
-    "Wuxi": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "魚子"
-    },
-    "Chongming": {
-        "1": "魚子"
-    },
-    "Wenzhou": {
-        "1": "魚子"
-    },
-    "Danyang": {
-        "1": "魚子"
-    },
-    "Jinhua": {
-        "1": "魚子"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "魚子"
-    },
-    "Changsha": {
-        "1": "魚子"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "魚子"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "魚子"
-    },
-    "Lichuan": {
-        "1": "魚子"
-    },
-    "Pingxiang": {
-        "1": "魚子"
-    },
-    "Meixian": {
-        "1": "魚卵"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huizhou": {
-        "1": "魚春"
-    },
-    "Huizhou-SK": {
-        "1": ""
-    },
-    "Huizhou-HL": {
-        "1": ""
-    },
-    "Huiyang": {
-        "1": ""
-    },
-    "Huidong-PS": {
-        "1": ""
-    },
-    "Huidong-DL": {
-        "1": ""
-    },
-    "Dongguan-H": {
-        "1": "魚春"
-    },
-    "Longmen-PL": {
-        "1": ""
-    },
-    "Longmen-LX": {
-        "1": ""
-    },
-    "Boluo": {
-        "1": ""
-    },
-    "Shenzhen-H": {
-        "1": "魚春"
-    },
-    "Zengcheng-ZG": {
-        "1": ""
-    },
-    "Zhongshan-WGS": {
-        "1": ""
-    },
-    "Zhongshan-NLHS": {
-        "1": "魚春"
-    },
-    "Wuhua-SZ": {
-        "1": ""
-    },
-    "Wuhua-HC": {
-        "1": ""
-    },
-    "Wuhua-CB": {
-        "1": ""
-    },
-    "Wuhua-MY": {
-        "1": ""
-    },
-    "Heyuan": {
-        "1": ""
-    },
-    "Zijin-GZ": {
-        "1": ""
-    },
-    "Longchuan-TC": {
-        "1": ""
-    },
-    "Longchuan-SD": {
-        "1": ""
-    },
-    "Heping-LZ": {
-        "1": ""
-    },
-    "Lianping-ZX": {
-        "1": ""
-    },
-    "Lianping-LJ": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xinfeng-MT": {
-        "1": ""
-    },
-    "Xinfeng-DX": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Liannan": {
-        "1": ""
-    },
-    "Conghua-H": {
-        "1": "魚春"
-    },
-    "Jiexi": {
-        "1": ""
-    },
-    "Luchuan-LC": {
-        "1": ""
-    },
-    "Luchuan-DQ": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "魚春"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "魚卵"
-    },
-    "Liudui": {
-        "1": "魚卵"
-    },
-    "Hsinchu": {
-        "1": "魚卵"
-    },
-    "Dongshi": {
-        "1": "魚卵"
-    },
-    "Raoping": {
-        "1": "魚卵"
-    },
-    "Yunlin": {
-        "1": "魚卵"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah-B": {
-        "1": ""
-    },
-    "Sabah-L": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "魚子"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Xiuning": {
-        "1": ""
-    },
-    "Yixian": {
-        "1": ""
-    },
-    "Qimen": {
-        "1": ""
-    },
-    "Wuyuan": {
-        "1": ""
-    },
-    "Fuliang": {
-        "1": ""
-    },
-    "Dexing": {
-        "1": ""
-    },
-    "Jingde": {
-        "1": ""
-    },
-    "Zhanda": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "魚春"
-    },
-    "Hong Kong": {
-        "1": "魚春",
-        "2": "魚子"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Kam Tin": {
-        "1": "魚春"
-    },
-    "Ting Kok": {
-        "1": "魚春"
-    },
-    "Tung Ping Chau": {
-        "1": "魚春"
-    },
-    "Macau": {
-        "1": "魚春"
-    },
-    "Panyu": {
-        "1": "魚春"
-    },
-    "Huadu": {
-        "1": "魚蛋"
-    },
-    "Conghua": {
-        "1": ""
-    },
-    "Zengcheng": {
-        "1": "魚春"
-    },
-    "Foshan": {
-        "1": "魚春"
-    },
-    "Nanhai": {
-        "1": "魚春"
-    },
-    "Shunde": {
-        "1": "魚春"
-    },
-    "Sanshui": {
-        "1": "魚春"
-    },
-    "Gaoming": {
-        "1": "魚春"
-    },
-    "Zhongshan": {
-        "1": "魚春"
-    },
-    "Zhuhai": {
-        "1": "魚春"
-    },
-    "Doumen-T": {
-        "1": "魚春"
-    },
-    "Doumen-S": {
-        "1": "魚蛋"
-    },
-    "Jiangmen": {
-        "1": "魚子"
-    },
-    "Xinhui": {
-        "1": "魚蛋"
-    },
-    "Taishan": {
-        "1": "魚蛋"
-    },
-    "Kaiping": {
-        "1": "魚蛋"
-    },
-    "Enping": {
-        "1": "魚蛋"
-    },
-    "Heshan": {
-        "1": "魚蛋"
-    },
-    "Dongguan": {
-        "1": "魚春"
-    },
-    "Bao'an": {
-        "1": "魚春"
-    },
-    "Dapeng": {
-        "1": ""
-    },
-    "Qingyuan": {
-        "1": ""
-    },
-    "Fogang": {
-        "1": ""
-    },
-    "Yingde": {
-        "1": ""
-    },
-    "Yangshan": {
-        "1": ""
-    },
-    "Lianshan": {
-        "1": ""
-    },
-    "Lianzhou": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Qujiang-C": {
-        "1": ""
-    },
-    "Renhua": {
-        "1": ""
-    },
-    "Lechang": {
-        "1": ""
-    },
-    "Gaoyao": {
-        "1": ""
-    },
-    "Sihui": {
-        "1": ""
-    },
-    "Guangning": {
-        "1": ""
-    },
-    "Deqing": {
-        "1": ""
-    },
-    "Huaiji": {
-        "1": ""
-    },
-    "Fengkai": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Xinxing": {
-        "1": ""
-    },
-    "Luoding": {
-        "1": ""
-    },
-    "Yunan": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Zhanjiang": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Wuchuan": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "魚春",
-        "2": "魚蛋"
-    },
-    "Ho Chi Minh City": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "魚蛋"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "魚卵",
-        "2": "魚子"
-    },
-    "Tong'an": {
-        "1": ""
-    },
-    "Quanzhou": {
-        "1": "魚卵",
-        "2": "魚子"
-    },
-    "Jinjiang": {
-        "1": ""
-    },
-    "Nan'an": {
-        "1": ""
-    },
-    "Shishi": {
-        "1": ""
-    },
-    "Hui'an": {
-        "1": ""
-    },
-    "Anxi": {
-        "1": ""
-    },
-    "Yongchun": {
-        "1": ""
-    },
-    "Dehua": {
-        "1": ""
-    },
-    "Zhangzhou": {
-        "1": "魚卵",
-        "2": "魚子"
-    },
-    "Longhai": {
-        "1": ""
-    },
-    "Changtai": {
-        "1": ""
-    },
-    "Hua'an": {
-        "1": ""
-    },
-    "Nanjing-MN": {
-        "1": ""
-    },
-    "Pinghe": {
-        "1": ""
-    },
-    "Zhangpu": {
-        "1": ""
-    },
-    "Yunxiao": {
-        "1": ""
-    },
-    "Zhao'an": {
-        "1": ""
-    },
-    "Dongshan": {
-        "1": ""
-    },
-    "Taipei": {
-        "1": "魚子"
-    },
-    "Kaohsiung": {
-        "1": "魚子"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "魚卵"
-    },
-    "Singapore-MN": {
-        "1": "魚卵",
-        "2": "魚子"
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Longyan": {
-        "1": ""
-    },
-    "Zhangping": {
-        "1": ""
-    },
-    "Yongfu": {
-        "1": ""
-    },
-    "Datian": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": "魚春"
-    },
-    "Haifeng": {
-        "1": "魚春"
-    },
-    "Thailand-MN-T": {
-        "1": "魚卵"
-    },
-    "Johor Bahru": {
-        "1": "魚卵"
-    },
-    "Wenchang": {
-        "1": "魚卵"
-    },
-    "Haikou": {
-        "1": "魚卵"
-    },
-    "Leizhou": {
-        "1": "魚卵"
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Shaxi": {
-        "1": "魚春"
-    },
-    "Sanxiang": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": "魚子"
-    },
-    "Changle": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": ""
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": ""
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "魚卵"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    },
-    "Fu'an-She": {
-        "1": ""
-    },
-    "Fuding-She": {
-        "1": ""
-    },
-    "Luoyuan-She": {
-        "1": ""
-    },
-    "Sanming-She": {
-        "1": ""
-    },
-    "Shunchang-She": {
-        "1": ""
-    },
-    "Hua'an-She": {
-        "1": ""
-    },
-    "Guixi-She": {
-        "1": ""
-    },
-    "Cangnan-She": {
-        "1": ""
-    },
-    "Jingning-She": {
-        "1": ""
-    },
-    "Lishui-She": {
-        "1": ""
-    },
-    "Longyou-She": {
-        "1": ""
-    },
-    "Chaozhou-She": {
-        "1": ""
-    },
-    "Fengshun-She": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [
+        "魚卵",
+        "魚子"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "魚子"
+    ],
+    "Taiwan": [
+        "魚子",
+        "魚卵"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "魚子"
+    ],
+    "Shenyang": [],
+    "Hailar": [],
+    "Ulan Hot": [],
+    "Tongliao": [],
+    "Chifeng": [],
+    "Bayanhot": [],
+    "Jinan": [
+        "魚子"
+    ],
+    "Muping": [
+        "魚子"
+    ],
+    "Luoyang": [
+        "魚子兒"
+    ],
+    "Wanrong": [],
+    "Ronghe": [],
+    "Xi'an": [
+        "魚子兒"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [
+        "魚子"
+    ],
+    "Xuzhou": [
+        "魚子"
+    ],
+    "Yinchuan": [
+        "魚子"
+    ],
+    "Lanzhou": [
+        "魚子兒"
+    ],
+    "Ürümqi": [
+        "魚子"
+    ],
+    "Wuhan": [
+        "魚子"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "魚蛋",
+        "魚子"
+    ],
+    "Guiyang": [
+        "魚子"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "魚蛋"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "魚子"
+    ],
+    "Nanjing": [
+        "魚子"
+    ],
+    "Hefei": [],
+    "Nantong": [
+        "魚子"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Gansu-DG": [],
+    "Shaanxi-DG": [],
+    "Taiyuan": [
+        "魚子"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "魚兒子兒"
+    ],
+    "Baochang": [],
+    "Jining": [],
+    "Hohhot": [],
+    "Baotou": [],
+    "Dongsheng": [],
+    "Linhe": [],
+    "Haibowan": [],
+    "Shanghai": [
+        "魚子"
+    ],
+    "Suzhou": [
+        "魚子"
+    ],
+    "Wuxi": [],
+    "Hangzhou": [
+        "魚子"
+    ],
+    "Chongming": [
+        "魚子"
+    ],
+    "Wenzhou": [
+        "魚子"
+    ],
+    "Danyang": [
+        "魚子"
+    ],
+    "Jinhua": [
+        "魚子"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "魚子"
+    ],
+    "Changsha": [
+        "魚子"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "魚子"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "魚子"
+    ],
+    "Lichuan": [
+        "魚子"
+    ],
+    "Pingxiang": [
+        "魚子"
+    ],
+    "Meixian": [
+        "魚卵"
+    ],
+    "Xingning": [],
+    "Huizhou": [
+        "魚春"
+    ],
+    "Huizhou-SK": [],
+    "Huizhou-HL": [],
+    "Huiyang": [],
+    "Huidong-PS": [],
+    "Huidong-DL": [],
+    "Dongguan-H": [
+        "魚春"
+    ],
+    "Longmen-PL": [],
+    "Longmen-LX": [],
+    "Boluo": [],
+    "Shenzhen-H": [
+        "魚春"
+    ],
+    "Zengcheng-ZG": [],
+    "Zhongshan-WGS": [],
+    "Zhongshan-NLHS": [
+        "魚春"
+    ],
+    "Wuhua-SZ": [],
+    "Wuhua-HC": [],
+    "Wuhua-CB": [],
+    "Wuhua-MY": [],
+    "Heyuan": [],
+    "Zijin-GZ": [],
+    "Longchuan-TC": [],
+    "Longchuan-SD": [],
+    "Heping-LZ": [],
+    "Lianping-ZX": [],
+    "Lianping-LJ": [],
+    "Qujiang": [],
+    "Xinfeng-MT": [],
+    "Xinfeng-DX": [],
+    "Xiaosanjiang": [],
+    "Liannan": [],
+    "Conghua-H": [
+        "魚春"
+    ],
+    "Jiexi": [],
+    "Luchuan-LC": [],
+    "Luchuan-DQ": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "魚春"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "魚卵"
+    ],
+    "Liudui": [
+        "魚卵"
+    ],
+    "Hsinchu": [
+        "魚卵"
+    ],
+    "Dongshi": [
+        "魚卵"
+    ],
+    "Raoping": [
+        "魚卵"
+    ],
+    "Yunlin": [
+        "魚卵"
+    ],
+    "Hong Kong-H": [],
+    "Sabah-B": [],
+    "Sabah-L": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Jixi": [
+        "魚子"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Xiuning": [],
+    "Yixian": [],
+    "Qimen": [],
+    "Wuyuan": [],
+    "Fuliang": [],
+    "Dexing": [],
+    "Jingde": [],
+    "Zhanda": [],
+    "Guangzhou": [
+        "魚春"
+    ],
+    "Hong Kong": [
+        "魚春",
+        "魚子"
+    ],
+    "HK Weitou": [],
+    "Kam Tin": [
+        "魚春"
+    ],
+    "Ting Kok": [
+        "魚春"
+    ],
+    "Tung Ping Chau": [
+        "魚春"
+    ],
+    "Macau": [
+        "魚春"
+    ],
+    "Panyu": [
+        "魚春"
+    ],
+    "Huadu": [
+        "魚蛋"
+    ],
+    "Conghua": [],
+    "Zengcheng": [
+        "魚春"
+    ],
+    "Foshan": [
+        "魚春"
+    ],
+    "Nanhai": [
+        "魚春"
+    ],
+    "Shunde": [
+        "魚春"
+    ],
+    "Sanshui": [
+        "魚春"
+    ],
+    "Gaoming": [
+        "魚春"
+    ],
+    "Zhongshan": [
+        "魚春"
+    ],
+    "Zhuhai": [
+        "魚春"
+    ],
+    "Doumen-T": [
+        "魚春"
+    ],
+    "Doumen-S": [
+        "魚蛋"
+    ],
+    "Jiangmen": [
+        "魚子"
+    ],
+    "Xinhui": [
+        "魚蛋"
+    ],
+    "Taishan": [
+        "魚蛋"
+    ],
+    "Kaiping": [
+        "魚蛋"
+    ],
+    "Enping": [
+        "魚蛋"
+    ],
+    "Heshan": [
+        "魚蛋"
+    ],
+    "Dongguan": [
+        "魚春"
+    ],
+    "Bao'an": [
+        "魚春"
+    ],
+    "Dapeng": [],
+    "Qingyuan": [],
+    "Fogang": [],
+    "Yingde": [],
+    "Yangshan": [],
+    "Lianshan": [],
+    "Lianzhou": [],
+    "Shaoguan": [],
+    "Qujiang-C": [],
+    "Renhua": [],
+    "Lechang": [],
+    "Gaoyao": [],
+    "Sihui": [],
+    "Guangning": [],
+    "Deqing": [],
+    "Huaiji": [],
+    "Fengkai": [],
+    "Yunfu": [],
+    "Xinxing": [],
+    "Luoding": [],
+    "Yunan": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Zhanjiang": [],
+    "Lianjiang": [],
+    "Wuchuan": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "魚春",
+        "魚蛋"
+    ],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [
+        "魚蛋"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "魚卵",
+        "魚子"
+    ],
+    "Tong'an": [],
+    "Quanzhou": [
+        "魚卵",
+        "魚子"
+    ],
+    "Jinjiang": [],
+    "Nan'an": [],
+    "Shishi": [],
+    "Hui'an": [],
+    "Anxi": [],
+    "Yongchun": [],
+    "Dehua": [],
+    "Zhangzhou": [
+        "魚卵",
+        "魚子"
+    ],
+    "Longhai": [],
+    "Changtai": [],
+    "Hua'an": [],
+    "Nanjing-MN": [],
+    "Pinghe": [],
+    "Zhangpu": [],
+    "Yunxiao": [],
+    "Zhao'an": [],
+    "Dongshan": [],
+    "Taipei": [
+        "魚子"
+    ],
+    "Kaohsiung": [
+        "魚子"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "魚卵"
+    ],
+    "Singapore-MN": [
+        "魚卵",
+        "魚子"
+    ],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Longyan": [],
+    "Zhangping": [],
+    "Yongfu": [],
+    "Datian": [],
+    "Pingnan": [],
+    "Chaozhou": [],
+    "Shantou": [
+        "魚春"
+    ],
+    "Haifeng": [
+        "魚春"
+    ],
+    "Thailand-MN-T": [
+        "魚卵"
+    ],
+    "Johor Bahru": [
+        "魚卵"
+    ],
+    "Wenchang": [
+        "魚卵"
+    ],
+    "Haikou": [
+        "魚卵"
+    ],
+    "Leizhou": [
+        "魚卵"
+    ],
+    "Putian": [],
+    "Xianyou": [],
+    "Shaxi": [
+        "魚春"
+    ],
+    "Sanxiang": [],
+    "Fuzhou": [
+        "魚子"
+    ],
+    "Changle": [],
+    "Fuqing": [],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [],
+    "Fu'an": [],
+    "Ningde": [],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "魚卵"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": [],
+    "Fu'an-She": [],
+    "Fuding-She": [],
+    "Luoyuan-She": [],
+    "Sanming-She": [],
+    "Shunchang-She": [],
+    "Hua'an-She": [],
+    "Guixi-She": [],
+    "Cangnan-She": [],
+    "Jingning-She": [],
+    "Lishui-She": [],
+    "Longyou-She": [],
+    "Chaozhou-She": [],
+    "Fengshun-She": []
 }

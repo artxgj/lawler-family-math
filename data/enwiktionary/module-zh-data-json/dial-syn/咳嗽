@@ -1,539 +1,409 @@
 {
     "meaning": "to cough",
     "note": "",
-    "Classical": {
-        "1": "嗽",
-        "2": "欬"
-    },
-    "Formal": {
-        "1": "咳嗽"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "咳嗽"
-    },
-    "Taiwan": {
-        "1": "咳嗽"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "咳嗽"
-    },
-    "Shenyang": {
-        "1": "咳嗽"
-    },
-    "Hailar": {
-        "1": "咳嗽"
-    },
-    "Ulan Hot": {
-        "1": "咳嗽"
-    },
-    "Tongliao": {
-        "1": "咳嗽"
-    },
-    "Chifeng": {
-        "1": "咳嗽"
-    },
-    "Bayanhot": {
-        "1": "咳嗽"
-    },
-    "Jinan": {
-        "1": "咳嗽"
-    },
-    "Muping": {
-        "1": "咳嗽"
-    },
-    "Luoyang": {
-        "1": "咳嗽"
-    },
-    "Wanrong": {
-        "1": "咳嗽"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "咳嗽"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "咳嗽"
-    },
-    "Xining": {
-        "1": "咳嗽"
-    },
-    "Xuzhou": {
-        "1": "咳嗽"
-    },
-    "Yinchuan": {
-        "1": "咳嗽"
-    },
-    "Lanzhou": {
-        "1": "咳嗽",
-        "2": "咳"
-    },
-    "Ürümqi": {
-        "1": "咳嗽"
-    },
-    "Wuhan": {
-        "1": "咳",
-        "2": "咯"
-    },
-    "Huanggang": {
-        "1": "咳"
-    },
-    "Chengdu": {
-        "1": "咳嗽"
-    },
-    "Guiyang": {
-        "1": "咳嗽"
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": "咳嗽"
-    },
-    "Kunming": {
-        "1": "咳嗽"
-    },
-    "Yangzhou": {
-        "1": "咳",
-        "2": "咳嗽"
-    },
-    "Nanjing": {
-        "1": "咳嗽"
-    },
-    "Hefei": {
-        "1": "咳嗽"
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "咳嗽"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": "咳嗽"
-    },
-    "Baochang": {
-        "1": "咳嗽"
-    },
-    "Jining": {
-        "1": "咳嗽"
-    },
-    "Hohhot": {
-        "1": "咳嗽"
-    },
-    "Baotou": {
-        "1": "咳嗽"
-    },
-    "Dongsheng": {
-        "1": "咳嗽"
-    },
-    "Linhe": {
-        "1": "咳嗽"
-    },
-    "Haibowan": {
-        "1": "咳嗽"
-    },
-    "Shanghai": {
-        "1": "咳嗽"
-    },
-    "Suzhou": {
-        "1": "咳嗽",
-        "2": "咳"
-    },
-    "Wuxi": {
-        "1": "咳嗽"
-    },
-    "Hangzhou": {
-        "1": "嗆",
-        "2": "咳嗽"
-    },
-    "Chongming": {
-        "1": "咳嗽"
-    },
-    "Wenzhou": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Danyang": {
-        "1": "咳嗽"
-    },
-    "Jinhua": {
-        "1": "咳嗽",
-        "2": "咳"
-    },
-    "Tangxi": {
-        "1": "嗽"
-    },
-    "Ningbo": {
-        "1": "嗆",
-        "2": "嗽",
-        "3": "咳嗽"
-    },
-    "Changsha": {
-        "1": "咳嗽",
-        "2": "咳"
-    },
-    "Shuangfeng": {
-        "1": "𠻞"
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "𠻞"
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "咳",
-        "2": "咳嗽"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "咳嗽"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "咳"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Liudui": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Hsinchu": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Dongshi": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Raoping": {
-        "1": "咳",
-        "2": "咳嗽"
-    },
-    "Yunlin": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Hong Kong-H": {
-        "1": "咳"
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": "咳"
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": "咳嗽",
-        "2": "咳",
-        "3": "嗽"
-    },
-    "Guangzhou": {
-        "1": "咳"
-    },
-    "Hong Kong": {
-        "1": "咳"
-    },
-    "Shunde": {
-        "1": "咳"
-    },
-    "Foshan": {
-        "1": "咳"
-    },
-    "Zhongshan": {
-        "1": "咳"
-    },
-    "Dongguan": {
-        "1": "咳"
-    },
-    "HK Weitou": {
-        "1": "咳嗽"
-    },
-    "Taishan": {
-        "1": "嗽"
-    },
-    "Doumen": {
-        "1": "咳"
-    },
-    "Kaiping": {
-        "1": "嗽"
-    },
-    "Shaoguan": {
-        "1": "咳",
-        "2": "咳嗽"
-    },
-    "Yunfu": {
-        "1": "咳瘕"
-    },
-    "Yangjiang": {
-        "1": "嗽"
-    },
-    "Xinyi": {
-        "1": "咳"
-    },
-    "Lianjiang": {
-        "1": "咳"
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "咳"
-    },
-    "Nanning-P": {
-        "1": "咳"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "咁嗽",
-        "2": "咳嗽",
-        "3": "嗽"
-    },
-    "Quanzhou": {
-        "1": "咁嗽"
-    },
-    "Zhangzhou": {
-        "1": "咁嗽",
-        "2": "咳嗽"
-    },
-    "Taipei": {
-        "1": ""
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "嗽",
-        "2": "咳嗽"
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "嗽",
-        "2": "咳嗽",
-        "3": "峇啅"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "咳嗽"
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "咳嗽"
-    },
-    "Wenchang": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "咳嗽"
-    },
-    "Leizhou": {
-        "1": "咳嗽"
-    },
-    "Putian": {
-        "1": "瘕咆"
-    },
-    "Xianyou": {
-        "1": "瘕咆"
-    },
-    "Fuzhou": {
-        "1": "嗽",
-        "2": "空嗽"
-    },
-    "Changle": {
-        "1": "空嗽"
-    },
-    "Fuqing": {
-        "1": "嗽"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": "空嗽"
-    },
-    "Gutian": {
-        "1": "嗽"
-    },
-    "Fu'an": {
-        "1": "嗽"
-    },
-    "Ningde": {
-        "1": "嗽"
-    },
-    "Shouning": {
-        "1": "嗽"
-    },
-    "Zhouning": {
-        "1": "嗽"
-    },
-    "Fuding": {
-        "1": "嗽"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "咳嗽"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": ""
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": ""
-    },
-    "Shibei": {
-        "1": ""
-    }
+    "Classical": [
+        "嗽",
+        "欬"
+    ],
+    "Formal": [
+        "咳嗽"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "咳嗽"
+    ],
+    "Taiwan": [
+        "咳嗽"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "咳嗽"
+    ],
+    "Shenyang": [
+        "咳嗽"
+    ],
+    "Hailar": [
+        "咳嗽"
+    ],
+    "Ulan Hot": [
+        "咳嗽"
+    ],
+    "Tongliao": [
+        "咳嗽"
+    ],
+    "Chifeng": [
+        "咳嗽"
+    ],
+    "Bayanhot": [
+        "咳嗽"
+    ],
+    "Jinan": [
+        "咳嗽"
+    ],
+    "Muping": [
+        "咳嗽"
+    ],
+    "Luoyang": [
+        "咳嗽"
+    ],
+    "Wanrong": [
+        "咳嗽"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "咳嗽"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "咳嗽"
+    ],
+    "Xining": [
+        "咳嗽"
+    ],
+    "Xuzhou": [
+        "咳嗽"
+    ],
+    "Yinchuan": [
+        "咳嗽"
+    ],
+    "Lanzhou": [
+        "咳嗽",
+        "咳"
+    ],
+    "Ürümqi": [
+        "咳嗽"
+    ],
+    "Wuhan": [
+        "咳",
+        "咯"
+    ],
+    "Huanggang": [
+        "咳"
+    ],
+    "Chengdu": [
+        "咳嗽"
+    ],
+    "Guiyang": [
+        "咳嗽"
+    ],
+    "Guilin": [],
+    "Liuzhou": [
+        "咳嗽"
+    ],
+    "Kunming": [
+        "咳嗽"
+    ],
+    "Yangzhou": [
+        "咳",
+        "咳嗽"
+    ],
+    "Nanjing": [
+        "咳嗽"
+    ],
+    "Hefei": [
+        "咳嗽"
+    ],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "咳嗽"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [
+        "咳嗽"
+    ],
+    "Baochang": [
+        "咳嗽"
+    ],
+    "Jining": [
+        "咳嗽"
+    ],
+    "Hohhot": [
+        "咳嗽"
+    ],
+    "Baotou": [
+        "咳嗽"
+    ],
+    "Dongsheng": [
+        "咳嗽"
+    ],
+    "Linhe": [
+        "咳嗽"
+    ],
+    "Haibowan": [
+        "咳嗽"
+    ],
+    "Shanghai": [
+        "咳嗽"
+    ],
+    "Suzhou": [
+        "咳嗽",
+        "咳"
+    ],
+    "Wuxi": [
+        "咳嗽"
+    ],
+    "Hangzhou": [
+        "嗆",
+        "咳嗽"
+    ],
+    "Chongming": [
+        "咳嗽"
+    ],
+    "Wenzhou": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Danyang": [
+        "咳嗽"
+    ],
+    "Jinhua": [
+        "咳嗽",
+        "咳"
+    ],
+    "Tangxi": [
+        "嗽"
+    ],
+    "Ningbo": [
+        "嗆",
+        "嗽",
+        "咳嗽"
+    ],
+    "Changsha": [
+        "咳嗽",
+        "咳"
+    ],
+    "Shuangfeng": [
+        "𠻞"
+    ],
+    "Xiangtan": [],
+    "Loudi": [
+        "𠻞"
+    ],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "咳",
+        "咳嗽"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "咳嗽"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "咳"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Liudui": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Hsinchu": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Dongshi": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Raoping": [
+        "咳",
+        "咳嗽"
+    ],
+    "Yunlin": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Hong Kong-H": [
+        "咳"
+    ],
+    "Sabah": [],
+    "Senai": [
+        "咳"
+    ],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [
+        "咳嗽",
+        "咳",
+        "嗽"
+    ],
+    "Guangzhou": [
+        "咳"
+    ],
+    "Hong Kong": [
+        "咳"
+    ],
+    "Shunde": [
+        "咳"
+    ],
+    "Foshan": [
+        "咳"
+    ],
+    "Zhongshan": [
+        "咳"
+    ],
+    "Dongguan": [
+        "咳"
+    ],
+    "HK Weitou": [
+        "咳嗽"
+    ],
+    "Taishan": [
+        "嗽"
+    ],
+    "Doumen": [
+        "咳"
+    ],
+    "Kaiping": [
+        "嗽"
+    ],
+    "Shaoguan": [
+        "咳",
+        "咳嗽"
+    ],
+    "Yunfu": [
+        "咳瘕"
+    ],
+    "Yangjiang": [
+        "嗽"
+    ],
+    "Xinyi": [
+        "咳"
+    ],
+    "Lianjiang": [
+        "咳"
+    ],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "咳"
+    ],
+    "Nanning-P": [
+        "咳"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "咁嗽",
+        "咳嗽",
+        "嗽"
+    ],
+    "Quanzhou": [
+        "咁嗽"
+    ],
+    "Zhangzhou": [
+        "咁嗽",
+        "咳嗽"
+    ],
+    "Taipei": [],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [
+        "嗽",
+        "咳嗽"
+    ],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [
+        "嗽",
+        "咳嗽",
+        "峇啅"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "咳嗽"
+    ],
+    "Shantou": [],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "咳嗽"
+    ],
+    "Wenchang": [],
+    "Haikou": [
+        "咳嗽"
+    ],
+    "Leizhou": [
+        "咳嗽"
+    ],
+    "Putian": [
+        "瘕咆"
+    ],
+    "Xianyou": [
+        "瘕咆"
+    ],
+    "Fuzhou": [
+        "嗽",
+        "空嗽"
+    ],
+    "Changle": [
+        "空嗽"
+    ],
+    "Fuqing": [
+        "嗽"
+    ],
+    "Pingtan": [],
+    "Yongtai": [
+        "空嗽"
+    ],
+    "Gutian": [
+        "嗽"
+    ],
+    "Fu'an": [
+        "嗽"
+    ],
+    "Ningde": [
+        "嗽"
+    ],
+    "Shouning": [
+        "嗽"
+    ],
+    "Zhouning": [
+        "嗽"
+    ],
+    "Fuding": [
+        "嗽"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "咳嗽"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [],
+    "Jianyang": [],
+    "Wuyishan": [],
+    "Shibei": []
 }

@@ -1,547 +1,491 @@
 {
     "meaning": "spider",
     "note": "QJ - between ancient Qin and Jin<br>ZW - in the vicinity of ancient Zhao and Wei<br>NY - between Northern Yan, Korea and Lieshui<br>Q - ancient Qi",
-    "Classical": {
-        "1": "蜘蛛",
-        "2": "鼄蝥:QJ",
-        "3": "蠾蝓:ZW",
-        "4": "蝳蜍:NY",
-        "5": "社公:Q"
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Taxonomic": {
-        "1": "蜘蛛"
-    },
-    "Beijing": {
-        "1": "蛛蛛"
-    },
-    "Taiwan": {
-        "1": "蜘蛛"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": "蜘蛛兒",
-        "2": "蛛蛛兒"
-    },
-    "Shenyang": {
-        "1": "癩癩蛛"
-    },
-    "Hailar": {
-        "1": "蛛蛛"
-    },
-    "Ulan Hot": {
-        "1": "蛛蛛"
-    },
-    "Tongliao": {
-        "1": "蛛蛛"
-    },
-    "Chifeng": {
-        "1": "蛛蛛"
-    },
-    "Bayanhot": {
-        "1": "蛛蛛"
-    },
-    "Jinan": {
-        "1": "阿郎蛛子",
-        "2": "阿郎蛛",
-        "3": "蜘蛛"
-    },
-    "Muping": {
-        "1": "老老蛛",
-        "2": "賴賴蛛"
-    },
-    "Luoyang": {
-        "1": "蛛蛛"
-    },
-    "Wanrong": {
-        "1": "蛛蛛"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": "蛛蛛"
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": "蛛蛛"
-    },
-    "Xining": {
-        "1": "蛛蛛"
-    },
-    "Xuzhou": {
-        "1": "羅蛛子",
-        "2": "羅羅蛛子"
-    },
-    "Yinchuan": {
-        "1": "蟢里蛛蛛"
-    },
-    "Lanzhou": {
-        "1": "蛛蛛"
-    },
-    "Ürümqi": {
-        "1": "蛛蛛"
-    },
-    "Wuhan": {
-        "1": "蜘蛛"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": "蜘蛛",
-        "2": "蜇蛛"
-    },
-    "Guiyang": {
-        "1": "蝃蛛"
-    },
-    "Guilin": {
-        "1": "蜘蛛"
-    },
-    "Liuzhou": {
-        "1": "蜘蛛"
-    },
-    "Kunming": {
-        "1": "蜘蛛"
-    },
-    "Yangzhou": {
-        "1": "蜘蛛"
-    },
-    "Nanjing": {
-        "1": "蜘蛛"
-    },
-    "Hefei": {
-        "1": "蜘蛛"
-    },
-    "Nantong": {
-        "1": "蟢蟢",
-        "2": "蟢蟢兒"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "蛛蛛"
-    },
-    "Pingyao": {
-        "1": "蛛蛛"
-    },
-    "Xinzhou": {
-        "1": "羅螞蛛蛛",
-        "2": "蟢蛛蛛"
-    },
-    "Baochang": {
-        "1": "狼螞蛛蛛"
-    },
-    "Jining": {
-        "1": "蜘蛛"
-    },
-    "Hohhot": {
-        "1": "羅螞蛛蛛"
-    },
-    "Baotou": {
-        "1": "蜘蛛"
-    },
-    "Dongsheng": {
-        "1": "蜘蛛"
-    },
-    "Linhe": {
-        "1": "羅螞蛛蛛"
-    },
-    "Haibowan": {
-        "1": "蜘蛛"
-    },
-    "Shanghai": {
-        "1": "蜘蛛",
-        "2": "結蛛"
-    },
-    "Suzhou": {
-        "1": "結蛛",
-        "2": "蜘蛛"
-    },
-    "Wuxi": {
-        "1": "蜘蛛"
-    },
-    "Hangzhou": {
-        "1": "結蛛",
-        "2": "蜘蛛"
-    },
-    "Chongming": {
-        "1": "結蛛"
-    },
-    "Wenzhou": {
-        "1": "絲網蜘蛛"
-    },
-    "Danyang": {
-        "1": "蜘蛛"
-    },
-    "Jinhua": {
-        "1": "蟢",
-        "2": "八腳蟢",
-        "3": "蜘蛛"
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "蛛蛛",
-        "2": "結蛛"
-    },
-    "Changsha": {
-        "1": "蜘蛛子",
-        "2": "蜘蛛"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "蜘蛛子",
-        "2": "蜘蛛"
-    },
-    "Quanzhou-X": {
-        "1": "剝絲"
-    },
-    "Nanchang": {
-        "1": "蝃蛛",
-        "2": "蝃蛛子"
-    },
-    "Lichuan": {
-        "1": "庖繅"
-    },
-    "Pingxiang": {
-        "1": "織蛛"
-    },
-    "Meixian": {
-        "1": "蝲䗁"
-    },
-    "Xingning": {
-        "1": "蝲䗁"
-    },
-    "Huidong": {
-        "1": "蝲䗁"
-    },
-    "Qujiang": {
-        "1": "蝲䗁"
-    },
-    "Xiaosanjiang": {
-        "1": "蝲䗁"
-    },
-    "Luchuan": {
-        "1": "蝲䗁"
-    },
-    "Changting": {
-        "1": "蝲䗁"
-    },
-    "Pingyu": {
-        "1": "蝲䗁"
-    },
-    "Wuping": {
-        "1": "蝲䗁"
-    },
-    "Liancheng": {
-        "1": "奇肖"
-    },
-    "Ninghua": {
-        "1": "奇肖子"
-    },
-    "Yudu": {
-        "1": "斜佬"
-    },
-    "Ruijin": {
-        "1": "斜佬"
-    },
-    "Shicheng": {
-        "1": "奇肖"
-    },
-    "Shangyou": {
-        "1": "蝲䗁"
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "蝲䗁",
-        "2": "蜘蛛"
-    },
-    "Liudui": {
-        "1": "蝲䗁",
-        "2": "蜘蛛"
-    },
-    "Hsinchu": {
-        "1": "蝲䗁",
-        "2": "蜘蛛"
-    },
-    "Dongshi": {
-        "1": "蜘蛛",
-        "2": "蝲䗁"
-    },
-    "Raoping": {
-        "1": "蝲䗁",
-        "2": "蜘蛛"
-    },
-    "Yunlin": {
-        "1": "蜘蛛",
-        "2": "蝲䗁"
-    },
-    "Hong Kong-H": {
-        "1": "蝲䗁"
-    },
-    "Sabah": {
-        "1": "蝲䗁"
-    },
-    "Senai": {
-        "1": "蝲䗁"
-    },
-    "Singkawang": {
-        "1": "蜘蛛",
-        "2": "蝲䗁"
-    },
-    "Shexian": {
-        "1": "蛛蛛"
-    },
-    "Tunxi": {
-        "1": "蛛蛛",
-        "2": "蜘蛛"
-    },
-    "Jixi": {
-        "1": "蛛蛛"
-    },
-    "Guangzhou": {
-        "1": "蜘蛛",
-        "2": "蠄蟧"
-    },
-    "Hong Kong": {
-        "1": "蠄蟧",
-        "2": "蜘蛛"
-    },
-    "Shunde": {
-        "1": "蠄蟧"
-    },
-    "Foshan": {
-        "1": "蜘蛛",
-        "2": "蠄蟧"
-    },
-    "Zhongshan": {
-        "1": "蠄蟧"
-    },
-    "Dongguan": {
-        "1": "蠄蟧"
-    },
-    "HK Weitou": {
-        "1": "蠄蟧"
-    },
-    "Taishan": {
-        "1": "蠄蟧"
-    },
-    "Doumen": {
-        "1": "蠄蟧"
-    },
-    "Kaiping": {
-        "1": "蠄蟧"
-    },
-    "Shaoguan": {
-        "1": "蠄蟧"
-    },
-    "Yunfu": {
-        "1": "蠄蟧"
-    },
-    "Yangjiang": {
-        "1": "蠄蟧"
-    },
-    "Xinyi": {
-        "1": "蠄蟧"
-    },
-    "Lianjiang": {
-        "1": "蠄蟧"
-    },
-    "Nanning": {
-        "1": "蜘蛛",
-        "2": "蠄蟧"
-    },
-    "Wuzhou": {
-        "1": "蜘蛛",
-        "2": "蠄蟧"
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Danzhou": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": "蜘蛛"
-    },
-    "Nanning-P": {
-        "1": "爪揸",
-        "2": "蛛蛛"
-    },
-    "Guilin-P": {
-        "1": "飛絲"
-    },
-    "Xiamen": {
-        "1": "蜘蛛"
-    },
-    "Quanzhou": {
-        "1": "蜘蛛"
-    },
-    "Zhangzhou": {
-        "1": "蜘蛛"
-    },
-    "Taipei": {
-        "1": "蜘蛛"
-    },
-    "Kaohsiung": {
-        "1": "蜘蛛"
-    },
-    "Tainan": {
-        "1": "蜘蛛"
-    },
-    "Taichung": {
-        "1": "蜘蛛"
-    },
-    "Wuqi": {
-        "1": "蜘蛛"
-    },
-    "Hsinchu-MN": {
-        "1": "蜘蛛"
-    },
-    "Taitung": {
-        "1": "蜘蛛"
-    },
-    "Lukang": {
-        "1": "蜘蛛"
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": "蜘蛛"
-    },
-    "Kinmen": {
-        "1": "蜘蛛"
-    },
-    "Magong": {
-        "1": "經蛛",
-        "2": "蜘蛛"
-    },
-    "Malaysia-MN": {
-        "1": "蜘蛛"
-    },
-    "Singapore-MN": {
-        "1": "蜘蛛"
-    },
-    "Philippine-MN": {
-        "1": "蜘蛛"
-    },
-    "Medan": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "蜘蛛"
-    },
-    "Shantou": {
-        "1": "蜘蛛"
-    },
-    "Haifeng": {
-        "1": "蜘蛛"
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": "蜘蛛"
-    },
-    "Wenchang": {
-        "1": "紅蜈"
-    },
-    "Haikou": {
-        "1": "龍牙古"
-    },
-    "Leizhou": {
-        "1": "𧑃蚜"
-    },
-    "Putian": {
-        "1": "八臘爺"
-    },
-    "Xianyou": {
-        "1": "八臘爺"
-    },
-    "Fuzhou": {
-        "1": "蜘蛛"
-    },
-    "Changle": {
-        "1": "馬兜爺"
-    },
-    "Fuqing": {
-        "1": "蜘蛛"
-    },
-    "Pingtan": {
-        "1": ""
-    },
-    "Yongtai": {
-        "1": ""
-    },
-    "Gutian": {
-        "1": "蟢囝"
-    },
-    "Fu'an": {
-        "1": ""
-    },
-    "Ningde": {
-        "1": "蟢囝"
-    },
-    "Shouning": {
-        "1": ""
-    },
-    "Zhouning": {
-        "1": ""
-    },
-    "Fuding": {
-        "1": "飛絲"
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "吊蛛"
-    },
-    "Dikou": {
-        "1": ""
-    },
-    "Songxi": {
-        "1": ""
-    },
-    "Zhenghe": {
-        "1": ""
-    },
-    "Zhenqian": {
-        "1": "天蛛"
-    },
-    "Jianyang": {
-        "1": ""
-    },
-    "Wuyishan": {
-        "1": "蜘蛛仔"
-    },
-    "Shibei": {
-        "1": "糴蛛仔"
-    }
+    "Classical": [
+        "蜘蛛",
+        "鼄蝥:QJ",
+        "蠾蝓:ZW",
+        "蝳蜍:NY",
+        "社公:Q"
+    ],
+    "Formal": [],
+    "Taxonomic": [
+        "蜘蛛"
+    ],
+    "Beijing": [
+        "蛛蛛"
+    ],
+    "Taiwan": [
+        "蜘蛛"
+    ],
+    "Tianjin": [],
+    "Harbin": [
+        "蜘蛛兒",
+        "蛛蛛兒"
+    ],
+    "Shenyang": [
+        "癩癩蛛"
+    ],
+    "Hailar": [
+        "蛛蛛"
+    ],
+    "Ulan Hot": [
+        "蛛蛛"
+    ],
+    "Tongliao": [
+        "蛛蛛"
+    ],
+    "Chifeng": [
+        "蛛蛛"
+    ],
+    "Bayanhot": [
+        "蛛蛛"
+    ],
+    "Jinan": [
+        "阿郎蛛子",
+        "阿郎蛛",
+        "蜘蛛"
+    ],
+    "Muping": [
+        "老老蛛",
+        "賴賴蛛"
+    ],
+    "Luoyang": [
+        "蛛蛛"
+    ],
+    "Wanrong": [
+        "蛛蛛"
+    ],
+    "Ronghe": [],
+    "Xi'an": [
+        "蛛蛛"
+    ],
+    "Qingdao": [],
+    "Zhengzhou": [
+        "蛛蛛"
+    ],
+    "Xining": [
+        "蛛蛛"
+    ],
+    "Xuzhou": [
+        "羅蛛子",
+        "羅羅蛛子"
+    ],
+    "Yinchuan": [
+        "蟢里蛛蛛"
+    ],
+    "Lanzhou": [
+        "蛛蛛"
+    ],
+    "Ürümqi": [
+        "蛛蛛"
+    ],
+    "Wuhan": [
+        "蜘蛛"
+    ],
+    "Huanggang": [],
+    "Chengdu": [
+        "蜘蛛",
+        "蜇蛛"
+    ],
+    "Guiyang": [
+        "蝃蛛"
+    ],
+    "Guilin": [
+        "蜘蛛"
+    ],
+    "Liuzhou": [
+        "蜘蛛"
+    ],
+    "Kunming": [
+        "蜘蛛"
+    ],
+    "Yangzhou": [
+        "蜘蛛"
+    ],
+    "Nanjing": [
+        "蜘蛛"
+    ],
+    "Hefei": [
+        "蜘蛛"
+    ],
+    "Nantong": [
+        "蟢蟢",
+        "蟢蟢兒"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "蛛蛛"
+    ],
+    "Pingyao": [
+        "蛛蛛"
+    ],
+    "Xinzhou": [
+        "羅螞蛛蛛",
+        "蟢蛛蛛"
+    ],
+    "Baochang": [
+        "狼螞蛛蛛"
+    ],
+    "Jining": [
+        "蜘蛛"
+    ],
+    "Hohhot": [
+        "羅螞蛛蛛"
+    ],
+    "Baotou": [
+        "蜘蛛"
+    ],
+    "Dongsheng": [
+        "蜘蛛"
+    ],
+    "Linhe": [
+        "羅螞蛛蛛"
+    ],
+    "Haibowan": [
+        "蜘蛛"
+    ],
+    "Shanghai": [
+        "蜘蛛",
+        "結蛛"
+    ],
+    "Suzhou": [
+        "結蛛",
+        "蜘蛛"
+    ],
+    "Wuxi": [
+        "蜘蛛"
+    ],
+    "Hangzhou": [
+        "結蛛",
+        "蜘蛛"
+    ],
+    "Chongming": [
+        "結蛛"
+    ],
+    "Wenzhou": [
+        "絲網蜘蛛"
+    ],
+    "Danyang": [
+        "蜘蛛"
+    ],
+    "Jinhua": [
+        "蟢",
+        "八腳蟢",
+        "蜘蛛"
+    ],
+    "Tangxi": [],
+    "Ningbo": [
+        "蛛蛛",
+        "結蛛"
+    ],
+    "Changsha": [
+        "蜘蛛子",
+        "蜘蛛"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "蜘蛛子",
+        "蜘蛛"
+    ],
+    "Quanzhou-X": [
+        "剝絲"
+    ],
+    "Nanchang": [
+        "蝃蛛",
+        "蝃蛛子"
+    ],
+    "Lichuan": [
+        "庖繅"
+    ],
+    "Pingxiang": [
+        "織蛛"
+    ],
+    "Meixian": [
+        "蝲䗁"
+    ],
+    "Xingning": [
+        "蝲䗁"
+    ],
+    "Huidong": [
+        "蝲䗁"
+    ],
+    "Qujiang": [
+        "蝲䗁"
+    ],
+    "Xiaosanjiang": [
+        "蝲䗁"
+    ],
+    "Luchuan": [
+        "蝲䗁"
+    ],
+    "Changting": [
+        "蝲䗁"
+    ],
+    "Pingyu": [
+        "蝲䗁"
+    ],
+    "Wuping": [
+        "蝲䗁"
+    ],
+    "Liancheng": [
+        "奇肖"
+    ],
+    "Ninghua": [
+        "奇肖子"
+    ],
+    "Yudu": [
+        "斜佬"
+    ],
+    "Ruijin": [
+        "斜佬"
+    ],
+    "Shicheng": [
+        "奇肖"
+    ],
+    "Shangyou": [
+        "蝲䗁"
+    ],
+    "Taoyuan": [],
+    "Miaoli": [
+        "蝲䗁",
+        "蜘蛛"
+    ],
+    "Liudui": [
+        "蝲䗁",
+        "蜘蛛"
+    ],
+    "Hsinchu": [
+        "蝲䗁",
+        "蜘蛛"
+    ],
+    "Dongshi": [
+        "蜘蛛",
+        "蝲䗁"
+    ],
+    "Raoping": [
+        "蝲䗁",
+        "蜘蛛"
+    ],
+    "Yunlin": [
+        "蜘蛛",
+        "蝲䗁"
+    ],
+    "Hong Kong-H": [
+        "蝲䗁"
+    ],
+    "Sabah": [
+        "蝲䗁"
+    ],
+    "Senai": [
+        "蝲䗁"
+    ],
+    "Singkawang": [
+        "蜘蛛",
+        "蝲䗁"
+    ],
+    "Shexian": [
+        "蛛蛛"
+    ],
+    "Tunxi": [
+        "蛛蛛",
+        "蜘蛛"
+    ],
+    "Jixi": [
+        "蛛蛛"
+    ],
+    "Guangzhou": [
+        "蜘蛛",
+        "蠄蟧"
+    ],
+    "Hong Kong": [
+        "蠄蟧",
+        "蜘蛛"
+    ],
+    "Shunde": [
+        "蠄蟧"
+    ],
+    "Foshan": [
+        "蜘蛛",
+        "蠄蟧"
+    ],
+    "Zhongshan": [
+        "蠄蟧"
+    ],
+    "Dongguan": [
+        "蠄蟧"
+    ],
+    "HK Weitou": [
+        "蠄蟧"
+    ],
+    "Taishan": [
+        "蠄蟧"
+    ],
+    "Doumen": [
+        "蠄蟧"
+    ],
+    "Kaiping": [
+        "蠄蟧"
+    ],
+    "Shaoguan": [
+        "蠄蟧"
+    ],
+    "Yunfu": [
+        "蠄蟧"
+    ],
+    "Yangjiang": [
+        "蠄蟧"
+    ],
+    "Xinyi": [
+        "蠄蟧"
+    ],
+    "Lianjiang": [
+        "蠄蟧"
+    ],
+    "Nanning": [
+        "蜘蛛",
+        "蠄蟧"
+    ],
+    "Wuzhou": [
+        "蜘蛛",
+        "蠄蟧"
+    ],
+    "Yulin": [],
+    "Hepu": [],
+    "Danzhou": [],
+    "Kuala Lumpur": [
+        "蜘蛛"
+    ],
+    "Nanning-P": [
+        "爪揸",
+        "蛛蛛"
+    ],
+    "Guilin-P": [
+        "飛絲"
+    ],
+    "Xiamen": [
+        "蜘蛛"
+    ],
+    "Quanzhou": [
+        "蜘蛛"
+    ],
+    "Zhangzhou": [
+        "蜘蛛"
+    ],
+    "Taipei": [
+        "蜘蛛"
+    ],
+    "Kaohsiung": [
+        "蜘蛛"
+    ],
+    "Tainan": [
+        "蜘蛛"
+    ],
+    "Taichung": [
+        "蜘蛛"
+    ],
+    "Wuqi": [
+        "蜘蛛"
+    ],
+    "Hsinchu-MN": [
+        "蜘蛛"
+    ],
+    "Taitung": [
+        "蜘蛛"
+    ],
+    "Lukang": [
+        "蜘蛛"
+    ],
+    "Sanxia": [],
+    "Yilan": [
+        "蜘蛛"
+    ],
+    "Kinmen": [
+        "蜘蛛"
+    ],
+    "Magong": [
+        "經蛛",
+        "蜘蛛"
+    ],
+    "Malaysia-MN": [
+        "蜘蛛"
+    ],
+    "Singapore-MN": [
+        "蜘蛛"
+    ],
+    "Philippine-MN": [
+        "蜘蛛"
+    ],
+    "Medan": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "蜘蛛"
+    ],
+    "Shantou": [
+        "蜘蛛"
+    ],
+    "Haifeng": [
+        "蜘蛛"
+    ],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [
+        "蜘蛛"
+    ],
+    "Wenchang": [
+        "紅蜈"
+    ],
+    "Haikou": [
+        "龍牙古"
+    ],
+    "Leizhou": [
+        "𧑃蚜"
+    ],
+    "Putian": [
+        "八臘爺"
+    ],
+    "Xianyou": [
+        "八臘爺"
+    ],
+    "Fuzhou": [
+        "蜘蛛"
+    ],
+    "Changle": [
+        "馬兜爺"
+    ],
+    "Fuqing": [
+        "蜘蛛"
+    ],
+    "Pingtan": [],
+    "Yongtai": [],
+    "Gutian": [
+        "蟢囝"
+    ],
+    "Fu'an": [],
+    "Ningde": [
+        "蟢囝"
+    ],
+    "Shouning": [],
+    "Zhouning": [],
+    "Fuding": [
+        "飛絲"
+    ],
+    "Matsu": [],
+    "Jian'ou": [
+        "吊蛛"
+    ],
+    "Dikou": [],
+    "Songxi": [],
+    "Zhenghe": [],
+    "Zhenqian": [
+        "天蛛"
+    ],
+    "Jianyang": [],
+    "Wuyishan": [
+        "蜘蛛仔"
+    ],
+    "Shibei": [
+        "糴蛛仔"
+    ]
 }

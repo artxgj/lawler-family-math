@@ -1,359 +1,217 @@
 {
     "meaning": "sports shoes",
     "note": "",
-    "Classical": {
-        "1": ""
-    },
-    "Formal": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "運動鞋",
-        "2": "球鞋"
-    },
-    "Taiwan": {
-        "1": "運動鞋",
-        "2": "球鞋"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Jinan": {
-        "1": "球鞋",
-        "2": "力士鞋:dated"
-    },
-    "Muping": {
-        "1": "籃球兒鞋",
-        "2": "球兒鞋"
-    },
-    "Luoyang": {
-        "1": "球鞋"
-    },
-    "Wanrong": {
-        "1": "球鞋"
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "運動鞋"
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": "力士鞋"
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": "球鞋"
-    },
-    "Liuzhou": {
-        "1": "運動鞋"
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "跑鞋"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": ""
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "球鞋"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Hohhot": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Suzhou": {
-        "1": "跑鞋",
-        "2": "球鞋"
-    },
-    "Hangzhou": {
-        "1": "跑鞋",
-        "2": "球鞋"
-    },
-    "Shanghai": {
-        "1": "跑鞋",
-        "2": "球鞋"
-    },
-    "Chongming": {
-        "1": "跑鞋"
-    },
-    "Wenzhou": {
-        "1": ""
-    },
-    "Danyang": {
-        "1": "跑鞋",
-        "2": "球鞋"
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "跑鞋",
-        "2": "籃球鞋"
-    },
-    "Changsha": {
-        "1": "跑鞋"
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": "跑鞋",
-        "2": "球鞋"
-    },
-    "Nanchang": {
-        "1": "球鞋"
-    },
-    "Lichuan": {
-        "1": "球鞋"
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "球鞋",
-        "2": "運動鞋"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": "運動鞋"
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "球鞋"
-    },
-    "Liudui": {
-        "1": "球鞋"
-    },
-    "Hsinchu": {
-        "1": "球鞋"
-    },
-    "Dongshi": {
-        "1": "球鞋"
-    },
-    "Raoping": {
-        "1": "球鞋"
-    },
-    "Yunlin": {
-        "1": "球鞋"
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "波鞋",
-        "2": "球鞋",
-        "3": "運動鞋"
-    },
-    "Hong Kong": {
-        "1": "波鞋",
-        "2": "運動鞋"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "波鞋",
-        "2": "運動鞋"
-    },
-    "Taishan": {
-        "1": "波鞋"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "波鞋",
-        "2": "運動鞋"
-    },
-    "Xiamen": {
-        "1": "球鞋"
-    },
-    "Quanzhou": {
-        "1": "球鞋"
-    },
-    "Zhangzhou": {
-        "1": "球鞋"
-    },
-    "Taipei": {
-        "1": "球鞋"
-    },
-    "Kaohsiung": {
-        "1": "球鞋"
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": "球鞋"
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": ""
-    },
-    "Shantou": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": "波鞋"
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": ""
-    }
+    "Classical": [],
+    "Formal": [],
+    "Beijing": [
+        "運動鞋",
+        "球鞋"
+    ],
+    "Taiwan": [
+        "運動鞋",
+        "球鞋"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Jinan": [
+        "球鞋",
+        "力士鞋:dated"
+    ],
+    "Muping": [
+        "籃球兒鞋",
+        "球兒鞋"
+    ],
+    "Luoyang": [
+        "球鞋"
+    ],
+    "Wanrong": [
+        "球鞋"
+    ],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "運動鞋"
+    ],
+    "Ürümqi": [],
+    "Wuhan": [
+        "力士鞋"
+    ],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [
+        "球鞋"
+    ],
+    "Liuzhou": [
+        "運動鞋"
+    ],
+    "Kunming": [],
+    "Yangzhou": [
+        "跑鞋"
+    ],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "球鞋"
+    ],
+    "Pingyao": [],
+    "Hohhot": [],
+    "Xinzhou": [],
+    "Suzhou": [
+        "跑鞋",
+        "球鞋"
+    ],
+    "Hangzhou": [
+        "跑鞋",
+        "球鞋"
+    ],
+    "Shanghai": [
+        "跑鞋",
+        "球鞋"
+    ],
+    "Chongming": [
+        "跑鞋"
+    ],
+    "Wenzhou": [],
+    "Danyang": [
+        "跑鞋",
+        "球鞋"
+    ],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "跑鞋",
+        "籃球鞋"
+    ],
+    "Changsha": [
+        "跑鞋"
+    ],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [
+        "跑鞋",
+        "球鞋"
+    ],
+    "Nanchang": [
+        "球鞋"
+    ],
+    "Lichuan": [
+        "球鞋"
+    ],
+    "Pingxiang": [],
+    "Meixian": [
+        "球鞋",
+        "運動鞋"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [
+        "運動鞋"
+    ],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "球鞋"
+    ],
+    "Liudui": [
+        "球鞋"
+    ],
+    "Hsinchu": [
+        "球鞋"
+    ],
+    "Dongshi": [
+        "球鞋"
+    ],
+    "Raoping": [
+        "球鞋"
+    ],
+    "Yunlin": [
+        "球鞋"
+    ],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "波鞋",
+        "球鞋",
+        "運動鞋"
+    ],
+    "Hong Kong": [
+        "波鞋",
+        "運動鞋"
+    ],
+    "Shunde": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "波鞋",
+        "運動鞋"
+    ],
+    "Taishan": [
+        "波鞋"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Nanning-P": [
+        "波鞋",
+        "運動鞋"
+    ],
+    "Xiamen": [
+        "球鞋"
+    ],
+    "Quanzhou": [
+        "球鞋"
+    ],
+    "Zhangzhou": [
+        "球鞋"
+    ],
+    "Taipei": [
+        "球鞋"
+    ],
+    "Kaohsiung": [
+        "球鞋"
+    ],
+    "Tainan": [],
+    "Taichung": [],
+    "Yilan": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Hsinchu-MN": [],
+    "Malaysia-MN": [
+        "球鞋"
+    ],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Chaozhou": [],
+    "Shantou": [],
+    "Thailand-MN-T": [],
+    "Haikou": [
+        "波鞋"
+    ],
+    "Leizhou": [],
+    "Fuzhou": [],
+    "Jian'ou": []
 }

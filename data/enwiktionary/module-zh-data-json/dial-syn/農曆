@@ -1,479 +1,269 @@
 {
     "meaning": "Chinese calendar",
     "note": "",
-    "Classical": {
-        "1": "夏曆",
-        "2": "夏正"
-    },
-    "Formal": {
-        "1": "農曆",
-        "2": "陰曆",
-        "3": "夏曆"
-    },
-    "Taxonomic": {
-        "1": ""
-    },
-    "Beijing": {
-        "1": "農曆"
-    },
-    "Taiwan": {
-        "1": "農曆"
-    },
-    "Tianjin": {
-        "1": ""
-    },
-    "Harbin": {
-        "1": ""
-    },
-    "Shenyang": {
-        "1": ""
-    },
-    "Hailar": {
-        "1": "陰曆"
-    },
-    "Ulan Hot": {
-        "1": "陰曆"
-    },
-    "Tongliao": {
-        "1": "陰曆"
-    },
-    "Chifeng": {
-        "1": "陰曆"
-    },
-    "Baochang": {
-        "1": "陰曆"
-    },
-    "Bayanhot": {
-        "1": "陰曆"
-    },
-    "Jinan": {
-        "1": "陰曆",
-        "2": "農曆",
-        "3": "舊曆"
-    },
-    "Muping": {
-        "1": ""
-    },
-    "Luoyang": {
-        "1": ""
-    },
-    "Wanrong": {
-        "1": "陰曆"
-    },
-    "Ronghe": {
-        "1": ""
-    },
-    "Xi'an": {
-        "1": ""
-    },
-    "Qingdao": {
-        "1": ""
-    },
-    "Zhengzhou": {
-        "1": ""
-    },
-    "Xining": {
-        "1": ""
-    },
-    "Xuzhou": {
-        "1": ""
-    },
-    "Yinchuan": {
-        "1": ""
-    },
-    "Lanzhou": {
-        "1": "古曆",
-        "2": "農曆"
-    },
-    "Ürümqi": {
-        "1": ""
-    },
-    "Wuhan": {
-        "1": ""
-    },
-    "Huanggang": {
-        "1": ""
-    },
-    "Chengdu": {
-        "1": ""
-    },
-    "Guiyang": {
-        "1": ""
-    },
-    "Guilin": {
-        "1": ""
-    },
-    "Liuzhou": {
-        "1": ""
-    },
-    "Kunming": {
-        "1": ""
-    },
-    "Yangzhou": {
-        "1": "陰曆"
-    },
-    "Nanjing": {
-        "1": ""
-    },
-    "Hefei": {
-        "1": ""
-    },
-    "Nantong": {
-        "1": "農曆",
-        "2": "古曆"
-    },
-    "Malaysia-M": {
-        "1": ""
-    },
-    "Singapore-M": {
-        "1": ""
-    },
-    "Taiyuan": {
-        "1": "陰曆"
-    },
-    "Pingyao": {
-        "1": ""
-    },
-    "Xinzhou": {
-        "1": ""
-    },
-    "Jining": {
-        "1": "陰曆"
-    },
-    "Hohhot": {
-        "1": "舊曆"
-    },
-    "Baotou": {
-        "1": "陰曆"
-    },
-    "Dongsheng": {
-        "1": "陰曆"
-    },
-    "Linhe": {
-        "1": "陰曆"
-    },
-    "Haibowan": {
-        "1": "農曆",
-        "2": "老曆"
-    },
-    "Suzhou": {
-        "1": ""
-    },
-    "Hangzhou": {
-        "1": "陰曆"
-    },
-    "Shanghai": {
-        "1": ""
-    },
-    "Chongming": {
-        "1": ""
-    },
-    "Wenzhou": {
-        "1": ""
-    },
-    "Danyang": {
-        "1": ""
-    },
-    "Jinhua": {
-        "1": ""
-    },
-    "Tangxi": {
-        "1": ""
-    },
-    "Ningbo": {
-        "1": "陰曆"
-    },
-    "Changsha": {
-        "1": ""
-    },
-    "Shuangfeng": {
-        "1": ""
-    },
-    "Xiangtan": {
-        "1": ""
-    },
-    "Loudi": {
-        "1": ""
-    },
-    "Quanzhou-X": {
-        "1": ""
-    },
-    "Nanchang": {
-        "1": "陰曆"
-    },
-    "Lichuan": {
-        "1": ""
-    },
-    "Pingxiang": {
-        "1": ""
-    },
-    "Meixian": {
-        "1": "舊曆",
-        "2": "陰曆"
-    },
-    "Xingning": {
-        "1": ""
-    },
-    "Huidong": {
-        "1": ""
-    },
-    "Qujiang": {
-        "1": ""
-    },
-    "Xiaosanjiang": {
-        "1": ""
-    },
-    "Luchuan": {
-        "1": ""
-    },
-    "Changting": {
-        "1": ""
-    },
-    "Pingyu": {
-        "1": ""
-    },
-    "Wuping": {
-        "1": ""
-    },
-    "Liancheng": {
-        "1": ""
-    },
-    "Ninghua": {
-        "1": ""
-    },
-    "Yudu": {
-        "1": ""
-    },
-    "Ruijin": {
-        "1": ""
-    },
-    "Shicheng": {
-        "1": ""
-    },
-    "Shangyou": {
-        "1": ""
-    },
-    "Taoyuan": {
-        "1": ""
-    },
-    "Miaoli": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Liudui": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Hsinchu": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Dongshi": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Raoping": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Yunlin": {
-        "1": "舊曆"
-    },
-    "Hong Kong-H": {
-        "1": ""
-    },
-    "Sabah": {
-        "1": ""
-    },
-    "Senai": {
-        "1": ""
-    },
-    "Singkawang": {
-        "1": ""
-    },
-    "Shexian": {
-        "1": ""
-    },
-    "Tunxi": {
-        "1": ""
-    },
-    "Jixi": {
-        "1": ""
-    },
-    "Guangzhou": {
-        "1": "舊曆",
-        "2": "陰曆"
-    },
-    "Hong Kong": {
-        "1": "舊曆",
-        "2": "農曆"
-    },
-    "Shunde": {
-        "1": ""
-    },
-    "Foshan": {
-        "1": ""
-    },
-    "Zhongshan": {
-        "1": ""
-    },
-    "Dongguan": {
-        "1": "舊曆"
-    },
-    "HK Weitou": {
-        "1": ""
-    },
-    "Taishan": {
-        "1": "農曆"
-    },
-    "Doumen": {
-        "1": ""
-    },
-    "Kaiping": {
-        "1": ""
-    },
-    "Shaoguan": {
-        "1": ""
-    },
-    "Yunfu": {
-        "1": ""
-    },
-    "Yangjiang": {
-        "1": ""
-    },
-    "Xinyi": {
-        "1": ""
-    },
-    "Lianjiang": {
-        "1": ""
-    },
-    "Nanning": {
-        "1": ""
-    },
-    "Wuzhou": {
-        "1": ""
-    },
-    "Yulin": {
-        "1": ""
-    },
-    "Hepu": {
-        "1": ""
-    },
-    "Kuala Lumpur": {
-        "1": ""
-    },
-    "Nanning-P": {
-        "1": "陰曆"
-    },
-    "Guilin-P": {
-        "1": ""
-    },
-    "Xiamen": {
-        "1": "古曆",
-        "2": "舊曆",
-        "3": "咱人"
-    },
-    "Quanzhou": {
-        "1": "古曆",
-        "2": "舊曆",
-        "3": "咱人"
-    },
-    "Zhangzhou": {
-        "1": "舊曆",
-        "2": "咱的"
-    },
-    "Taipei": {
-        "1": "舊曆",
-        "2": "咱人"
-    },
-    "Kaohsiung": {
-        "1": ""
-    },
-    "Tainan": {
-        "1": ""
-    },
-    "Taichung": {
-        "1": ""
-    },
-    "Wuqi": {
-        "1": ""
-    },
-    "Hsinchu-MN": {
-        "1": ""
-    },
-    "Taitung": {
-        "1": ""
-    },
-    "Lukang": {
-        "1": ""
-    },
-    "Sanxia": {
-        "1": ""
-    },
-    "Yilan": {
-        "1": ""
-    },
-    "Kinmen": {
-        "1": ""
-    },
-    "Magong": {
-        "1": ""
-    },
-    "Malaysia-MN": {
-        "1": ""
-    },
-    "Singapore-MN": {
-        "1": ""
-    },
-    "Philippine-MN": {
-        "1": ""
-    },
-    "Pingnan": {
-        "1": ""
-    },
-    "Chaozhou": {
-        "1": "農曆",
-        "2": "舊曆",
-        "3": "陰曆"
-    },
-    "Shantou": {
-        "1": "農曆",
-        "2": "舊曆",
-        "3": "陰曆"
-    },
-    "Haifeng": {
-        "1": ""
-    },
-    "Thailand-MN-T": {
-        "1": ""
-    },
-    "Johor Bahru": {
-        "1": ""
-    },
-    "Haikou": {
-        "1": ""
-    },
-    "Leizhou": {
-        "1": ""
-    },
-    "Putian": {
-        "1": ""
-    },
-    "Xianyou": {
-        "1": ""
-    },
-    "Fuzhou": {
-        "1": ""
-    },
-    "Fuqing": {
-        "1": ""
-    },
-    "Matsu": {
-        "1": ""
-    },
-    "Jian'ou": {
-        "1": "陰曆",
-        "2": "古曆",
-        "3": "農曆"
-    }
+    "Classical": [
+        "夏曆",
+        "夏正"
+    ],
+    "Formal": [
+        "農曆",
+        "陰曆",
+        "夏曆"
+    ],
+    "Taxonomic": [],
+    "Beijing": [
+        "農曆"
+    ],
+    "Taiwan": [
+        "農曆"
+    ],
+    "Tianjin": [],
+    "Harbin": [],
+    "Shenyang": [],
+    "Hailar": [
+        "陰曆"
+    ],
+    "Ulan Hot": [
+        "陰曆"
+    ],
+    "Tongliao": [
+        "陰曆"
+    ],
+    "Chifeng": [
+        "陰曆"
+    ],
+    "Baochang": [
+        "陰曆"
+    ],
+    "Bayanhot": [
+        "陰曆"
+    ],
+    "Jinan": [
+        "陰曆",
+        "農曆",
+        "舊曆"
+    ],
+    "Muping": [],
+    "Luoyang": [],
+    "Wanrong": [
+        "陰曆"
+    ],
+    "Ronghe": [],
+    "Xi'an": [],
+    "Qingdao": [],
+    "Zhengzhou": [],
+    "Xining": [],
+    "Xuzhou": [],
+    "Yinchuan": [],
+    "Lanzhou": [
+        "古曆",
+        "農曆"
+    ],
+    "Ürümqi": [],
+    "Wuhan": [],
+    "Huanggang": [],
+    "Chengdu": [],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
+    "Kunming": [],
+    "Yangzhou": [
+        "陰曆"
+    ],
+    "Nanjing": [],
+    "Hefei": [],
+    "Nantong": [
+        "農曆",
+        "古曆"
+    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
+    "Taiyuan": [
+        "陰曆"
+    ],
+    "Pingyao": [],
+    "Xinzhou": [],
+    "Jining": [
+        "陰曆"
+    ],
+    "Hohhot": [
+        "舊曆"
+    ],
+    "Baotou": [
+        "陰曆"
+    ],
+    "Dongsheng": [
+        "陰曆"
+    ],
+    "Linhe": [
+        "陰曆"
+    ],
+    "Haibowan": [
+        "農曆",
+        "老曆"
+    ],
+    "Suzhou": [],
+    "Hangzhou": [
+        "陰曆"
+    ],
+    "Shanghai": [],
+    "Chongming": [],
+    "Wenzhou": [],
+    "Danyang": [],
+    "Jinhua": [],
+    "Tangxi": [],
+    "Ningbo": [
+        "陰曆"
+    ],
+    "Changsha": [],
+    "Shuangfeng": [],
+    "Xiangtan": [],
+    "Loudi": [],
+    "Quanzhou-X": [],
+    "Nanchang": [
+        "陰曆"
+    ],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [
+        "舊曆",
+        "陰曆"
+    ],
+    "Xingning": [],
+    "Huidong": [],
+    "Qujiang": [],
+    "Xiaosanjiang": [],
+    "Luchuan": [],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
+    "Taoyuan": [],
+    "Miaoli": [
+        "舊曆",
+        "農曆"
+    ],
+    "Liudui": [
+        "舊曆",
+        "農曆"
+    ],
+    "Hsinchu": [
+        "舊曆",
+        "農曆"
+    ],
+    "Dongshi": [
+        "舊曆",
+        "農曆"
+    ],
+    "Raoping": [
+        "舊曆",
+        "農曆"
+    ],
+    "Yunlin": [
+        "舊曆"
+    ],
+    "Hong Kong-H": [],
+    "Sabah": [],
+    "Senai": [],
+    "Singkawang": [],
+    "Shexian": [],
+    "Tunxi": [],
+    "Jixi": [],
+    "Guangzhou": [
+        "舊曆",
+        "陰曆"
+    ],
+    "Hong Kong": [
+        "舊曆",
+        "農曆"
+    ],
+    "Shunde": [],
+    "Foshan": [],
+    "Zhongshan": [],
+    "Dongguan": [
+        "舊曆"
+    ],
+    "HK Weitou": [],
+    "Taishan": [
+        "農曆"
+    ],
+    "Doumen": [],
+    "Kaiping": [],
+    "Shaoguan": [],
+    "Yunfu": [],
+    "Yangjiang": [],
+    "Xinyi": [],
+    "Lianjiang": [],
+    "Nanning": [],
+    "Wuzhou": [],
+    "Yulin": [],
+    "Hepu": [],
+    "Kuala Lumpur": [],
+    "Nanning-P": [
+        "陰曆"
+    ],
+    "Guilin-P": [],
+    "Xiamen": [
+        "古曆",
+        "舊曆",
+        "咱人"
+    ],
+    "Quanzhou": [
+        "古曆",
+        "舊曆",
+        "咱人"
+    ],
+    "Zhangzhou": [
+        "舊曆",
+        "咱的"
+    ],
+    "Taipei": [
+        "舊曆",
+        "咱人"
+    ],
+    "Kaohsiung": [],
+    "Tainan": [],
+    "Taichung": [],
+    "Wuqi": [],
+    "Hsinchu-MN": [],
+    "Taitung": [],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
+    "Malaysia-MN": [],
+    "Singapore-MN": [],
+    "Philippine-MN": [],
+    "Pingnan": [],
+    "Chaozhou": [
+        "農曆",
+        "舊曆",
+        "陰曆"
+    ],
+    "Shantou": [
+        "農曆",
+        "舊曆",
+        "陰曆"
+    ],
+    "Haifeng": [],
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Haikou": [],
+    "Leizhou": [],
+    "Putian": [],
+    "Xianyou": [],
+    "Fuzhou": [],
+    "Fuqing": [],
+    "Matsu": [],
+    "Jian'ou": [
+        "陰曆",
+        "古曆",
+        "農曆"
+    ]
 }
