@@ -43,7 +43,7 @@ def main():
     args = parser.parse_args()
     freqtable = ngram_frequency(args.csv_poems, args.ngram_size)
     ordered_freq = sorted(freqtable.items(), key=lambda kv: kv[1], reverse=True)
-    ngramfreq = markdown_report(args.ngram_size, 73, ordered_freq)
+    ngramfreq = markdown_report(args.ngram_size, 78, ordered_freq)
 
     with io.open(args.markdown_file, 'w', encoding='utf-8') as ostream:
         ostream.write(ngramfreq)
