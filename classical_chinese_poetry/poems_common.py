@@ -1,6 +1,6 @@
 from typing import Generator, Tuple
 from p3lib.ngrams import ngrams
-from p3lib.csvhelper import dictlines_from_csv
+from p3lib.iohelpers import dictlines_from_csv
 
 
 attr_poet = 'poet'

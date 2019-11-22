@@ -1,8 +1,9 @@
-from typing import IO, Optional
+from typing import Generator, Tuple, Optional, Dict
 from p3lib.wiktionary import WiktionaryModuleDataPage, WiktionarySpecialPrefixIndex, Namespace
 from io import StringIO
 from luaparser import ast, astnodes
 from abc import ABC, abstractmethod
+from iohelpers import filenames_from_folder, json_contents
 
 
 class ZhModuleDataIndex(ABC):
@@ -191,3 +192,31 @@ class ZhSynonymsLuaModule:
 
         else:
             return None
+
+
+class ZhTopolectSynonyms:
+    def __init__(self, top_syn: Tuple[str, dict]):
+        self._top_syn = {word: synonyms for word, synonyms in top_syn}
+
+    @classmethod
+    def from_local_folder(cls, folder: str):
+        return cls((f, json_contents(f"{folder}/{f}")) for f in filenames_from_folder(folder))
+
+    def mandarin_words(self):
+        return self._top_syn.keys()
+
+
+class ZhTopolectPronunciations:
+    def __init__(self, pron_dicts: Generator[dict, None, None]):
+        self._prons = {}
+        for pron_dict in pron_dicts:
+            for word, pron in pron_dict.items():
+                self._prons[word] = pron
+
+    @classmethod
+    def from_local_folder(cls, folder: str):
+        return cls(json_contents(f"{folder}/{f}") for f in filenames_from_folder(folder))
+
+    def pronunciation(self, word):
+        return self._prons.get(word, None)
+

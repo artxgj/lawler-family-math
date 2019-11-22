@@ -1,7 +1,7 @@
 import argparse
 import io
 
-from p3lib.csvhelper import dictlines_from_csv
+from p3lib.iohelpers import dictlines_from_csv
 from poems_common import verse_delim, attr_title, attr_poet, attr_poem
 from typing import IO
 
