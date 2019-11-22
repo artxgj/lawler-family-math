@@ -13,6 +13,15 @@ def dictlines_from_csv(csv_path: str, fieldnames: Sequence[str] = None, encoding
             yield row
 
 
+def dictlines_to_csv(csv_path: str, fieldnames, dictlines: Iterator[dict], encoding: str = 'utf-8'):
+    with open(csv_path, 'w', encoding=encoding) as ostream:
+        wrtr = csv.DictWriter(ostream, fieldnames=fieldnames)
+        wrtr.writeheader()
+
+        for row in dictlines:
+            wrtr.writerow(row)
+
+
 def lines_from_csv(csv_path: str, encoding: str = 'utf-8') -> Generator[List[str], None, None]:
     with io.open(csv_path, 'r', encoding=encoding) as istream:
         rdr = csv.reader(istream)
