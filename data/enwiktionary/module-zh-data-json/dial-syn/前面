@@ -62,7 +62,9 @@
     ],
     "Nantong": [],
     "Malaysia-M": [],
-    "Singapore-M": [],
+    "Singapore-M": [
+        "前面"
+    ],
     "Taiyuan": [
         "前頭",
         "前面"
@@ -181,7 +183,9 @@
     "Kinmen": [],
     "Magong": [],
     "Malaysia-MN": [],
-    "Singapore-MN": [],
+    "Singapore-MN": [
+        "頭前"
+    ],
     "Philippine-MN": [
         "頭前"
     ],

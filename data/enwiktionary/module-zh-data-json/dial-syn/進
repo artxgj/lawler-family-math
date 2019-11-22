@@ -1,20 +1,16 @@
 {
-    "meaning": "Chinese onion",
+    "meaning": "to enter",
     "note": "",
     "Classical": [
-        "薤"
+        "入"
     ],
-    "Formal": [
-        "薤"
-    ],
-    "Taxonomic": [
-        "薤"
-    ],
+    "Formal": [],
+    "Taxonomic": [],
     "Beijing": [
-        "藠頭"
+        "進"
     ],
     "Taiwan": [
-        "蕗蕎"
+        "進"
     ],
     "Tianjin": [],
     "Harbin": [],
@@ -37,28 +33,23 @@
     "Yinchuan": [],
     "Lanzhou": [],
     "Ürümqi": [],
-    "Wuhan": [
-        "藠頭",
-        "三白:dated"
-    ],
+    "Wuhan": [],
     "Huanggang": [],
     "Chengdu": [],
-    "Guiyang": [
-        "藠頭"
-    ],
-    "Guilin": [
-        "藠頭"
-    ],
-    "Liuzhou": [
-        "藠頭"
-    ],
+    "Guiyang": [],
+    "Guilin": [],
+    "Liuzhou": [],
     "Kunming": [],
     "Yangzhou": [],
     "Nanjing": [],
     "Hefei": [],
     "Nantong": [],
-    "Malaysia-M": [],
-    "Singapore-M": [],
+    "Malaysia-M": [
+        "進"
+    ],
+    "Singapore-M": [
+        "進"
+    ],
     "Gansu-DG": [],
     "Shaanxi-DG": [],
     "Taiyuan": [],
@@ -76,52 +67,27 @@
     "Wuxi": [],
     "Hangzhou": [],
     "Chongming": [],
-    "Wenzhou": [
-        "藠蒜"
-    ],
+    "Wenzhou": [],
     "Danyang": [],
-    "Jinhua": [
-        "蓼藠"
-    ],
-    "Tangxi": [
-        "老藠"
-    ],
+    "Jinhua": [],
+    "Tangxi": [],
     "Ningbo": [],
-    "Changsha": [
-        "藠頭",
-        "藠頭骨",
-        "藠子"
-    ],
+    "Changsha": [],
     "Shuangfeng": [],
     "Xiangtan": [],
-    "Loudi": [
-        "藠頭"
-    ],
+    "Loudi": [],
     "Quanzhou-X": [],
-    "Nanchang": [
-        "藠頭"
-    ],
-    "Lichuan": [
-        "藠仔"
-    ],
-    "Pingxiang": [
-        "藠牯"
-    ],
-    "Meixian": [
-        "藠頭",
-        "藠仔"
-    ],
-    "Xingning": [
-        "藠哩"
-    ],
+    "Nanchang": [],
+    "Lichuan": [],
+    "Pingxiang": [],
+    "Meixian": [],
+    "Xingning": [],
     "Huizhou": [],
     "Huizhou-SK": [],
     "Huizhou-HL": [],
     "Huiyang": [],
     "Huidong-PS": [],
-    "Huidong-DL": [
-        "藠頭"
-    ],
+    "Huidong-DL": [],
     "Dongguan-H": [],
     "Longmen-PL": [],
     "Longmen-LX": [],
@@ -141,80 +107,35 @@
     "Heping-LZ": [],
     "Lianping-ZX": [],
     "Lianping-LJ": [],
-    "Qujiang": [
-        "藠頭"
-    ],
+    "Qujiang": [],
     "Xinfeng-MT": [],
     "Xinfeng-DX": [],
-    "Xiaosanjiang": [
-        "藠頭"
-    ],
+    "Xiaosanjiang": [],
     "Liannan": [],
     "Conghua-H": [],
     "Jiexi": [],
     "Luchuan-LC": [],
     "Luchuan-DQ": [],
-    "Changting": [
-        "藠子"
-    ],
-    "Pingyu": [
-        "藠子"
-    ],
-    "Wuping": [
-        "藠子"
-    ],
-    "Liancheng": [
-        "藠頭"
-    ],
-    "Ninghua": [
-        "藠子"
-    ],
-    "Yudu": [
-        "藠子",
-        "懶屍菜"
-    ],
-    "Ruijin": [
-        "藠子"
-    ],
-    "Shicheng": [
-        "藠"
-    ],
-    "Shangyou": [
-        "藠子"
-    ],
+    "Changting": [],
+    "Pingyu": [],
+    "Wuping": [],
+    "Liancheng": [],
+    "Ninghua": [],
+    "Yudu": [],
+    "Ruijin": [],
+    "Shicheng": [],
+    "Shangyou": [],
     "Taoyuan": [],
-    "Miaoli": [
-        "藠頭",
-        "藠仔"
-    ],
-    "Liudui": [
-        "藠頭",
-        "藠仔"
-    ],
-    "Hsinchu": [
-        "藠頭",
-        "藠仔"
-    ],
-    "Dongshi": [
-        "藠頭",
-        "藠"
-    ],
-    "Raoping": [
-        "藠頭",
-        "藠仔",
-        "藠"
-    ],
-    "Yunlin": [
-        "蘆藠"
-    ],
-    "Hong Kong-H": [
-        "藠頭"
-    ],
+    "Miaoli": [],
+    "Liudui": [],
+    "Hsinchu": [],
+    "Dongshi": [],
+    "Raoping": [],
+    "Yunlin": [],
+    "Hong Kong-H": [],
     "Sabah-B": [],
     "Sabah-L": [],
-    "Senai": [
-        "藠頭"
-    ],
+    "Senai": [],
     "Singkawang": [],
     "Jixi": [],
     "Shexian": [],
@@ -228,22 +149,18 @@
     "Jingde": [],
     "Zhanda": [],
     "Guangzhou": [
-        "藠頭"
+        "入"
     ],
     "Hong Kong": [
-        "藠頭"
+        "入"
     ],
-    "HK Weitou": [
-        "藠頭"
-    ],
+    "HK Weitou": [],
     "Kam Tin": [],
-    "Ting Kok": [
-        "藠"
+    "Ting Kok": [],
+    "Tung Ping Chau": [],
+    "Macau": [
+        "入"
     ],
-    "Tung Ping Chau": [
-        "藠"
-    ],
-    "Macau": [],
     "Panyu": [],
     "Huadu": [],
     "Conghua": [],
@@ -263,38 +180,48 @@
     "Kaiping": [],
     "Enping": [],
     "Heshan": [],
-    "Dongguan": [
-        "藠頭"
-    ],
+    "Dongguan": [],
     "Bao'an": [],
     "Dapeng": [],
+    "Qingyuan": [],
+    "Fogang": [],
+    "Yingde": [],
+    "Yangshan": [],
+    "Lianshan": [],
+    "Lianzhou": [],
     "Shaoguan": [],
+    "Qujiang-C": [],
+    "Renhua": [],
+    "Lechang": [],
+    "Gaoyao": [],
+    "Sihui": [],
+    "Guangning": [],
+    "Deqing": [],
+    "Huaiji": [],
+    "Fengkai": [],
     "Yunfu": [],
+    "Xinxing": [],
+    "Luoding": [],
+    "Yunan": [],
     "Yangjiang": [],
     "Xinyi": [],
+    "Zhanjiang": [],
     "Lianjiang": [],
+    "Wuchuan": [],
     "Nanning": [],
     "Wuzhou": [],
     "Yulin": [],
     "Hepu": [],
     "Danzhou": [],
-    "Kuala Lumpur": [
-        "藠頭"
-    ],
-    "Ho Chi Minh City": [
-        "藠頭"
-    ],
-    "Nanning-P": [
-        "藠頭"
-    ],
+    "Kuala Lumpur": [],
+    "Ho Chi Minh City": [],
+    "Nanning-P": [],
     "Guilin-P": [],
     "Xiamen": [
-        "蕗蕎"
+        "入"
     ],
     "Tong'an": [],
-    "Quanzhou": [
-        "蕗蕎"
-    ],
+    "Quanzhou": [],
     "Jinjiang": [],
     "Nan'an": [],
     "Shishi": [],
@@ -302,9 +229,7 @@
     "Anxi": [],
     "Yongchun": [],
     "Dehua": [],
-    "Zhangzhou": [
-        "蕗蕎"
-    ],
+    "Zhangzhou": [],
     "Longhai": [],
     "Changtai": [],
     "Hua'an": [],
@@ -315,40 +240,28 @@
     "Zhao'an": [],
     "Dongshan": [],
     "Taipei": [
-        "蕗蕎"
+        "入"
     ],
     "Kaohsiung": [
-        "蕗蕎"
+        "入"
     ],
     "Tainan": [
-        "蕗蕎"
+        "入"
     ],
     "Taichung": [
-        "蕗蕎"
+        "入"
     ],
     "Wuqi": [],
-    "Hsinchu-MN": [
-        "蕗蕎"
-    ],
+    "Hsinchu-MN": [],
     "Taitung": [],
-    "Lukang": [
-        "蕗蕎"
-    ],
-    "Sanxia": [
-        "蕗蕎"
-    ],
-    "Yilan": [
-        "蕗蕎"
-    ],
-    "Kinmen": [
-        "蕗蕎"
-    ],
-    "Magong": [
-        "蕗蕎"
-    ],
+    "Lukang": [],
+    "Sanxia": [],
+    "Yilan": [],
+    "Kinmen": [],
+    "Magong": [],
     "Malaysia-MN": [],
     "Singapore-MN": [
-        "蕗蕎"
+        "入"
     ],
     "Philippine-MN": [],
     "Medan": [],
@@ -358,26 +271,24 @@
     "Datian": [],
     "Pingnan": [],
     "Chaozhou": [
-        "六藠"
+        "入"
     ],
     "Shantou": [
-        "六藠"
+        "入"
     ],
     "Haifeng": [],
-    "Thailand-MN-T": [
-        "六藠"
+    "Thailand-MN-T": [],
+    "Johor Bahru": [],
+    "Wenchang": [
+        "入"
     ],
-    "Johor Bahru": [
-        "六藠"
-    ],
-    "Wenchang": [],
     "Haikou": [],
     "Leizhou": [],
     "Putian": [],
     "Xianyou": [],
-    "Fuzhou": [
-        "蓼藠"
-    ],
+    "Shaxi": [],
+    "Sanxiang": [],
+    "Fuzhou": [],
     "Changle": [],
     "Fuqing": [],
     "Pingtan": [],
@@ -389,9 +300,7 @@
     "Zhouning": [],
     "Fuding": [],
     "Matsu": [],
-    "Jian'ou": [
-        "藠仔"
-    ],
+    "Jian'ou": [],
     "Dikou": [],
     "Songxi": [],
     "Zhenghe": [],

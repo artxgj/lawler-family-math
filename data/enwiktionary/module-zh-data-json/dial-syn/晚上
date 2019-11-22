@@ -58,7 +58,9 @@
     ],
     "Nantong": [],
     "Malaysia-M": [],
-    "Singapore-M": [],
+    "Singapore-M": [
+        "晚上"
+    ],
     "Taiyuan": [
         "黑夜",
         "黑了"
@@ -257,7 +259,9 @@
     "Malaysia-MN": [
         "暗暝"
     ],
-    "Singapore-MN": [],
+    "Singapore-MN": [
+        "暗暝"
+    ],
     "Philippine-MN": [
         "暗暝",
         "暗時",

@@ -40,8 +40,12 @@
     "Nanjing": [],
     "Hefei": [],
     "Nantong": [],
-    "Malaysia-M": [],
-    "Singapore-M": [],
+    "Malaysia-M": [
+        "牛油"
+    ],
+    "Singapore-M": [
+        "牛油"
+    ],
     "Taiyuan": [
         "黃油"
     ],
