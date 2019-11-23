@@ -3,7 +3,7 @@ from p3lib.wiktionary import WiktionaryModuleDataPage, WiktionarySpecialPrefixIn
 from io import StringIO
 from luaparser import ast, astnodes
 from abc import ABC, abstractmethod
-from iohelpers import filenames_from_folder, json_contents
+from iohelpers import filenames_from_folder, local_json_resource, dictlines_from_csv
 
 
 class ZhModuleDataIndex(ABC):
@@ -127,96 +127,45 @@ class ZhModuleDataFile:
         return s.getvalue()
 
 
-class ZhSynonymsLuaModule:
-    def __init__(self):
-        self._luapy_dispatch = {
-            astnodes.Table: self.rhs_table_to_list,
-            astnodes.String: self.rhs_string_to_str,
-            astnodes.Field: self.rhs_field_to_str
-        }
-
-    @classmethod
-    def rhs_table_to_list(cls, table):
-        return [field.value.s for field in table.fields]
-
-    @classmethod
-    def rhs_string_to_str(cls, luastr):
-        return luastr.s
-
-    @classmethod
-    def rhs_field_to_str(field):
-        return f"{field.key}  = {field.value}"
-
-    @classmethod
-    def find_synonyms_table(cls, astree: ast.Node) -> Optional[ast.Table]:
-        """
-        This method converts a lua table of dialectal synonyms to a python dictionary
-
-        astree is an abstract tree that represents a dialectal synoynyms resource written in Lua.
-        The following is an example of the dialectal synonyms for 麵包:
-
-            local export = {}
-
-            export.list = {
-                ["meaning"]		= "bread",
-                ["note"]		= "",
-                ["Singapore-MN"]	= { "loti" },
-                ["Philippine-MN"]	= { "饅頭", "麵包" }
-
-            }
-
-            return export
-
-
-        For the entire list of synoynms for 麵包, see https://en.wiktionary.org/wiki/Module:zh/data/dial-syn/麵包
-        """
-        for node in ast.walk(astree):
-            if isinstance(node, ast.Assign) and not isinstance(node, ast.LocalAssign):
-                for offset, target in enumerate(node.targets):
-                    if isinstance(target, ast.Index):
-                        if target.value.id == 'export' and target.idx.s == 'list' and  \
-                                isinstance(node.values[offset], ast.Table):
-                            return node.values[offset]
-
-        return None
-
-    def extract_pydict(self, lua_synonym_mod: str) -> Optional[dict]:
-        """
-        See above's find_synonyms_table regarding the string contents of lua_synonym_mod
-        """
-        tree = ast.parse(lua_synonym_mod)
-        synluatbl = self.find_synonyms_table(tree)
-
-        if synluatbl:
-            return {field.key.s: self._luapy_dispatch[type(field.value)](field.value) for field in synluatbl.fields}
-
-        else:
-            return None
-
-
 class ZhTopolectSynonyms:
     def __init__(self, top_syn: Tuple[str, dict]):
         self._top_syn = {word: synonyms for word, synonyms in top_syn}
 
     @classmethod
     def from_local_folder(cls, folder: str):
-        return cls((f, json_contents(f"{folder}/{f}")) for f in filenames_from_folder(folder))
+        return cls((f, local_json_resource(f"{folder}/{f}")) for f in filenames_from_folder(folder))
 
     def mandarin_words(self):
         return self._top_syn.keys()
+
+    def all_words(self):
+        return ((word, synonyms) for word, synonyms in self._top_syn.items())
 
 
 class ZhTopolectPronunciations:
     def __init__(self, pron_dicts: Generator[dict, None, None]):
         self._prons = {}
         for pron_dict in pron_dicts:
-            for word, pron in pron_dict.items():
-                self._prons[word] = pron
+            self._prons.update(pron_dict)
 
     @classmethod
-    def from_local_folder(cls, folder: str):
-        return cls(json_contents(f"{folder}/{f}") for f in filenames_from_folder(folder))
+    def from_local_json_folder(cls, folder: str):
+        return cls(local_json_resource(f"{folder}/{f}") for f in filenames_from_folder(folder))
+
+    @classmethod
+    def from_local_json_file(cls, filepath: str):
+        return cls((d for d in [local_json_resource(filepath)]))
 
     def pronunciation(self, word):
         return self._prons.get(word, None)
+
+
+class MandarinPronunciations(ZhTopolectPronunciations):
+    @classmethod
+    def from_frequencies_csv(cls, csv_filepath: str) -> ZhTopolectPronunciations:
+        pron = {}
+        for line in dictlines_from_csv(csv_filepath):
+            pron[line['Traditional']] = line['Pinyin']
+
+        return cls((d for d in [pron]))
 

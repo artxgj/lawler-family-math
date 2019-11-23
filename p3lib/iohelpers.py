@@ -34,6 +34,6 @@ def filenames_from_folder(folder_path: str) -> Iterator[str]:
         yield f
 
 
-def json_contents(file_path: str) -> dict:
+def local_json_resource(file_path: str) -> dict:
     with open(file_path, 'r', encoding='utf-8') as fs:
         return json.load(fs)
