@@ -1,16 +1,20 @@
 {
-    "meaning": "to enter",
+    "meaning": "foreigner",
     "note": "",
     "Classical": [
-        "入"
+        "夷"
     ],
-    "Formal": [],
+    "Formal": [
+        "外賓"
+    ],
     "Taxonomic": [],
     "Beijing": [
-        "進"
+        "外國人",
+        "洋人",
+        "洋鬼子:dated"
     ],
     "Taiwan": [
-        "進"
+        "外國人"
     ],
     "Tianjin": [],
     "Harbin": [],
@@ -44,12 +48,8 @@
     "Nanjing": [],
     "Hefei": [],
     "Nantong": [],
-    "Malaysia-M": [
-        "進"
-    ],
-    "Singapore-M": [
-        "進"
-    ],
+    "Malaysia-M": [],
+    "Singapore-M": [],
     "Gansu-DG": [],
     "Shaanxi-DG": [],
     "Taiyuan": [],
@@ -62,7 +62,9 @@
     "Dongsheng": [],
     "Linhe": [],
     "Haibowan": [],
-    "Shanghai": [],
+    "Shanghai": [
+        "老外"
+    ],
     "Suzhou": [],
     "Wuxi": [],
     "Hangzhou": [],
@@ -148,19 +150,13 @@
     "Dexing": [],
     "Jingde": [],
     "Zhanda": [],
-    "Guangzhou": [
-        "入"
-    ],
-    "Hong Kong": [
-        "入"
-    ],
+    "Guangzhou": [],
+    "Hong Kong": [],
     "HK Weitou": [],
     "Kam Tin": [],
     "Ting Kok": [],
     "Tung Ping Chau": [],
-    "Macau": [
-        "入"
-    ],
+    "Macau": [],
     "Panyu": [],
     "Huadu": [],
     "Conghua": [],
@@ -176,9 +172,7 @@
     "Doumen-S": [],
     "Jiangmen": [],
     "Xinhui": [],
-    "Taishan": [
-        "入"
-    ],
+    "Taishan": [],
     "Kaiping": [],
     "Enping": [],
     "Heshan": [],
@@ -215,19 +209,13 @@
     "Yulin": [],
     "Hepu": [],
     "Danzhou": [],
-    "Kuala Lumpur": [
-        "入"
-    ],
+    "Kuala Lumpur": [],
     "Ho Chi Minh City": [],
     "Nanning-P": [],
     "Guilin-P": [],
-    "Xiamen": [
-        "入"
-    ],
+    "Xiamen": [],
     "Tong'an": [],
-    "Quanzhou": [
-        "入"
-    ],
+    "Quanzhou": [],
     "Jinjiang": [],
     "Nan'an": [],
     "Shishi": [],
@@ -235,9 +223,7 @@
     "Anxi": [],
     "Yongchun": [],
     "Dehua": [],
-    "Zhangzhou": [
-        "入"
-    ],
+    "Zhangzhou": [],
     "Longhai": [],
     "Changtai": [],
     "Hua'an": [],
@@ -247,12 +233,8 @@
     "Yunxiao": [],
     "Zhao'an": [],
     "Dongshan": [],
-    "Taipei": [
-        "入"
-    ],
-    "Kaohsiung": [
-        "入"
-    ],
+    "Taipei": [],
+    "Kaohsiung": [],
     "Tainan": [],
     "Taichung": [],
     "Wuqi": [],
@@ -264,9 +246,7 @@
     "Kinmen": [],
     "Magong": [],
     "Malaysia-MN": [],
-    "Singapore-MN": [
-        "入"
-    ],
+    "Singapore-MN": [],
     "Philippine-MN": [],
     "Medan": [],
     "Longyan": [],
@@ -274,18 +254,12 @@
     "Yongfu": [],
     "Datian": [],
     "Pingnan": [],
-    "Chaozhou": [
-        "入"
-    ],
-    "Shantou": [
-        "入"
-    ],
+    "Chaozhou": [],
+    "Shantou": [],
     "Haifeng": [],
     "Thailand-MN-T": [],
     "Johor Bahru": [],
-    "Wenchang": [
-        "入"
-    ],
+    "Wenchang": [],
     "Haikou": [],
     "Leizhou": [],
     "Putian": [],

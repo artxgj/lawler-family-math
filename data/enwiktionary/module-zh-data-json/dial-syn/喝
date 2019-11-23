@@ -230,12 +230,16 @@
         "啉"
     ],
     "Chaozhou": [
-        "食",
-        "啉"
+        "食"
     ],
-    "Shantou": [],
+    "Shantou": [
+        "食"
+    ],
     "Thailand-MN-T": [],
     "Haikou": [],
+    "Wenchang": [
+        "食"
+    ],
     "Leizhou": [],
     "Fuzhou": [
         "啜"

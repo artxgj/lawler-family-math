@@ -158,6 +158,7 @@
     "Nanning": [],
     "Nanning-P": [],
     "Xiamen": [
+        "感謝",
         "多謝",
         "費神",
         "勞力"
@@ -215,16 +216,21 @@
         "多謝"
     ],
     "Malaysia-MN": [
-        "感謝",
-        "thank you"
+        "感謝"
     ],
-    "Singapore-MN": [],
+    "Singapore-MN": [
+        "感謝"
+    ],
     "Philippine-MN": [
         "多謝",
         "感謝"
     ],
-    "Chaozhou": [],
-    "Shantou": [],
+    "Chaozhou": [
+        "㩼謝"
+    ],
+    "Shantou": [
+        "㩼謝"
+    ],
     "Thailand-MN-T": [],
     "Haikou": [],
     "Leizhou": [],
