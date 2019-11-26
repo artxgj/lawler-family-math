@@ -1,5 +1,9 @@
 from enzhwiktionary import RawTopolectPronunciation
 from typing import Sequence
+import re
+
+
+_rcomments = re.compile(r'<!--.+-->')
 
 
 class MinnanTopolect:
@@ -73,6 +77,9 @@ class MinnanTopolect:
         self._notes = set()
         self._all_keys = {loc for loc in self.location_list.keys()}
 
+        if 'ml' in self._all_keys:
+            self._all_keys.remove('ml')
+
         for topo in topo_pron:
             if topo.note:
                 self._notes.add(topo.note)
@@ -93,7 +100,9 @@ class MinnanTopolect:
     @staticmethod
     def parse_dialect_pron(s: str):
         res = set()
-        dial_prons = s.split('/')
+        s1 = _rcomments.sub('', s)
+        s2 = s1.replace('仔', 'á')
+        dial_prons = s2.split('/')
         for dial_pron in dial_prons:
             locs_pron = dial_pron.split(':')
 

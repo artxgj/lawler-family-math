@@ -48,3 +48,23 @@ class TestMinnanTopolect(unittest.TestCase):
             ('kha-thâu-u', 'yl'), ('kha-thâu-u', 'km'), ('kha-thâu-u', 'mg'), ('kha-tâ-u', 'pn')
         }
         self.assertTrue(actual == expected)
+
+    def test_comment_removed(self):
+        dial_prons = 'pōe/iāng<!--/āinn-->'
+        actual = MinnanTopolect.parse_dialect_pron(dial_prons)
+        expected = {
+            ('pōe', 'all'),
+            ('iāng', 'all')
+        }
+
+        self.assertTrue(actual == expected)
+
+    def test_replacement_of_仔(self):
+        dial_prons = 'jj,ph:kin-仔-àm'
+        actual = MinnanTopolect.parse_dialect_pron(dial_prons)
+        expected = {
+            ('kin-á-àm', 'jj'),
+            ('kin-á-àm', 'ph')
+        }
+
+        self.assertTrue(actual == expected)
