@@ -2,7 +2,7 @@ from enzhwiktionary import RawTopolectPronunciation
 from typing import Sequence
 
 
-class Minnan:
+class MinnanTopolect:
     """
     https://en.wiktionary.org/wiki/Module:nan-pron
 
@@ -70,32 +70,47 @@ class Minnan:
 
     def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
         self._prons = {}
-        self._notes = []
+        self._notes = set()
+        self._all_keys = {loc for loc in self.location_list.keys()}
+
         for topo in topo_pron:
             if topo.note:
-                self._notes.append(topo.note)
+                self._notes.add(topo.note)
 
-            for dialects in topo.info.split('/'):
-                dials_pron = dialects.split(':')
-
-                if dials_pron[0].find(','):
-                    dialects = dials_pron[0].split(',')
-
-                if len(dialects) == 1:
-                    self._prons['xm'] = dialects[0]
-                    self._prons['qz'] = dialects[0]
-                    self._prons['zz'] = dialects[0]
-                else:
-                    pron = dials_pron[1]
-                    for dial in dialects:
-                        if dial == 'ml':
-                            self._prons['xm'] = pron
-                            self._prons['qz'] = pron
-                            self._prons['zz'] = pron
+            dial_prons = self.parse_dialect_pron(topo.info)
+            for pron, loc in dial_prons:
+                if loc == 'all':
+                    for key in self._all_keys:
+                        if key in self._prons:
+                            self._prons[key].add(pron)
                         else:
-                            self._prons[dial] = pron
+                            self._prons[key] = {pron}
+                elif loc in self._prons:
+                    self._prons[loc].add(pron)
+                else:
+                    self._prons[loc] = {pron}
 
-            print(self._prons, self._notes)
+    @staticmethod
+    def parse_dialect_pron(s: str):
+        res = set()
+        dial_prons = s.split('/')
+        for dial_pron in dial_prons:
+            locs_pron = dial_pron.split(':')
+
+            if len(locs_pron) > 1:
+                pron = locs_pron[1].strip()
+                locs = locs_pron[0].strip().split(',')
+                for loc in locs:
+                    if loc == 'ml':
+                        res.add((pron, 'xm'))
+                        res.add((pron, 'zz'))
+                        res.add((pron, 'qz'))
+                    else:
+                        res.add((pron, loc))
+            else:
+                res.add((locs_pron[0].strip(), 'all'))
+
+        return res
 
     def dialect(self, dial: str) -> Sequence[str]:
         return self._prons.get(dial, None)
@@ -104,7 +119,7 @@ class Minnan:
         return None if len(self._notes) == 0 else self._notes[0]
 
 
-class Mandarin:
+class MandarinTopolect:
     """
     普通話
     """
@@ -118,14 +133,3 @@ class Mandarin:
     def notes(self):
         pass
 
-
-if __name__ == '__main__':
-    tests = [
-        [RawTopolectPronunciation(info='chúi/súi', note='chúi - vernacular; súi - literary')],
-        [RawTopolectPronunciation(info='qz:lia̍k-sír/tw,xm,zz:le̍k-sú/jj,ph:lia̍k-sí', note=None)],
-        [RawTopolectPronunciation(info='lîm', note=None)],
-        [RawTopolectPronunciation(info='qz:ian-pit-soān', note=None)]
-    ]
-
-    for test in tests:
-        mn = Minnan(test)
