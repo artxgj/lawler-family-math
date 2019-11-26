@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
-from typing import Sequence, Optional
+from typing import Sequence, Optional, Union
 import re
 
 """
@@ -45,7 +45,7 @@ _SupportedTopolects = {"m", "m-s", "c", "c-t", "g", "h", "j",
 @dataclass
 class RawTopolectPronunciation:
     info: str
-    note: str = None
+    note: Optional[str] = None
 
 
 class EnWiktChinesePronunciation(ABC):

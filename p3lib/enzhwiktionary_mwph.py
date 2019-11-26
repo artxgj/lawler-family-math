@@ -33,10 +33,25 @@ if __name__ == "__main__":
 
     wikt = WicktionaryRevisionEntrySearch()
 
-    for 詞 in ['凱', '水', '瑟', '緊', '琳', '歷史', '冠', '哭', '吼']:
-        res = wikt.find(詞)
+    for 詞 in ['嗷嗷念', '鉛筆璇', '凱', '水', '瑟', '緊', '琳', '歷史', '冠', '哭', '吼', '三點水', '趁食查某', '霸灰']:
+        try:
+            res = wikt.find(詞)
+        except Exception as e:
+            print(e)
+            continue
+
         # print(res.content)
         print("\n* * * * * * *\n")
         zhpron = MwphEnWiktChinesePronunciation(res.content)
-        print(zhpron.topolect('m'))
+        try:
+            print(詞, 'mandarin', zhpron.topolect('m'))
+        except Exception as e1:
+            print(e1)
+            print(dir(res), "\n", res.content)
+
+        try:
+            print(詞, 'minnan', zhpron.topolect('mn'))
+        except Exception as e2:
+            print(e2)
+
         print("\n+ + + + + + +\n")

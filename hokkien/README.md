@@ -14,6 +14,7 @@ A programming project to learn about Wiktionary and leverage its wonderful data
 ### Wiktionary ###
 * [Wiktionary:Entry layout](https://en.wiktionary.org/wiki/Wiktionary:Entry_layout#Headings_before_the_definitions)  
 * [Wiktionary Category:TemplateData](https://en.wiktionary.org/wiki/Category:TemplateData_documentation)
+* [Wiktionary: Template:label](https://en.wiktionary.org/wiki/Template:label)
 
 #### Chinese-related ###
 * [Wiktionary:About Chinese](https://en.wiktionary.org/wiki/Wiktionary:About_Chinese)

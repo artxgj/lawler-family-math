@@ -69,13 +69,39 @@ class Minnan:
     }
 
     def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
-        pass
+        self._prons = {}
+        self._notes = []
+        for topo in topo_pron:
+            if topo.note:
+                self._notes.append(topo.note)
+
+            for dialects in topo.info.split('/'):
+                dials_pron = dialects.split(':')
+
+                if dials_pron[0].find(','):
+                    dialects = dials_pron[0].split(',')
+
+                if len(dialects) == 1:
+                    self._prons['xm'] = dialects[0]
+                    self._prons['qz'] = dialects[0]
+                    self._prons['zz'] = dialects[0]
+                else:
+                    pron = dials_pron[1]
+                    for dial in dialects:
+                        if dial == 'ml':
+                            self._prons['xm'] = pron
+                            self._prons['qz'] = pron
+                            self._prons['zz'] = pron
+                        else:
+                            self._prons[dial] = pron
+
+            print(self._prons, self._notes)
 
     def dialect(self, dial: str) -> Sequence[str]:
-        pass
+        return self._prons.get(dial, None)
 
     def notes(self):
-        pass
+        return None if len(self._notes) == 0 else self._notes[0]
 
 
 class Mandarin:
@@ -83,6 +109,7 @@ class Mandarin:
     普通話
     """
     def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
+
         pass
 
     def dialect(self, dial: str) -> Sequence[str]:
@@ -91,3 +118,14 @@ class Mandarin:
     def notes(self):
         pass
 
+
+if __name__ == '__main__':
+    tests = [
+        [RawTopolectPronunciation(info='chúi/súi', note='chúi - vernacular; súi - literary')],
+        [RawTopolectPronunciation(info='qz:lia̍k-sír/tw,xm,zz:le̍k-sú/jj,ph:lia̍k-sí', note=None)],
+        [RawTopolectPronunciation(info='lîm', note=None)],
+        [RawTopolectPronunciation(info='qz:ian-pit-soān', note=None)]
+    ]
+
+    for test in tests:
+        mn = Minnan(test)

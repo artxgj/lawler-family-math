@@ -1,7 +1,6 @@
 from typing import Generator, Tuple, Optional, Dict
 from p3lib.wiktionary import WiktionaryModuleDataPage, WiktionarySpecialPrefixIndex, Namespace
 from io import StringIO
-from luaparser import ast, astnodes
 from abc import ABC, abstractmethod
 from iohelpers import filenames_from_folder, local_json_resource, dictlines_from_csv
 
@@ -158,6 +157,10 @@ class ZhTopolectPronunciations:
 
     def pronunciation(self, word):
         return self._prons.get(word, None)
+
+    def words_pronunciations(self):
+        for word, pronunciations in self._prons.items():
+            yield word, pronunciations
 
 
 class MandarinPronunciations(ZhTopolectPronunciations):
