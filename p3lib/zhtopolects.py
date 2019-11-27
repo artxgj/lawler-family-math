@@ -81,6 +81,9 @@ class MinnanTopolect:
             self._all_keys.remove('ml')
 
         for topo in topo_pron:
+            if len(topo.info) == 0:
+                continue
+
             if topo.note:
                 self._notes.add(topo.note)
 
