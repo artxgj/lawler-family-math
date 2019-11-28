@@ -825,4 +825,4 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 * [Hokkien](https://en.wikipedia.org/wiki/Hokkien)
 * [Southern Min](https://en.wikipedia.org/wiki/Southern_Min)
 
-*Thursday, 2019-November-28*
+*Last update date: Thursday, 2019-November-28*
