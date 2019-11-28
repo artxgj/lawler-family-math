@@ -171,31 +171,3 @@ class MandarinTopolect:
 
         return res
 
-
-if __name__ == '__main__':
-    folder_path = '../data/enwiktionary/zh-words/20191125'
-    i = 0
-    j = 0
-    hokkien_pron = {}
-
-    from iohelpers import filenames_from_folder, lines_from_textfile
-    from enzhwiktionary_mwph import MwphEnWiktChinesePronunciation
-    import io
-
-    for fname in filenames_from_folder(folder_path):
-        s = io.StringIO()
-        j += 1
-        for line in lines_from_textfile(f'{folder_path}/{fname}'):
-            s.write(f"{line}\n")
-
-        try:
-            zh_pron = MwphEnWiktChinesePronunciation(s.getvalue())
-            m_pron = zh_pron.topolect('m')
-            print(fname, m_pron)
-            i += 1
-        except Exception as e:
-            print(f"* * * * *{fname}, {e}")
-
-    print("-----------------------------------------")
-    print(f"Number of words with Minnan: {i}")
-    print(f"Total number of words in local folder: {j}")
