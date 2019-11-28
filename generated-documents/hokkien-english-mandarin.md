@@ -10,7 +10,7 @@ The Minnan words are selected from the following Minnan variants:
 The romanized characters next to the Hokkien synonyms on this page are
 called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 
-### Hokkien Topolectal Synonyms
+### Hokkien Words List
 
 | English | Minnan/Hokkien | Mandarin |
 | ----- | ----- | ----- |
@@ -482,7 +482,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | pencil sharpener | 鉛筆璇 [ian-pit-soān]<br/>鉛筆剾 [iân-pit-khau] | 轉筆刀 [zhuànbǐdāo] |
 | penis; male genitalia | 𡳞鳥 [lǎn-chiáu/lān-chiáu] | 陰莖 [yīn jīng] |
 | petrol; gasoline | 電油 [tiān-iû]<br/>番油 [hoan-iû]<br/>番仔油 [hoan-á-iû] | 汽油 [qì yóu] |
-| photograph | 像 [chhiūⁿ] | 照片 [zhào piàn] |
+| photograph | 像 [chhiūⁿ/chhiǔⁿ/chhiōⁿ/siōng /siǒng/siāng] | 照片 [zhào piàn] |
 | pig's blood (as food) | 豬血 [ti-huih/tir-huih]<br/>豬料 [tir-liàu/ti-liàu] | 豬血 [zhū血] |
 | pig; swine | 豬 [ti/tir/tu] | 豬 [zhū] |
 | pigeon; dove | 鴿仔 [kap-á/chíⁿ-á] | 鴿子 [gē zi] |
@@ -825,4 +825,4 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 * [Hokkien](https://en.wikipedia.org/wiki/Hokkien)
 * [Southern Min](https://en.wikipedia.org/wiki/Southern_Min)
 
-*2019-11-28*
+*Thursday, 2019-November-28*

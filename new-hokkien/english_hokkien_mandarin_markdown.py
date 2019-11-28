@@ -22,7 +22,7 @@ if __name__ == '__main__':
     tb_data = '\n'.join([Markdown.table_row(item) for item in ehm.items()])
 
     hokkien_table = f"{tb_header}\n{tb_data}"
-    tbl_gen_date = datetime.now().strftime("%Y-%m-%d")
+    tbl_gen_date = datetime.now().strftime("%A, %Y-%B-%d")
     md_ehm = md_template.format(hokkien_table=hokkien_table, tbl_gen_date=tbl_gen_date)
 
     with open('../data/tmp/hokkien-english-mandarin.md', 'w', encoding='utf-8') as ostr:
