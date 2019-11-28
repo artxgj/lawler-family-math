@@ -1,16 +1,16 @@
 ## Minnan(閩南話/Hokkien(福建話) Topolect
 
-[Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) compiled a subset of [Chinese dialectal synonyms](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn/documentation) of Mandarin (普通話) words.
-This page is programmatically-generated using this subset and lists the Minnan words and their counterparts in English and Mandarin.
-The Minnan words are selected from the following Minnan variants:
+[Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) contributors compiled a subset of [Chinese dialectal synonyms](https://en.wiktionary.org/wiki/Module:zh/data/dial-syn/documentation) of Mandarin (普通話) words.
+The table of Chinese words on this page was programmatically-generated using this dialectal-subset. The table lists only the Minnan words and their counterparts in English and Mandarin.
+The Minnan words were culled from the following Minnan variants:
 * [Philippine Hokkien](https://en.wikipedia.org/wiki/Philippine_Hokkien)
 * [Quanzhou](https://en.wikipedia.org/wiki/Quanzhou)
 * [Xiamen](https://en.wikipedia.org/wiki/Xiamen)
 
 The romanized characters next to the Hokkien synonyms on this page are
-called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
+called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī) (POJ).
 
-### Hokkien Words List
+### A Table of Minnan/Hokkien Words
 
 | English | Minnan/Hokkien | Mandarin |
 | ----- | ----- | ----- |
