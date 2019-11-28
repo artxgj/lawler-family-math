@@ -1,5 +1,5 @@
 from iohelpers import to_json_file
-from zhmodules import ZhTopolectSynonyms, MandarinPronunciations
+from zhmodules import MandarinPronunciations
 
 
 mandarin_sources = [

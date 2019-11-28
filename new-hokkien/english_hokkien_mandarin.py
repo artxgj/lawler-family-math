@@ -84,9 +84,9 @@ class EnglishHokkienMandarin:
 
 if __name__ == '__main__':
     synonyms = ZhTopolectSynonyms.from_local_folder('../data/enwiktionary/module-zh-data-json/dial-syn')
-
-    mp = MandarinPronunciations.from_local_json_file('../data/enwiktionary/module-zh-data-json/combined-mandarin-pron.json')
+    mp = MandarinPronunciations.from_local_json_folder('../data/enwiktionary/module-zh-data-json/mandarin-pron')
     h = ZhTopolectPronunciations.from_local_json_folder('../data/enwiktionary/module-zh-data-json/nan-pron')
 
     ehm = EnglishHokkienMandarin(synonyms, h, mp)
-    lines_to_csv('../data/tmp/english-hokkien-mandarin.csv', ehm.items())
+    today = datetime.now().strftime('%Y-%m-%d')
+    lines_to_csv(f'../data/tmp/english-hokkien-mandarin.{today}.csv', ehm.items())

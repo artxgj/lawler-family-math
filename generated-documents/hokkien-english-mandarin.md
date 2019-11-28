@@ -20,13 +20,13 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | ''possessive particle'' | 个  | 的 [dí] |
 | (''expressive'') plump; chubby; fat | 胖獅獅 [phòng-sai-sai]<br/>肥朒朒  | 胖乎乎 [pàng hū hū] |
 | (''expressive'') sour | 酸記記 [sng-kì-kì]<br/>酸揪揪 [sng-giuh-giuh]<br/>酸掬掬 [sng-kiuh-kiuh] | 酸溜溜 [suān liū liū] |
-| (''expressive'') wet, moist | 澹醬醬 [tâm-chiùⁿ-chiùⁿ]<br/>澹漉漉 [tâm-lok-lok]<br/>澹喌喌 [tâm-chiuh-chiuh] | 濕乎乎 |
+| (''expressive'') wet, moist | 澹醬醬 [tâm-chiùⁿ-chiùⁿ]<br/>澹漉漉 [tâm-lok-lok]<br/>澹喌喌 [tâm-chiuh-chiuh] | 濕乎乎 [shīhūhū] |
 | (bus, train, etc.) station | 車頭:dated [chhia-thâu]<br/>車站 [chhia-chām] | 車站 [chē zhàn] |
 | (carbonated) soft drink | 汽水 [khì-chúi] | 汽水 [qì shuǐ] |
 | (chicken) egg white | 卵清 [nn̄g-chheng] | 蛋白 [dàn bái] |
 | (classifier for flowers) | 蕊 [lúi]<br/>葩 [pha] | 朵 [duǒ] |
 | (classifier for plants) | 叢 [châng] | 棵 [kē] |
-| (female) cow | 牛母 [gû-bó/gû-bú] | 母牛 |
+| (female) cow | 牛母 [gû-bó/gû-bú] | 母牛 [mǔniú] |
 | (large) broom | 掃帚 [sàu-chhiú/sàu-chiú] | 掃帚 [sào zhou] |
 | (modern) school | 學堂 [o̍h-tn̂g]<br/>學校 [ha̍k-hāu] | 學校 [xué xiào] |
 | (petty) thief | 賊仔 [chha̍t-á] | 小偷 [xiǎo tōu] |
@@ -59,7 +59,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | back (of the body) | 巴脊 [pa-chiah] | 背 [bèi] |
 | backstroke; back crawl | 反肚泅 [púiⁿ-tó͘-siû/péng-tō͘-siû] | 仰泳 [yǎng yǒng] |
 | bad; not good | 歹 [pháiⁿ/phái/tái] | 壞 [huài] |
-| ballpoint pen | 膏筆 [ko-pit]<br/>圓珠筆 [oân-chu-pit] | 圓珠筆 [yuán zhū bǐ] |
+| ballpoint pen | 膏筆 [ko-pit]<br/>圓珠筆 [oân-chu-pit] | 圓珠筆 [yuánzhūbǐ] |
 | banana | 弓蕉 [keng-chio/kin-chio] | 香蕉 [xiāng jiāo] |
 | bangle | 手圈 [chhiú-khoan]<br/>手環 [chhiú-khoân] | 手鐲 [shǒu zhuó] |
 | banknote; bill | 銀紙 [gîn-chóa/gûn-chóa]<br/>銀票:dated [gîn-phiò/gûn-phiò]<br/>紙字 [chóa-lī] | 紙幣 [zhǐ bì] |
@@ -75,9 +75,9 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | beggar | 乞食 [khit-chia̍h] | 乞丐 [qǐ gài] |
 | belly | 腹肚 [pak-tó͘] | 肚子 [dǔ zi] |
 | below; under | 下跤 [ě-kha/ē-kha]<br/>下面 [ē-bīn]<br/>下底 [ē-té/ē-tóe] | 下面 [xià miàn] |
-| bib (for babies) | 飯垂 [pn̄g-sôe/pn̄g-sê]<br/>瀾垂 [nōa-sôe/nōa-sê]<br/>頷垂 [ām-sôe/ām-sê] | 圍嘴 |
+| bib (for babies) | 飯垂 [pn̄g-sôe/pn̄g-sê]<br/>瀾垂 [nōa-sôe/nōa-sê]<br/>頷垂 [ām-sôe/ām-sê] | 圍嘴 [wéizuǐ] |
 | bicycle | 跤踏車 [kha-ta̍h-chhia] | 自行車 [zì xíng chē] |
-| bighead carp | 大頭鰱 [tōa-thâu-liân] | 鱅魚 |
+| bighead carp | 大頭鰱 [tōa-thâu-liân] | 鱅魚 [yōngyú] |
 | billiards | 撞球 [tōng-kiû] | 檯球 [tái qiú] |
 | bird | 鳥 [chiáu] | 鳥 [niǎo] |
 | bitter melon | 苦瓜 [khó͘-koe] | 苦瓜 [kǔ guā] |
@@ -95,17 +95,17 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | breaststroke | 田蛤仔躘 [chhân-kap-á-lèng]<br/>田蛤仔泅 [chhân-kap-á-siû]<br/>水雞泅 [súi-ke-siû/súi-koe-siû] | 蛙泳 [wā yǒng] |
 | bride | 新娘 [sin-niû]<br/>新儂 [sin-lâng]<br/>新娘官 [sin-niû-koaⁿ] | 新娘 [xīn niáng] |
 | bridegroom | 新官 <br/>新儂官 [sin-lâng-koaⁿ]<br/>新儂 [sin-lâng]<br/>囝婿官 [kiáⁿ-sài-koaⁿ]<br/>囝婿 [kiáⁿ-sài] | 新郎 [xīn láng] |
-| bridge of the nose | 鼻鞍 [phīⁿ-oaⁿ]<br/>鼻刀 [phīⁿ-to]<br/>鼻腰 [phīⁿ-io] | 鼻樑 |
+| bridge of the nose | 鼻鞍 [phīⁿ-oaⁿ]<br/>鼻刀 [phīⁿ-to]<br/>鼻腰 [phīⁿ-io] | 鼻樑 [bíliáng] |
 | bright | 光 [kng/kong] | 亮 [liàng] |
 | brother-in-law (wife's younger brother) | 舅仔 [kū-á] | 小舅子 [xiǎo jiù zi] |
-| brothers | 兄弟 [hiaⁿ-tǐ/heng-tě/hiaⁿ-tī/heng-tē]<br/>兄弟仔 [hiaⁿ-tī-á/hiaⁿ-tî-á] | 兄弟 [xiōng dì] |
+| brothers | 兄弟 [hiaⁿ-tǐ/heng-tě/hiaⁿ-tī/heng-tē]<br/>兄弟仔 [hiaⁿ-tī-á/hiaⁿ-tî-á] | 兄弟 [xiōngdi] |
 | but; however | 但是 [tān-sī]<br/>毋句 [m̄-kú] | 但是 [dàn shi] |
 | butter | 牛油 [gû-iû] | 奶油 [nǎi yóu] |
 | butterfly | 尾蝶 [bóe-ia̍h/bé-ia̍h] | 蝴蝶 [hú dié] |
 | buttocks | 尻川 [kha-chhng] | 屁股 [pì gu] |
 | by; ''passive marker'' | 予 [îr/ír/thō͘/û/ú/hō͘]<br/>乞 [khit] | 被 [bèi] |
 | calculator | 計算機 [kè-sǹg-ki] | 計算器 [jì suàn qì] |
-| calf | 牛仔 [gû-á]<br/>牛仔囝 [gû-á-kiáⁿ] | 小牛 |
+| calf | 牛仔 [gû-á]<br/>牛仔囝 [gû-á-kiáⁿ] | 小牛 [xiǎoniú] |
 | calligraphy brush; inkbrush | 毛筆 [mô͘-pit] | 毛筆 [máo bǐ] |
 | camera | 像機 [siǒng-ki/siōng-ki] | 相機 [xiàng jī] |
 | can; may | 會做 [ě-chòe/ē-chòe]<br/>會用 [ē-ēng]<br/>會用得 [ě-ēng-lit/ě-ēng-tit/ē-ēng-tit]<br/>會做得 [ě-chòe-lit/ě-chòe-tit]<br/>會當 [ē-tàng/ōe-tàng] | 可以 [kě yǐ] |
@@ -121,7 +121,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | centipede | 蜈蚣 [giâ-kang] | 蜈蚣 [wú gōng] |
 | century egg | 皮蛋 [phî-tàn] | 皮蛋 [pí dàn] |
 | chair (with back) | 椅仔 [í-á]<br/>椅 [í/kho] | 椅子 [yǐ zi] |
-| chard | 軍辣菜 [kun-toa̍h-chhài/kun-loa̍h-chhài]<br/>加跋菜 [ka-poa̍h-chhài]<br/>茄茉菜 [ka-boa̍h-chhài] | 莙薘菜 |
+| chard | 軍辣菜 [kun-toa̍h-chhài/kun-loa̍h-chhài]<br/>加跋菜 [ka-poa̍h-chhài]<br/>茄茉菜 [ka-boa̍h-chhài] | 莙薘菜 [莙dácài] |
 | cheap | 俗 [sio̍h/sio̍k] | 便宜 [biàn yí] |
 | cheese | 鹹牛奶 [kiâm-gû-leng/kiâm-gû-ni]<br/>奶酪 [ni-lo̍k]<br/>乳酪 [lú-lo̍k] | 奶酪 [nǎi luò] |
 | chewing gum | 樹奶糖 [chhiū-leng-thn̂g/chhiū-ni-thn̂g] | 口香糖 [kǒu xiāng táng] |
@@ -133,16 +133,16 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | chili pepper | 番椒 [hoan-chio]<br/>番薑 [hoan-kiuⁿ] | 辣椒 [là jiāo] |
 | chin | 下頦 [ē-hoâi/ē-hâi]<br/>下斗 [ē-táu] | 下巴 [xià ba] |
 | Chinese calendar | 舊曆 [kū-le̍k]<br/>咱人 [lán-lâng]<br/>古曆 [kó͘-le̍k] | 農曆 [nóng lì] |
-| Chinese character component 亻 | 徛儂爿 [khǎ-lâng-pûiⁿ/khiā-lâng-pêng]<br/>單徛儂 [tan-khǎ-lâng/tan-khiā-lâng]<br/>單人爿 [tan-lîn-pûiⁿ/tan-lîn-pêng]<br/>徛人爿 [khiā-jîn-pêng] | 單人旁 |
-| Chinese character component 宀 | 覆模 [phak-bô͘]<br/>寶蓋頭 [pó-kài-thâu] | 寶蓋頭 |
-| Chinese character component 彳 | 雙徛儂 <br/>雙人爿 [siang-lîn-pêng] | 雙人旁 |
+| Chinese character component 亻 | 徛儂爿 [khǎ-lâng-pûiⁿ/khiā-lâng-pêng]<br/>單徛儂 [tan-khǎ-lâng/tan-khiā-lâng]<br/>單人爿 [tan-lîn-pûiⁿ/tan-lîn-pêng]<br/>徛人爿 [khiā-jîn-pêng] | 單人旁 [dānrénpáng] |
+| Chinese character component 宀 | 覆模 [phak-bô͘]<br/>寶蓋頭 [pó-kài-thâu] | 寶蓋頭 [bǎogàitóu] |
+| Chinese character component 彳 | 雙徛儂 <br/>雙人爿 [siang-lîn-pêng] | 雙人旁 [shuāngrénpáng] |
 | Chinese character component 忄 | 抱心爿 [phǒ-sim-pûiⁿ/phō-sim-pêng]<br/>徛心爿 [khiā-sim-pêng] | 豎心旁 [shù xīn páng] |
-| Chinese character component 攵 | 反文爿 [hoán-bûn-pûiⁿ/hoán-bûn-pêng] | 反文旁 |
-| Chinese character component 氵 | 三點水 [saⁿ-tiám-chúi] | 三點水 |
-| Chinese character component 糹/纟 | 絲字爿 [si-lī-pûiⁿ/si-lī-pêng] | 絞絲旁 |
-| Chinese character component 艹 | 草頭 <br/>草字頭 [chháu-lī-thâu/chhó-lī-thâu]<br/>草仔頭 [chhó-á-thâu] | 草字頭 |
-| Chinese character component 阝 | 鉤耳爿 [kau-hǐ-pûiⁿ/kau-hī-pêng]<br/>鉤耳仔 [kau-hī-á]<br/>鉤耳仔爿 [kau-hī-á-pêng] | 雙耳旁 |
-| Chinese character component 𥫗 | 竹字頭 [tiak-lī-thâu/tek-lī-thâu] | 竹字頭 |
+| Chinese character component 攵 | 反文爿 [hoán-bûn-pûiⁿ/hoán-bûn-pêng] | 反文旁 [fǎnwénpáng] |
+| Chinese character component 氵 | 三點水 [saⁿ-tiám-chúi] | 三點水 [sāndiǎnshuǐ] |
+| Chinese character component 糹/纟 | 絲字爿 [si-lī-pûiⁿ/si-lī-pêng] | 絞絲旁 [jiǎosīpáng] |
+| Chinese character component 艹 | 草頭 <br/>草字頭 [chháu-lī-thâu/chhó-lī-thâu]<br/>草仔頭 [chhó-á-thâu] | 草字頭 [cǎozìtóu] |
+| Chinese character component 阝 | 鉤耳爿 [kau-hǐ-pûiⁿ/kau-hī-pêng]<br/>鉤耳仔 [kau-hī-á]<br/>鉤耳仔爿 [kau-hī-á-pêng] | 雙耳旁 [shuāng'ěrpáng] |
+| Chinese character component 𥫗 | 竹字頭 [tiak-lī-thâu/tek-lī-thâu] | 竹字頭 [zhúzìtóu] |
 | Chinese onion | 蕗蕎 [lō͘-kiō/lō͘-giō] | 薤 [xiè] |
 | Chinese water chestnut | 馬薺 [bé-chî] | 荸薺 [bí qí] |
 | chocolate | 芝居力 [chiak-ku-la̍h/chi-ku-la̍t] | 巧克力 [qiǎo kè lì] |
@@ -167,7 +167,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | coconut | 椰子 [iâ-chí] | 椰子 [yé zi] |
 | cold | 冷 [léng]<br/>寒 [hân/kôaⁿ]<br/>凊 [chhìn] | 冷 [lěng] |
 | comet | 掃帚星 [sàu-chhiú-chheⁿ/sàu-chhiú-chhiⁿ]<br/>歹星 [pháiⁿ-chheⁿ/phái-chhiⁿ]<br/>拖尾星 [thoa-bóe-chheⁿ/thoa-bóe-chhiⁿ] | 彗星 [huì xīng] |
-| computer mouse | 鼠標 [chhír-pio/sú-piau] | 鼠標 |
+| computer mouse | 鼠標 [chhír-pio/sú-piau] | 鼠標 [shǔbiāo] |
 | congee | 糜 [bôe/mê/bê/moâi/bê]<br/>飲糜 [ám-bê/ám-bêr] | 粥 [zhōu] |
 | cooked rice | 飯 [pn̄g] | 米飯 [mǐ fàn] |
 | coriander | 芫荽 [iân-sui/iân-suiⁿ] | 芫荽 [yuán suī] |
@@ -175,7 +175,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | correct | 著 [tio̍h/to̍h] | 對 [duì] |
 | could it be that; is it possible that | 總無 [chóng-bô]<br/>敢 [kám/káⁿ/kiám]<br/>攏無 [lóng-bô] | 難道 [nán dào] |
 | crab | 蟳 [chîm] | 螃蟹 [páng xiè] |
-| cricket | 蟋蟀 [siak-sut/sek-sut] | 蟋蟀 [xī shuài] |
+| cricket | 蟋蟀 [siak-sut/sek-sut] | 蟋蟀 [xīshuài] |
 | crocodile; alligator | 末仔 [boa̍h-á/boah-á] | 鱷魚 [è yú] |
 | crow; raven | 烏鴉 [o͘-a] | 烏鴉 [wū yā] |
 | cucumber | 菜瓜 [chhài-koe]<br/>消瓜 <br/>刺瓜 [chhì-koe] | 黃瓜 [huáng guā] |
@@ -210,7 +210,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | dry | 焦 [chau] | 乾 [qián] |
 | duck | 鴨 [ah] | 鴨子 [yā zi] |
 | duck egg | 鴨卵 [ah-nn̄g] | 鴨蛋 [yā dàn] |
-| duckling | 鴨咪 [ah-bî]<br/>鴨仔 [ah-á]<br/>鴨仔囝 [ah-á-kiáⁿ] | 小鴨 |
+| duckling | 鴨咪 [ah-bî]<br/>鴨仔 [ah-á]<br/>鴨仔囝 [ah-á-kiáⁿ] | 小鴨 [xiǎoyā] |
 | dustpan | 糞斗 [pùn-táu] | 簸箕 [bò jī] |
 | eagle; hawk | 覓鶚 [lǎ-hio̍h/lāi-hio̍h/bā-hio̍h] | 老鷹 [lǎo yīng] |
 | ear | 耳仔 [hī-á/hīⁿ-á] | 耳朵 [ěr duo] |
@@ -220,7 +220,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | earwax | 耳屎 [hīⁿ-sái/hī-sái] | 耳垢 [ěr gòu] |
 | easy | 易 [ī/ia̍h]<br/>快便 [khoài-khòe-piān] | 容易 [róng yì] |
 | eggplant; aubergine | 紅菜 [âng-chhài]<br/>茄 [kiô] | 茄子 [qié zi] |
-| elbow | 手後捅 [chhiú-ǎu-thóng]<br/>手曲 [chhiú-khiau]<br/>手後蹬 [chhiú-āu-teⁿ]<br/>手後臼 [chhiú-āu-khū]<br/>手後曲 [chhiú-āu-khiau] | 胳膊肘 |
+| elbow | 手後捅 [chhiú-ǎu-thóng]<br/>手曲 [chhiú-khiau]<br/>手後蹬 [chhiú-āu-teⁿ]<br/>手後臼 [chhiú-āu-khū]<br/>手後曲 [chhiú-āu-khiau] | 胳膊肘 [gēbozhǒu] |
 | elder brother | 阿兄 [a-hiaⁿ]<br/>哥兄:dated  | 哥哥 [gē ge] |
 | elder sister | 阿姊 [á-chí/a-chí] | 姐姐 [jiě jie] |
 | electric fan | 電扇 [tiān-sìⁿ]<br/>風扇 [hoang-sìⁿ/hong-sìⁿ] | 電風扇 [diàn fēng shàn] |
@@ -248,8 +248,8 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | father-in-law (wife's father) | 丈儂 [tiǔⁿ-lâng/tiūⁿ-lâng] | 岳父 [yuè fù] |
 | father-in-law; husband's father | 大官 [ta-koaⁿ/tōa-koaⁿ] | 公公 [gōng gong] |
 | fava bean | 馬齒豆 [bé-khí-tāu] | 蠶豆 [cán dòu] |
-| feather duster | 雞毛筅 [ke-mn̂g-chhéng/koe-mn̂g-chhéng/ke-mo͘-chhéng/koe-mo͘-chhéng] | 雞毛撣子 |
-| female dog | 狗母 [káu-bó/káu-bú] | 母狗 |
+| feather duster | 雞毛筅 [ke-mn̂g-chhéng/koe-mn̂g-chhéng/ke-mo͘-chhéng/koe-mo͘-chhéng] | 雞毛撣子 [jīmáo dǎnzi] |
+| female dog | 狗母 [káu-bó/káu-bú] | 母狗 [mǔgǒu] |
 | female prostitute | 婊生 [piáu#-siⁿ] | 妓女 [jì nǚ] |
 | fermented bean curd | 芋鹹 [ō͘-kiâm]<br/>豆乳 [tāu-jú/tāu-jí/tāu-lú] | 豆腐乳 [dòu fu rǔ] |
 | film; movie | 影戲 [iáⁿ-hì] | 電影 [diàn yǐng] |
@@ -260,7 +260,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | firecrackers | 炮仔 [phàu-á]<br/>炮 [phàu] | 鞭炮 [biān pào] |
 | firefly | 火螢 [hóe-iâⁿ/hé-iâⁿ]<br/>火金蛄 [hé-kim-ko͘]<br/>火焰蛄 [hé-iām-ko͘] | 螢火蟲 [yíng huǒ chóng] |
 | fish roe | 魚子 [hî-chí/hû-chí]<br/>魚卵 [hî-nn̄g/hû-nn̄g] | 魚卵 [yú luǎn] |
-| fishball | 魚丸 [hîr-oân/hî-oân] | 魚丸 [yú wán] |
+| fishball | 魚丸 [hîr-oân/hî-oân] | 魚丸 [yúwán] |
 | fist | 拳頭母 [kûn-thâu-bó/kûn-thâu-bú]<br/>拳頭 [kûn-thâu] | 拳頭 [quán tou] |
 | flashlight; torch | 手電 [chhiú-tiān] | 手電筒 [shǒu diàn tǒng] |
 | flatfoot | 鴨蹄 [ah-tôe]<br/>鴨跤爬 [ah-kha-pê]<br/>鴨母蹄 [ah-bó-tê/ah-bú-tôe] | 扁平足 [biǎn píng zú] |
@@ -268,7 +268,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | flower | 花 [hoe] | 花朵 [huā duǒ] |
 | flower bud | 花莓 [hoe-m̂] | 花蕾 [huā lěi] |
 | fly (insect) | 胡蠅 [hô͘-sîn] | 蒼蠅 [cāng ying] |
-| foal | 馬仔 [bé-á]<br/>馬仔囝  | 小馬 |
+| foal | 馬仔 [bé-á]<br/>馬仔囝  | 小馬 [xiǎomǎ] |
 | fog | 霧 [bô͘/bū]<br/>雺 [bô͘/bông] | 霧 [wù] |
 | food | 食物 [chia̍h-mi̍h/si̍t-bu̍t/chia̍h-mi̍h] | 食物 [shí wù] |
 | foot | 跤 [kha/khia] | 腳 [jiǎo] |
@@ -288,7 +288,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | gecko; house lizard | 蟮蟲 [siân-lâng/siān-thâng/siān-lâng] | 壁虎 [bì hǔ] |
 | ginger | 薑 [kiuⁿ] | 薑 [jiāng] |
 | ginkgo nut | 白果 [pe̍h-kó] | 銀杏 [yín xìng] |
-| giraffe | 長頸鹿 [tn̂g-kéng-lo̍k] | 長頸鹿 [cháng jǐng lù] |
+| giraffe | 長頸鹿 [tn̂g-kéng-lo̍k] | 長頸鹿 [chángjǐnglù] |
 | girl | 查某囝 [cha-bó͘-kiáⁿ] | 女孩子 [nǚ hái zi] |
 | glove; mitten | 手囊 [chhiú-lông]<br/>手束 [chhiú-sok] | 手套 [shǒu tào] |
 | glutinous rice | 秫米 [chu̍t-bí] | 糯米 [nuò mǐ] |
@@ -296,7 +296,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | godson; (nominally) adopted son | 契囝 [khè-kiáⁿ] | 乾兒子 [gān ér zi] |
 | good morning | 好早起  | 早安 [zǎo ān] |
 | good-looking; beautiful | 媠 [súi]<br/>好看 [hó-khòaⁿ]<br/>緣投 [iân-tâu]<br/>㜅  | 漂亮 [piào liang] |
-| goose egg; score of zero | 鴨卵 [ah-nn̄g]<br/>圓箍仔 [îⁿ-kho͘-á]<br/>圓箍奶 [îⁿ-kho͘-lin]<br/>鴨母卵 [ah-bú-nn̄g] | 零蛋 |
+| goose egg; score of zero | 鴨卵 [ah-nn̄g]<br/>圓箍仔 [îⁿ-kho͘-á]<br/>圓箍奶 [îⁿ-kho͘-lin]<br/>鴨母卵 [ah-bú-nn̄g] | 零蛋 [língdàn] |
 | goose pimples; goosebumps | 雞母皮 [ke-bó-phôe/koe-bú-phê] | 雞皮疙瘩 [jī pí gē da] |
 | granddaughter (daughter's daughter) | 外孫女 [gōa-sun-lú] | 外孫女 [wài sūn nǚ] |
 | granddaughter (son's daughter) | 查某孫 [cha-bó͘-sun]<br/>孫女 [sun-lú/sun-lí] | 孫女 [sūn nǚ] |
@@ -316,7 +316,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | hat | 帽仔 [bō-á] | 帽子 [mào zi] |
 | he | 伊 [i] | 他 [tā] |
 | head | 頭 [thâu]<br/>頭殼 [thâu-khak] | 頭 [tóu] |
-| hen | 雞母 [ke-bó/koe-bú]<br/>草雞 [chhó-koe/chháu-koe] | 母雞 |
+| hen | 雞母 [ke-bó/koe-bú]<br/>草雞 [chhó-koe/chháu-koe] | 母雞 [mǔjī] |
 | here | 遮 [chiâ/chiah/chia/lia]<br/>這搭 [chit-tah]<br/>這位 [chit-ūi]<br/>這落  | 這裡 [zhè lǐ] |
 | heroin | 海洛因 [hái-lo̍k-in] | 海洛因 [hǎi luò yīn] |
 | hole | 空 [khang/khàng/khòng] | 孔 [kǒng] |
@@ -331,7 +331,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | how | 障仔 [chiùⁿ-á]<br/>怎樣 [cháiⁿ-iūⁿ/cháⁿ-iūⁿ/chóaⁿ-iūⁿ] | 怎樣 [zěn yàng] |
 | how long (time) | 偌久 [lōa-kú] | 多久 [duō jiǔ] |
 | how many; how much | 偌濟 [lǒa-chōe/lōa-chōe]<br/>幾 [kúi] | 多少 [duō shǎo] |
-| how much is it? | 偌錢 [lǒa-chîⁿ/lōa-chîⁿ] | 多少錢 |
+| how much is it? | 偌錢 [lǒa-chîⁿ/lōa-chîⁿ] | 多少錢 [duōshǎo qián] |
 | how; what; so; such | 偌 [lǒa/liā/lōa]<br/>偌爾仔 [lōa-nî-áⁿ] | 多麼 [duó me] |
 | hulled grain of the foxtail millet | 黍仔 [sé-á/sóe-á/sóe-á] | 小米 [xiǎo mǐ] |
 | hungry | 枵 [iau/hiau] | 餓 [è] |
@@ -353,7 +353,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | instant noodles | 泡麵 [phàu-mī] | 方便麵 [fāng biàn miàn] |
 | instep; top of the foot | 跤盤 [kha-pôaⁿ] | 腳背 [jiǎo bèi] |
 | iron (for pressing clothes) | 熨斗 [ut-táu] | 熨斗 [yùn dǒu] |
-| itchy | 癢 [chiūⁿ] | 癢 |
+| itchy | 癢 [chiūⁿ] | 癢 [yǎng] |
 | jeans | 牛仔褲 [gû-á-khò͘] | 牛仔褲 [niú zǐ kù] |
 | jicama | 田薯 [chhân-chî/chhân-chû]<br/>葛薯 [koah-chî/koah-chû]<br/>番葛 [hoan-koah] | 豆薯 [dòu shǔ] |
 | katydid (''Mecopoda elongata'') | 草雞 [chhó-koe/chháu-koe] | 紡織娘 [fǎng zhī niáng] |
@@ -362,7 +362,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | kitchen | 灶跤 [chàu-kha] | 廚房 [chú fáng] |
 | kitchen god | 灶君公 [chàu-kun-kong] | 灶神 [zào shén] |
 | kite (toy) | 風吹 [hong-chhoe/hong-chhe] | 風箏 [fēng zhēng] |
-| kitten | 貓咪 [niau-bî] | 小貓 |
+| kitten | 貓咪 [niau-bî] | 小貓 [xiǎomāo] |
 | knee | 跤頭趺 [kha-thâu-u/kha-thâu-hu] | 膝蓋 [xī gài] |
 | ladder | 樓梯 [lâu-thui]<br/>梯 [thui] | 梯子 [tī zi] |
 | land snail | 露螺 [lō͘-lê] | 蝸牛 [guā niú] |
@@ -373,7 +373,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | lawyer | 狀師 [chn̄g-si] | 律師 [lǜ shī] |
 | lazy | 貧惰 [pîn-tǒaⁿ/pân-tǒaⁿ/pîn-tōaⁿ] | 懶惰 [lǎn duò] |
 | leaf | 箬 [hio̍h/ha̍h/lio̍k] | 葉子 [yè zi] |
-| lean meat (usually pork) | 赤肉 [chhiah-bah]<br/>精肉 [chiaⁿ-bah] | 瘦肉 |
+| lean meat (usually pork) | 赤肉 [chhiah-bah]<br/>精肉 [chiaⁿ-bah] | 瘦肉 [shòuròu] |
 | lecherous; fond of women | 五枝鬚 [gǒ͘-ki-chhiu/gō͘-ki-chhiu] | 好色 [hào sè] |
 | leech | 蜈蜞 [gô͘-khî/mô͘-khî/ngô͘-khî/ngô͘-kî] | 水蛭 [shuǐ zhì] |
 | left hand | 倒手 [tò-chhiú] | 左手 [zuǒ shǒu] |
@@ -409,12 +409,12 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | menstruation; period | 月經 [goe̍h-keng/ge̍h-keng] | 月經 [yuè jīng] |
 | meteor; shooting star | 疶屎星 [chhoah-sái-chhiⁿ]<br/>飛星 [poe-chheⁿ/pe-chhiⁿ]<br/>落屎星 [làu-sái-chheⁿ/làu-sái-chhiⁿ] | 流星 [liú xīng] |
 | microphone | 麥克風 [be̍k-khek-hong]<br/>話筒 [ōe-tâng] | 傳聲器 [chuán shēng qì] |
-| Mid-Autumn Festival | 中秋 [tiong-chhiu/teng-chhiu]<br/>中秋節 [tiong-chhiu-choeh]<br/>八月十五 [poeh-ge̍h-cha̍p-gō͘] | 中秋節 [zhōng qiū jié] |
+| Mid-Autumn Festival | 中秋 [tiong-chhiu/teng-chhiu]<br/>中秋節 [tiong-chhiu-choeh]<br/>八月十五 [poeh-ge̍h-cha̍p-gō͘] | 中秋節 [zhōngqiūjié] |
 | middle finger | 中指 [tiong-cháiⁿ] | 中指 [zhōng zhǐ] |
 | midwife | 先生媽 [sian-seⁿ-má/sian-siⁿ-má/sin-seⁿ-má/sin-siⁿ-má]<br/>抾囝母 [khioh-káⁿ-bú]<br/>抾姐母 [khioh-chiá-bú]<br/>抾姐婆 [khioh-chiáⁿ-pô]<br/>抾姐:dated <br/>抾囝姐:dated [khioh-kiáⁿ-chiá] | 助產士 [zhù chǎn shì] |
 | Milky Way | 河溪 [hô-khe/hô-khoe/hô-kheⁿ/hô-khoe]<br/>天河 [thian-hô] | 銀河 [yín hé] |
 | mirror | 鏡 [kiàⁿ] | 鏡子 [jìng zi] |
-| mobile phone; cellphone | 手機 [chhiú-ki] | 手機 |
+| mobile phone; cellphone | 手機 [chhiú-ki] | 手機 [shǒujī] |
 | Modern Standard Chinese; ''[[Putonghua]]'' | 華語 [hôa-gí/hôa-gú]<br/>國語 [kok-gí/kok-gú]<br/>普通話 [phó͘-thong-ōe] | 普通話 [pǔ tōng huà] |
 | mole cricket | 塗猴 <br/>杜猴 [tō͘-kâu] | 螻蛄 [lóu gū] |
 | money | 錢 [chîⁿ] | 錢 [qián] |
@@ -428,14 +428,14 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | most | 第 [tē]<br/>最 [chòe] | 最 [zuì] |
 | mother-in-law (wife's mother) | 丈姆 [tiūⁿ-ḿ]<br/>丈姆婆 [tiūⁿ-ḿ-pô] | 岳母 [yuè mǔ] |
 | motorcycle | 摩托駛甲 [m̂-to̍k-sài-kà/mô͘-to̍k-sái-kah]<br/>摩托車 [mô͘-thok-chhia]<br/>摩托 [m̂-to̍k/mô͘-to̍k]<br/>噗噗車 [pho̍k-pho̍k-chhia] | 摩托車 [mó tuō chē] |
-| mouse; rat | 老鼠 [ló͘-chhí/ló͘-chhír/niáu-chhú] | 老鼠 [lǎo shǔ] |
+| mouse; rat | 老鼠 [ló͘-chhí/ló͘-chhír/niáu-chhú] | 老鼠 [lǎoshǔ] |
 | mouth | 喙 [hùi/chhùi] | 嘴 [zuǐ] |
 | mum (''face-to-face'') | 媽媽 [ma-ma]<br/>媽 [má] | 媽媽 [mā ma] |
 | mum (''non-face-to-face'') | 老母 [lāu-bó/lāu-bú] | 媽媽-2 |
 | mute person | 啞口 [é-káu/é-kháu]<br/>啞口的 [é-káu--ê] | 啞巴 [yǎ ba] |
 | myna | 鵁鴒 [ka-lēng]<br/>烏肉 [o͘-bah] | 八哥 [bā gē] |
 | nail clipper | 掌甲刀 [chńg-kah-to] | 指甲剪 [zhǐ jia jiǎn] |
-| napa cabbage | 白菜 [be̍h-chhài/pe̍h-chhài] | 大白菜 |
+| napa cabbage | 白菜 [be̍h-chhài/pe̍h-chhài] | 大白菜 [dàbáicài] |
 | nasal mucus | 鼻水 [phīⁿ-chui/phīⁿ-chúi] | 鼻涕 [bí tì] |
 | naughty | 跳鬼 [thiàu-kúi]<br/>孽 [gia̍t]<br/>跳限 [thiàu-hān]<br/>跳塌 [thiàu-that/thiàu-thah]<br/>刁皮  | 頑皮 [wán pí] |
 | navel; belly button | 腹臍 [pak-châi]<br/>肚臍空 [tō͘-châi-khang] | 肚臍 [dù qí] |
@@ -463,10 +463,10 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | oyster | 蚵仔 [ô-á] | 牡蠣 [mǔ lì] |
 | paddy; unhulled rice | 粟仔 [chhek-á]<br/>粟 [chhek] | 稻穀 [dào gǔ] |
 | palm | 手耙 [chhiú-pê]<br/>五掌 [gǒ͘-cháng]<br/>手盤 [chhiú-pôaⁿ]<br/>手心 [chhiú-sim] | 手掌 [shǒu zhǎng] |
-| panda; giant panda | 熊貓 [hîm-niau] | 大熊貓 |
+| panda; giant panda | 熊貓 [hîm-niau] | 大熊貓 [dàxióngmāo] |
 | pangolin | 鯪鯉 [lâ-lí]<br/>步山虎 [pō͘-soaⁿ-hó͘] | 穿山甲 [chuān shān jiǎ] |
 | papaya | 木瓜 [bo̍k-koe] | 木瓜 [mù guā] |
-| paternal aunt (father's sister) | 阿姑 [a-ko͘]<br/>姑姑 [ko͘-ko͘] | 姑姑 [gū gu] |
+| paternal aunt (father's sister) | 阿姑 [a-ko͘]<br/>姑姑 [ko͘-ko͘] | 姑姑 [gūgu] |
 | paternal aunt (wife of father's elder brother) | 阿姆 [a-ḿ] | 伯母 [bó mǔ] |
 | paternal aunt (wife of father's younger brother) | 阿嬸 [a-chím] | 嬸母 [shěn mǔ] |
 | paternal grandfather | 俺公 [án-kong]<br/>內公:non-face-to-face [lāi-kong] | 祖父 [zǔ fù] |
@@ -477,17 +477,17 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | pea | 荷仁豆 [hô-lin-tāu/hô͘-lin-tāu/hô͘-lîn-tāu/hô-lîn-tāu] | 豌豆 [wān dòu] |
 | peach | 桃仔 [thô-á]<br/>桃 [thô] | 桃子 [táo zi] |
 | peanut | 塗豆 [thô͘-tāu] | 花生 [huā shēng] |
-| Peking opera | 大班:dated [tōa-pan]<br/>京班:dated [kiaⁿ-pan]<br/>京劇 [kiaⁿ-kio̍k]<br/>正音:dated [chiàⁿ-im] | 京劇 [jīng jù] |
+| Peking opera | 大班:dated [tōa-pan]<br/>京班:dated [kiaⁿ-pan]<br/>京劇 [kiaⁿ-kio̍k]<br/>正音:dated [chiàⁿ-im] | 京劇 [jīngjù] |
 | Pekingese (dog) | 番仔狗 [hoan-á-káu]<br/>胡獅狗 [hô͘-sai-káu]<br/>鬖毛狗 [sàm-mn̂g-káu]<br/>虎獅狗 [hó͘-sai-káu] | 哈巴狗 [hǎ ba gǒu] |
-| pencil sharpener | 鉛筆璇 [ian-pit-soān]<br/>鉛筆剾 [iân-pit-khau] | 轉筆刀 |
+| pencil sharpener | 鉛筆璇 [ian-pit-soān]<br/>鉛筆剾 [iân-pit-khau] | 轉筆刀 [zhuànbǐdāo] |
 | penis; male genitalia | 𡳞鳥 [lǎn-chiáu/lān-chiáu] | 陰莖 [yīn jīng] |
 | petrol; gasoline | 電油 [tiān-iû]<br/>番油 [hoan-iû]<br/>番仔油 [hoan-á-iû] | 汽油 [qì yóu] |
 | photograph | 像 [chhiūⁿ] | 照片 [zhào piàn] |
-| pig's blood (as food) | 豬血 [ti-huih/tir-huih]<br/>豬料 [tir-liàu/ti-liàu] | 豬血 |
+| pig's blood (as food) | 豬血 [ti-huih/tir-huih]<br/>豬料 [tir-liàu/ti-liàu] | 豬血 [zhū血] |
 | pig; swine | 豬 [ti/tir/tu] | 豬 [zhū] |
 | pigeon; dove | 鴿仔 [kap-á/chíⁿ-á] | 鴿子 [gē zi] |
-| piglet | 豬仔 [ti-á/tu-á]<br/>豬豚仔 [tir-thûn-á/ti-thûn-á]<br/>豬仔囝 [ti-á-kiáⁿ/tu-á-kiáⁿ] | 小豬 |
-| pineapple | 王梨 [ông-lâi] | 菠蘿 |
+| piglet | 豬仔 [ti-á/tu-á]<br/>豬豚仔 [tir-thûn-á/ti-thûn-á]<br/>豬仔囝 [ti-á-kiáⁿ/tu-á-kiáⁿ] | 小豬 [xiǎozhū] |
+| pineapple | 王梨 [ông-lâi] | 菠蘿 [bōluó] |
 | pjyamas | 睏衫 [khùn-saⁿ] | 睡衣 [shuì yī] |
 | place (noun) | 所在 [só͘-chāi] | 地方 [dì fang] |
 | playing card | 撲克 [phok-khiak/phok-khek] | 撲克牌 [pū ke pái] |
@@ -504,7 +504,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | price; cost | 價錢 [kè-chîⁿ]<br/>價跤 [kè-kha]<br/>價聲 [kè-siaⁿ]<br/>價數 [kè-siàu] | 價錢 [jià qian] |
 | proprietress | 頭家娘 [thâu-ke-niû] | 老闆娘 [lǎo bǎn niáng] |
 | pumpkin | 冬瓜 [tang-koe]<br/>金瓜 [kim-koe]<br/>匏 [pû] | 南瓜 [nán guā] |
-| puppy | 狗仔 [káu-á] | 小狗 |
+| puppy | 狗仔 [káu-á] | 小狗 [xiǎogǒu] |
 | purslane | 豬母菜 [ti-bó-chhài/tu-bú-chhài] | 馬齒莧 [mǎ chǐ xiàn] |
 | Qixi Festival | 七娘媽生 [Chhit-niû-má-siⁿ] | 七夕 [qī xì] |
 | quickly; without delay | 較緊 [khà-kín/khah-kín]<br/>趕緊 [kóaⁿ-kín]<br/>緊猛 [kín-mé/kín-mí/kín-mí] | 趕緊 [gǎn jǐn] |
@@ -523,7 +523,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | rock sugar | 糖霜 [thn̂g-sng] | 冰糖 [bīng táng] |
 | roly-poly toy | 阿不倒 [a-put-tó] | 不倒翁 [bù dǎo wēng] |
 | room | 房間 [pâng-keng]<br/>房 [pâng/phâng] | 房間 [fáng jiān] |
-| rooster | 雞角 [ke-kak/koe-kak]<br/>雞翁 [ke-ang/koe-ang]<br/>雞公 [ke-kang/koe-kang/ke-kong/koe-kong] | 公雞 |
+| rooster | 雞角 [ke-kak/koe-kak]<br/>雞翁 [ke-ang/koe-ang]<br/>雞公 [ke-kang/koe-kang/ke-kong/koe-kong] | 公雞 [gōngjī] |
 | rubber (material) | 樹奶 [chhiū-leng/chhiū-ni] | 橡膠 [xiàng jiāo] |
 | rubber band; elastic band | 樹奶環 [chhiǔⁿ-lin-khoân/chhiūⁿ-ni-khoân]<br/>樹奶箍仔 [chhiūⁿ-ni-kho͘-á]<br/>樹奶條 [chhiūⁿ-ni-tiâu] | 橡皮筋 [xiàng pí jīn] |
 | rust | 鐵鉎 [thih-sian] | 鐵鏽 [tiě xiù] |
@@ -540,7 +540,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | shirt | 雲衫 [hûn-sam]<br/>雲衫衫 [hûn-sam-saⁿ] | 襯衫 [chèn shān] |
 | shoe | 鞋 [ê/ôe] | 鞋 [xié] |
 | shoulder(s) | 肩頭 [keng-thâu] | 肩膀 [jiān bǎng] |
-| shrike | 伯勞 [pek-lô] | 伯勞 [bó láo] |
+| shrike | 伯勞 [pek-lô] | 伯勞 [bóláo] |
 | shrimp; prawn | 蝦 [hê] | 蝦 [xiā] |
 | Siberian weasel | 赤鼠 [chhiah-chhí/chhiah-chhú] | 黃鼬 [huáng yòu] |
 | side | 邊頭 [piⁿ--thâu/piⁿ-thâu] | 旁邊 [páng biān] |
@@ -565,7 +565,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | sons and daughters; children | 囝兒 [kiáⁿ-jî/kiáⁿ-lî] | 兒女 [ér nǚ] |
 | soon; before long | 無偌久 [bô-lōa-kú] | 不久 [bù jiǔ] |
 | sorghum | 番黍 [hoan-sé]<br/>蘆黍 [lô͘-sé/lô͘-sóe] | 高粱 [gāo liáng] |
-| sororal nephew | 外甥 [gōe-sng/gōe-seng] | 外甥 [wài shēng] |
+| sororal nephew | 外甥 [gōe-sng/gōe-seng] | 外甥 [wàishēng] |
 | sororal niece | 外甥女 [gōe-seng-lí/gōe-seng-lú] | 外甥女 [wài shēng nǚ] |
 | sorry | 歹勢 [pháiⁿ-sì/phái-sè]<br/>對不住 [tùi-pu̍t-chū] | 對不起 [duì bu qǐ] |
 | soy milk | 豆奶 [tāu-leng/tāu-ni] | 豆漿 [dòu jiāng] |
@@ -583,24 +583,24 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | stairs; staircase | 樓梯 [lâu-thui] | 樓梯 [lóu tī] |
 | star | 星 [chheⁿ/chhiⁿ/san] | 星星 [xīng xing] |
 | steamed bun (with filling) | 燒包 [sio-pau] | 包子 [bāo zi] |
-| steamed bun (without filling) | 饅頭 [bīn-thâu/bān-thâu] | 饅頭 [mán tou] |
+| steamed bun (without filling) | 饅頭 [bīn-thâu/bān-thâu] | 饅頭 [mántou/mántóu] |
 | steamer basket | 籠床 [lâng-sn̂g]<br/>炊床 [chhoe-sn̂g/chhe-sn̂g]<br/>炊鋪 [chhoe-pho͘/chhe-pho͘] | 蒸籠 [zhēng lóng] |
 | steering wheel | 方向盤 [hong-hiòng-pôaⁿ] | 方向盤 [fāng xiàng pán] |
 | stepfather | 後爸 [ǎu-pě/āu-pē] | 繼父 [jì fù] |
 | stepmother | 後母 [āu-bó/āu-bú] | 繼母 [jì mǔ] |
 | still; yet | 猶閣 [iàu-koh/iáu-koh]<br/>猶 [iáu/iû] | 還 [hái] |
-| strawberry | 草莓 [chháu-mûi/chhó-m̂/chhó-mûi/chháu-m̂] | 草莓 [cǎo méi] |
+| strawberry | 草莓 [chháu-mûi/chhó-m̂/chhó-mûi/chháu-m̂] | 草莓 [cǎoméi] |
 | streaky pork; pork belly | 三層肉 [sam-chàn-bah/sam-chân-bah] | 五花肉 [wǔ huā ròu] |
 | string; rope; cord | 索仔 [soh-á]<br/>索 [soh] | 繩子 [shéng zi] |
 | stupid | 戇 [gōng]<br/>潲面:vulgar [siâu-bīn] | 傻 [shǎ] |
 | substance in eyes after waking | 目屎 [ba̍k-sái] | 眼屎 [yǎn shǐ] |
-| subway; metro | 地鐵 [tē-thih] | 地鐵 [dì tiě] |
+| subway; metro | 地鐵 [tē-thih] | 地鐵 [dìtiě] |
 | suddenly | 突然 [tu̍t-jiân]<br/>無張無持 [bô-tiuⁿ-bô-tî]<br/>無張持 [bô-tiuⁿ-tî/bó-tiuⁿ-tî]<br/>忽然 [hut-jiân]<br/>暴其然 [pō-kî-jiân] | 突然 [tú rán] |
 | sugar apple | 釋迦 [sek-khia/sek-kia/sek-kia/sek-khia]<br/>番仔荔枝 [hoan-á-nāi-chi] | 番荔枝 [fān lì zhī] |
 | summer | 熱天 [loa̍h-thiⁿ]<br/>熱人 [joa̍h-lâng/loa̍h-lâng/joa̍h--lâng/loa̍h--lâng]<br/>熱毒人  | 夏天 [xià tiān] |
 | sun | 日頭 [li̍t-thâu] | 太陽 [tài yáng] |
 | Sunday | 拜日 [pài-li̍t] | 星期日 [xīng qí rì] |
-| sunflower | 向日葵 [hiòng-li̍t-kûi] | 向日葵 [xiàng rì kuí] |
+| sunflower | 向日葵 [hiòng-li̍t-kûi] | 向日葵 [xiàngrìkuí] |
 | sunglasses | 烏目鏡 [o͘-ba̍k-kiàⁿ]<br/>烏晶目鏡 [o͘-cheⁿ-ba̍k-kiàⁿ/o͘-chiⁿ-ba̍k-kiàⁿ] | 墨鏡 [mò jìng] |
 | suona (musical instrument) | 噯仔 [ái-á] | 嗩吶 [suǒ nà] |
 | swear words; profanity | 垃圾話 [lah-sap-ōe/lap-sap-ōe] | 髒話 [zāng huà] |
@@ -626,7 +626,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | thank you | 多謝 [to-siā]<br/>感謝 [kám-siā] | 謝謝 [xiè xie] |
 | that | 彼 [hit]<br/>許 [khó͘/hí/hír/hú] | 那 [nà] |
 | the rear; behind | 後面 [āu-bīn]<br/>後壁 [āu-piah] | 後面 [hòu miàn] |
-| the year before last | 前年 [chûn--nî/chûiⁿ-nî/chêng-nî] | 前年 [qián nián] |
+| the year before last | 前年 [chûn--nî/chûiⁿ-nî/chêng-nî] | 前年 [qiánnián] |
 | there | 遐 [hiâ/hia]<br/>彼搭 [hit-tah]<br/>彼兜  | 那裡 [nà lǐ] |
 | these | 拽 [chhōa] | 這些 [zhè xiē] |
 | they | 𪜶 [in] | 他們 [tā men] |
@@ -682,20 +682,20 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | to finish class | 落課 [lo̍h-khò] | 下課 [xià kè] |
 | to forget | 袂記得 [bǒe-kì-tit/bōe-kì-tit] | 忘記 [wàng jì] |
 | to gamble | 跋繳 [poa̍h-kiáu] | 賭博 [dǔ bó] |
-| to get a taxi | 拍的 [phah-tiak/phah-tek] | 打車 |
+| to get a taxi | 拍的 [phah-tiak/phah-tek] | 打車 [dǎchē] |
 | to get up; to get out of bed | 起來 [khí-lâi] | 起床 [qǐ chuáng] |
 | to give | 予 [îr/ír/thō͘/û/ú/hō͘] | 給 [jǐ] |
 | to go down | 落去 [lo̍h-khì/lo̍h-khù] | 下去 [xià qu] |
 | to go in; to enter | 入去 [li̍p-khìr/li̍p-khì] | 進去 [jìn qù] |
 | to go through postpartum confinement | 做月內 [chò-goe̍h-lāi/chòe-ge̍h-lāi] | 坐月子 [zuò yuè zi] |
 | to have a fever | 發燒 [hoat-sio]<br/>燒燒 [sio-sio] | 發燒 [fā shāo] |
-| to have a stiff neck after sleeping | 睏落枕 [khùn-lo̍h-chím] | 落枕 [lào zhěn] |
+| to have a stiff neck after sleeping | 睏落枕 [khùn-lo̍h-chím] | 落枕 [luòzhěn/làozhěn] |
 | to have diarrhea | 落屎 [làu-sái] | 腹瀉 [fù xiè] |
-| to have lightning | 䟙掣 [chhih-chhoah]<br/>䟙光 [chhih-kng]<br/>爍爁 [sihⁿ-nà] | 打閃 |
+| to have lightning | 䟙掣 [chhih-chhoah]<br/>䟙光 [chhih-kng]<br/>爍爁 [sihⁿ-nà] | 打閃 [dǎshǎn] |
 | to have time; to be free | 有閒 [ū-êng] | 有空 [yǒu kòng] |
 | to hear it said that | 聽說 [thiaⁿ-soeh/thiaⁿ-seh] | 聽說 [tīng shuō] |
 | to hit, to strike | 拍 [phah/phek] | 打 [dǎ] |
-| to hug; to embrace | 攬 [lám] | 摟 |
+| to hug; to embrace | 攬 [lám] | 摟 [lóu] |
 | to inject | 針藥 [chiam-io̍h]<br/>拍針 [phah-chiam] | 打針 [dǎ zhēn] |
 | to kill (a person) | 刣 [thâi/chiong] | 殺 [shā] |
 | to know (somebody) | 捌 [pat] | 認識 [rèn shi] |
@@ -709,7 +709,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | to not be | 毋是 [m̄-sǐ/m̄ sī] | 不是 [bù shì] |
 | to not have (+ noun) | 無 [bô] | 沒有 [méi yǒu] |
 | to overtake another vehicle | 超車 [chhiau-chhia] | 超車 [chāo chē] |
-| to pay a bill; to settle accounts | 結數 [kiat-siàu] | 結賬 |
+| to pay a bill; to settle accounts | 結數 [kiat-siàu] | 結賬 [jiézhàng] |
 | to perform lion dance | 弄獅 [lāng-sai]<br/>拍獅 <br/>刣獅  | 舞獅 [wǔ shī] |
 | to perm | 電頭毛 [tiān-thâu-mn̂g]<br/>電頭鬃 [tiān-thâu-chang] | 燙髮 [tàng fǎ] |
 | to play chess | 行棋 [kiâⁿ-kî] | 下棋 [xià qí] |
@@ -726,7 +726,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | to sleep | 睏 [khùn] | 睡覺 [shuì jué] |
 | to sleeptalk | 陷眠 [hām-bîn] | 說夢話 [shuō mèng huà] |
 | to smell | 鼻 [phīⁿ] | 聞 [wén] |
-| to smoke | 點薰 [tiám-hun] | 吸煙 |
+| to smoke | 點薰 [tiám-hun] | 吸煙 [xīyān] |
 | to sneeze | 拍咳啾 [phah-á-chhiùⁿ/phah-kha-chhiùⁿ/phah-ha-chhiùⁿ] | 打噴嚏 [dǎ pēn tì] |
 | to snore | 鼾 [hôaⁿ/han/hôⁿ]<br/>起鼾 [khí-hôaⁿ]<br/>齁 [kôⁿ] | 打鼾 [dǎ hān] |
 | to snow | 落雪 [lo̍h-seh] | 下雪 [xià xuě] |
@@ -755,7 +755,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | together | 相佮 [sio-kap] | 一起 [yī qǐ] |
 | toilet; restroom; bathroom | 廁所 [chhek-só͘] | 廁所 [cè suǒ] |
 | tomato | 柑仔得 [kam-á-tit] | 番茄 [fān qié] |
-| tomcat | 貓公 [niau-kang] | 公貓 |
+| tomcat | 貓公 [niau-kang] | 公貓 [gōngmāo] |
 | tomorrow | 明仔日 [bîn-á-ji̍t]<br/>明仔 [bîn-â/mîn-â] | 明天 [míng tiān] |
 | tongue | 舌仔 [chi̍h-á] | 舌頭 [shé tou] |
 | tongue coating; fur on the tongue | 舌苔 [chi̍h-thai] | 舌苔 [shé tāi] |
@@ -773,7 +773,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | typhoon | 風颱 [hong-thai] | 颱風 [tái fēng] |
 | ugly | 歹看 [pháiⁿ-khòaⁿ/phái-khòaⁿ]<br/>㾀勢 [khiap-sì] | 醜 [chǒu] |
 | umbrella | 雨傘 [hō͘-sòaⁿ] | 傘 [sǎn] |
-| underpants | 內褲 [lǎi-khò͘] | 內褲 |
+| underpants | 內褲 [lǎi-khò͘] | 內褲 [nèikù] |
 | unwellness during pregnancy | 病囝 [pēⁿ-kiáⁿ/pīⁿ-kiáⁿ] | 害喜 [hài xǐ] |
 | urinary bladder | 小肚 [sió-tō͘]<br/>小肚仔 [sió-tǒ͘-á]<br/>尿脬 [liō-pha] | 膀胱 [páng guāng] |
 | uvula | 嚨喉鐘仔 [nâ-âu-cheng-á]<br/>嚨喉鐘 [nâ-âu-cheng]<br/>嚨喉奶仔 [nâ-âu-ni-á]<br/>喉鐘 [âu-cheng] | 小舌 [xiǎo shé] |
@@ -789,10 +789,10 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | wet | 澹 [tâm] | 濕 [shī] |
 | whale | 海翁 [hái-ang] | 鯨魚 [jīng yú] |
 | what | 啥物 [sahN-mih/siáⁿ-mi̍h/siáⁿ-mn̍gh] | 什麼 [shén me shé me] |
-| when | 底時 [tī-sî] | 什麼時候 |
+| when | 底時 [tī-sî] | 什麼時候 [shénme shíhou/shénme shíhòu] |
 | where | 佗落 [tá-lo̍h]<br/>佗位 [tah-ūi] | 哪裡 [nǎlǐ] |
 | which | 佗 [tô/tó] | 哪 [nǎ] |
-| which (one) | 佗一個 [tó-chi̍t-gê/tó-chi̍t-ê] | 哪個 |
+| which (one) | 佗一個 [tó-chi̍t-gê/tó-chi̍t-ê] | 哪個 [něige/nǎge] |
 | who; whom | 誰仔 [siâng-â]<br/>啥儂  | 誰 [shuí] |
 | why | 敢哪 <br/>為啥物 [ūi-siáⁿ-mi̍h] | 為什麼 [wèi shén me] |
 | widow | 守寡儂 <br/>守寡的 <br/>守寡查某  | 寡婦 [guǎ fù] |
@@ -801,7 +801,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | wing (of a bird or insect) | 翼股 [si̍t-kó͘/si̍t-kó]<br/>翼仔 [si̍t-á]<br/>翼 [si̍t] | 翅膀 [chì bǎng] |
 | woman | 查某 [cha-bó͘]<br/>查某人 [cha-bó͘-lâng]<br/>女的 [lú--ê]<br/>諸娘:dated [chu-niû] | 女人 [nǚ rén] |
 | wonton | 扁食 [pián-sit/pián-si̍t] | 餛飩 [hún dun] |
-| woodpecker | 啄木鳥 [tok-bo̍k-niáu/tok-bo̍k-chiáu] | 啄木鳥 [zhuó mù niǎo] |
+| woodpecker | 啄木鳥 [tok-bo̍k-niáu/tok-bo̍k-chiáu] | 啄木鳥 [zhuómùniǎo] |
 | worldly wisdom | 人情世事 [lîn-chêng-sè-sū] | 人情世故 [rén qíng shì gù] |
 | wristwatch | 錶仔 [pió-á]<br/>錶 [pió]<br/>手錶 [chhiú-pió] | 手錶 [shǒu biǎo] |
 | yellow soybean | 白豆 [pe̍h-tāu]<br/>黃豆 [n̂g-tāu]<br/>豆仔 [tāu-á] | 黃豆 [huáng dòu] |
@@ -811,7 +811,7 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 | you're welcome | 毋免客氣  | 不客氣 [bù kè qì] |
 | younger brother | 小弟 [sió-tī] | 弟弟 [dì di] |
 | younger sister | 小妹 [sió-bē/sió-moāi/sió-mōe] | 妹妹 [mèi mei] |
-| youngest son | 細漢囝 [sè-hàn-kiáⁿ/sòe-hàn-kiáⁿ]<br/>煞尾囝 [soah-bé-kiáⁿ/soah-bóe-kiáⁿ]<br/>尾囝 [bóe-kiáⁿ/bé-kiáⁿ]<br/>尾仔囝 [bóe-á-kiáⁿ/bé-á-kiáⁿ]<br/>尾仔 [bóe-á/bé-á/bóe--á/bé--á]<br/>了尾囝 [liáu-bé-kiáⁿ] | 小兒子 |
+| youngest son | 細漢囝 [sè-hàn-kiáⁿ/sòe-hàn-kiáⁿ]<br/>煞尾囝 [soah-bé-kiáⁿ/soah-bóe-kiáⁿ]<br/>尾囝 [bóe-kiáⁿ/bé-kiáⁿ]<br/>尾仔囝 [bóe-á-kiáⁿ/bé-á-kiáⁿ]<br/>尾仔 [bóe-á/bé-á/bóe--á/bé--á]<br/>了尾囝 [liáu-bé-kiáⁿ] | 小兒子 [xiǎo'érzi] |
 | youtiao; Chinese cruller | 油炸鬼 [iû-cha̍h-kúi]<br/>油炸粿 [iû-chiā-ke] | 油條 [yóu tiáo] |
 | yuan; dollar | 箍 [kho͘] | 元 [yuán] |
 | zongzi (sticky rice dumpling) | 粽 [chàng] | 粽子 [zòng zi] |
@@ -825,4 +825,4 @@ called [Pe̍h-ōe-jī](https://en.wikipedia.org/wiki/Pe̍h-ōe-jī).
 * [Hokkien](https://en.wikipedia.org/wiki/Hokkien)
 * [Southern Min](https://en.wikipedia.org/wiki/Southern_Min)
 
-*2019-11-27*
+*2019-11-28*

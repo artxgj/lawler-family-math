@@ -1,9 +1,12 @@
 from enzhwiktionary import RawTopolectPronunciation
-from typing import Sequence
+from typing import Sequence, Optional
 import re
 
-
 _rcomments = re.compile(r'<!--.+-->')
+
+"""
+https://en.wiktionary.org/wiki/Template:zh-pron
+"""
 
 
 class MinnanTopolect:
@@ -102,6 +105,11 @@ class MinnanTopolect:
 
     @staticmethod
     def parse_dialect_pron(s: str):
+        """
+
+        :param s:
+        :return:
+        """
         res = set()
         s1 = _rcomments.sub('', s)
         s2 = s1.replace('仔', 'á')
@@ -124,7 +132,7 @@ class MinnanTopolect:
 
         return res
 
-    def dialect(self, dial: str) -> Sequence[str]:
+    def dialect(self, dial: str) -> Optional[Sequence[str]]:
         return self._prons.get(dial, None)
 
     def notes(self):
@@ -136,12 +144,58 @@ class MandarinTopolect:
     普通話
     """
     def __init__(self, topo_pron: Sequence[RawTopolectPronunciation]):
+        self._notes = set()
 
-        pass
+        for topo in topo_pron:
+            if len(topo.info) == 0:
+                continue
 
-    def dialect(self, dial: str) -> Sequence[str]:
-        pass
+            dial_prons = self.parse_dialect_pron(topo.info)
+
+        self._prons = [x for x in dial_prons]
+
+    def dialect(self, dial: str = None) -> Optional[Sequence[str]]:
+        return self._prons if len(self._prons) > 0 else None
 
     def notes(self):
-        pass
+        return self._notes
 
+    @staticmethod
+    def parse_dialect_pron(s: str):
+        res = set()
+        s1 = _rcomments.sub('', s)
+        dial_prons = s1.split(',')
+        for dial_pron in dial_prons:
+            if dial_pron.find('=') == -1:
+                res.add(dial_pron)
+
+        return res
+
+
+if __name__ == '__main__':
+    folder_path = '../data/enwiktionary/zh-words/20191125'
+    i = 0
+    j = 0
+    hokkien_pron = {}
+
+    from iohelpers import filenames_from_folder, lines_from_textfile
+    from enzhwiktionary_mwph import MwphEnWiktChinesePronunciation
+    import io
+
+    for fname in filenames_from_folder(folder_path):
+        s = io.StringIO()
+        j += 1
+        for line in lines_from_textfile(f'{folder_path}/{fname}'):
+            s.write(f"{line}\n")
+
+        try:
+            zh_pron = MwphEnWiktChinesePronunciation(s.getvalue())
+            m_pron = zh_pron.topolect('m')
+            print(fname, m_pron)
+            i += 1
+        except Exception as e:
+            print(f"* * * * *{fname}, {e}")
+
+    print("-----------------------------------------")
+    print(f"Number of words with Minnan: {i}")
+    print(f"Total number of words in local folder: {j}")

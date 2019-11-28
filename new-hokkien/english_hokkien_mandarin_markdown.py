@@ -8,7 +8,7 @@ from datetime import datetime
 if __name__ == '__main__':
     synonyms = ZhTopolectSynonyms.from_local_folder('../data/enwiktionary/module-zh-data-json/dial-syn')
 
-    mp = MandarinPronunciations.from_local_json_file('../data/enwiktionary/module-zh-data-json/combined-mandarin-pron.json')
+    mp = MandarinPronunciations.from_local_json_folder('../data/enwiktionary/module-zh-data-json/mandarin-pron')
     h = ZhTopolectPronunciations.from_local_json_folder('../data/enwiktionary/module-zh-data-json/nan-pron')
 
     ehm = EnglishHokkienMandarin(synonyms, h, mp)
