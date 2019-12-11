@@ -1,9 +1,7 @@
 ## Python Adaptation of Mike Lawler's FamilyMath Mathematica Code
 
+This probability section began as a series of exercises to convert some of Mike Lawler's Family Math Mathematica-simulations to Python.  
+
 I first came across [Mike Lawler's Math Page](https://mikesmathpage.wordpress.com) after seeing Nassim Nicholas Taleb retweet of Mike's Lawler blog on [Explaining some statistical ideas from Nassim Taleb to kids](https://mikesmathpage.wordpress.com/2019/08/25/explaining-some-statistical-ideas-from-nassim-taleb-to-kids/).
 
-Since then, I have been following Mike's Math Page. He recently started working on probability problems with his kids. They are going through Frederick Mosteller's "Fifty Challenging Problems In Probability".
-
-Mike Lawler often uses Mathematica to illuminate the math topics he and his kids tackle. I figure it would be educational and fun for me to convert some of his Mathematica code to Python.
-
-*2019-09-12*
+Since learning how to do simple Python-simulations from Mike Lawler's math lessons, I started to write simulations on my own whenever I learn something about probability that motivates me to write code. 
