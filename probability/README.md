@@ -1,4 +1,4 @@
-## Python Adaptation of Mike Lawler's FamilyMath Mathematica Code
+## Probability Study
 
 This probability section began as a series of exercises to convert some of Mike Lawler's Family Math Mathematica-simulations to Python.  
 
