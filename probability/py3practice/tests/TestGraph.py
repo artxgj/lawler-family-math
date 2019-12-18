@@ -1,9 +1,9 @@
 import unittest
-from graph import Graph, Vertex
+from graph import Graph
 
 
 class TestGraph(unittest.TestCase):
-    def test__next__(self):
+    def test__iter__(self):
         g = Graph()
         g.add_edge(1, 2)
         vertices = [v.id for v in g]

@@ -9,15 +9,15 @@ https://www.johndcook.com/blog/2017/01/04/cover-time-of-a-graph-cliques-chains-a
 
 class CoverTime:
     @staticmethod
-    def random_walk(v: Vertex, incoming_vertex: Optional[Vertex], visited: set, completed: set, walk_stats: dict):
+    def random_walk(v: Vertex, source_vertex: Optional[Vertex], visited: set, completed: set, walk_stats: dict):
         neighbors = v.neighbors()
 
         while visited != completed:
             chosen = random.randrange(0, v.degree)
             neighbor = neighbors[chosen]
             walk_stats['count'] += 1
-            if neighbor == incoming_vertex:
-                return
+            if neighbor == source_vertex:
+                return walk_stats['count']
             else:
                 visited.add(neighbor)
                 CoverTime.random_walk(neighbor, v, visited, completed, walk_stats)
@@ -40,8 +40,7 @@ class CoverTime:
 def trials(g: Graph, runs: int):
     total_cover = 0
     for _ in range(runs):
-        cover = CoverTime.cover_time(g)
-        total_cover += cover
+        total_cover += CoverTime.cover_time(g)
 
     return total_cover/runs
 
