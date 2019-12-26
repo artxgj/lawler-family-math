@@ -1,3 +1,5 @@
+import random
+
 """
 If you have a fair 6-sided die with sides marked 1, 2, 3, 4, 5, and 6,
 how many rolls on average will it take to roll a 6 if any sequence of rolls
@@ -6,7 +8,12 @@ containing an odd number prior to seeing a 6 doesn’t count.
 So, 2, 4, 4, 6 would count, for example, and 2, 4, 5, 6 would not count.
 """
 
-import random
+"""
+https://gilkalai.wordpress.com/2017/09/07/tyi-30-expected-number-of-dice-throws/
+
+You throw a dice until you get 6. What is the expected number of throws 
+(including the throw giving 6) conditioned on the event that all throws gave even numbers.
+"""
 
 
 class Dice:
@@ -17,31 +24,38 @@ class Dice:
 
     def roll_until_success(self) -> int:
         tosses = 0
-
-        tosses = 0
-        is_even_sequence = True
         sequence = []
+
+        thrown_out_seq = 0
 
         while True:
             tosses += 1
             lands_on = random.randint(1, 6)
-            sequence.append(lands_on)
-            if lands_on == self._success and is_even_sequence:
-                return tosses
-            elif lands_on == self._success:
-                is_even_sequence = True
+
+            if lands_on & 1:
                 sequence.clear()
-            elif lands_on & 1:
-                is_even_sequence = False
+                thrown_out_seq += 1
+                tosses = 0
+                continue
+
+            sequence.append(lands_on)
+            if lands_on == self._success:
+                return tosses
 
 
 def trials(dice: Dice, t: int) -> float:
     tosses = 0
-
+    success = {}
     for _ in range(t):
-        tosses += dice.roll_until_success()
+        rolls = dice.roll_until_success()
+        if rolls in success:
+            success[rolls] += 1
+        else:
+            success[rolls] = 1
 
-    return tosses/t
+        tosses += rolls
+
+    return tosses / t, success
 
 
 if __name__ == '__main__':
@@ -49,5 +63,5 @@ if __name__ == '__main__':
     dice = Dice(success)
 
     for n in [10, 100, 1000, 10000, 100000, 1000000]:
-        rolls_avg = trials(dice, n)
-        print(f"Trials: {n}, number of rolls until a {success}: {rolls_avg}")
+        rolls_avg, rolls_distribution = trials(dice, n)
+        print(f"Trials: {n}, number of rolls until a {success}: {rolls_avg}, {rolls_distribution}")
