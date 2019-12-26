@@ -1,2 +1,6 @@
 # Ignore Pycharm configuration
 .idea/
+venv/
+data/tmp
+*/__pycache__
+*/*/__pycache__
