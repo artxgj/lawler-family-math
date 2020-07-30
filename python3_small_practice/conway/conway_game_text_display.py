@@ -9,14 +9,14 @@ def exec_conway_game(grid_config: GridConfig, frequency: int = 6):
     cgd = ConwayGrid(grid_config.live, grid_config.dead)
     conway = ConwayGameOfLife(grid_config.state)
     grid_state = grid_config.state
-    print("= = = = = = = = = = = = = = = = = =")
-    print(f"Pattern: {grid_config.name}")
-    print("= = = = = = = = = = = = = = = = = =")
+    print("\t= = = = = = = = = = = = = = = = = =")
+    print(f"\tPattern: {grid_config.name}")
+    print("\t= = = = = = = = = = = = = = = = = =")
 
     for _ in range(frequency):
         for row in cgd.map(grid_state):
-            print(''.join(row))
-        print()
+            print(f"\t{''.join(row)}")
+        print("\t")
         grid_state = conway.next_state()
 
 
