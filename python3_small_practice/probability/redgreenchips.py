@@ -1,6 +1,16 @@
 from collections import Counter
 from python3_small_practice.probability.stuffbag import StuffBagWithoutReplacement
 
+"""
+2016 AMC 8 Problems/Problem 21
+
+A box contains 3 red chips and 2 green chips. Chips are drawn randomly, one at a time without
+replacement, until all 3 of the reds are drawn or until both green chips are drawn.
+What is the probability that the 3 reds are drawn?
+ 
+(A) 3/10  (B) 2/5  (C) 1/2  (D) 3/5  (E) 7/10
+
+"""
 
 class RedGreen:
     def __init__(self, red=3, green=2):
