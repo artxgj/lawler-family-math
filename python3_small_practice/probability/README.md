@@ -1,6 +1,6 @@
 ### Red and Green Chips problem
 
-  Idea to simulate this problem came from Mike Lawler's tweet: https://twitter.com/mikeandallie/status/1296438813431148544
+  Idea to simulate this problem came from this Mike Lawler [tweet](https://twitter.com/mikeandallie/status/1296438813431148544).
 
 #### Problem description:
   
