@@ -15,12 +15,15 @@ class Urn:
 
         self._size = len(self._urn)
 
+    def is_empty(self):
+        return self._size == 0
+
     def peek(self) -> Any:
         """
         Shows a random element in the urn (Draw with replacement)
         :return: a randomly selected element
         """
-        if self._size == 0:
+        if self.is_empty():
             raise UrnException('Empty urn')
 
         rnd_elem = random.randint(0, self._size-1)
@@ -31,7 +34,7 @@ class Urn:
         Removes a randomly selected element from the urn (Draw without replacement)
         :return: A randomly selected element
         """
-        if self._size == 0:
+        if self.is_empty():
             raise UrnException('Empty urn')
         last_elem = self._size - 1
         rnd_elem = random.randint(0, last_elem)
@@ -48,3 +51,4 @@ class Urn:
     @property
     def size(self):
         return self._size
+
