@@ -1,5 +1,5 @@
 from collections import Counter
-from python3_small_practice.probability.stuffbag import StuffBagWithoutReplacement
+from python3_small_practice.probability.probability import Urn
 
 """
 2016 AMC 8 Problems/Problem 21
@@ -12,9 +12,10 @@ What is the probability that the 3 reds are drawn?
 
 """
 
+
 class RedGreen:
     def __init__(self, red=3, green=2):
-        self._bag = StuffBagWithoutReplacement(Counter(red=red, green=green))
+        self._box = Urn(Counter(red=red, green=green))
         self._red = red
         self._green = green
 
@@ -22,7 +23,7 @@ class RedGreen:
         drawn = Counter(red=0, green=0)
 
         while drawn['red'] < self._red and drawn['green'] < self._green:
-            chip = self._bag.draw()
+            chip = self._box.pop()
             drawn[chip] += 1
 
         return drawn
