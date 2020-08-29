@@ -15,11 +15,39 @@ def make_list_of_lists(a_list: List[int], subl_size=5) -> List[List[int]]:
     return output
 
 
-def find_median_of_medians(medians_list: List[int]):
-    return select(medians_list, len(medians_list) // 2 - 1)
-
-
 def select(numbers: List[int], i: int) -> int:
+    """
+    :param numbers: List of unique integers
+    :param i: the ith smallest element
+    :return: the integer
+
+    From: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/MIT6_046JS15_lec02.pdf
+
+    Select(S, i)
+
+    Pick x ∈ S   # pick x cleverly
+    Compute k = rank(x)
+    B = { y ∈ S | y<x }
+    C = { y ∈ S | y>x }
+
+    if k=i
+        return x
+    elseif k > i
+        return Select(B, i)
+    elseif k < i
+        return Select(C, i − k)
+
+
+    Picking x Cleverly
+    Need to pick x so rank(x) is not extreme.
+        • Arrange S into columns of size 5 (I n5 l cols)
+        • Sort each column (bigger elements on top) (linear time)
+        • Find “median of medians” as x
+
+    """
+    if i < 0 or i > len(numbers):
+        raise ValueError(f"i = {i} is not valid.")
+
     lol = make_list_of_lists(numbers)
     medians_list = [lis[len(lis) // 2] for lis in lol]
 
