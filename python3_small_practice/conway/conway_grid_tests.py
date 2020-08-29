@@ -1,5 +1,5 @@
 import unittest
-from conway import ConwayGameOfLife, ConwayGrid
+from python3_small_practice.conway.conway import ConwayGameOfLife, ConwayGrid
 
 
 class TestConwayGrid(unittest.TestCase):
