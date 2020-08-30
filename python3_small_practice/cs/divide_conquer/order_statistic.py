@@ -10,8 +10,8 @@ def medians_of_sublists(a_list: List[int], size=5) -> List[int]:
 
     for i in range(num_sublists):
         end = index + size if index + size < len(a_list) else len(a_list)
-        a_list[index:end] = sorted(a_list[index:end], key=lambda n: -n)
-        medians.append(a_list[index + (end-index)//2])
+        sublist = sorted(a_list[index:end], key=lambda n: -n)
+        medians.append(sublist[len(sublist) // 2])
         index = end
 
     return medians
@@ -62,7 +62,7 @@ def select(numbers: List[int], i: int) -> int:
         • Arrange S into columns of size 5 (I n5 l cols)
         • Sort each column (bigger elements on top) (linear time)
         • Find “median of medians” as x
-"""
+    """
 
     if i < 0 or i > len(numbers):
         raise ValueError(f"i = {i} is not valid.")
