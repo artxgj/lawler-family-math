@@ -1,18 +1,12 @@
 from typing import List
-import math
-import random
 
 
-def medians_of_sublists(a_list: List[int], size=5) -> List[int]:
-    num_sublists = math.ceil(len(a_list) / size)
+def medians_of_sublists(a_list: List[int], sublist_size) -> List[int]:
     medians = []
-    index = 0
 
-    for i in range(num_sublists):
-        end = index + size if index + size < len(a_list) else len(a_list)
-        sublist = sorted(a_list[index:end], key=lambda n: -n)
+    for i in range(0, len(a_list), sublist_size):
+        sublist = sorted(a_list[i:i+sublist_size], key=lambda n: -n)
         medians.append(sublist[len(sublist) // 2])
-        index = end
 
     return medians
 
@@ -59,7 +53,7 @@ def select(numbers: List[int], i: int) -> int:
 
     Picking x Cleverly
     Need to pick x so rank(x) is not extreme.
-        • Arrange S into columns of size 5 (I n5 l cols)
+        • Arrange S into columns of sublist_size 5 (I n5 l cols)
         • Sort each column (bigger elements on top) (linear time)
         • Find “median of medians” as x
     """
@@ -67,16 +61,22 @@ def select(numbers: List[int], i: int) -> int:
     if i < 0 or i > len(numbers):
         raise ValueError(f"i = {i} is not valid.")
 
-    medians = medians_of_sublists(numbers)
-    x = medians[random.randint(0, len(medians) - 1)]
-    rank_x = partition(numbers,  x)
+    sublist_size = 5
+    medians = medians_of_sublists(numbers, sublist_size)
 
-    if rank_x == i:
-        return x
-    elif rank_x > i:
-        return select(numbers[:rank_x], i)
+    if len(medians) <= sublist_size:
+        pivot = sorted(medians)[len(medians)//2]
     else:
-        return select(numbers[rank_x+1:], i - rank_x - 1)   # -1 is to account for python's zero-based list index
+        pivot = select(medians)
+
+    rank = partition(numbers,  pivot)
+
+    if rank == i:
+        return pivot
+    elif rank > i:
+        return select(numbers[:rank], i)
+    else:
+        return select(numbers[rank+1:], i-rank-1)   # -1 is to account for python's zero-based list index
 
 
 def median(numbers: List[int]) -> float:

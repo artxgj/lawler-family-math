@@ -34,7 +34,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_medians_of_sublists(self):
         numbers = [29, 2, 23, 5, 67, 53, 13, 11, 97, 3, 61, 31, 37, 79, 47, 1, 19, 17, 7, 73, 43, 59]
-        medians = ord_stat.medians_of_sublists(numbers)
+        medians = ord_stat.medians_of_sublists(numbers, 5)
         self.assertEqual([23, 13, 47, 17, 43], medians)
 
     def test_partition(self):
